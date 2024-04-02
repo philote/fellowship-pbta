@@ -1,4 +1,4 @@
-# pbta-template
+# PbtA Template
 A code template for creating modules for Foundry VTT that uses the PbtA System package
 
 > [!NOTE]
@@ -23,9 +23,9 @@ This module is for [Foundry VTT](https://foundryvtt.com/) and requires the [PbtA
 
 ![](https://img.shields.io/badge/Foundry-v11-informational)
 <!--- Downloads @ Latest Badge -->
-![Latest Release Download Count](https://img.shields.io/github/downloads/philote/pbta-template/latest/module.zip)
+![Latest Release Download Count](https://img.shields.io/github/downloads/philote/fellowship-pbta/latest/module.zip)
 <!--- Forge Bazaar Install % Badge -->
-![Forge Installs](https://img.shields.io/badge/dynamic/json?label=Forge%20Installs&query=package.installs&suffix=%25&url=https%3A%2F%2Fforge-vtt.com%2Fapi%2Fbazaar%2Fpackage%pbta-template&colorB=4aa94a)
+![Forge Installs](https://img.shields.io/badge/dynamic/json?label=Forge%20Installs&query=package.installs&suffix=%25&url=https%3A%2F%2Fforge-vtt.com%2Fapi%2Fbazaar%2Fpackage%fellowship-pbta&colorB=4aa94a)
 
 [Description of the game with links to the publisher goes here.]
 

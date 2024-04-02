@@ -3,7 +3,7 @@ export const configSheet = async () => {
     game.pbta.sheetConfig = {
         rollFormula: "2d6",
         statToggle: {
-            label: game.i18n.localize("PBTA-TEMPLATE.CharacterSheets.statToggle"),
+            label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.statToggle"),
             modifier: 0
         },
         minMod: -3,
@@ -12,32 +12,32 @@ export const configSheet = async () => {
             failure: {
                 start: null,
                 end: 6,
-                label: game.i18n.localize("PBTA-TEMPLATE.CharacterSheets.rollResults.complications")
+                label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.rollResults.complications")
             },
             partial: {
                 start: 7,
                 end: 9,
-                label: game.i18n.localize("PBTA-TEMPLATE.CharacterSheets.rollResults.partialSuccess")
+                label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.rollResults.partialSuccess")
             },
             success: {
                 start: 10,
                 end: null,
-                label: game.i18n.localize("PBTA-TEMPLATE.CharacterSheets.rollResults.success")
+                label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.rollResults.success")
             }
         },
         actorTypes: {
             character: {
                 stats: {
                     one: {
-                        label: game.i18n.localize("PBTA-TEMPLATE.CharacterSheets.stats.one"),
+                        label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.stats.one"),
                         value: 0
                     },
                     two: {
-                        label: game.i18n.localize("PBTA-TEMPLATE.CharacterSheets.stats.two"),
+                        label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.stats.two"),
                         value: 0
                     },
                     three: {
-                        label: game.i18n.localize("PBTA-TEMPLATE.CharacterSheets.stats.three"),
+                        label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.stats.three"),
                         value: 0
                     }
                 },
@@ -49,18 +49,18 @@ export const configSheet = async () => {
                 },
                 details: {
                     biography: {
-                        label: game.i18n.localize("PBTA-TEMPLATE.CharacterSheets.details.biographyLabel"),
+                        label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.details.biographyLabel"),
                         value: ""
                     }
                 },
                 moveTypes: {
                     basic: {
-                        label: game.i18n.localize("PBTA-TEMPLATE.CharacterSheets.moveTypes.basicLabel"),
+                        label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.moveTypes.basicLabel"),
                         moves: [],
                         creation: true
                     },
                     playbook: {
-                        label: game.i18n.localize("PBTA-TEMPLATE.CharacterSheets.moveTypes.playbookLabel"),
+                        label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.moveTypes.playbookLabel"),
                         moves: [],
                         playbook: true
                     }
@@ -72,13 +72,13 @@ export const configSheet = async () => {
                 },
                 details: {
                     biography: {
-                        label: game.i18n.localize("PBTA-TEMPLATE.NPCSheets.details.biographyLabel"),
+                        label: game.i18n.localize("FELLOWSHIP-PBTA.NPCSheets.details.biographyLabel"),
                         value: ""
                     }
                 },
                 moveTypes: {
                     villain: {
-                        label: game.i18n.localize("PBTA-TEMPLATE.NPCSheets.moveTypes.basicLabel"),
+                        label: game.i18n.localize("FELLOWSHIP-PBTA.NPCSheets.moveTypes.basicLabel"),
                         moves: []
                     }
                 }
