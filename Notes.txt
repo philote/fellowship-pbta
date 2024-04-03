@@ -1,0 +1,4 @@
+TODO:
+- Companions: like influence in Masks, use flags and a new tab
+- create special characters for the harbringer, dwarf and overlord
+- create NPC sheets\

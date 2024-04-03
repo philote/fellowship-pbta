@@ -28,28 +28,65 @@ export const configSheet = async () => {
         actorTypes: {
             character: {
                 stats: {
-                    one: {
-                        label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.stats.one"),
+                    blood: {
+                        label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.stats.blood"),
                         value: 0
                     },
-                    two: {
-                        label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.stats.two"),
+                    courage: {
+                        label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.stats.courage"),
                         value: 0
                     },
-                    three: {
-                        label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.stats.three"),
+                    grace: {
+                        label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.stats.grace"),
+                        value: 0
+                    },
+                    sense: {
+                        label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.stats.sense"),
+                        value: 0
+                    },
+                    wisdom: {
+                        label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.stats.wisdom"),
                         value: 0
                     }
                 },
-                attrTop: {
-                    
-                },
+                attrTop: {},
                 attrLeft: {
-                    
+                    level: {
+                        label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.attr.levelLabel"),
+                        description: null,
+                        customLabel: false,
+                        userLabel: false,
+                        type: "Number",
+                        value: 0
+                    },
+                    looks: {
+                        label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.attr.looksLabel"),
+                        description: null,
+                        customLabel: false,
+                        userLabel: false,
+                        type: "LongText",
+                        value: ""
+                    }
                 },
                 details: {
+                    agendas: {
+                        label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.details.agendasLabel"),
+                        value: ""
+                    },
+                    yourPeople: {
+                        label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.details.yourPeopleLabel"),
+                        value: ""
+                    },
                     biography: {
                         label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.details.biographyLabel"),
+                        value: ""
+                    },
+                    bonds: {
+                        label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.details.bondsLabel"),
+                        value: ""
+                    },
+                    advancement: {
+                        label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.details.advancementLabel"),
                         value: ""
                     }
                 },
@@ -59,12 +96,43 @@ export const configSheet = async () => {
                         moves: [],
                         creation: true
                     },
-                    playbook: {
-                        label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.moveTypes.playbookLabel"),
+                    core: {
+                        label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.moveTypes.coreLabel"),
                         moves: [],
                         playbook: true
+                    },
+                    custom: {
+                        label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.moveTypes.customLabel"),
+                        moves: [],
+                        playbook: true
+                    },
+                    shared: {
+                        label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.moveTypes.sharedLabel"),
+                        moves: [],
+                        playbook: true
+                    },
+                    destiny: {
+                        label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.moveTypes.destinyLabel"),
+                        moves: [],
+                        playbook: true
+                    },
+                    special: {
+                        label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.moveTypes.specialLabel"),
+                        moves: []
+                    },
+                    fellowship: {
+                        label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.moveTypes.fellowshipLabel"),
+                        moves: []
                     }
-                }
+                },
+                equipmentTypes: {
+                    gear: {
+                       label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.equipmentTypes.gear")
+                    },
+                    companions: {
+                        label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.equipmentTypes.companions")
+                     }
+                 }
             },
             npc: {
                 attrLeft: {
@@ -77,7 +145,7 @@ export const configSheet = async () => {
                     }
                 },
                 moveTypes: {
-                    villain: {
+                    basic: {
                         label: game.i18n.localize("FELLOWSHIP-PBTA.NPCSheets.moveTypes.basicLabel"),
                         moves: []
                     }

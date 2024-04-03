@@ -1,22 +1,42 @@
 {
-    "FELLOWSHIP-PBTA" {
+    "FELLOWSHIP-PBTA": {
         "CharacterSheets": {
             "rollResults": {
-                "complications": "tbd",
-                "partialSuccess": "tbd",
-                "success": "tbd"
+                "complications": "Complications...",
+                "partialSuccess": "Partial success.",
+                "success": "Success!"
             },
             "stats": {
-                "one": "tbd",
-                "two": "tbd",
-                "three": "tbd"
+                "blood": "Blood",
+                "courage": "Courage",
+                "grace": "Grace",
+                "sense": "Sense",
+                "wisdom": "Wisdom"
             },
+            "statToggle": "Damaged",
             "details": {
-                "biographyLabel": "tbd"
+                "biographyLabel": "Notes",
+                "bondsLabel": "Bonds",
+                "agendasLabel": "Agendas",
+                "yourPeopleLabel": "Your People",
+                "advancementLabel": "Advancement"
+            },
+            "attr": {
+                "looksLabel": "Looks",
+                "levelLabel": "Level"
             },
             "moveTypes": {
-                "basicLabel": "tbd",
-                "playbookLabel": "tbd"
+                "basicLabel": "Basic Moves",
+                "coreLabel": "Core Moves",
+                "customLabel": "Custom Moves",
+                "specialLabel": "Special Moves",
+                "fellowshipLabel": "Fellowship Moves",
+                "destinyLabel": "Destiny Moves",
+                "sharedLabel": "Shared Moves"
+            },
+            "equipmentTypes": {
+                "gear": "Gear",
+                "companions": "Companions"
             }
         },
         "NPCSheets": {
