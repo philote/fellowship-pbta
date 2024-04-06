@@ -1,4 +1,6 @@
 {
+    
+    "TYPES.Actor.fellowship-pbta.dwarf": "DWARF",
     "FELLOWSHIP-PBTA": {
         "CharacterSheets": {
             "rollResults": {
@@ -11,7 +13,9 @@
                 "courage": "Courage",
                 "grace": "Grace",
                 "sense": "Sense",
-                "wisdom": "Wisdom"
+                "wisdom": "Wisdom",
+                "iron": "Iron",
+                "doom": "Doom"
             },
             "statToggle": "Damaged",
             "details": {
