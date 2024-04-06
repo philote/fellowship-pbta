@@ -1,0 +1,51 @@
+{
+  "name": "Damage",
+  "type": "move",
+  "_id": "8FHS9e6OQtp6gBG7",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<div class=\"page\" title=\"Page 4\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p><strong>When you take damage</strong>, choose a stat and mark it. Sometimes you will not get a choice, and a stat will be damaged for you. <strong>While a stat is damaged</strong>, you are in Despair whenever you roll that stat. <strong>When an enemy's stat or a Companion's stat is damaged</strong>, they cannot use it.</p>\n<p>You cannot mark a stat that has already been marked. <strong>When you heal</strong>, remove a mark from one of your stats. <strong>When you take damage while all of your stats are already marked</strong>, you get Taken Out.</p>\n</div>\n</div>\n</div>",
+    "moveType": "basic",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "",
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "c4gQwToaTU5sPxYD": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.4",
+    "coreVersion": "11.315",
+    "createdTime": 1712288274987,
+    "modifiedTime": 1712288354015,
+    "lastModifiedBy": "c4gQwToaTU5sPxYD"
+  },
+  "_key": "!items!8FHS9e6OQtp6gBG7"
+}

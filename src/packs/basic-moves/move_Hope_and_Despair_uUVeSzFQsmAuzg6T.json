@@ -1,0 +1,51 @@
+{
+  "name": "Hope and Despair",
+  "type": "move",
+  "_id": "uUVeSzFQsmAuzg6T",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<div class=\"page\" title=\"Page 4\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p><strong>When you have Hope and make a move</strong>, roll three dice and keep the best two.</p>\n<p><strong>When you are in Despair and make a move</strong>, roll three dice and keep the worst two.</p>\n<p><strong>When you have both</strong>, they cancel out.</p>\n<p><strong>When someone outside the fellowship is in Despair</strong>, they cannot do anything meaningful. <strong>When you roll with a stat that has been Damaged</strong>, you roll with Despair.</p>\n</div>\n</div>\n</div>",
+    "moveType": "basic",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "",
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "c4gQwToaTU5sPxYD": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.4",
+    "coreVersion": "11.315",
+    "createdTime": 1712287973456,
+    "modifiedTime": 1712288253189,
+    "lastModifiedBy": "c4gQwToaTU5sPxYD"
+  },
+  "_key": "!items!uUVeSzFQsmAuzg6T"
+}

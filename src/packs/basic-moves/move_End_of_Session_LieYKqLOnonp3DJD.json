@@ -1,0 +1,51 @@
+{
+  "name": "End of Session",
+  "type": "move",
+  "_id": "LieYKqLOnonp3DJD",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<div class=\"page\" title=\"Page 4\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p><strong>When you reach the end of a session</strong>, the fellowship answers these three questions:</p>\n<ul>\n<li>Did we save or protect a community in need?</li>\n<li>Did we strike a blow against the Overlord and their minions?</li>\n<li>Did we learn more about the world and its peoples?</li>\n</ul>\n<div class=\"page\" title=\"Page 4\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p><strong>For each \"yes\" answer</strong>, the group chooses one. You may choose an option more than once.</p>\n<ul>\n<li>Each fellowship player refreshes one piece of their Gear to its full value.</li>\n<li>Each fellowship player chooses one stat to heal. It doesn't have to be theirs.</li>\n<li>The fellowship and the Overlord each choose one player to Level Up. You cannot be chosen to Level Up if you are the highest level player or you have already been chosen to level up this session.</li>\n</ul>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+    "moveType": "basic",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "",
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "c4gQwToaTU5sPxYD": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.4",
+    "coreVersion": "11.315",
+    "createdTime": 1712288434922,
+    "modifiedTime": 1712288562073,
+    "lastModifiedBy": "c4gQwToaTU5sPxYD"
+  },
+  "_key": "!items!LieYKqLOnonp3DJD"
+}

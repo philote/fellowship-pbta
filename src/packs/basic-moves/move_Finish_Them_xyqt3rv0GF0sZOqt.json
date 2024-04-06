@@ -1,0 +1,51 @@
+{
+  "name": "Finish Them",
+  "type": "move",
+  "_id": "xyqt3rv0GF0sZOqt",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><span style=\"font-family:var(--font-primary);font-size:var(--font-size-14)\"><strong>When you attempt to defeat an enemy you hold an advantage over</strong>, tell us what you want to do to them and roll the appropriate stat.</span></p>\n<div class=\"page\" title=\"Page 3\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p><strong>If you do not have an advantage over them</strong>, you cannot attempt to <em>Finish Them</em>. An Advantage is something you need to get the upper hand, such as teamwork, the element of surprise, or a moment's hesitation.</p>\n<p><strong>If you <em>Finish Them</em> by...</strong><br /><strong>...trying to kill them</strong>, roll +Blood. </p>\n<p><strong>...forcing them to retreat</strong>, roll +Courage. </p>\n<p><strong>...outsmarting, terrifying, or overwhelming them</strong>, roll +Grace. </p>\n<p><strong>...disabling them or knocking them out</strong>, roll +Sense. </p>\n<p><strong>...showing them the error of their ways</strong>, roll +Wisdom. </p>\n<p>---- </p>\n<p><strong>If you <em>Finish Them</em> using a weapon with Ammo</strong>, use 1 Ammo. If you have no Ammo, you cannot <em>Finish Them</em> with that weapon.</p>\n<p><strong>If you have the Clumsy tag,</strong> you take -1 to Finish Them.</p>\n</div>\n</div>\n</div>",
+    "moveType": "basic",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": "<p>You lose the advantage, and must face retaliation.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": "<div class=\"page\" title=\"Page 3\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>You deal damage to them and lose your advantage over them. <strong>If an ally was <em>Keeping Them Busy</em>,</strong> they aren't anymore.</p>\n</div>\n</div>\n</div>"
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": "<p><strong>If you <em>Finish Them</em> by...</strong><br><strong>...trying to kill them</strong>, they die by&nbsp;your hand.</p>\n<p><strong>...forcing them to retreat</strong>, they back off. They won't be back anytime soon.</p>\n<p><strong>...outsmarting, terrifying, or overwhelming them</strong>, they admit defeat, and will not willingly challenge you again.</p>\n<p><strong>...disabling them or knocking them out</strong>, they are physically incapacitated and unable to continue.</p>\n<p><strong>...showing them the error of their ways</strong>, you&nbsp;<em>Forge a Bond</em> with them, and they cannot bring themselves to hurt you.</p>"
+      }
+    },
+    "uses": 0,
+    "playbook": "",
+    "rollType": "ask",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "c4gQwToaTU5sPxYD": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.4",
+    "coreVersion": "11.315",
+    "createdTime": 1712195427104,
+    "modifiedTime": 1712286272280,
+    "lastModifiedBy": "c4gQwToaTU5sPxYD"
+  },
+  "_key": "!items!xyqt3rv0GF0sZOqt"
+}
