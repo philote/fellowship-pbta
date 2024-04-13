@@ -1,7 +1,10 @@
 {
-    
-    "TYPES.Actor.fellowship-pbta.dwarf": "DWARF",
     "FELLOWSHIP-PBTA": {
+        "TYPES.Actor": {
+            "dwarf": "Dwarf",
+            "harbinger": "Harbinger",
+            "overlord": "Overlord"
+        },
         "CharacterSheets": {
             "rollResults": {
                 "complications": "Complications...",

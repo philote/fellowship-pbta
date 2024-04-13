@@ -46,6 +46,7 @@ $tab-background-active-color: #480200;
     button:disabled, 
     select:disabled, 
     textarea:disabled {
+        background: $input-background-color;
         color: $disabled-text-color;
     }
 

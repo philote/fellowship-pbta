@@ -135,6 +135,8 @@ export const configSheet = async () => {
                  }
             },
             dwarf: {
+                label: game.i18n.localize("FELLOWSHIP-PBTA.TYPES.Actor.dwarf"),
+                baseType: "character",
                 stats: {
                     blood: {
                         label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.stats.blood"),
@@ -244,10 +246,11 @@ export const configSheet = async () => {
                     companions: {
                         label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.equipmentTypes.companions")
                      }
-                },
-                baseType: "character"
+                }
             },
             harbinger: {
+                label: game.i18n.localize("FELLOWSHIP-PBTA.TYPES.Actor.harbinger"),
+                baseType: "character",
                 stats: {
                     blood: {
                         label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.stats.blood"),
@@ -357,12 +360,46 @@ export const configSheet = async () => {
                     companions: {
                         label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.equipmentTypes.companions")
                      }
-                },
-                baseType: "character"
+                }
             },
             npc: {
                 attrLeft: {
                     
+                },
+                details: {
+                    biography: {
+                        label: game.i18n.localize("FELLOWSHIP-PBTA.NPCSheets.details.biographyLabel"),
+                        value: ""
+                    }
+                },
+                moveTypes: {
+                    basic: {
+                        label: game.i18n.localize("FELLOWSHIP-PBTA.NPCSheets.moveTypes.basicLabel"),
+                        moves: []
+                    }
+                }
+            },
+            overlord: {
+                label: game.i18n.localize("FELLOWSHIP-PBTA.TYPES.Actor.overlord"),
+                baseType: "npc",
+                attrTop: {},
+                attrLeft: {
+                    level: {
+                        label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.attr.levelLabel"),
+                        description: null,
+                        customLabel: false,
+                        userLabel: false,
+                        type: "Number",
+                        value: 0
+                    },
+                    looks: {
+                        label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.attr.looksLabel"),
+                        description: null,
+                        customLabel: false,
+                        userLabel: false,
+                        type: "LongText",
+                        value: ""
+                    }
                 },
                 details: {
                     biography: {
