@@ -49,3 +49,7 @@ Minions Tab
 - armies' type
 - list of Generals (link to an NPC)
 - ??? Common Enemies (seem to have choices?)
+
+
+find . -name .DS_Store -print0
+find . -name '.DS_Store' -type f -delete

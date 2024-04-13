@@ -1,10 +1,9 @@
 {
-  "name": "Fill Your Belly",
+  "name": "Recover",
   "type": "move",
-  "_id": "mlClfQiXQeluYdx7",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<div class=\"page\" title=\"Page 4\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p><strong>When you are between scenes</strong>, you may Use Food to heal one damage. <strong>When you share a meal with friends</strong>, one person may heal an extra point of damage.</p>\n</div>\n</div>\n</div>",
+    "description": "<div class=\"page\" title=\"Page 4\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p><strong>When the fellowship rests in a place of safety for over a week</strong>, heal all of your stats and restock all of your Gear. The Overlord then advances their plans and heals one damage.</p>\n</div>\n</div>\n</div>",
     "moveType": "basic",
     "rollFormula": "",
     "moveResults": {
@@ -33,19 +32,22 @@
   },
   "effects": [],
   "folder": null,
-  "sort": 0,
-  "ownership": {
-    "default": 0,
-    "c4gQwToaTU5sPxYD": 3
+  "flags": {
+    "core": {}
   },
-  "flags": {},
   "_stats": {
     "systemId": "pbta",
     "systemVersion": "0.9.4",
     "coreVersion": "11.315",
-    "createdTime": 1712287923854,
-    "modifiedTime": 1712287955579,
-    "lastModifiedBy": "c4gQwToaTU5sPxYD"
+    "createdTime": 1712288364830,
+    "modifiedTime": 1712816273702,
+    "lastModifiedBy": "ZNFwJXLh8ZaZBK1b"
   },
-  "_key": "!items!mlClfQiXQeluYdx7"
+  "_id": "F7xvgmNVwAhxU9q9",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ZNFwJXLh8ZaZBK1b": 3
+  },
+  "_key": "!items!F7xvgmNVwAhxU9q9"
 }

@@ -1,0 +1,53 @@
+{
+  "folder": null,
+  "name": "Heart of Fire",
+  "type": "move",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<div class=\"page\" title=\"Page 4\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p><strong>When you hold a Bond with the Overlord</strong>, they do not become your Companion, but you still hold sway over them. You may erase that Bond with them at any time to buy yourself reprieve. <strong>Choose one</strong>: They will show you mercy, tell you something valuable, or ignore you for the time being.</p>\n</div>\n</div>\n</div>",
+    "moveType": "",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "",
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": ""
+  },
+  "effects": [],
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.4",
+    "coreVersion": "11.315",
+    "createdTime": 1712817369682,
+    "modifiedTime": 1712984201999,
+    "lastModifiedBy": "ZNFwJXLh8ZaZBK1b"
+  },
+  "_id": "5Uqb72A5WYtCaybI",
+  "sort": 400000,
+  "ownership": {
+    "default": 0,
+    "ZNFwJXLh8ZaZBK1b": 3
+  },
+  "_key": "!items!5Uqb72A5WYtCaybI"
+}

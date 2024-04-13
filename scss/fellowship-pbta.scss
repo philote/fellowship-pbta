@@ -19,6 +19,10 @@ $tab-background-active-color: #480200;
 
 .pbta.sheet {
 
+    .window-header {
+        background-color: $stat-background-hover-color;
+    }
+
     section.window-content {
         background-color: $background-color;
         background-image: url("/modules/fellowship-pbta/assets/background-image.webp"), url("/modules/fellowship-pbta/assets/background-pattern.webp");

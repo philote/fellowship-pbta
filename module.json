@@ -54,6 +54,51 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "bond-moves",
+      "label": "Bond Moves",
+      "path": "packs/bond-moves",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "other-moves",
+      "label": "Other Moves",
+      "path": "packs/other-moves",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "special-moves",
+      "label": "Special Moves",
+      "path": "packs/special-moves",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Moves",
+      "packs": [
+        "basic-moves",
+        "bond-moves",
+        "other-moves",
+        "special-moves"
+      ],
+      "folders": []
     }
   ],
   "url": "#{URL}#",
