@@ -1,0 +1,51 @@
+{
+  "folder": "RLFVF44OeSsj7AF3",
+  "name": "Wild shape",
+  "type": "move",
+  "_id": "fl6ohTUtWpM6I7Tg",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<div class=\"page\" title=\"Page 1\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>You can take on the form of any Beast you have ever held a Bond with. <strong>When you assume the form of a beast</strong>, replace your stats with the ones that Beast has. Assign one of them +2, and the remaining stats as +1.</p>\n<p><strong>When you need to make a roll</strong>, use the Companion stat that fits closest with what you are doing.</p>\n<p><strong>When you take damage</strong>, it knocks you out of your Wild Shape before damaging one of your normal stats.</p>\n</div>\n</div>\n</div>",
+    "moveType": "destiny",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "",
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "destiny",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ghfbDt2b5Xd0vUiQ": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.4",
+    "coreVersion": "11.315",
+    "createdTime": 1713253068187,
+    "modifiedTime": 1713253129174,
+    "lastModifiedBy": "ghfbDt2b5Xd0vUiQ"
+  },
+  "_key": "!items!fl6ohTUtWpM6I7Tg"
+}

@@ -4,7 +4,7 @@
   "img": "icons/svg/aura.svg",
   "system": {
     "description": "<div class=\"page\" title=\"Page 4\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p><strong>When all of your stats are damaged and you take further damage</strong>, you are Taken Out, and no longer able to help out for the rest of the scene. Tell us how you got Taken Out. What happened to you? What is going to happen to you next? Can the fellowship save you from your fate? If so, how?</p>\n</div>\n</div>\n</div>",
-    "moveType": "basic",
+    "moveType": "special",
     "rollFormula": "",
     "moveResults": {
       "failure": {
@@ -40,7 +40,7 @@
     "systemVersion": "0.9.4",
     "coreVersion": "11.315",
     "createdTime": 1712288398126,
-    "modifiedTime": 1712816275736,
+    "modifiedTime": 1712988888766,
     "lastModifiedBy": "ZNFwJXLh8ZaZBK1b"
   },
   "_id": "v4wDhisMqTbscmO6",

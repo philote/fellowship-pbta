@@ -1,0 +1,51 @@
+{
+  "folder": "RLFVF44OeSsj7AF3",
+  "name": "Brilliant inventor",
+  "type": "move",
+  "_id": "Weww8YQzkfzbo1F0",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<div class=\"page\" title=\"Page 1\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>You are capable of crafting innovative technological items. It will be expensive, take some time, and have drawbacks, but it can be done. <strong>When you forge such an item</strong>, describe what it looks like, tell us what it does, and then <strong>choose two</strong>:</p>\n<ul>\n<li>It is difficult to use, and has the Slow tag.</li>\n<li>It is a prosthetic, and can only be used by the wearer.</li>\n<li>It requires you to sacrifice something else to make it work. Give up one of your Gear options permanently.</li>\n<li>It requires fuel, so it only has 2 Uses.</li>\n</ul>\n<p><strong>If you can accept the costs</strong>, the invention is a success. Add the new item to someone's Gear, yours or another's.</p>\n</div>\n</div>\n</div>",
+    "moveType": "destiny",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "",
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "destiny",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ghfbDt2b5Xd0vUiQ": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.4",
+    "coreVersion": "11.315",
+    "createdTime": 1713398302136,
+    "modifiedTime": 1713398444622,
+    "lastModifiedBy": "ghfbDt2b5Xd0vUiQ"
+  },
+  "_key": "!items!Weww8YQzkfzbo1F0"
+}

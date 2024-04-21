@@ -4,7 +4,7 @@
   "img": "icons/svg/aura.svg",
   "system": {
     "description": "<div class=\"page\" title=\"Page 4\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p><strong>When you are between scenes</strong>, you may Use Food to heal one damage. <strong>When you share a meal with friends</strong>, one person may heal an extra point of damage.</p>\n</div>\n</div>\n</div>",
-    "moveType": "basic",
+    "moveType": "special",
     "rollFormula": "",
     "moveResults": {
       "failure": {
@@ -40,7 +40,7 @@
     "systemVersion": "0.9.4",
     "coreVersion": "11.315",
     "createdTime": 1712287923854,
-    "modifiedTime": 1712816265078,
+    "modifiedTime": 1712988910459,
     "lastModifiedBy": "ZNFwJXLh8ZaZBK1b"
   },
   "_id": "ujNBf88fZ6IjbfkT",

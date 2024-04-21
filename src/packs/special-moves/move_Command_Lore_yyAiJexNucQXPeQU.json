@@ -4,7 +4,7 @@
   "img": "icons/svg/aura.svg",
   "system": {
     "description": "<div class=\"page\" title=\"Page 4\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p><strong>When someone asks something about your character or your people</strong>, tell them. <strong>When you ask about another character or their people</strong>, they will tell you. <strong>When you ask about the Overlord</strong>, they alone may choose not to answer.</p>\n</div>\n</div>\n</div>",
-    "moveType": "basic",
+    "moveType": "special",
     "rollFormula": "",
     "moveResults": {
       "failure": {
@@ -40,7 +40,7 @@
     "systemVersion": "0.9.4",
     "coreVersion": "11.315",
     "createdTime": 1712287845718,
-    "modifiedTime": 1712816257766,
+    "modifiedTime": 1712988948843,
     "lastModifiedBy": "ZNFwJXLh8ZaZBK1b"
   },
   "_id": "yyAiJexNucQXPeQU",

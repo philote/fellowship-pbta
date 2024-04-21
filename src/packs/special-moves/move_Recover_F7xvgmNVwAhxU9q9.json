@@ -4,7 +4,7 @@
   "img": "icons/svg/aura.svg",
   "system": {
     "description": "<div class=\"page\" title=\"Page 4\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p><strong>When the fellowship rests in a place of safety for over a week</strong>, heal all of your stats and restock all of your Gear. The Overlord then advances their plans and heals one damage.</p>\n</div>\n</div>\n</div>",
-    "moveType": "basic",
+    "moveType": "special",
     "rollFormula": "",
     "moveResults": {
       "failure": {
@@ -40,7 +40,7 @@
     "systemVersion": "0.9.4",
     "coreVersion": "11.315",
     "createdTime": 1712288364830,
-    "modifiedTime": 1712816273702,
+    "modifiedTime": 1712988895769,
     "lastModifiedBy": "ZNFwJXLh8ZaZBK1b"
   },
   "_id": "F7xvgmNVwAhxU9q9",

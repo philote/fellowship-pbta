@@ -1,0 +1,51 @@
+{
+  "folder": "JpoIoQ7zXgp1ZljW",
+  "name": "Iron stomach",
+  "type": "move",
+  "_id": "D162Qbm10AKcYgAs",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<div class=\"page\" title=\"Page 26\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>You can eat things no one else would ever try to. <strong>When you @UUID[Compendium.fellowship-pbta.special-moves.Item.ujNBf88fZ6IjbfkT]{Fill Your Belly}</strong>, you may spend Uses from anything as if they had the Food tag instead of their actual tags.</p>\n</div>\n</div>\n</div>",
+    "moveType": "custom",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "",
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ZNFwJXLh8ZaZBK1b": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.4",
+    "coreVersion": "11.315",
+    "createdTime": 1713076356109,
+    "modifiedTime": 1713076396472,
+    "lastModifiedBy": "ZNFwJXLh8ZaZBK1b"
+  },
+  "_key": "!items!D162Qbm10AKcYgAs"
+}

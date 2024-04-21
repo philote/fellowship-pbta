@@ -1,0 +1,30 @@
+{
+  "name": "The Lord of Beasts",
+  "type": "playbook",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": "<div class=\"playbook\">\n<section>\n<div class=\"playbook-header\">\n<h1>Lord of Beasts</h1>\n<p>Destiny Playbook</p>\n</div>\n<p><em>You more closely relate to the wild animals of the hunt than you do to your own kin. The beasts respect you and know you as one of their own.</em></p>\n</section>\n<section class=\"rules\">\n<div>\n<h2>Requirements</h2>\n<p><strong>To become the Lord of Beasts,</strong> you must have Bonds with at least three different Beasts, and three Bonds with at least one Beast.</p>\n<p>The Lord of Beasts starts with Queen of the Wild.</p>\n<p>@UUID[Compendium.fellowship-pbta.the-lord-of-beasts.Item.vcSug853INEKgQX4]{Queen of the wild}</p>\n<h2>Advancement</h2>\n<p><strong>When you Level Up,</strong> choose one Advancement from either this list or from your Basic Playbook, then mark it. You may only choose each option once.</p>\n<ul>\n<li>Increase one of your stats by +1, to a maximum of +3.</li>\n<li>Take the Harbinger Custom Wildspeaker or an Elf Custom.</li>\n<li>Take a Lord of Beasts Custom.</li>\n<li>Take a Lord of Beasts Custom.</li>\n<li>Take a Lord of Beasts Custom.</li>\n</ul>\n</div>\n<div>\n<h2>Custom Moves</h2>\n<p>@UUID[Compendium.fellowship-pbta.the-lord-of-beasts.Item.PIOHRxi9EOh5CzK5]{Ev training}</p>\n<p>@UUID[Compendium.fellowship-pbta.the-lord-of-beasts.Item.ur80HxYSuKFNJiEp]{Nature incarnate}</p>\n<p>@UUID[Compendium.fellowship-pbta.the-lord-of-beasts.Item.Nh4zIvlxcTzScCbL]{Nature's wrath}</p>\n<p>@UUID[Compendium.fellowship-pbta.the-lord-of-beasts.Item.ubn2p74DWoifZzhF]{Pack leader}</p>\n<p>@UUID[Compendium.fellowship-pbta.the-lord-of-beasts.Item.fl6ohTUtWpM6I7Tg]{Wild shape}</p>\n</div>\n</section>\n</div>",
+    "slug": "the-lord-of-beasts",
+    "actorType": "destiny"
+  },
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.4",
+    "coreVersion": "11.315",
+    "createdTime": 1712986367507,
+    "modifiedTime": 1713680708526,
+    "lastModifiedBy": "ghfbDt2b5Xd0vUiQ"
+  },
+  "_id": "SXnDOggPVkSmOWNT",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ZNFwJXLh8ZaZBK1b": 3
+  },
+  "_key": "!items!SXnDOggPVkSmOWNT"
+}

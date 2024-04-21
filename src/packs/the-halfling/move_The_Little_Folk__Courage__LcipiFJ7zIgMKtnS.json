@@ -1,0 +1,51 @@
+{
+  "folder": "n2PeDH2yiVTR7vet",
+  "name": "The Little Folk (Courage)",
+  "type": "move",
+  "_id": "LcipiFJ7zIgMKtnS",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<div class=\"page\" title=\"Page 14\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p><strong>When you do something clever or sneaky while no one is looking</strong>, roll +Courage.</p>\n<p>On a 7+,</p>\n<p>On a 9-, </p>\n</div>\n</div>\n</div>",
+    "moveType": "core",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": "<p>Everyone knows you did it, as soon as they notice what you did.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": "<p>Everyone knows you did it, as soon as they notice what you did.</p>\n<p>You do it, and no one notices right away.</p>"
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": "<p>You do it, and no one notices right away.</p>"
+      }
+    },
+    "uses": 0,
+    "playbook": "The Halfling",
+    "rollType": "courage",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ZNFwJXLh8ZaZBK1b": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.4",
+    "coreVersion": "11.315",
+    "createdTime": 1713072151893,
+    "modifiedTime": 1713072256203,
+    "lastModifiedBy": "ZNFwJXLh8ZaZBK1b"
+  },
+  "_key": "!items!LcipiFJ7zIgMKtnS"
+}

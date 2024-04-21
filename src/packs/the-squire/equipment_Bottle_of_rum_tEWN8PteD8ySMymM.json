@@ -1,0 +1,34 @@
+{
+  "folder": "mV3Ea48DGE0PAcuH",
+  "name": "Bottle of rum",
+  "type": "equipment",
+  "_id": "tEWN8PteD8ySMymM",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "",
+    "uses": 2,
+    "playbook": "The Squire",
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"Drunk then Vigor\"}]",
+    "itemType": "",
+    "equipmentType": "gear",
+    "actorType": "character"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ZNFwJXLh8ZaZBK1b": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.4",
+    "coreVersion": "11.315",
+    "createdTime": 1713079459170,
+    "modifiedTime": 1713079477992,
+    "lastModifiedBy": "ZNFwJXLh8ZaZBK1b"
+  },
+  "_key": "!items!tEWN8PteD8ySMymM"
+}

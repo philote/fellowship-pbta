@@ -1,0 +1,51 @@
+{
+  "folder": "n2PeDH2yiVTR7vet",
+  "name": "The fires of industry",
+  "type": "move",
+  "_id": "5LSBGVtS8k7K4tit",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<div class=\"page\" title=\"Page 26\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p><strong>As long as you have a minute's time and destroy something in the process</strong>, you can craft an Orc-Made weapon of your own design. Orc-Made weapons are Clumsy in any hands but an Orc's, and they are ugly to all but Orcs. The weapon is Melee.</p>\n<p>Weapons you make are not added to your Gear - they are temporary and must be replaced when they are lost or damaged. You cannot carry more than 4 weapons you've made at a single time, but you can restock weaponry between scenes as you like.</p>\n<p><strong>When you Share this move with another</strong>, they gain an appreciation for the utility or simplicity of Orc-Made weaponry. Orc-Made weapons are not Clumsy in the hands of those with this move.</p>\n</div>\n</div>\n</div>",
+    "moveType": "core",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "The Orc",
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ZNFwJXLh8ZaZBK1b": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.4",
+    "coreVersion": "11.315",
+    "createdTime": 1713075933018,
+    "modifiedTime": 1713076024561,
+    "lastModifiedBy": "ZNFwJXLh8ZaZBK1b"
+  },
+  "_key": "!items!5LSBGVtS8k7K4tit"
+}

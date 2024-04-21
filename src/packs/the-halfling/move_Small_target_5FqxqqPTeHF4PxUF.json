@@ -1,0 +1,51 @@
+{
+  "folder": "JpoIoQ7zXgp1ZljW",
+  "name": "Small target",
+  "type": "move",
+  "_id": "5FqxqqPTeHF4PxUF",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<div class=\"page\" title=\"Page 14\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p><strong>When you @UUID[Compendium.fellowship-pbta.basic-moves.Item.aFNAJFmoqfsOHOB8]{Overcome} an enemy by getting out of their way, on a 7+, </strong>you manage to get completely out of sight - your attacker loses track of you, although you must still pay a price on a 7-9 result.</p>\n<p> </p>\n<p><strong>On a 12+</strong>, everyone loses track of you - tell us where you went, and you're there.</p>\n</div>\n</div>\n</div>",
+    "moveType": "custom",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "The Halfling",
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ZNFwJXLh8ZaZBK1b": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.4",
+    "coreVersion": "11.315",
+    "createdTime": 1713072628933,
+    "modifiedTime": 1713073300578,
+    "lastModifiedBy": "ZNFwJXLh8ZaZBK1b"
+  },
+  "_key": "!items!5FqxqqPTeHF4PxUF"
+}

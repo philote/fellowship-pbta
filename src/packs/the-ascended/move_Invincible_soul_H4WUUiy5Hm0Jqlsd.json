@@ -1,0 +1,51 @@
+{
+  "folder": "RLFVF44OeSsj7AF3",
+  "name": "Invincible soul",
+  "type": "move",
+  "_id": "H4WUUiy5Hm0Jqlsd",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<div class=\"page\" title=\"Page 1\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p><strong>When you would get @UUID[Compendium.fellowship-pbta.special-moves.Item.v4wDhisMqTbscmO6]{Taken Out}</strong>, heal 2 damage instead. This does not stop the Overlord from making you <em>An Offer You Can't Refuse</em>.</p>\n<p><strong>When the Overlord makes you <em>An Offer You Can't Refuse</em></strong>, you will always accept their offer, but your power is great enough that you can negotiate. Add a caveat of your choosing to their terms.</p>\n</div>\n</div>\n</div>",
+    "moveType": "destiny",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "",
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "destiny",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ghfbDt2b5Xd0vUiQ": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.4",
+    "coreVersion": "11.315",
+    "createdTime": 1713156666134,
+    "modifiedTime": 1713156759574,
+    "lastModifiedBy": "ghfbDt2b5Xd0vUiQ"
+  },
+  "_key": "!items!H4WUUiy5Hm0Jqlsd"
+}

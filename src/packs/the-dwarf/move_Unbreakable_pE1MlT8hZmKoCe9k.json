@@ -1,0 +1,51 @@
+{
+  "folder": "6RLXXZiZmSrUTMZJ",
+  "name": "Unbreakable",
+  "type": "move",
+  "_id": "pE1MlT8hZmKoCe9k",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<div class=\"page\" title=\"Page 6\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p><strong>When you @UUID[Compendium.fellowship-pbta.special-moves.Item.ujNBf88fZ6IjbfkT]{Fill Your Belly}</strong>, you also heal your Iron stat.</p>\n</div>\n</div>\n</div>",
+    "moveType": "core",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "The Dwarf",
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "dwarf",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ZNFwJXLh8ZaZBK1b": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.4",
+    "coreVersion": "11.315",
+    "createdTime": 1713049501229,
+    "modifiedTime": 1713060128165,
+    "lastModifiedBy": "ZNFwJXLh8ZaZBK1b"
+  },
+  "_key": "!items!pE1MlT8hZmKoCe9k"
+}

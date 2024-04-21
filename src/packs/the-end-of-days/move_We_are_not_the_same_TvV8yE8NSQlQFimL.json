@@ -1,0 +1,51 @@
+{
+  "folder": "RLFVF44OeSsj7AF3",
+  "name": "We are not the same",
+  "type": "move",
+  "_id": "TvV8yE8NSQlQFimL",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<div class=\"page\" title=\"Page 1\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Your Overlord stat no longer gives the Overlord any power over you. Remove the entire second and third paragraphs from @UUID[Compendium.fellowship-pbta.the-end-of-days.Item.YZCV5AYZTcGD4erq]{Are we not the same, you and I?}</p>\n<p>In addition, once per scene, you do not need to erase a Bond with the Overlord to use <em>Heart of Fire</em> against them.</p>\n</div>\n</div>\n</div>",
+    "moveType": "",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "",
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ghfbDt2b5Xd0vUiQ": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.4",
+    "coreVersion": "11.315",
+    "createdTime": 1713397742960,
+    "modifiedTime": 1713397797312,
+    "lastModifiedBy": "ghfbDt2b5Xd0vUiQ"
+  },
+  "_key": "!items!TvV8yE8NSQlQFimL"
+}

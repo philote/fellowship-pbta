@@ -1,0 +1,51 @@
+{
+  "folder": "RLFVF44OeSsj7AF3",
+  "name": "Unparalleled skill",
+  "type": "move",
+  "_id": "Z7EtW95rYn9Zs6hQ",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<div class=\"page\" title=\"Page 1\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p><strong>When you take damage in Melee combat</strong>, you may immediately deal damage back to them. Ranged attacks cannot hit you - you will always dodge or deflect them, if it is remotely possible for you to do so.</p>\n<p>This Move doesn't work against a <strong>Threat to the World</strong>.</p>\n<p>You can no longer work together with anyone else. @UUID[Compendium.fellowship-pbta.bond-moves.Item.dnUpxOYXGLb3DqnD]{The Bonds that Bind Us} no longer bind you, and you cannot give or receive Hope.</p>\n</div>\n</div>\n</div>",
+    "moveType": "destiny",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "",
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "destiny",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ghfbDt2b5Xd0vUiQ": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.4",
+    "coreVersion": "11.315",
+    "createdTime": 1713156777467,
+    "modifiedTime": 1713156839142,
+    "lastModifiedBy": "ghfbDt2b5Xd0vUiQ"
+  },
+  "_key": "!items!Z7EtW95rYn9Zs6hQ"
+}

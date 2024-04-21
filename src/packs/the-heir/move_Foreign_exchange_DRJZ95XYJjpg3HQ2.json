@@ -1,0 +1,51 @@
+{
+  "folder": "JpoIoQ7zXgp1ZljW",
+  "name": "Foreign exchange",
+  "type": "move",
+  "_id": "DRJZ95XYJjpg3HQ2",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<div class=\"page\" title=\"Page 22\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Take a Custom Move from any basic playbook. You may also take an Agenda from the chosen playbook.</p>\n<p><strong>This Move cannot be shared.</strong></p>\n</div>\n</div>\n</div>",
+    "moveType": "custom",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "The Heir",
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ZNFwJXLh8ZaZBK1b": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.4",
+    "coreVersion": "11.315",
+    "createdTime": 1713074724949,
+    "modifiedTime": 1713075260427,
+    "lastModifiedBy": "ZNFwJXLh8ZaZBK1b"
+  },
+  "_key": "!items!DRJZ95XYJjpg3HQ2"
+}

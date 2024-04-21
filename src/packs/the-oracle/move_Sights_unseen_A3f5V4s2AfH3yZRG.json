@@ -1,0 +1,51 @@
+{
+  "folder": "sYdchn5YWnsXlPgy",
+  "name": "Sights unseen",
+  "type": "move",
+  "_id": "A3f5V4s2AfH3yZRG",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<div class=\"page\" title=\"Page 1\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p><strong>When you have time and safety</strong>, you can Command Lore about the future. Your visions will always come to pass, eventually.</p>\n<p><strong>When you @UUID[Compendium.fellowship-pbta.special-moves.Item.yyAiJexNucQXPeQU]{Command Lore} about the future</strong>, your visions will tell you what happened, but not why or how. They will tell you either where it took place or when it will take place, but not both. In addition, you can only name one single person you saw in your vision, never more.</p>\n<p>For example, if you see a vision of someone's murder, you can name the killer or the victim, but not both.</p>\n<p>You can tell us about the circumstances you saw, but not how they died or why they were killed.</p>\n<p>You can tell us where or when the murder will take place, but not both.</p>\n<p>And now that you've seen it, that murder is guaranteed to come to pass, with all the details you've foretold.</p>\n</div>\n</div>\n</div>",
+    "moveType": "destiny",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "",
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "destiny",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ghfbDt2b5Xd0vUiQ": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.4",
+    "coreVersion": "11.315",
+    "createdTime": 1713252483454,
+    "modifiedTime": 1713252528235,
+    "lastModifiedBy": "ghfbDt2b5Xd0vUiQ"
+  },
+  "_key": "!items!A3f5V4s2AfH3yZRG"
+}

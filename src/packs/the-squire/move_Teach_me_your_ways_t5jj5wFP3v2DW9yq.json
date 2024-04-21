@@ -1,0 +1,51 @@
+{
+  "folder": "JpoIoQ7zXgp1ZljW",
+  "name": "Teach me your ways",
+  "type": "move",
+  "_id": "t5jj5wFP3v2DW9yq",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<div class=\"page\" title=\"Page 30\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>Choose a Move another player knows. That Move must be one they can share. They share that Move with you.</p>\n<p><strong>This move cannot be Shared.</strong></p>\n</div>\n</div>\n</div>",
+    "moveType": "custom",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "The Squire",
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ZNFwJXLh8ZaZBK1b": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.4",
+    "coreVersion": "11.315",
+    "createdTime": 1713078819819,
+    "modifiedTime": 1713078972814,
+    "lastModifiedBy": "ZNFwJXLh8ZaZBK1b"
+  },
+  "_key": "!items!t5jj5wFP3v2DW9yq"
+}

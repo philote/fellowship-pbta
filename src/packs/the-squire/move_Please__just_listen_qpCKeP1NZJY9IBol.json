@@ -1,0 +1,51 @@
+{
+  "folder": "n2PeDH2yiVTR7vet",
+  "name": "Please, just listen",
+  "type": "move",
+  "_id": "qpCKeP1NZJY9IBol",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<div class=\"page\" title=\"Page 30\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p><strong>When you @UUID[Compendium.fellowship-pbta.basic-moves.Item.qvSNr2XJnvAQCHaF]{Talk Sense} to someone</strong>, you may erase a Bond with them instead of owing them a favor.</p>\n<p><strong>When you @UUID[Compendium.fellowship-pbta.basic-moves.Item.gjr4zxZDb4fnI9bo]{Speak Softly} with someone</strong>, you may erase a Bond with them to make them answer a question they refuse to answer.</p>\n</div>\n</div>\n</div>",
+    "moveType": "core",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "The Squire",
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ZNFwJXLh8ZaZBK1b": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.4",
+    "coreVersion": "11.315",
+    "createdTime": 1713078061305,
+    "modifiedTime": 1713078930875,
+    "lastModifiedBy": "ZNFwJXLh8ZaZBK1b"
+  },
+  "_key": "!items!qpCKeP1NZJY9IBol"
+}

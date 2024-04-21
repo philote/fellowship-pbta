@@ -1,0 +1,51 @@
+{
+  "folder": "RLFVF44OeSsj7AF3",
+  "name": "Unstoppable force",
+  "type": "move",
+  "_id": "fvpYGQz3f3A3NMNB",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<div class=\"page\" title=\"Page 1\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>You never take the 6- result to @UUID[Compendium.fellowship-pbta.basic-moves.Item.aFNAJFmoqfsOHOB8]{Overcome}, @UUID[Compendium.fellowship-pbta.basic-moves.Item.MhGH7EFrRIvzFJEf]{Keep Them Busy}, or @UUID[Compendium.fellowship-pbta.basic-moves.Item.dKz4ROUauBSUm6Pz]{Get Away}. <strong>When you roll a 6- on those Moves</strong>, act as though you rolled a 7.</p>\n<p>You can no longer compromise, retreat, or surrender, for any reason. <strong>When you take a course of action</strong>, you become completely committed to it.</p>\n</div>\n</div>\n</div>",
+    "moveType": "destiny",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "",
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "destiny",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ghfbDt2b5Xd0vUiQ": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.4",
+    "coreVersion": "11.315",
+    "createdTime": 1713156852558,
+    "modifiedTime": 1713156914471,
+    "lastModifiedBy": "ghfbDt2b5Xd0vUiQ"
+  },
+  "_key": "!items!fvpYGQz3f3A3NMNB"
+}

@@ -1,0 +1,51 @@
+{
+  "folder": "RLFVF44OeSsj7AF3",
+  "name": "Wildspeaker",
+  "type": "move",
+  "_id": "9LWbUB0yQIVqYA6M",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<div class=\"page\" title=\"Page 18\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>You speak the language of beasts and monsters.</p>\n<p><strong>When you try to speak to such a creature for the first time</strong>, they will always pause to listen and reply, and you always have a chance to @UUID[Compendium.fellowship-pbta.basic-moves.Item.gjr4zxZDb4fnI9bo]{Speak Softly} or @UUID[Compendium.fellowship-pbta.basic-moves.Item.qvSNr2XJnvAQCHaF]{Talk Sense} with them.</p>\n</div>\n</div>\n</div>",
+    "moveType": "custom",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "The Harbinger",
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "harbinger",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ghfbDt2b5Xd0vUiQ": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.4",
+    "coreVersion": "11.315",
+    "createdTime": 1713152495378,
+    "modifiedTime": 1713152969051,
+    "lastModifiedBy": "ghfbDt2b5Xd0vUiQ"
+  },
+  "_key": "!items!9LWbUB0yQIVqYA6M"
+}

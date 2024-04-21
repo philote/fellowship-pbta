@@ -1,0 +1,51 @@
+{
+  "folder": "JpoIoQ7zXgp1ZljW",
+  "name": "Long live the queen",
+  "type": "move",
+  "_id": "5o6FzlE6IEaFI7zu",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<div class=\"page\" title=\"Page 22\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p><strong>When someone else rolls to @UUID[Compendium.fellowship-pbta.basic-moves.Item.aFNAJFmoqfsOHOB8]{Overcome} harm you would suffer</strong>, they are filled with Hope for their roll.</p>\n<p>You may always have Companions take harm for you if they are within arm's reach, even if you are not aware of the incoming harm.</p>\n</div>\n</div>\n</div>",
+    "moveType": "custom",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "The Heir",
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ZNFwJXLh8ZaZBK1b": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.4",
+    "coreVersion": "11.315",
+    "createdTime": 1713074905877,
+    "modifiedTime": 1713075247045,
+    "lastModifiedBy": "ZNFwJXLh8ZaZBK1b"
+  },
+  "_key": "!items!5o6FzlE6IEaFI7zu"
+}

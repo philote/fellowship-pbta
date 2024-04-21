@@ -1,0 +1,34 @@
+{
+  "folder": "sYdchn5YWnsXlPgy",
+  "name": "The leylines of magic",
+  "type": "equipment",
+  "_id": "LpF4aBGq5YS2YeSY",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<div class=\"page\" title=\"Page 19\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>The leylines of magic that hold reality together (2 Uses). You can Use this connection to the leylines to access a sealed location, or seal off an accessible location, bending space to accomodate your need.</p>\n</div>\n</div>\n</div>",
+    "uses": 2,
+    "playbook": "The Harbinger",
+    "quantity": 1,
+    "weight": 0,
+    "tags": "",
+    "itemType": "",
+    "equipmentType": "gear",
+    "actorType": "harbinger"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ghfbDt2b5Xd0vUiQ": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.4",
+    "coreVersion": "11.315",
+    "createdTime": 1713153335503,
+    "modifiedTime": 1713153374638,
+    "lastModifiedBy": "ghfbDt2b5Xd0vUiQ"
+  },
+  "_key": "!items!LpF4aBGq5YS2YeSY"
+}

@@ -1,0 +1,51 @@
+{
+  "folder": "JpoIoQ7zXgp1ZljW",
+  "name": "The sweat of your brow",
+  "type": "move",
+  "_id": "9qyJxkLscSNoyjgW",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<div class=\"page\" title=\"Page 26\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p><strong>When you create a weapon for yourself</strong>, you may choose an enhancement for the weapon from this list:</p>\n<ul>\n<li><strong>Destructive</strong>: This weapon is Dangerous, great for causing massive and uncontrollable damage.</li>\n<li><strong>Foe-Smelling</strong>: This weapon burns to the touch when in the presence of those who mean you harm. To you, this heat is only a warning, but it will harm others who try to touch it.</li>\n<li><strong>Spiked</strong>: This weapon is Piercing, and Armor cannot be used against it.</li>\n</ul>\n</div>\n</div>\n</div>",
+    "moveType": "",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "",
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ZNFwJXLh8ZaZBK1b": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.4",
+    "coreVersion": "11.315",
+    "createdTime": 1713076449637,
+    "modifiedTime": 1713076492880,
+    "lastModifiedBy": "ZNFwJXLh8ZaZBK1b"
+  },
+  "_key": "!items!9qyJxkLscSNoyjgW"
+}

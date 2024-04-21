@@ -1,0 +1,51 @@
+{
+  "folder": "sYdchn5YWnsXlPgy",
+  "name": "Perfect grace",
+  "type": "move",
+  "_id": "NKxn4zQpkr4EoMHD",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<div class=\"page\" title=\"Page 1\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>You move without effort, and can go anywhere you need to be. You can walk or run along any surface, including sheer cliffs, ceilings, lava, or drops of rain falling from the sky, and you always roll with Hope to @UUID[Compendium.fellowship-pbta.basic-moves.Item.dKz4ROUauBSUm6Pz]{Get Away}.</p>\n</div>\n</div>\n</div>",
+    "moveType": "destiny",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "",
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "destiny",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ghfbDt2b5Xd0vUiQ": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.4",
+    "coreVersion": "11.315",
+    "createdTime": 1713397833589,
+    "modifiedTime": 1713397900579,
+    "lastModifiedBy": "ghfbDt2b5Xd0vUiQ"
+  },
+  "_key": "!items!NKxn4zQpkr4EoMHD"
+}

@@ -1,0 +1,51 @@
+{
+  "folder": "n2PeDH2yiVTR7vet",
+  "name": "Touch the World Lightly",
+  "type": "move",
+  "_id": "u6y2ulraebxlKvVE",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<div class=\"page\" title=\"Page 10\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>You can safely walk on top of snow, across thin tree branches, along precarious ledges, or on top of held weaponry. You can also run along walls, up trees, or across treacherous surfaces safely, although only for short distances.</p>\n<div class=\"page\" title=\"Page 10\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>You still need to roll to @UUID[Compendium.fellowship-pbta.basic-moves.Item.dKz4ROUauBSUm6Pz]{Get Away} if you use this move to escape danger.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
+    "moveType": "core",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "The Elf",
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ZNFwJXLh8ZaZBK1b": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.4",
+    "coreVersion": "11.315",
+    "createdTime": 1713068649153,
+    "modifiedTime": 1713068738480,
+    "lastModifiedBy": "ZNFwJXLh8ZaZBK1b"
+  },
+  "_key": "!items!u6y2ulraebxlKvVE"
+}

@@ -1,0 +1,51 @@
+{
+  "folder": "JpoIoQ7zXgp1ZljW",
+  "name": "I smell fear",
+  "type": "move",
+  "_id": "W4Y4VK7cEIfEdna7",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<div class=\"page\" title=\"Page 26\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p><strong>When you @UUID[Compendium.fellowship-pbta.basic-moves.Item.MdDg7F9mSotB0q8D]{Look Closely} at a person, so closely it makes them upset, uncomfortable, or scared</strong>, you may ask questions from both the @UUID[Compendium.fellowship-pbta.basic-moves.Item.gjr4zxZDb4fnI9bo]{Speak Softly} and the @UUID[Compendium.fellowship-pbta.basic-moves.Item.MdDg7F9mSotB0q8D]{Look Closely} lists, and you can ask one more question than your roll would normally allow.</p>\n</div>\n</div>\n</div>",
+    "moveType": "custom",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "",
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ZNFwJXLh8ZaZBK1b": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.4",
+    "coreVersion": "11.315",
+    "createdTime": 1713076298320,
+    "modifiedTime": 1713076346007,
+    "lastModifiedBy": "ZNFwJXLh8ZaZBK1b"
+  },
+  "_key": "!items!W4Y4VK7cEIfEdna7"
+}

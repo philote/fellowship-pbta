@@ -1,0 +1,51 @@
+{
+  "folder": "sYdchn5YWnsXlPgy",
+  "name": "Are we not the same, you and I?",
+  "type": "move",
+  "_id": "YZCV5AYZTcGD4erq",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<div class=\"page\" title=\"Page 1\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>You gain an <strong>Overlord Stat</strong>, write it now. See page 180 of the Fellowship book for more information.</p>\n<p><strong>While your Overlord stat is undamaged</strong>, you are the same as the Overlord and cannot harm or hinder them. <strong>If they make you an <em>Offer You Can't Refuse</em> while your Overlord stat is undamaged</strong>, you must accept it, but your power is great enough that you may negotiate. You may add a caveat to their terms.</p>\n<p><strong>When you are exposed to the Overlord's Weakness</strong>, you immediately damage your Overlord stat.</p>\n</div>\n</div>\n</div>",
+    "moveType": "destiny",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "playbook": "",
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "destiny",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ghfbDt2b5Xd0vUiQ": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.4",
+    "coreVersion": "11.315",
+    "createdTime": 1713397442030,
+    "modifiedTime": 1713397516514,
+    "lastModifiedBy": "ghfbDt2b5Xd0vUiQ"
+  },
+  "_key": "!items!YZCV5AYZTcGD4erq"
+}

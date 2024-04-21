@@ -1,0 +1,30 @@
+{
+  "name": "The Orc-Boss",
+  "type": "playbook",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": "<div class=\"playbook\">\n<section>\n<div class=\"playbook-header\">\n<h1>orc-boss</h1>\n<p>Destiny Playbook</p>\n</div>\n<p><em>You have proven to be the strongest, biggest, and most cunning of all orcs.</em></p>\n</section>\n<section class=\"rules\">\n<div>\n<h2>Requirements</h2>\n<p><strong>To become the Orc-Boss,</strong> you must earn the Fellowship of the Orcs.</p>\n<p>The Orc-Boss starts with Orc Smash!</p>\n<p>@UUID[Compendium.fellowship-pbta.the-orc-boss.Item.GvKZ6Xd3gLjqhDW1]{Orc smash!}</p>\n<h2>Advancement</h2>\n<p><strong>When you Level Up,</strong> choose one Advancement from either this list or from your Basic Playbook, then mark it. You may only choose each option once.</p>\n<ul>\n<li>Take the Orc's Core Moves (The Fires of Industry and Dishonor Before Death). If you already have them, instead increase one of your stats by +1, to a maximum of +3.</li>\n<li>Take an Orc Custom.</li>\n<li>Take an Orc-Boss Custom.</li>\n<li>Take an Orc-Boss Custom.</li>\n<li>Take an Orc-Boss Custom.</li>\n</ul>\n</div>\n<div>\n<h2>Custom Moves</h2>\n<p>@UUID[Compendium.fellowship-pbta.the-orc-boss.Item.2UhFCmbb1Uv5yGgs]{Defiant to the last}</p>\n<p>@UUID[Compendium.fellowship-pbta.the-orc-boss.Item.hNoutKL9Xw2H0h4T]{Evil's heart}</p>\n<p>@UUID[Compendium.fellowship-pbta.the-orc-boss.Item.fWSnykwQSEAPRgr8]{Infinite strength}</p>\n<p>@UUID[Compendium.fellowship-pbta.the-orc-boss.Item.viGYZQazw406ZmYU]{Sixth sense}</p>\n<p>@UUID[Compendium.fellowship-pbta.the-orc-boss.Item.B8FsTxky7aabCfZW]{Slash and burn}</p>\n</div>\n</section>\n</div>",
+    "slug": "the-orc-boss",
+    "actorType": "destiny"
+  },
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.4",
+    "coreVersion": "11.315",
+    "createdTime": 1712986410586,
+    "modifiedTime": 1713681026014,
+    "lastModifiedBy": "ghfbDt2b5Xd0vUiQ"
+  },
+  "_id": "3KyKOnsMWdRmTjan",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ZNFwJXLh8ZaZBK1b": 3
+  },
+  "_key": "!items!3KyKOnsMWdRmTjan"
+}

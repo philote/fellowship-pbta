@@ -1,0 +1,19 @@
+{
+  "name": "Gear",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "cMN48Wsh8FCRjrOg",
+  "sort": 100000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.4",
+    "coreVersion": "11.315",
+    "createdTime": 1713058841281,
+    "modifiedTime": 1713060136213,
+    "lastModifiedBy": "ZNFwJXLh8ZaZBK1b"
+  },
+  "_key": "!folders!cMN48Wsh8FCRjrOg"
+}

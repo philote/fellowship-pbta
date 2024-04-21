@@ -1,0 +1,34 @@
+{
+  "folder": "mV3Ea48DGE0PAcuH",
+  "name": "A bear trap",
+  "type": "equipment",
+  "_id": "E5DzVPjYBpS3KFtr",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<div class=\"page\" title=\"Page 27\">\n<div class=\"layoutArea\">\n<div class=\"column\">\n<p>It immobilizes them until they pry free. It also causes distracting pain.</p>\n</div>\n</div>\n</div>",
+    "uses": 3,
+    "playbook": "The Orc",
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"Trap\"}]",
+    "itemType": "",
+    "equipmentType": "gear",
+    "actorType": "character"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "ZNFwJXLh8ZaZBK1b": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "pbta",
+    "systemVersion": "0.9.4",
+    "coreVersion": "11.315",
+    "createdTime": 1713076767688,
+    "modifiedTime": 1713076796931,
+    "lastModifiedBy": "ZNFwJXLh8ZaZBK1b"
+  },
+  "_key": "!items!E5DzVPjYBpS3KFtr"
+}
