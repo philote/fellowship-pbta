@@ -113,12 +113,17 @@ export const configSheet = async () => {
                     },
                     destiny: {
                         label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.moveTypes.destinyLabel"),
-                        moves: [],
-                        playbook: true
+                        moves: []
                     },
                     special: {
                         label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.moveTypes.specialLabel"),
-                        moves: []
+                        moves: [],
+                        creation: true
+                    },
+                    bonds: {
+                        label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.moveTypes.bondsLabel"),
+                        moves: [],
+                        creation: true
                     },
                     fellowship: {
                         label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.moveTypes.fellowshipLabel"),
@@ -227,12 +232,12 @@ export const configSheet = async () => {
                     },
                     destiny: {
                         label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.moveTypes.destinyLabel"),
-                        moves: [],
-                        playbook: true
+                        moves: []
                     },
                     special: {
                         label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.moveTypes.specialLabel"),
-                        moves: []
+                        moves: [],
+                        creation: true
                     },
                     fellowship: {
                         label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.moveTypes.fellowshipLabel"),
@@ -341,12 +346,122 @@ export const configSheet = async () => {
                     },
                     destiny: {
                         label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.moveTypes.destinyLabel"),
-                        moves: [],
-                        playbook: true
+                        moves: []
                     },
                     special: {
                         label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.moveTypes.specialLabel"),
+                        moves: [],
+                        creation: true
+                    },
+                    fellowship: {
+                        label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.moveTypes.fellowshipLabel"),
                         moves: []
+                    }
+                },
+                equipmentTypes: {
+                    gear: {
+                       label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.equipmentTypes.gear")
+                    },
+                    companions: {
+                        label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.equipmentTypes.companions")
+                     }
+                }
+            },
+            destiny: {
+                label: game.i18n.localize("FELLOWSHIP-PBTA.TYPES.Actor.destiny"),
+                baseType: "character",
+                stats: {
+                    blood: {
+                        label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.stats.blood"),
+                        value: 0
+                    },
+                    courage: {
+                        label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.stats.courage"),
+                        value: 0
+                    },
+                    grace: {
+                        label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.stats.grace"),
+                        value: 0
+                    },
+                    sense: {
+                        label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.stats.sense"),
+                        value: 0
+                    },
+                    wisdom: {
+                        label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.stats.wisdom"),
+                        value: 0
+                    }
+                },
+                attrTop: {},
+                attrLeft: {
+                    level: {
+                        label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.attr.levelLabel"),
+                        description: null,
+                        customLabel: false,
+                        userLabel: false,
+                        type: "Number",
+                        value: 0
+                    },
+                    looks: {
+                        label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.attr.looksLabel"),
+                        description: null,
+                        customLabel: false,
+                        userLabel: false,
+                        type: "LongText",
+                        value: ""
+                    }
+                },
+                details: {
+                    agendas: {
+                        label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.details.agendasLabel"),
+                        value: ""
+                    },
+                    yourPeople: {
+                        label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.details.yourPeopleLabel"),
+                        value: ""
+                    },
+                    biography: {
+                        label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.details.biographyLabel"),
+                        value: ""
+                    },
+                    bonds: {
+                        label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.details.bondsLabel"),
+                        value: ""
+                    },
+                    advancement: {
+                        label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.details.advancementLabel"),
+                        value: ""
+                    }
+                },
+                moveTypes: {
+                    basic: {
+                        label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.moveTypes.basicLabel"),
+                        moves: [],
+                        creation: true
+                    },
+                    core: {
+                        label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.moveTypes.coreLabel"),
+                        moves: [],
+                        playbook: true
+                    },
+                    custom: {
+                        label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.moveTypes.customLabel"),
+                        moves: [],
+                        playbook: true
+                    },
+                    shared: {
+                        label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.moveTypes.sharedLabel"),
+                        moves: [],
+                        playbook: true
+                    },
+                    destiny: {
+                        label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.moveTypes.destinyLabel"),
+                        moves: []
+                    },
+                    special: {
+                        label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.moveTypes.specialLabel"),
+                        moves: [],
+                        creation: true
                     },
                     fellowship: {
                         label: game.i18n.localize("FELLOWSHIP-PBTA.CharacterSheets.moveTypes.fellowshipLabel"),

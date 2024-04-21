@@ -3,7 +3,8 @@
         "TYPES.Actor": {
             "dwarf": "Dwarf",
             "harbinger": "Harbinger",
-            "overlord": "Overlord"
+            "overlord": "Overlord",
+            "destiny": "Destiny"
         },
         "CharacterSheets": {
             "rollResults": {
@@ -39,7 +40,8 @@
                 "specialLabel": "Special Moves",
                 "fellowshipLabel": "Fellowship Moves",
                 "destinyLabel": "Destiny Moves",
-                "sharedLabel": "Shared Moves"
+                "sharedLabel": "Shared Moves",
+                "bondsLabel": "Bonds Moves"
             },
             "equipmentTypes": {
                 "gear": "Gear",
