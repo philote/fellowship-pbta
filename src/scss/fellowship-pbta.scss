@@ -1,0 +1,53 @@
+/* Colors */
+
+.pbta.sheet {
+    .hidden {
+        display: none;
+    }
+
+    .sheet-wrapper 
+    .sheet-top 
+    .sheet-attributes-top 
+    .cell--attributes-top {
+        .cell .cell__title {
+            min-height: 30px;
+        }
+        .cell--attr-fourthAgenda label {
+            font-weight: normal;
+            font-size: small;
+        }
+    
+        .cell--attr-initialAgendas, .cell--attr-fourthAgenda {
+            flex: 2;
+        }
+    
+        .cell--attr-level {
+            flex: 1;
+        }
+    }
+
+    .sheet-resources {
+        .cell--roll-mode {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 10px;
+
+            .cell__title {
+                grid-column: span 3;
+                margin-top: 4px;
+            }
+        }
+
+        .cell {
+            text-align: center;
+
+            &>.cell__title {
+                justify-content: unset;
+                border-bottom: 0px;
+                margin: 0px;
+            }
+        }
+    }
+}
