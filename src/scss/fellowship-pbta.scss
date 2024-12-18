@@ -1,10 +1,13 @@
 /* Colors */
 
 .pbta.sheet {
+
+    // Used to hide stats based on the playbook selected
     .hidden {
         display: none;
     }
 
+    // Make the attributes top cells layout better
     .sheet-wrapper 
     .sheet-top 
     .sheet-attributes-top 
@@ -26,6 +29,7 @@
         }
     }
 
+    // Make the roll mode cell look better in one line
     .sheet-resources {
         .cell--roll-mode {
             display: flex;
