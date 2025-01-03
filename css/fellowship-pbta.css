@@ -1,6 +1,67 @@
 /* Colors */
+/* Playbook */
+.pbta.sheet.item.playbook .item-form .item-controls {
+  align-content: center;
+}
+.pbta.sheet.item.playbook .sheet-body .tab[data-tab=attributes] .flexrow span {
+  font-weight: bold;
+  font-size: 1.5em;
+  margin: 20px 0 5px 0;
+}
+.pbta.sheet.item.playbook .sheet-body a[data-action=add-attribute-choice] {
+  background: #fff;
+  border: 1px solid #000;
+  line-height: 1;
+  margin: 0px 10px;
+  padding: 1px 9px;
+  border-radius: 3px;
+}
+
+/* Actor Sheets */
+.pbta.sheet .cell__checkboxes {
+  gap: 5px;
+}
+.pbta.sheet .cell__checkboxes label.flexrow,
+.pbta.sheet .cell__radio label.flexrow {
+  align-items: start;
+  font-weight: normal;
+}
+.pbta.sheet .cell--companion {
+  margin-top: 20px;
+  padding-top: 10px;
+  border-top: 3px solid black;
+}
+.pbta.sheet .cell--companion .cell__title {
+  border-bottom: none;
+  font-size: 2em;
+}
+.pbta.sheet .cell--companion .items-list {
+  margin: 0;
+  padding: 0;
+}
+.pbta.sheet .cell--companion .items-list .item {
+  margin: 5px;
+}
+.pbta.sheet .cell--companion .item-name {
+  font-weight: bold;
+  flex: auto;
+  margin: 0;
+  display: flex;
+  align-items: stretch;
+  justify-content: flex-start;
+  border: none;
+}
+.pbta.sheet .cell--companion .items-list .item {
+  border: 5px double black;
+  padding: 10px;
+  margin: 0 0 10px 0;
+  background-color: white;
+}
 .pbta.sheet .hidden {
   display: none;
+}
+.pbta.sheet .sheet-header__fields .sheet-playbook .charplaybook {
+  border-right: 1px solid rgba(0, 0, 0, 0.25);
 }
 .pbta.sheet .sheet-wrapper .sheet-top .sheet-attributes-top .cell--attributes-top .cell .cell__title {
   min-height: 30px;
@@ -9,11 +70,44 @@
   font-weight: normal;
   font-size: small;
 }
-.pbta.sheet .sheet-wrapper .sheet-top .sheet-attributes-top .cell--attributes-top .cell--attr-initialAgendas, .pbta.sheet .sheet-wrapper .sheet-top .sheet-attributes-top .cell--attributes-top .cell--attr-fourthAgenda {
+.pbta.sheet .sheet-wrapper .sheet-top .sheet-attributes-top .cell--attributes-top .cell--attr-initialAgendas,
+.pbta.sheet .sheet-wrapper .sheet-top .sheet-attributes-top .cell--attributes-top .cell--attr-fourthAgenda {
   flex: 2;
 }
 .pbta.sheet .sheet-wrapper .sheet-top .sheet-attributes-top .cell--attributes-top .cell--attr-level {
   flex: 1;
+}
+.pbta.sheet .sheet-bottom .cell--attributes-left .cell--attr-lookOne input,
+.pbta.sheet .sheet-bottom .cell--attributes-left .cell--attr-lookTwo input,
+.pbta.sheet .sheet-bottom .cell--attributes-left .cell--attr-lookThree input,
+.pbta.sheet .sheet-bottom .cell--attributes-left .cell--attr-lookFour input {
+  font-weight: normal;
+}
+.pbta.sheet .sheet-bottom .cell--attributes-left .cell--attr-lookTwo,
+.pbta.sheet .sheet-bottom .cell--attributes-left .cell--attr-lookThree,
+.pbta.sheet .sheet-bottom .cell--attributes-left .cell--attr-lookFour {
+  margin-top: 5px;
+}
+.pbta.sheet .sheet-bottom .cell--attributes-left .cell--attr-lookTwo .cell__title,
+.pbta.sheet .sheet-bottom .cell--attributes-left .cell--attr-lookThree .cell__title,
+.pbta.sheet .sheet-bottom .cell--attributes-left .cell--attr-lookFour .cell__title {
+  display: none;
+}
+.pbta.sheet .sheet-bottom .cell--attributes-left .cell--attr-lookFour {
+  margin-bottom: 15px;
+}
+.pbta.sheet .sheet-bottom .description .sheet-tab {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  align-content: flex-start;
+}
+.pbta.sheet .sheet-bottom .description .sheet-tab .cell--bio {
+  flex-basis: 100%;
+  margin-top: 10px;
+}
+.pbta.sheet .sheet-bottom .description .sheet-tab .cell--bio .editor-content {
+  min-height: 75px;
 }
 .pbta.sheet .sheet-resources .cell--roll-mode {
   display: flex;

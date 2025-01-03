@@ -15,6 +15,13 @@ export default [
         require: "readonly",
         exports: "readonly",
         process: "readonly",
+        CONFIG: "readonly",
+        Items: "readonly",
+        ItemSheet: "readonly",
+        $: "readonly",
+        renderTemplate: "readonly",
+        loadTemplates: "readonly",
+        Actors: "readonly",
       }
     }
   },

@@ -1,10 +1,98 @@
 /* Colors */
 
+/* Playbook */
+// Make playbook attributes header easier to understand
+.pbta.sheet{
+    &.item.playbook {
+        .item-form 
+        .item-controls {
+            align-content: center;
+        }
+        
+        .sheet-body {
+            .tab[data-tab="attributes"] {
+                .flexrow span{
+                    font-weight: bold;
+                    font-size: 1.5em;
+                    margin: 20px 0 5px 0;
+                }
+            }
+    
+            a[data-action="add-attribute-choice"] {
+                background: #fff;
+                border: 1px solid #000;
+                line-height: 1;
+                margin: 0px 10px;
+                padding: 1px 9px;
+                border-radius: 3px;
+            }
+        }
+    }
+}
+
+/* Actor Sheets */
 .pbta.sheet {
+    // generic cell styles
+    .cell__checkboxes{
+        gap: 5px;
+    }
+
+    .cell__checkboxes 
+    label.flexrow, 
+    .cell__radio 
+    label.flexrow {
+        align-items: start;
+        font-weight: normal;
+    }
+
+    // companion cell styles
+    .cell--companion {
+        margin-top: 20px;
+        padding-top: 10px;
+        border-top: 3px solid black;
+
+        .cell__title {
+            border-bottom: none;
+            font-size: 2em;
+        }
+
+        .items-list {
+            margin: 0;
+            padding: 0;
+
+            .item {
+            margin: 5px;
+            }
+        }
+
+        .item-name {
+            font-weight: bold;
+            flex: auto;
+            margin: 0;
+            display: flex;
+            align-items: stretch;
+            justify-content: flex-start;
+            border: none;
+        }
+
+        .items-list .item {
+            border: 5px double black;
+            padding: 10px;
+            margin: 0 0 10px 0;
+            background-color: white;
+        }
+    }
 
     // Used to hide stats based on the playbook selected
     .hidden {
         display: none;
+    }
+
+    // fix playbook dropdown without advancement 
+    .sheet-header__fields 
+    .sheet-playbook 
+    .charplaybook {
+        border-right: 1px solid rgba(0, 0, 0, .25);
     }
 
     // Make the attributes top cells layout better
@@ -20,12 +108,56 @@
             font-size: small;
         }
     
-        .cell--attr-initialAgendas, .cell--attr-fourthAgenda {
+        .cell--attr-initialAgendas, 
+        .cell--attr-fourthAgenda {
             flex: 2;
         }
     
         .cell--attr-level {
             flex: 1;
+        }
+    }
+
+    .sheet-bottom 
+    .cell--attributes-left {
+        
+        .cell--attr-lookOne, 
+        .cell--attr-lookTwo, 
+        .cell--attr-lookThree, 
+        .cell--attr-lookFour {
+            input {
+                font-weight: normal;
+            }
+        }
+
+        .cell--attr-lookTwo, 
+        .cell--attr-lookThree, 
+        .cell--attr-lookFour {
+            margin-top: 5px;
+            .cell__title {
+                display: none;
+            }
+        }
+
+        .cell--attr-lookFour {
+            margin-bottom: 15px;
+        }
+    }
+
+    .sheet-bottom 
+    .description 
+    .sheet-tab {
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: space-between;
+        align-content: flex-start;
+
+        .cell--bio {
+            flex-basis: 100%;
+            margin-top: 10px;
+            .editor-content {
+                min-height: 75px;
+            }
         }
     }
 

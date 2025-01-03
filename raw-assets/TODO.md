@@ -9,24 +9,27 @@
     --------
     - iron
     - doom
+- playbook
 - look
     - one, two, three, four
 - Agendas
     - initial 3
     - fourth Agenda that only you follow
-- playing as
+- Your People's Lore / Your People [choose one]
 - moves
-    - Your People [choose one]
     - core
     - customs
     - shared customs
 - level
-- advancement [list]
-- bonds
 - gear [list of items]
-- companions [list of items]
 - earned fellowship
 - notes
+- advancement [list]
+- bonds
+- playing as
+
+- companions [list of items]
+- Destiny
 
 # Framework Sheets
 - Overlord

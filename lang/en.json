@@ -1,6 +1,12 @@
 {
+    "TYPES.Item.fellowship-pbta.companion": "Companion",
+    "TYPES.Item.fellowship-pbta.destiny": "Destiny",
     "FELLOWSHIP": {
+        "SheetConfig": {
+            "character": "Fellowship Character Sheet"
+        },
         "CharacterSheets": {
+            "advancementsTab": "Advancements",
             "rollResults": {
                 "complications": "Complications...",
                 "partialSuccess": "Partial success.",
@@ -19,31 +25,36 @@
             "moveTypes": {
                 "basicLabel": "Basic Moves",
                 "coreLabel": "Core Moves",
-                "peopleLabel": "Your People Move",
                 "customsLabel": "Custom Moves",
                 "fellowshipLabel": "Fellowship Moves",
                 "destinyLabel": "Destiny Moves",
                 "bondsLabel": "Bonds Moves"
             },
             "attr": {
-                "advancementLabel": "Advancement",
                 "advancement": {
                     "label": "Advancement",
-                    "description": "Available at the beginning of play:"
+                    "description": "When you Level Up, increase your level by 1, then choose an option from the list and mark it. You may only choose each option once."
+                },
+                "destinyAdvancement": {
+                    "label": "Destiny Advancement",
+                    "description": "When you Level Up, choose one Advancement from either this list or from your Basic Playbook, then mark it. You may only choose each option once."
                 },
                 "levelLabel": "Level"
             },
             "details": {
+                "playingAsLabel": "Playing as",
+                "yourPeopleLabel": "Your People",
                 "lookLabel": "Look",
+                "lookLabelTwo": "LookTwo",
+                "lookLabelThree": "LookThree",
+                "lookLabelFour": "LookFour",
                 "notesLabel": "Notes",
                 "bondsLabel": "Bonds",
                 "agendasLabel": "Agendas",
-                "yourPeopleLabel": "Your People",
                 "earnedFellowshipLabel": "Earned Fellowship"
             },
             "equipmentTypes": {
-                "gear": "Gear",
-                "companions": "Companions"
+                "gear": "Gear"
             }
         },
         "NPCSheets": {

@@ -115,6 +115,7 @@ export const configSheet = async () => {
                         userLabel: false,
                         type: "LongText",
                         position: "top",
+                        playbook: true,
                         value: ""
                     },
                     fourthAgenda: {
@@ -124,6 +125,47 @@ export const configSheet = async () => {
                         userLabel: false,
                         type: "LongText",
                         position: "top",
+                        playbook: true,
+                        value: ""
+                    },
+                    lookOne: {
+                        label: game.i18n.localize("FELLOWSHIP.CharacterSheets.details.lookLabel"),
+                        description: null,
+                        customLabel: false,
+                        userLabel: false,
+                        type: "Text",
+                        position: "left",                                
+                        playbook: true,
+                        value: ""
+                    },
+                    lookTwo: {
+                        label: game.i18n.localize("FELLOWSHIP.CharacterSheets.details.lookLabelTwo"),
+                        description: null,
+                        customLabel: false,
+                        userLabel: false,
+                        type: "Text",
+                        position: "left",                                
+                        playbook: true,
+                        value: ""
+                    },
+                    lookThree: {
+                        label: game.i18n.localize("FELLOWSHIP.CharacterSheets.details.lookLabelThree"),
+                        description: null,
+                        customLabel: false,
+                        userLabel: false,
+                        type: "Text",
+                        position: "left",                                
+                        playbook: true,
+                        value: ""
+                    },
+                    lookFour: {
+                        label: game.i18n.localize("FELLOWSHIP.CharacterSheets.details.lookLabelFour"),
+                        description: null,
+                        customLabel: false,
+                        userLabel: false,
+                        type: "Text",
+                        position: "left",                                
+                        playbook: true,
                         value: ""
                     },
                     advancements: {
@@ -133,69 +175,94 @@ export const configSheet = async () => {
                         userLabel: false,
                         playbook: true,
                         limited: false,
-                        position: "left",
+                        position: null,
                         type: "ListMany",
                         condition: false,
                         sort: false,
                         options: {
                             0: {
-                                label: "+1 Status (max+1)",
+                                label: "Increase one of your stats by 1 (to a maximum of +3).",
                                 value: false
                             },
                             1: {
-                                label: "+1 Status (max+1)",
+                                label: "Increase one of your stats by 1 (to a maximum of +3).",
                                 value: false
                             },
                             2: {
-                                label: "+1 Status (max+1)",
+                                label: "Take another Custom.",
                                 value: false
                             },
                             3: {
-                                label: "a new Aware move",
+                                label: "Take another Custom, or ask another player to share a Move with you.",
                                 value: false
                             },
                             4: {
-                                label: "a new Aware move",
+                                label: "Take another Custom, or two more Gear options (You cannot choose a Gear option you already have).",
                                 value: false
                             },
                             5: {
-                                label: "a move from another archetype",
+                                label: "Share one of your Gear options with another player.",
                                 value: false
                             },
                             6: {
-                                label: "a move from another archetype",
+                                label: "You have Changed. You must be level 5 or higher to take this Advancement. When you Change, choose a Destiny you meet the requirements for and take its first Move.",
                                 value: false
                             },
-                            7: {
-                                label: "open a new mortal relationship",
-                                value: false
-                            }
                         }
+                    },
+                    destinyAdvancements: {
+                        label: game.i18n.localize("FELLOWSHIP.CharacterSheets.attr.destinyAdvancement.label"),
+                        description: game.i18n.localize("FELLOWSHIP.CharacterSheets.attr.destinyAdvancement.description"),
+                        customLabel: false,
+                        userLabel: false,
+                        playbook: true,
+                        limited: false,
+                        position: null,
+                        type: "ListMany",
+                        condition: false,
+                        sort: false,
+                        options: {
+                            0: {
+                                label: "Increase one of your stats by 1 (to a maximum of +3).",
+                                value: false
+                            },
+                            1: {
+                                label: "Take a Custom Move.",
+                                value: false
+                            },
+                            2: {
+                                label: "Take a Destiny Custom Move.",
+                                value: false
+                            },
+                            3: {
+                                label: "Take a Destiny Custom Move.",
+                                value: false
+                            },
+                            4: {
+                                label: "Take a Destiny Custom Move.",
+                                value: false
+                            },
+                        },
                     },
                 },
                 details: {
-                    lookOne: {
-                        label: game.i18n.localize("FELLOWSHIP.CharacterSheets.details.lookLabel"),
+                    playingAs: {
+                        label: game.i18n.localize("FELLOWSHIP.CharacterSheets.details.playingAsLabel"),
+                        playbook: true,
                         value: ""
                     },
-                    lookTwo: {
-                        label: "",
-                        value: ""
-                    },
-                    lookThree: {
-                        label: "",
-                        value: ""
-                    },
-                    lookFour: {
-                        label: "",
-                        value: ""
-                    },
-                    earnedFellowship: {
-                        label: game.i18n.localize("FELLOWSHIP.CharacterSheets.details.earnedFellowshipLabel"),
+                    yourPeople: {
+                        label: game.i18n.localize("FELLOWSHIP.CharacterSheets.details.yourPeopleLabel"),
+                        playbook: true,
                         value: ""
                     },
                     bonds: {
                         label: game.i18n.localize("FELLOWSHIP.CharacterSheets.details.bondsLabel"),
+                        playbook: true,
+                        value: ""
+                    },
+                    earnedFellowship: {
+                        label: game.i18n.localize("FELLOWSHIP.CharacterSheets.details.earnedFellowshipLabel"),
                         value: ""
                     },
                     notes: {
@@ -211,11 +278,6 @@ export const configSheet = async () => {
                     },
                     core: {
                         label: game.i18n.localize("FELLOWSHIP.CharacterSheets.moveTypes.coreLabel"),
-                        moves: [],
-                        playbook: true
-                    },
-                    people: {
-                        label: game.i18n.localize("FELLOWSHIP.CharacterSheets.moveTypes.peopleLabel"),
                         moves: [],
                         playbook: true
                     },
@@ -242,9 +304,6 @@ export const configSheet = async () => {
                     gear: {
                        label: game.i18n.localize("FELLOWSHIP.CharacterSheets.equipmentTypes.gear")
                     },
-                    companions: {
-                        label: game.i18n.localize("FELLOWSHIP.CharacterSheets.equipmentTypes.companions")
-                     }
                  }
             },
             npc: {
@@ -320,9 +379,7 @@ export function pbtaSettings() {
     game.settings.set('pbta', 'hideRollFormula', true);
     game.settings.set('pbta', 'hideRollMode', false);
     game.settings.set('pbta', 'advForward', true);
-    if (game.settings.settings.has('pbta.hideAdvancement')) {
-      game.settings.set('pbta', 'hideAdvancement', true);
-    }
+    game.settings.set('pbta', 'hideAdvancement', 'both');
 };
 
 /**
@@ -347,4 +404,4 @@ export const tagConfig = {
             '{"value":"FELLOWSHIP.Tags.equipment.weak.value", "editable":false, "description":"FELLOWSHIP.Tags.equipment.weak.description"}, ' +
             '{"value":"FELLOWSHIP.Tags.equipment.glows.value", "editable":false, "description":"FELLOWSHIP.Tags.equipment.glows.description"}]',
     },
-};  
+};

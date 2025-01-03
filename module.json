@@ -40,6 +40,12 @@
   "styles": [
     "css/fellowship-pbta.css"
   ],
+  "documentTypes": {
+    "Item": {
+      "companion": {},
+      "destiny": {}
+    }
+  },
   "languages": [
     {
       "lang": "en",

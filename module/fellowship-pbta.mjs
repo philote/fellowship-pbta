@@ -1,6 +1,44 @@
 import * as pbtaConfig from './helpers/pbta-config.mjs';
+import * as utils from "./helpers/utils.mjs";
+import { FELLOWSHIP } from "./helpers/config.mjs";
+import { CompanionModel } from './data/companionModel.mjs';
+import { CompanionSheet } from './sheets/companionSheet.mjs';
+import { DestinyModel } from './data/destinyModel.mjs';
+import { DestinySheet } from './sheets/destinySheet.mjs';
+import { FellowshipActorSheetMixin } from './sheets/actor-sheet.mjs';
 
 Hooks.once('init', () => {
+    // Fellowship ActorSheet Setup
+    const fellowshipActorSheet = FellowshipActorSheetMixin(game.pbta.applications.actor.PbtaActorSheet);
+    Actors.unregisterSheet('pbta', game.pbta.applications.actor.PbtaActorSheet, { types: ['character'] });
+    Actors.registerSheet('pbta', fellowshipActorSheet, {
+        types: ['character'],
+        makeDefault: true,
+        label: 'FELLOWSHIP.SheetConfig.character',
+    });
+
+    // Companion DataModel & Sheet Setup
+    Object.assign(CONFIG.Item.dataModels, {
+        'fellowship-pbta.companion': CompanionModel,
+    });
+    Items.unregisterSheet('pbta', game.pbta.applications.item.PbtaItemSheet, { types: ['fellowship-pbta.companion'] });
+    Items.registerSheet('fellowship-pbta', CompanionSheet, {
+        types: ['fellowship-pbta.companion'],
+        makeDefault: true,
+        label: 'Companion Sheet',
+    });
+
+    // Destiny DataModel & Sheet Setup
+    Object.assign(CONFIG.Item.dataModels, {
+        'fellowship-pbta.destiny': DestinyModel,
+    });
+    Items.unregisterSheet('pbta', game.pbta.applications.item.PbtaItemSheet, { types: ['fellowship-pbta.destiny'] });
+    Items.registerSheet('fellowship-pbta', DestinySheet, {
+        types: ['fellowship-pbta.destiny'],
+        makeDefault: true,
+        label: 'Destiny Sheet',
+    });
+
     // Register settings
     game.settings.register('fellowship-pbta', 'firstTime', {
         name: game.i18n.localize('FELLOWSHIP.Settings.startup.name'),
@@ -18,6 +56,9 @@ Hooks.once('init', () => {
         type: Boolean,
         default: false
       });
+
+    // Preload Handlebars stuff.
+    utils.preloadHandlebarsTemplates();
 });
 
 // PbtA configuration hook
@@ -100,11 +141,10 @@ Hooks.once('ready', async function () {
 });
 
 Hooks.on("renderActorSheet", async (app, html) => {
-    
+    // Character sheet customization
     if (app.actor.type === "character") {
-        // Hide and show eash stat based on playbook attributes
+        // Hide and show each stat based on playbook attributes
         const playbook = app.actor.items.find((i) => i.type === "playbook");
-        
         if (playbook == undefined) {
             // Initially hide iron and doom stats
             const iron = html[0].querySelector('li.stat[data-stat="iron"]');
@@ -119,7 +159,5 @@ Hooks.on("renderActorSheet", async (app, html) => {
                 }
             });
         }
-        
     }
 });
-
