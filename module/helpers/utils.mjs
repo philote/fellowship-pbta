@@ -12,7 +12,7 @@ export const preloadHandlebarsTemplates = async function () {
 
 /**
  * Retrieves a list of Destinies in the world and compendiums
- * and returns them as an array of names or of documents.
+ * and sets them as an array of names & ids to the CONFIG.
  */
 export async function getDestinies() {
 	// Retrieve custom or overridden destinies.
@@ -33,5 +33,5 @@ export async function getDestinies() {
 				uuid: p.uuid,
 			};
 		});
-	// if (!CONFIG.PBTA.destinies.length) game.pbta.noDestinies = true;
+	console.log(CONFIG.FELLOWSHIP.destinies)
 }

@@ -59,6 +59,8 @@ Hooks.once('init', () => {
 
     // Preload Handlebars stuff.
     utils.preloadHandlebarsTemplates();
+
+    CONFIG.FELLOWSHIP = FELLOWSHIP;
 });
 
 // PbtA configuration hook
@@ -78,6 +80,11 @@ Hooks.once('pbtaSheetConfig', () => {
 });
 
 Hooks.once('ready', async function () {
+    // Get destinies in world and compendium, with code so Babele works
+    if (!(game.modules.get("babele")?.active && game.i18n.lang !== "en")) {
+		utils.getDestinies();
+	}
+    
     // This allows the module to set a custom image to the login screen
     if (!game.user.isGM) return;
     if (game.settings.get('fellowship-pbta', 'firstTime')) {
@@ -160,4 +167,9 @@ Hooks.on("renderActorSheet", async (app, html) => {
             });
         }
     }
+});
+
+Hooks.once("babele.ready", () => {
+	// It is a mystery why Babele calls "babele.ready" twice
+	Hooks.once("babele.ready", () => utils.getDestinies());
 });

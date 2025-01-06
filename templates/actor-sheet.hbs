@@ -27,14 +27,14 @@
 			{{!-- Sidebar --}}
 			{{#if (objLen system.attrLeft)}}
 			<section>
-				<div class="cell cell--aesthetics">
-					{{> "pbta.actor-attributes" attrs=system.attrLeft cssClass="cell--attributes-left" owner=owner editable=editable}}
-				</div>
 				{{#if isCharacter}}
 					<div class="cell cell--destiny">
 						{{> "modules/fellowship-pbta/templates/parts/actor-destiny.hbs" }}
 					</div>
 				{{/if}}
+				<div class="cell cell--aesthetics">
+					{{> "pbta.actor-attributes" attrs=system.attrLeft cssClass="cell--attributes-left" owner=owner editable=editable}}
+				</div>
 			</section>
 			{{/if}}
 

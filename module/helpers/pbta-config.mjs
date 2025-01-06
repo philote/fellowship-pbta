@@ -181,38 +181,34 @@ export const configSheet = async () => {
                         sort: false,
                         options: {
                             0: {
-                                label: "Increase one of your stats by 1 (to a maximum of +3).",
+                                label: "",
                                 value: false
                             },
                             1: {
-                                label: "Increase one of your stats by 1 (to a maximum of +3).",
+                                label: "",
                                 value: false
                             },
                             2: {
-                                label: "Take another Custom.",
+                                label: "",
                                 value: false
                             },
                             3: {
-                                label: "Take another Custom, or ask another player to share a Move with you.",
+                                label: "",
                                 value: false
                             },
                             4: {
-                                label: "Take another Custom, or two more Gear options (You cannot choose a Gear option you already have).",
+                                label: "",
                                 value: false
                             },
                             5: {
-                                label: "Share one of your Gear options with another player.",
+                                label: "",
                                 value: false
-                            },
-                            6: {
-                                label: "You have Changed. You must be level 5 or higher to take this Advancement. When you Change, choose a Destiny you meet the requirements for and take its first Move.",
-                                value: false
-                            },
+                            }
                         }
                     },
-                    destinyAdvancements: {
-                        label: game.i18n.localize("FELLOWSHIP.CharacterSheets.attr.destinyAdvancement.label"),
-                        description: game.i18n.localize("FELLOWSHIP.CharacterSheets.attr.destinyAdvancement.description"),
+                    unlockDestiny: {
+                        label: game.i18n.localize("FELLOWSHIP.CharacterSheets.attr.advancement.destiny.label"),
+                        description: game.i18n.localize("FELLOWSHIP.CharacterSheets.attr.advancement.destiny.description"),
                         customLabel: false,
                         userLabel: false,
                         playbook: true,
@@ -223,23 +219,7 @@ export const configSheet = async () => {
                         sort: false,
                         options: {
                             0: {
-                                label: "Increase one of your stats by 1 (to a maximum of +3).",
-                                value: false
-                            },
-                            1: {
-                                label: "Take a Custom Move.",
-                                value: false
-                            },
-                            2: {
-                                label: "Take a Destiny Custom Move.",
-                                value: false
-                            },
-                            3: {
-                                label: "Take a Destiny Custom Move.",
-                                value: false
-                            },
-                            4: {
-                                label: "Take a Destiny Custom Move.",
+                                label: game.i18n.localize("FELLOWSHIP.CharacterSheets.attr.advancement.destiny.options.0"),
                                 value: false
                             },
                         },

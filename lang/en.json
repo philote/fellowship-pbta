@@ -2,6 +2,8 @@
     "TYPES.Item.fellowship-pbta.companion": "Companion",
     "TYPES.Item.fellowship-pbta.destiny": "Destiny",
     "FELLOWSHIP": {
+        "Destiny": "Your Destiny",
+        "ViewDestiny": "View Destiny",
         "SheetConfig": {
             "character": "Fellowship Character Sheet"
         },
@@ -33,7 +35,22 @@
             "attr": {
                 "advancement": {
                     "label": "Advancement",
-                    "description": "When you Level Up, increase your level by 1, then choose an option from the list and mark it. You may only choose each option once."
+                    "description": "When you Level Up, increase your level by 1, then choose an option from the list and mark it. You may only choose each option once.",
+                    "options": {
+                        "0": "Increase one of your stats by 1 (to a maximum of +3).",
+                        "1": "Increase one of your stats by 1 (to a maximum of +3).",
+                        "2": "Take another Custom.",
+                        "3": "Take another Custom, or ask another player to share a Move with you.",
+                        "4": "Take another Custom, or two more Gear options (You cannot choose a Gear option you already have).",
+                        "5": "Share one of your Gear options with another player."
+                    },
+                    "destiny": {
+                        "label": "Unlock your Destiny",
+                        "description": "You must be level 5 or higher to take this Advancement. When you do, you unlock the ability to choose a Destiny.",
+                        "options": {
+                            "0": "You have Changed. When you Change, choose a Destiny you meet the requirements for and take its first Move."
+                        }
+                    }
                 },
                 "destinyAdvancement": {
                     "label": "Destiny Advancement",

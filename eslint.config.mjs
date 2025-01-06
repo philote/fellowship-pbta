@@ -22,6 +22,7 @@ export default [
         renderTemplate: "readonly",
         loadTemplates: "readonly",
         Actors: "readonly",
+        fromUuid: "readonly",
       }
     }
   },
