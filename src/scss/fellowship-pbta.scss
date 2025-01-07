@@ -3,6 +3,32 @@
 /* Playbook */
 // Make playbook attributes header easier to understand
 .pbta.sheet{
+
+    .playbook-details {
+        // display: flex;
+        // flex-direction: row;
+        // gap: 10px;
+
+        // & > h1 {
+        //     background-color: red;
+        // }
+
+        // .column {
+        //     display: flex;
+        //     flex-direction: column;
+        //     gap: 10px;
+        // }
+
+        .flexrow {
+            gap: 10px;
+        }
+
+        .flexcol {
+            align-self: flex-start;
+        }
+        
+    }
+
     &.item.playbook {
         .item-form 
         .item-controls {

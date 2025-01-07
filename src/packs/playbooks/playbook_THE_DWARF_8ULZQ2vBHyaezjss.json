@@ -1,0 +1,426 @@
+{
+  "name": "THE DWARF",
+  "type": "playbook",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": "<div class=\"playbook-details\"><h1>THE DWARF</h1><div class=\"flexrow\"><div class=\"flexcol\"><div><h2>BASIC PLAYBOOK</h2><p><em>I have seen the bones of this world. The winds, howling against the mountains. Like the mountains, the Dwarves will never fall. We have endured. We will endure. But we know nothin' lasts forever. This threat you called us all here for, we feel it. We know it's comin'. Tha's why I came, why I was chosen to represent my people.</em></p><p><em>Like a crop farmer takes winter, like an anvil takes blows, like a mountain takes an avalanche, so too shall I take this comin' darkness. The Dwarves will never fall, never yield, and never surrender.</em></p><p><em>I am the Dwarf. I can take it. Just you try me.</em></p></div><div><h2>NAME</h2><p><strong>Choose one or two from each, or make up your own:</strong></p><p><strong>Given Names:</strong> <em>Austri, Aurvang, Bombur, Dain, Dvalin, Elda, Hannar, Lofar, Nar, Onar, Regina, Thoerin, Thror, Vestri, Vigg</em></p><p><strong>Clan Names:</strong> <em>Alebringer, Blackrock, Boathater, Broadbeam, Darkminer, Drakeslayer, Firewheel, Grimtrigger, Petty-kin, Ploughswain, Skyforger, Stonefoot, Undermountain, Vulcan</em></p></div><div><h2>LOOK</h2><p><strong>Circle one from each list, or make up your own:</strong></p><ul><li>Weary Eyes, Hard Eyes, or Beady Eyes</li><li>Braided Beard, Flowing Locks, or Immaculate Sideburns</li><li>Calloused Skin, Bronzed Skin, or Stony Skin</li><li>Laborer's Leathers, Noble's Silks, or Soldier's Armor</li></ul></div><div><h2>AGENDA</h2><p><strong>When you know not what to do, consult your Agendas.</strong></p><h3>You have these three Agendas:</h3><ul><li>Be Brave, Take Risks</li><li>Improve The World Around You</li><li>Tell Us Of Your People</li></ul><p><strong>And circle a fourth Agenda that only you follow:</strong></p><h3>Insatiable Greed</h3><p>Take for yourself that which was meant for others.</p><h3>The Dwarven Craft</h3><p>Create, restore, and protect things of lasting value.</p><h3>The Honored Word</h3><p>Keep your word in all things,and punish the liars and oath-breakers.</p></div><div><h2>STATS</h2><p>Your <strong>Iron </strong>stat is +2. Assign +2, +1, +1, +0, -1 to the others.</p><p><strong>When a stat is damaged,</strong> mark the small box. You are in <strong>Despair</strong> when you roll a damaged stat.</p><ul><li>Blood</li><li>Courage</li><li>Grace</li><li>Sense</li><li>Wisdom</li><li>Iron</li></ul></div><div><h2>WHAT IS A DWARF?</h2><p><strong>Choose the option that best represents your people:</strong></p><h3>DEEPDELVE</h3><p>Your people dig deeper than any others, and the secrets of the earth are yours. You can see in total darkness without a problem, and your armor is born of the secrets that can only be found deep underground.</p><p>Add The Secrets <em>(3 Uses) </em>to your Gear. You can Use them at any time to immediately ask one question from the <em>Look Closely</em> or <em>Speak Softly </em>lists.</p><h3>FIREBEARD</h3><p>Your people lead a war-like life, with a long history of bloodshed and tragedy. Your armor has seen many battles, and it has seen you through all of them. <strong>When you attempt to defeat an enemy in glorious combat, </strong>you may damage your Blood to try to <em>Finish Them </em>with +Blood or +Sense.</p><h3>IRONBLAST</h3><p>Your people are madcap inventors and chemists, known throughout the world for their wondrous, and dangerous, creations. Your armor is of unusual design, with many bits and pieces that serve no obvious purpose.</p><p>Add Various Explosive Devices <em>(2 Uses, Dangerous) </em>to your Gear. You can Use your explosives to create an explosion wherever you need it, as long as you could have conceivably planted them ahead of time.</p><h3>STONEBORN</h3><p>Your kin have more in common with the earth and stone than they do with flesh and blood. Your armor is your bare skin, solid as stone.</p><p><strong>When you stand on solid ground,</strong> you cannot be knocked off your feet or moved unless you want to be, and you can stop anything trying to get past you by <em>Keeping Them Busy</em> with +Iron.</p></div><div><h2>CORE MOVES</h2><p><strong>All Dwarves have these moves.</strong></p><h3>PEOPLE OF STONE</h3><p>The dwarves are built tough. You have a sixth stat, Iron, and you have an additional +1 to assign among your other stats. Iron represents your supreme toughness - your armor, survivability, iron gut, and stubbornness.</p><p><strong>When you </strong><em><strong>Finish Them </strong></em><strong>by outlasting them in a contest of power or endurance,</strong> roll +Iron. <strong>On a 10+</strong>, they pass out.</p><p><strong>When you share this Move with another,</strong> their Iron stat is +1.</p><p><strong>When someone who does not have an Iron stat uses a Move that rolls +Iron,</strong> they roll at +0.</p><h3>CLEAR THE PATH (IRON)</h3><p><strong>When you charge through something standing in between you and where you're going,</strong> roll +Iron.</p><p><strong>On a 7+,</strong> you charge through and leave a path for your allies to follow.</p><p><strong>On a 9-,</strong> your reckless charge causes problems. You have to go alone, or leave yourself open to danger, or damage something important, your choice.</p><h3>UNBREAKABLE</h3><p><strong>When you </strong><em><strong>Fill Your Belly</strong></em><strong>,</strong> you also heal your Iron stat.</p></div><div><h2>CUSTOM MOVES</h2><p><strong>Choose two of these moves to further define what it means to be a Dwarf.</strong></p><h3>ALL THAT GLITTERS</h3><p><strong>When you have a bad feeling about this and say as much,</strong> you may ask the Overlord \"Is there a trap or ambush here? If so, where would it come from?\" They will answer honestly.</p><h3>DIG DEEP</h3><p>Your people are famous for their ability to dig quickly and safely. You can <em>Clear the Path </em>right through earth and stone, digging out a tunnel anyone can use. It will take some time, but not as long as anyone else would expect it to.</p><h3>EARTH FRIEND</h3><p>You can speak to the mountains and hear the words of the stones. <strong>When you </strong><em><strong>Speak Softly </strong></em><strong>with the earth,</strong> you may use one of your questions to ask it to move for you. For you, the earth can create pits or one-room caves, collapse or clear stone passageways, or leave behind a message that only dwarves will notice.</p><h3>GOOD FOR WHAT ALES YOU</h3><p><strong>When you use an item with the Drunk tag,</strong> act as though it had the Healing tag instead.</p><h3>GREED IS GOOD</h3><p><strong>When you desire a treasure or valuable item you have seen or heard of,</strong> you may declare it to be the object of your greed. <strong>When you act directly to secure the object of your greed for yourself,</strong> you are filled with Hope. You cannot choose a new object of your greed until you have acquired your current one, or it becomes unattainable.</p><h3>HALF-DWARF</h3><p>Take a Custom Move from any basic playbook.</p><p>You may also take an Agenda from the chosen playbook.</p><p><strong>This move cannot be shared.</strong></p><h3>LET ME SEE THAT</h3><p><strong>When you take a few moments to handle or examine an interesting item, vehicle, or architecture,</strong> ask the Overlord two of the following questions. They must answer truthfully.</p><ul><li>Who made this and why should I care about them?</li><li>What was this made to do, and how do I use it or break it?</li><li>What's wrong with this, and how might I fix it?</li></ul><h3>WARRIOR'S PRIDE (BLOOD)</h3><p><strong>When you let out a roar of challenge,</strong> tell us who you are challenging and roll +Blood.</p><p><strong>On a 7+,</strong> they accept, approaching you for battle and dropping whatever they were doing.</p><p><strong>On a 9-,</strong> they bring backup with them.</p></div></div><div class=\"flexcol\"><div><h2>PLAYING AS THE DWARF</h2><p>The Dwarf is built to last. Their people are the most solidly grounded people this world has to offer. The Dwarf offers you the ability to defend your allies well, clear a path through anything in your way, and keep on chugging in spite of the dangers.</p><p>Play as The Dwarf if you want to be built to take on anything, if you want to outlast the world, if you want to be the toughest person at the table, or if your thirst for treasure outweighs your common sense.</p></div><div><h2>ADVANCEMENT</h2><p><strong>When you Level Up, increase your level by 1, then choose an option from the list and mark it. You may only choose each option once.</strong> <em>You begin the game at level 1.</em></p><ul><li>Increase your Blood or Wisdom by 1 (to a maximum of +3).</li><li>Increase one of your stats by 1 (to a maximum of +3).</li><li>Take another Dwarven Custom.</li><li>Take another Dwarven Custom, or ask another player to share a Move with you.</li><li>Take another Dwarven Custom, or two more Dwarven Gear options. You cannot choose a Gear option you already have.</li><li>Share one of your Gear options with another player.</li><li><strong>You have Changed.</strong> You must be level 5 or higher to take this Advancement. <strong>When you Change,</strong> choose a Destiny you meet the requirements for and take its first Move.</li></ul></div><div><h2>BONDS</h2><p>You start with 4 bonds with the other members of the Fellowship. Use these, or make your own:</p><p>I owe <span style=\"text-decoration:underline\">        </span>a life debt.</p><p><span style=\"text-decoration:underline\">               </span>knows of my secret shame.</p><p>I would rather die at <span style=\"text-decoration:underline\">                </span>'s side than anywhere else in the world.</p><p><span style=\"text-decoration:underline\">               </span>'s forefathers and mine knew one another.</p><p><span style=\"text-decoration:underline\">               </span>has been trusted with a great dwarven secret.</p><p><span style=\"text-decoration:underline\">             </span>is my drinking buddy.</p><p><span style=\"text-decoration:underline\">               </span>is a friend to all dwarves.</p><p><span style=\"text-decoration:underline\">               </span>is my rival, and I theirs.</p><p>I grudgingly respect <span style=\"text-decoration:underline\">              </span>'s style.</p><p>Nobody can fight by my side like <span style=\"text-decoration:underline\">              </span>can!</p><p><strong>Record your other bonds here:</strong></p></div><div><h2>GEAR</h2><p>You start with dwarven hardtack <em>(Food, 5 Uses)</em> and a solid means of protection, describe it <em>(Armor, 1 Use).</em></p><h3>Choose your weapon; all are Melee and Dwarf-Made.</h3><p><strong>Name it: <span style=\"text-decoration:underline\">                            </span></strong></p><ul><li>A fine axe, gilded and engraved</li><li>A heavy warhammer, stamped with the seal of a master smith</li><li>A simple mace, plain but functional</li><li>Your fists, harder than any stone</li></ul><h3>What do the dwarves have that no one else does? Choose one:</h3><ul><li>Gunpowder! You have a rifle <em>(Ranged, Reload, Dwarf-Made)</em> and an exploding trap <em>(Trap, Dangerous, 2 Uses)</em></li><li>Access to a rare or strange material of your choosing. You wear heavy armor <em>(Armor, 1 Use) </em>and carry a shield <em>(Armor, Clumsy, 2 Uses) </em>made of the stuff.</li><li>Strong alcohol. You carry a small keg of dwarven stout <em>(4 Uses, Vigor, then Drunk).</em></li></ul><h3><strong>The Dwarves are famous for their trade, whatever it may be. Choose one:</strong></h3><ul><li>Tunneler's gear <em>(2 Uses, Useful, Dwarf-Made)</em></li><li>Craftsman's tools <em>(2 Uses, Useful, Dwarf-Made)</em></li><li>A bag of gems or gold <em>(2 Uses, Precious)</em></li></ul><h3>What dwarven companions did you bring with you? Choose two:</h3><ul><li>A dwarven defender or berserker, who you have 1 Bond with.</li><li>A dwarven gunner or blacksmith, who you have 1 Bond with.</li><li>A dwarven tunneler or guzzler. You have 1 Bond with it.</li><li>Dwarven stout <em>(2 Uses, Vigor, then Drunk).</em></li></ul><h3>What is the one possession you hold most dear? Choose one:</h3><ul><li>The first thing you ever crafted, badly worn but still in one piece <em>(Vigor, Slow)</em>. <strong>When you take the time to admire it, </strong>it gives you Vigor.</li><li>A family heirloom, none like it in the world <em>(1 Use)</em>. <strong>When you ask your ancestors for guidance on a topic </strong><em>(1 Use)</em><strong>, </strong>you may Command Lore about that topic of the rest of the scene as if it were part of your culture.</li><li>A symbol of peace, trust, or power between the dwarves and another civilization of the fellowship. Choose another player: you have an <strong>Unbreakable Bond </strong>with them, write it now. Nothing can undo this bond you share with them.</li></ul></div><div><h2>COMPANIONS</h2><p>Dwarven companions are those allies who are particularly likely to join arms with you. Many of them are available as Gear options - a Companion in your Gear will always return to you, heal, or be replaced by another when you <em>Recover.</em></p><h3>DWARVEN DEFENDER</h3><p><em>Trained in the art of the tower shield, this dwarf will defend you through thick and thin.</em></p><p class=\"tags\">loyal | shield-bearer</p><h3>DWARVEN GUNNER</h3><p><em>Dwarven riflemen are famous throughout the world for their excessive usage of black powder.</em></p><p class=\"tags\">powder keg | sturdy rifle</p><h3>BLACKSMITH</h3><p><em>Strong in arm and strong in trade, this trained professional will keep your weaponry in fine condition.</em></p><p class=\"tags\">spare weapons | strong arm</p><h3>DWARVEN BERSERKER</h3><p><em>The strongers and most aggressive of all dwarves.</em></p><p class=\"tags\">blind rage | reckless valor</p><h3>DWARVEN TUNNELER</h3><p><em>A massive drill mounted on wheels, with a riding compartment somewhere between those two more important features.</em></p><p class=\"tags\">drill tank | armored compartment</p><h3>THE GUZZLER</h3><p><em>A prototype automobile, there's nothing like it in all the world. It runs on alcohol, pops, and bangs.</em></p><p class=\"tags\">20 horsepower | loud and fast</p><h3>POWERSUIT</h3><p><em>A mechanical suit of armor, more vehicle than suit. heavy armor</em></p><p class=\"tags\">powered movement | rocket fist</p></div></div></div></div>",
+    "slug": "the-dwarf",
+    "actorType": "character",
+    "stats": {
+      "blood": {
+        "label": "Blood",
+        "value": 0
+      },
+      "courage": {
+        "label": "Courage",
+        "value": 0
+      },
+      "grace": {
+        "label": "Grace",
+        "value": 0
+      },
+      "sense": {
+        "label": "Sense",
+        "value": 0
+      },
+      "wisdom": {
+        "label": "Wisdom",
+        "value": 0
+      },
+      "iron": {
+        "label": "Iron",
+        "value": 2
+      },
+      "doom": {
+        "label": "Doom",
+        "value": 0
+      }
+    },
+    "statsDetail": "Your Iron stat is +2. Assign +2, +1, +1, +0, -1 to the others.",
+    "attributes": {
+      "statsVisibility": {
+        "label": "Stats Visibility",
+        "description": "Which stats are visible on the character sheet?",
+        "type": "ListMany",
+        "options": {
+          "0": {
+            "label": "blood",
+            "value": true
+          },
+          "1": {
+            "label": "courage",
+            "value": true
+          },
+          "2": {
+            "label": "grace",
+            "value": true
+          },
+          "3": {
+            "label": "sense",
+            "value": true
+          },
+          "4": {
+            "label": "wisdom",
+            "value": true
+          },
+          "5": {
+            "label": "iron",
+            "value": false
+          },
+          "6": {
+            "label": "doom",
+            "value": false
+          }
+        },
+        "choices": [
+          {
+            "options": {
+              "0": {
+                "value": true,
+                "label": "blood"
+              },
+              "1": {
+                "value": true,
+                "label": "courage"
+              },
+              "2": {
+                "value": true,
+                "label": "grace"
+              },
+              "3": {
+                "value": true,
+                "label": "sense"
+              },
+              "4": {
+                "value": true,
+                "label": "wisdom"
+              },
+              "5": {
+                "value": true,
+                "label": "iron"
+              },
+              "6": {
+                "value": false,
+                "label": "doom"
+              }
+            },
+            "value": ""
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "value": "",
+        "max": null
+      },
+      "initialAgendas": {
+        "label": "Agendas",
+        "type": "LongText",
+        "value": "",
+        "choices": [
+          {
+            "value": "<ul><li>Be Brave, Take Risks</li><li>Tell Us Of Your People</li><li>Improve The World Around You</li></ul>",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "fourthAgenda": {
+        "label": "When you know not what to do, consult your Agendas.",
+        "type": "LongText",
+        "value": "",
+        "choices": [
+          {
+            "value": "<p><strong>Insatiable Greed</strong> Take for yourself that which was meant for others.</p>",
+            "options": {}
+          },
+          {
+            "value": "<p><strong>The Dwarven Craft</strong> Create, restore, and protect things of lasting value.</p>",
+            "options": {}
+          },
+          {
+            "value": "<p><strong>The Honored Word</strong> Keep your word in all things, and punish the liars and oath-breakers.</p>",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "lookOne": {
+        "label": "Look",
+        "type": "Text",
+        "value": "",
+        "choices": [
+          {
+            "value": "Weary Eyes",
+            "options": {}
+          },
+          {
+            "value": "Hard Eyes",
+            "options": {}
+          },
+          {
+            "value": "Beady Eyes",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "lookTwo": {
+        "label": "LookTwo",
+        "type": "Text",
+        "value": "",
+        "choices": [
+          {
+            "value": "Braided Beard",
+            "options": {}
+          },
+          {
+            "value": "Flowing Locks",
+            "options": {}
+          },
+          {
+            "value": "Immaculate Sideburns",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "lookThree": {
+        "label": "LookThree",
+        "type": "Text",
+        "value": "",
+        "choices": [
+          {
+            "value": "Calloused Skin",
+            "options": {}
+          },
+          {
+            "value": "Bronzed Skin",
+            "options": {}
+          },
+          {
+            "value": "Stony Skin",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "lookFour": {
+        "label": "LookFour",
+        "type": "Text",
+        "value": "",
+        "choices": [
+          {
+            "value": "Laborer's Leathers",
+            "options": {}
+          },
+          {
+            "value": "Noble's Silks",
+            "options": {}
+          },
+          {
+            "value": "Soldier's Armor",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "advancements": {
+        "label": "Advancement",
+        "description": "When you Level Up, increase your level by 1, then choose an option from the list and mark it. You may only choose each option once.",
+        "type": "ListMany",
+        "options": {
+          "0": {
+            "label": "",
+            "value": false
+          },
+          "1": {
+            "label": "",
+            "value": false
+          },
+          "2": {
+            "label": "",
+            "value": false
+          },
+          "3": {
+            "label": "",
+            "value": false
+          },
+          "4": {
+            "label": "",
+            "value": false
+          },
+          "5": {
+            "label": "",
+            "value": false
+          }
+        },
+        "choices": [
+          {
+            "options": {
+              "0": {
+                "value": false,
+                "label": "Increase your Blood or Wisdom by 1 (to a maximum of +3)."
+              },
+              "1": {
+                "value": false,
+                "label": "Increase one of your stats by 1 (to a maximum of +3)."
+              },
+              "2": {
+                "value": false,
+                "label": "Take another Dwarven Custom."
+              },
+              "3": {
+                "value": false,
+                "label": "Take another Dwarven Custom, or ask another player to share a Move with you."
+              },
+              "4": {
+                "value": false,
+                "label": "Take another Dwarven Custom, or two more Dwarven Gear options. You cannot choose a Gear option you already have."
+              },
+              "5": {
+                "value": false,
+                "label": "Share one of your Gear options with another player."
+              }
+            },
+            "value": ""
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "value": "",
+        "max": null
+      },
+      "unlockDestiny": {
+        "label": "Unlock your Destiny",
+        "description": "You must be level 5 or higher to take this Advancement. When you do, you unlock the ability to choose a Destiny.",
+        "type": "ListMany",
+        "options": {
+          "0": {
+            "label": "You have Changed. When you Change, choose a Destiny you meet the requirements for and take its first Move.",
+            "value": false
+          }
+        },
+        "choices": [
+          {
+            "options": {
+              "0": {
+                "label": "You have Changed. When you Change, choose a Destiny you meet the requirements for and take its first Move.",
+                "value": false
+              }
+            },
+            "value": ""
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "value": "",
+        "max": null
+      },
+      "playingAs": {
+        "label": "Playing as",
+        "value": "",
+        "type": "Details",
+        "choices": [
+          {
+            "value": "<p>The Dwarf is built to last. Their people are the most solidly grounded people this world has to offer. The Dwarf offers you the ability to defend your allies well, clear a path through anything in your way, and keep on chugging in spite of the dangers.</p><p>Play as The Dwarf if you want to be built to take on anything, if you want to outlast the world, if you want to be the toughest person at the table, or if your thirst for treasure outweighs your common sense.</p>",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "details",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "yourPeople": {
+        "label": "Your People",
+        "value": "",
+        "type": "Details",
+        "choices": [
+          {
+            "value": "<h3>DEEPDELVE</h3><p>Your people dig deeper than any others, and the secrets of the earth are yours. You can see in total darkness without a problem, and your armor is born of the secrets that can only be found deep underground.</p><p>Add The Secrets <em>(3 Uses) </em>to your Gear. You can Use them at any time to immediately ask one question from the <em>Look Closely</em> or <em>Speak Softly </em>lists.</p>",
+            "options": {}
+          },
+          {
+            "value": "<h3>FIREBEARD</h3><p>Your people lead a war-like life, with a long history of bloodshed and tragedy. Your armor has seen many battles, and it has seen you through all of them. <strong>When you attempt to defeat an enemy in glorious combat, </strong>you may damage your Blood to try to <em>Finish Them </em>with +Blood or +Sense.</p>",
+            "options": {}
+          },
+          {
+            "value": "<h3>IRONBLAST</h3><p>Your people are madcap inventors and chemists, known throughout the world for their wondrous, and dangerous, creations. Your armor is of unusual design, with many bits and pieces that serve no obvious purpose.</p><p>Add Various Explosive Devices <em>(2 Uses, Dangerous) </em>to your Gear. You can Use your explosives to create an explosion wherever you need it, as long as you could have conceivably planted them ahead of time.</p>",
+            "options": {}
+          },
+          {
+            "value": "<h3>STONEBORN</h3><p>Your kin have more in common with the earth and stone than they do with flesh and blood. Your armor is your bare skin, solid as stone.</p><p><strong>When you stand on solid ground,</strong> you cannot be knocked off your feet or moved unless you want to be, and you can stop anything trying to get past you by <em>Keeping Them Busy</em> with +Iron.</p>",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "details",
+        "max": null,
+        "options": {},
+        "description": "Choose the option that best represents your people:"
+      },
+      "bonds": {
+        "label": "Bonds",
+        "value": "",
+        "type": "Details",
+        "choices": [
+          {
+            "value": "<p>You start with 4 bonds with the other members of the Fellowship. Use these, or make your own:</p><p>I owe <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>a life debt.</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>knows of my secret shame.</p><p>I would rather die at <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>'s side than anywhere else in the world.</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>'s forefathers and mine knew one another.</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>has been trusted with a great dwarven secret.</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>is my drinking buddy.</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>is a friend to all dwarves.</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>is my rival, and I theirs.</p><p>I grudgingly respect <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>'s style.</p><p>Nobody can fight by my side like <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>can!</p><p><strong>Record your other bonds here:</strong></p>",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "details",
+        "max": null,
+        "options": {},
+        "description": ""
+      }
+    },
+    "choiceSets": []
+  },
+  "effects": [],
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736140907443,
+    "modifiedTime": 1736220576815,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_id": "8ULZQ2vBHyaezjss",
+  "sort": 0,
+  "_key": "!items!8ULZQ2vBHyaezjss"
+}

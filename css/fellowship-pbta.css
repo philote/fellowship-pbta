@@ -1,5 +1,11 @@
 /* Colors */
 /* Playbook */
+.pbta.sheet .playbook-details .flexrow {
+  gap: 10px;
+}
+.pbta.sheet .playbook-details .flexcol {
+  align-self: flex-start;
+}
 .pbta.sheet.item.playbook .item-form .item-controls {
   align-content: center;
 }

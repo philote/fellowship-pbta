@@ -1,0 +1,432 @@
+{
+  "name": "THE HARBINGER",
+  "type": "playbook",
+  "_id": "n1x4aTMqesOJGz8z",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": "<div class=\"playbook-details\"><h1>THE HARBINGER</h1><div class=\"flexrow\"><div class=\"flexcol\"><div><h2>POWERFUL PLAYBOOK</h2><p><em>I have walked this land long. I have seen many things. I have known many others. Today, I speak of a great threat to this world. It must be opposed, but we cannot do so divided. Of my kind, I alone will stand against it, but we need true and hearty champions of all the world's peoples if we are to have hope.</em></p><p><em>I know many of this evil's secrets. Do not ask how. Such knowledge was earned painfully. Many have chosen to ignore my warnings, but I beg that you are not among them. To those who have courage, to those who would see this world saved, to those who would be champions, I will guide you.</em></p><p><em>I am the Harbinger, and Doom is coming.</em></p></div><div><h2>NAME</h2><p><strong>Choose one or two from each, or make up your own:</strong></p><p><strong>Given Names:</strong> <em>Gandall, Weathersky, Belgarath, Ursula, Risewind, Elric, Albus, Merlin, Mesmer, Baba Yaga, Vivi, Gwydion, Morgan, Jadis, Willow</em></p><p><strong>Titles:</strong> <em>Lightbearer, the Grey, Cursender, of Camelor, Windreaver, Greenhanded, of Twisting Fire, Greyblossom, Blightbringer, the Forsaken, of Red Ashes, in Exile Eternal</em></p></div><div><h2>LOOK</h2><p><strong>Circle one from each list, or make up your own:</strong></p><ul><li>Flowing Hair, Messy Hair, or Silvery Hair</li><li>Whimsical Robes, Plain Robes, or Very Old Robes</li><li>Cold Eyes, Kind Eyes, or Infinitely Sad Eyes</li><li>Long Scarf, Heavy Hood, or Simple Jewelry</li></ul></div><div><h2>AGENDA</h2><p><strong>When you know not what to do, consult your Agendas.</strong></p><h3>You have these three Agendas:</h3><ul><li>Be Brave, Take Risks</li><li>Tell Us Of Your People</li><li>Improve The World Around You</li></ul><p><strong>And circle a fourth Agenda that only you follow:</strong></p><h3>Fulfill The Prophecy</h3><p>Tell us about <em><strong>~The Great Prophecies~</strong></em> and do your best to fulfill them.</p><h3>Savior Complex</h3><p>Remove evil from this world, at all costs.</p><h3>You'll Get Through This</h3><p>Protect your allies from harm and danger, no matter what happens to you.</p></div><div><h2>STATS</h2><p>Your <strong>Doom </strong>stat is +2. Assign +2, +1, +0, +0, -1 to the others.</p><p><strong>When a stat is damaged,</strong> mark the small box. You are in <strong>Despair</strong> when you roll a damaged stat.</p><ul><li>Blood</li><li>Courage</li><li>Grace</li><li>Sense</li><li>Wisdom</li><li>Doom</li></ul></div><div><h2>WHAT IS A HARBINGER?</h2><p><strong>Choose the option that best represents your people:</strong></p><h3>ANGELIC REMNANTS</h3><p>Your people are what remainds of the divine beings who created this world, and your extraordinary powers are what lingers of their gifts. Your Doom will bring salvation.</p><p><strong>When you read the prophecies about someone whose name you know, </strong>you may <em>Speak Softly </em>with +Doom instead of +Wisdom, and you do not need to be speaking with them to learn their answers.</p><h3>BLIND PROPHETS</h3><p>Your fellow wizards see without sight, and you are no different. Even without eyes, you can see more than anyone else.</p><p><strong>Add the following options to the </strong><em><strong>Wizardry </strong></em><strong>move:</strong></p><ul><li>Look through a wall, so long as you touch it</li><li>Look through the eyes of another, so long as you hold something they own aloft in your hands</li></ul><h3>PRINCIPLED ACADEMIA</h3><p>Wizardry comes from a book. Anyone can become a wizard with enough education, and you are among the scholastic elite. Inside your book is limitless power, if you can read the runes right. You have a magical book <em>(2 Uses, Slow) </em>added to your Gear.</p><p><strong>When you consult your magical book on how to perform a magical ritual properly,</strong> tell us what you want the ritual to accomplish. It takes several minutes to perform a ritual.</p><p>Once it is finished, <strong>choose one:</strong></p><ul><li>It works how you wanted, but won't take effect for some time</li><li>It takes effect immediately, but there is a catch or side effect</li></ul><h3>SERVANTS OF THE DARK</h3><p>The Harbingers are so-called because they herald the coming of the Overlord, and they serve the Overlord. You are a renegade to your people, outcast, but you still command the same terrifying powers they do. You do not need to pay a price to show others why they <em>Do Not Trifle With Wizards</em>.</p></div><div><h2>CORE MOVES</h2><p><strong>All Harbingers have these moves.</strong></p><h3>DOOMED SOUL</h3><p>The Harbingers are the keepers of prophecy and magic, and their soul is unlike any other. You have a sixth stat, Doom, and an additional +0 to assign between your stats. <strong>When your Doom stat gets damaged by an enemy attack, </strong>you must damage another one of your stats.</p><p><strong>When you </strong><em><strong>Finish Them </strong></em><strong>by relying on fate or luck,</strong> roll +Doom. On a 10+, their fate is sealed. The Overlord player decides what happens to them.</p><p><strong>When you Share this Move with another,</strong> their Doom stat is +1.</p><h3>DOOM AND GLOOM</h3><p>Your Doom makes you hard for others to relate to.</p><p>You can never have more than one Bond with someone, and others can never have more than one Bond with you.</p><p><strong>This Move cannot be Shared.</strong></p><h3>DO NOT TRIFLE WITH WIZARDS</h3><p>Your magic is dangerous and powerful, for both you and your enemies.</p><p><strong>When you conjure a powerful spell to destroy something in your way,</strong> pay a price, then take up to three points of damage. You inflict that much damage to your target. You then become exhausted, and roll with Despair for the rest of the scene.</p><p><strong>Threats to the World </strong>and <strong>Set Pieces</strong> take no damage from this Move.</p><p><strong>This Move cannot be Shared.</strong></p><h3>WIZARDRY</h3><p><strong>When you draw upon the magic inherent to your people,</strong> choose one option from below. You may use these spells as often as you need to. <strong>When you use one of these magical effects,</strong> tell us how it manifests - what does it look like, what does it sound like? What do you need to do to make this happen?</p><ul><li>Conjure a soft light, which floats around you.</li><li>Deliver a message through mysterious means.</li><li>Speak, look, or listen as if you were somewhere else that you can see.</li><li>Touch, push, or grab as if you were somewhere else that you can see.</li></ul><p><strong>When you Share this Move with another,</strong> they choose a single spell from the list. That spell is the only one they can use. You can Share this Move with someone multiple times. Each time you do, they learn another of your spells.</p></div><div><h2>CUSTOM MOVES</h2><p><strong>Choose one of these moves to further define what it means to be a Harbinger.</strong></p><h3>ANGEL'S TOUCH</h3><p>You can heal the wounds of an ally with a touch, although it takes a lot out of you.</p><p>You gain the tags (Healing, 1 Use).</p><p><strong>When you heal someone,</strong> you may damage yourself to heal them again.</p><p><strong>When you </strong><em><strong>Fill Your Belly</strong></em><strong>,</strong> restore this Use.</p><h3>A WIZARD'S WORD</h3><p><strong>When you make a promise to someone and they promise something in return,</strong> you may leave your mark upon them. <strong>So long as you do not break your promise,</strong> they cannot break theirs.</p><p>Write a Bond with them describing the promise you share. The mark is undone when they fulfill their end of the promise, or you break your end of it.</p><h3>CULTURAL APPRECIATION</h3><p>Take a Custom Move from any basic playbook.</p><p>You may take an Agenda from the chosen playbook.</p><p><strong>This Move cannot be Shared.</strong></p><h3>DARK AND TERRIBLE</h3><p><strong>When you denounce the deeds of another,</strong> you may take one damage to leave a curse upon them. Tell us the nature of this curse, and what must be done to lift it.</p><h3>MYSTERIOUS FIRES</h3><p><strong>Add the following option to the </strong><em><strong>Wizardry </strong></em><strong>move:</strong>&lt;</p><ul><li>Start a fire on something flammable that you can see. The fire starts small, but it will grow rapidly if left unchecked.</li></ul><h3>THE EVIL EYE ABOVE</h3><p>Doom follows you, but you are ready for it. <strong>When the minions of the Overlord approach, </strong>the Overlord's player must tell you before they arrive.</p><p><strong>When you know the Overlord's plans,</strong> you may ask them, \"What is one way I could stop this?\" They must answer truthfully.</p><h3>WILDSPEAKER</h3><p>You speak the language of beasts and monsters.</p><p><strong>When you try to speak to such a creature for the first time, </strong>they will always pause to listen and reply, and you always have a chance to <em>Speak Softly </em>or <em>Talk Sense </em>with them.</p><h3>YOU SHALL NOT PASS</h3><p><strong>When you </strong><em><strong>Keep Them Busy </strong></em><strong>and get a 10+,</strong> you may pay a price to hold them off indefinitely - it will be impossible for them to follow or approach you for the rest of the scene. Tell us how your magic or their fate has stepped in to hold them off.</p></div></div><div class=\"flexcol\"><div><h2>PLAYING AS THE HARBINGER</h2><p>The Harbinger is a prophet of the end of days. They are magical beings, and they are both very rare and very powerful. A Harbinger never shows up when times are good. You will have more raw power and utility than anyone else, but you tire quickly, make friends poorly, and you cannot do this alone.</p><p>Play as The Harbinger if you want to play the mentor character, if you want to have access to powerful and deadly magic, if you want to be a bit of a loner, or if you want to play a gloomy prophet of the end times.</p></div><div><h2>ADVANCEMENT</h2><p><strong>When you Level Up, increase your level by 1, then choose an option from the list and mark it. You may only choose each option once.</strong> <em>You begin the game at level 1.</em></p><ul><li>Increase one of your stats by 1 (to a maximum of +3). O Increase one of your stats by 1 (to a maximum of +2). O Take another Harbinger Custom.</li><li>Take another Harbinger Custom.</li><li>Take another Harbinger Custom, or one more Harbinger Gear option.</li><li>Take another Harbinger Custom, or ask another player to share a Move with you.</li><li>Take a Custom Move from any Basic or Powerful playbook.</li><li>Take an End of Days, Oracle, or Witch Move.</li><li>Take an End of Days, Oracle, or Witch Custom. You must be level 5 or higher to take this Advancement.</li><li>Take a Custom Move from any Destiny playbook. You must be level 5 or higher to take this Advancement.</li><li>Choose a player. They Share a Move with you.</li><li>You have become a <strong>Threat to the World. </strong>You must be level 5 or higher to take this Advancement. When facing another <strong>Threat to the World</strong>, you do not need to pay a price simply to act against them.</li></ul></div><div><h2>BONDS</h2><p>You start with 2 bonds with the other members of the Fellowship. Use these, or make your own:</p><p>I am teaching <span style=\"text-decoration:underline\">                </span>the ways of the world.</p><p><span style=\"text-decoration:underline\">                        </span>will be of great importance in the events to come.</p><p>I have done many a favor for <span style=\"text-decoration:underline\">                </span>.</p><p>I once told <span style=\"text-decoration:underline\">              </span>a magnificent story, and they have never forgotten it.</p><p>I have trusted <span style=\"text-decoration:underline\">                </span>with a dark secret.</p><p><span style=\"text-decoration:underline\">               </span>is the only person who has ever changed a future I foresaw.</p><p>I have never met anyone more full of life than <span style=\"text-decoration:underline\">                </span>.</p><p>My prophecies do not scare <span style=\"text-decoration:underline\">                </span>, and for that I am eternally thankful.</p><p>I know the doom that awaits <span style=\"text-decoration:underline\">              </span>but I cannot bring myself to tell them.</p><p><span style=\"text-decoration:underline\">               </span>gives me hope for our future.</p><p><strong>Record your other bonds here:</strong></p></div><div><h2>HARBINGER GEAR</h2><p>You start with just enough food <em>(Food, 2 Uses)</em> and some wizardly baubles <em>(Useful, 2 Uses).</em> Every Harbinger's gear is unique, and no other will carry the same things you do.</p><h3>You carry a ruined blade <em>(Melee). </em><strong>Choose its enchantment:</strong></h3><ul><li>It cuts through anything <em>(Piercing).</em></li><li>Its wounds do not heal <em>(Necrotic).</em></li><li>It blazes with fire <em>(Burning).</em></li><li>It is incredibly powerful and unsafe to use <em>(Dangerous).</em></li></ul><h3>Choose the secret weapon you brought with you on this journey:</h3><ul><li>An ancient staff of old wood <em>(Melee)</em> with a spell of safe travels written upon it <em>(Armor, 2 Uses).</em></li><li>The Overlord's Weakness, tucked away inside a bottle or box.</li><li>A powerful elixir <em>(Healing, 2 Uses).</em></li><li>A flashpowder trap <em>(Trap, 2 Uses). </em>It blinds everyone in the area for a short time.</li></ul><h3>Choose your companion, you have 1 Bond with them:</h3><ul><li>A carriage or jacksled.</li><li>A pegasus or witch's broom.</li><li>A strange beast, describe it and give it two stats of your choosing.</li></ul><p>The Harbingers all have a source to their magical abilities, and every Harbinger draws from the same source.</p><h3>Choose your source of magic:</h3><ul><li>The leylines of magic that hold reality together <em>(2 Uses). You can Use this connection to the leylines</em> to access a sealed location, or seal off an accessible location, bending space to accomodate your need.</li><li>Magical bloodline, from strange and powerful ancestors <em>(2 Uses, Healing).</em></li><li>Magical tattoos, etched into your skin, each with their own purpose <em>(2 Uses, Useful).</em></li><li>A magical focus, such as a staff, crown, amulet, doll, or book. Whoever holds it has your <em>Wizardry </em>move. You can always call this focus back to you at any time - it knows who its master is. <strong>Describe or draw your focus here:</strong></li></ul></div><div><h2>COMPANIONS</h2><p>Harbinger companions are those allies who are particularly likely to join arms with you. Many of them are available as Gear options - a Companion in your Gear will always return to you, heal, or be replaced by another when you <em>Recover</em>.</p><h3>A STRANGE BEAST</h3><p><em>Tell us about it. It comes with two stats that describe its abilities, chosen by the one who formed a Bond with it.</em></p><h3>PEGASUS</h3><p><em>A winged horse. Just like a regular horse, but significantly more mobile.</em></p><p class=\"tags\">flight | mounted combat</p><h3>WITCH'S BROOM</h3><p><em>A simple broomstick, complete with vintage bristles from 1287, a finely bound leather handle, and a silver inlaid inscription of its owner's name.</em></p><p class=\"tags\">flight | zippy quick</p><h3>JACKSLED</h3><p><em>A sleigh, drawn by many small animals, usually rabbits or dogs. The Jacksled is the fastest vehicle in the known world, but it doesn't have much room for passengers.</em></p><p class=\"tags\">supply run | outrun anything</p><h3>TRAVELER'S CARRIAGE</h3><p><em>Usually drawn by pony, these carriages are popular homes for the average nomad or merchant.</em></p><p class=\"tags\">home sweet home | travel in comfort</p></div></div></div></div>",
+    "slug": "the-harbinger",
+    "actorType": "character",
+    "stats": {
+      "blood": {
+        "label": "Blood",
+        "value": 0
+      },
+      "courage": {
+        "label": "Courage",
+        "value": 0
+      },
+      "grace": {
+        "label": "Grace",
+        "value": 0
+      },
+      "sense": {
+        "label": "Sense",
+        "value": 0
+      },
+      "wisdom": {
+        "label": "Wisdom",
+        "value": 0
+      },
+      "iron": {
+        "label": "Iron",
+        "value": 0
+      },
+      "doom": {
+        "label": "Doom",
+        "value": 2
+      }
+    },
+    "statsDetail": "Your Doom stat is +2. Assign +2, +1, +0, +0, -1 to the others.",
+    "attributes": {
+      "statsVisibility": {
+        "label": "Stats Visibility",
+        "description": "Which stats are visible on the character sheet?",
+        "type": "ListMany",
+        "options": {
+          "0": {
+            "label": "blood",
+            "value": true
+          },
+          "1": {
+            "label": "courage",
+            "value": true
+          },
+          "2": {
+            "label": "grace",
+            "value": true
+          },
+          "3": {
+            "label": "sense",
+            "value": true
+          },
+          "4": {
+            "label": "wisdom",
+            "value": true
+          },
+          "5": {
+            "label": "iron",
+            "value": false
+          },
+          "6": {
+            "label": "doom",
+            "value": false
+          }
+        },
+        "choices": [
+          {
+            "options": {
+              "0": {
+                "value": true,
+                "label": "blood"
+              },
+              "1": {
+                "value": true,
+                "label": "courage"
+              },
+              "2": {
+                "value": true,
+                "label": "grace"
+              },
+              "3": {
+                "value": true,
+                "label": "sense"
+              },
+              "4": {
+                "value": true,
+                "label": "wisdom"
+              },
+              "5": {
+                "value": false,
+                "label": "iron"
+              },
+              "6": {
+                "value": true,
+                "label": "doom"
+              }
+            },
+            "value": ""
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "value": "",
+        "max": null
+      },
+      "initialAgendas": {
+        "label": "Agendas",
+        "type": "LongText",
+        "value": "",
+        "choices": [
+          {
+            "value": "<ul><li>Be Brave, Take Risks</li><li>Tell Us Of Your People</li><li>Improve The World Around You</li></ul>",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "fourthAgenda": {
+        "label": "When you know not what to do, consult your Agendas.",
+        "type": "LongText",
+        "value": "",
+        "choices": [
+          {
+            "value": "<p><strong>Fulfill The Prophecy</strong> Tell us about <em><strong>~The Great Prophecies~</strong></em> and do your best to fulfill them.</p>",
+            "options": {}
+          },
+          {
+            "value": "<p><strong>Savior Complex</strong> Remove evil from this world, at all costs.</p>",
+            "options": {}
+          },
+          {
+            "value": "<p><strong>You'll Get Through This</strong> Protect your allies from harm and danger, no matter what happens to you.</p>",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "lookOne": {
+        "label": "Look",
+        "type": "Text",
+        "value": "",
+        "choices": [
+          {
+            "value": "Flowing Hair",
+            "options": {}
+          },
+          {
+            "value": "Messy Hair",
+            "options": {}
+          },
+          {
+            "value": "Silvery Hair",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "lookTwo": {
+        "label": "LookTwo",
+        "type": "Text",
+        "value": "",
+        "choices": [
+          {
+            "value": "Whimsical Robes",
+            "options": {}
+          },
+          {
+            "value": "Plain Robes",
+            "options": {}
+          },
+          {
+            "value": "Very Old Robes",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "lookThree": {
+        "label": "LookThree",
+        "type": "Text",
+        "value": "",
+        "choices": [
+          {
+            "value": "Cold Eyes",
+            "options": {}
+          },
+          {
+            "value": "Kind Eyes",
+            "options": {}
+          },
+          {
+            "value": "Infinitely Sad Eyes",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "lookFour": {
+        "label": "LookFour",
+        "type": "Text",
+        "value": "",
+        "choices": [
+          {
+            "value": "Long Scarf",
+            "options": {}
+          },
+          {
+            "value": "Heavy Hood",
+            "options": {}
+          },
+          {
+            "value": "Simple Jewelry",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "advancements": {
+        "label": "Advancement",
+        "description": "When you Level Up, increase your level by 1, then choose an option from the list and mark it. You may only choose each option once.",
+        "type": "ListMany",
+        "options": {
+          "0": {
+            "label": "",
+            "value": false
+          },
+          "1": {
+            "label": "",
+            "value": false
+          },
+          "2": {
+            "label": "",
+            "value": false
+          },
+          "3": {
+            "label": "",
+            "value": false
+          },
+          "4": {
+            "label": "",
+            "value": false
+          },
+          "5": {
+            "label": "",
+            "value": false
+          }
+        },
+        "choices": [
+          {
+            "options": {
+              "0": {
+                "value": false,
+                "label": "Increase one of your stats by 1 (to a maximum of +3). O Increase one of your stats by 1 (to a maximum of +2). O Take another Harbinger Custom."
+              },
+              "1": {
+                "value": false,
+                "label": "Take another Harbinger Custom."
+              },
+              "2": {
+                "value": false,
+                "label": "Take another Harbinger Custom, or one more Harbinger Gear option."
+              },
+              "3": {
+                "value": false,
+                "label": "Take another Harbinger Custom, or ask another player to share a Move with you."
+              },
+              "4": {
+                "value": false,
+                "label": "Take a Custom Move from any Basic or Powerful playbook."
+              },
+              "5": {
+                "value": false,
+                "label": "Take an End of Days, Oracle, or Witch Move."
+              },
+              "6": {
+                "value": false,
+                "label": "Take an End of Days, Oracle, or Witch Custom. You must be level 5 or higher to take this Advancement."
+              },
+              "7": {
+                "value": false,
+                "label": "Take a Custom Move from any Destiny playbook. You must be level 5 or higher to take this Advancement."
+              },
+              "8": {
+                "value": false,
+                "label": "Choose a player. They Share a Move with you."
+              },
+              "9": {
+                "value": false,
+                "label": "You have become a <b>Threat to the World. </b>You must be level 5 or higher to take this Advancement. When facing another Threat to the World, you do not need to pay a price simply to act against them."
+              }
+            },
+            "value": ""
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "value": "",
+        "max": null
+      },
+      "unlockDestiny": {
+        "label": "Unlock your Destiny",
+        "description": "",
+        "type": "ListMany",
+        "options": {
+          "0": {
+            "label": "You have Changed. When you Change, choose a Destiny you meet the requirements for and take its first Move.",
+            "value": false
+          }
+        },
+        "choices": [],
+        "custom": false,
+        "path": "attributes",
+        "value": "",
+        "max": null
+      },
+      "playingAs": {
+        "label": "Playing as",
+        "value": "",
+        "type": "Details",
+        "choices": [
+          {
+            "value": "<p>The Harbinger is a prophet of the end of days. They are magical beings, and they are both very rare and very powerful. A Harbinger never shows up when times are good. You will have more raw power and utility than anyone else, but you tire quickly, make friends poorly, and you cannot do this alone.</p><p>Play as The Harbinger if you want to play the mentor character, if you want to have access to powerful and deadly magic, if you want to be a bit of a loner, or if you want to play a gloomy prophet of the end times.</p>",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "details",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "yourPeople": {
+        "label": "Your People",
+        "value": "",
+        "type": "Details",
+        "choices": [
+          {
+            "value": "<h3>ANGELIC REMNANTS</h3><p>Your people are what remainds of the divine beings who created this world, and your extraordinary powers are what lingers of their gifts. Your Doom will bring salvation.</p><p><strong>When you read the prophecies about someone whose name you know, </strong>you may <em>Speak Softly </em>with +Doom instead of +Wisdom, and you do not need to be speaking with them to learn their answers.</p>",
+            "options": {}
+          },
+          {
+            "value": "<h3>BLIND PROPHETS</h3><p>Your fellow wizards see without sight, and you are no different. Even without eyes, you can see more than anyone else.</p><p><strong>Add the following options to the </strong><em><strong>Wizardry </strong></em><strong>move:</strong></p><ul><li>Look through a wall, so long as you touch it</li><li>Look through the eyes of another, so long as you hold something they own aloft in your hands</li></ul>",
+            "options": {}
+          },
+          {
+            "value": "<h3>PRINCIPLED ACADEMIA</h3><p>Wizardry comes from a book. Anyone can become a wizard with enough education, and you are among the scholastic elite. Inside your book is limitless power, if you can read the runes right. You have a magical book <em>(2 Uses, Slow) </em>added to your Gear.</p><p><strong>When you consult your magical book on how to perform a magical ritual properly,</strong> tell us what you want the ritual to accomplish. It takes several minutes to perform a ritual.</p><p>Once it is finished, <strong>choose one:</strong></p><ul><li>It works how you wanted, but won't take effect for some time</li><li>It takes effect immediately, but there is a catch or side effect</li></ul>",
+            "options": {}
+          },
+          {
+            "value": "<h3>SERVANTS OF THE DARK</h3><p>The Harbingers are so-called because they herald the coming of the Overlord, and they serve the Overlord. You are a renegade to your people, outcast, but you still command the same terrifying powers they do. You do not need to pay a price to show others why they <em>Do Not Trifle With Wizards</em>.</p>",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "details",
+        "max": null,
+        "options": {},
+        "description": "Choose the option that best represents your people:"
+      },
+      "bonds": {
+        "label": "Bonds",
+        "value": "",
+        "type": "Details",
+        "choices": [
+          {
+            "value": "<p>You start with 2 bonds with the other members of the Fellowship. Use these, or make your own:</p><p>I am teaching <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>the ways of the world.</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>will be of great importance in the events to come.</p><p>I have done many a favor for <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>.</p><p>I once told <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>a magnificent story, and they have never forgotten it.</p><p>I have trusted <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>with a dark secret.</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>is the only person who has ever changed a future I foresaw.</p><p>I have never met anyone more full of life than <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>.</p><p>My prophecies do not scare <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>, and for that I am eternally thankful.</p><p>I know the doom that awaits <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>but I cannot bring myself to tell them.</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>gives me hope for our future.</p><p><strong>Record your other bonds here:</strong></p>",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "details",
+        "max": null,
+        "options": {},
+        "description": ""
+      }
+    },
+    "choiceSets": []
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736213357823,
+    "modifiedTime": 1736222344178,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!n1x4aTMqesOJGz8z"
+}
