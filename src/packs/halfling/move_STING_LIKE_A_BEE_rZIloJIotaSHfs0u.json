@@ -1,0 +1,52 @@
+{
+  "folder": "xQBVK5t1At67bu1u",
+  "name": "STING LIKE A BEE",
+  "type": "move",
+  "_id": "rZIloJIotaSHfs0u",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>When you </strong><em><strong>Keep Them Busy </strong></em><strong>by getting in close and get a 7+,</strong> choose one.</p><p>You can only <em>Sting Like A Bee </em>against those who are larger than you.</p><ul><li>You get them to chase you around, and you both leave the scene.</li><li>You steal something small from them, and they don't notice until they need it or you taunt them with it.</li><li>You get them talking - ask a question from the <em>Speak Softly </em>list.</li><li>You think fast - ask a question from the <em>Look Closely</em> list.</li></ul>",
+    "moveType": "core",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736310576032,
+    "modifiedTime": 1736310601649,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!rZIloJIotaSHfs0u"
+}

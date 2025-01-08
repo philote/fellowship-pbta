@@ -1,0 +1,52 @@
+{
+  "folder": "cfR995XpurFSj3ox",
+  "name": "A WIZARD'S WORD",
+  "type": "move",
+  "_id": "5ZcUFKrCgukEveam",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>When you make a promise to someone and they promise something in return,</strong> you may leave your mark upon them. <strong>So long as you do not break your promise,</strong> they cannot break theirs.</p><p>Write a Bond with them describing the promise you share. The mark is undone when they fulfill their end of the promise, or you break your end of it.</p>",
+    "moveType": "customs",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736311176704,
+    "modifiedTime": 1736311189418,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!5ZcUFKrCgukEveam"
+}

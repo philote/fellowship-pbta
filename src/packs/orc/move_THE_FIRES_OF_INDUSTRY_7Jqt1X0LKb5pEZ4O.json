@@ -1,0 +1,52 @@
+{
+  "folder": "xQBVK5t1At67bu1u",
+  "name": "THE FIRES OF INDUSTRY",
+  "type": "move",
+  "_id": "7Jqt1X0LKb5pEZ4O",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>As long as you have a minute's time and destroy something in the process,</strong> you can craft an Orc-Made weapon of your own design. Orc-Made weapons are Clumsy in any hands but an Orc's, and they are ugly to all but Orcs. The weapon is Melee.</p><p>Weapons you make are not added to your Gear - they are temporary and must be replaced when they are lost or damaged. You cannot carry more than 4 weapons you've made at a single time, but you can restock weaponry between scenes as you like.</p><p><strong>When you Share this move with another,</strong> they gain an appreciation for the utility or simplicity of Orc-Made weaponry. Orc-Made weapons are not Clumsy in the hands of those with this move.</p>",
+    "moveType": "core",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736311891834,
+    "modifiedTime": 1736311910261,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!7Jqt1X0LKb5pEZ4O"
+}

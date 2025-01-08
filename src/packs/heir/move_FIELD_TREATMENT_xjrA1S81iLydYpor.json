@@ -1,0 +1,52 @@
+{
+  "folder": "cfR995XpurFSj3ox",
+  "name": "FIELD TREATMENT",
+  "type": "move",
+  "_id": "xjrA1S81iLydYpor",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>When you treat someone's wounds,</strong> roll +Wisdom.</p><p>You can only use this Move on someone who has just been hurt. If they were hurt in a previous scene, it is too late for you to help.</p>",
+    "moveType": "customs",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": "<p>It doesn't go smoothly. Either they damage another stat of their choice, or you need to pay a price.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": "<p>They heal 1 damage.</p><p>It doesn't go smoothly. Either they damage another stat of their choice, or you need to pay a price.</p>"
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": "<p>They heal 1 damage.</p>"
+      }
+    },
+    "uses": 0,
+    "rollType": "wisdom",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736311495795,
+    "modifiedTime": 1736311577149,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!xjrA1S81iLydYpor"
+}

@@ -1,0 +1,52 @@
+{
+  "folder": "xQBVK5t1At67bu1u",
+  "name": "DOOM AND GLOOM",
+  "type": "move",
+  "_id": "hSNSaIKVz3ZI3nUK",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Your Doom makes you hard for others to relate to.</p><p>You can never have more than one Bond with someone, and others can never have more than one Bond with you.</p><p><strong>This Move cannot be Shared.</strong></p>",
+    "moveType": "core",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736311049849,
+    "modifiedTime": 1736311066560,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!hSNSaIKVz3ZI3nUK"
+}

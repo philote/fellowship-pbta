@@ -1,0 +1,52 @@
+{
+  "folder": "xQBVK5t1At67bu1u",
+  "name": "DO NOT TRIFLE WITH WIZARDS",
+  "type": "move",
+  "_id": "lK4PVj8SueEMXANk",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Your magic is dangerous and powerful, for both you and your enemies.</p><p><strong>When you conjure a powerful spell to destroy something in your way,</strong> pay a price, then take up to three points of damage. You inflict that much damage to your target. You then become exhausted, and roll with Despair for the rest of the scene.</p><p><strong>Threats to the World </strong>and <strong>Set Pieces</strong> take no damage from this Move.</p><p><strong>This Move cannot be Shared.</strong></p>",
+    "moveType": "core",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736311078564,
+    "modifiedTime": 1736311093521,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!lK4PVj8SueEMXANk"
+}

@@ -1,0 +1,52 @@
+{
+  "folder": "cfR995XpurFSj3ox",
+  "name": "WAY WITH WORDS",
+  "type": "move",
+  "_id": "PFl5LfnfMocgUTVh",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>When you </strong><em><strong>Speak Softly </strong></em><strong>with someone who admires or fears you,</strong> you may roll at +Grace instead of +Wisdom.</p><p><strong>When you </strong><em><strong>Speak Softly, </strong></em>you may also ask, \"What do they desire most?\" regardless of the result of your roll.</p>",
+    "moveType": "customs",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "grace",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736310343904,
+    "modifiedTime": 1736310365895,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!PFl5LfnfMocgUTVh"
+}

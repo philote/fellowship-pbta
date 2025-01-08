@@ -1,0 +1,52 @@
+{
+  "folder": "cfR995XpurFSj3ox",
+  "name": "ENEMY AT THE GATES",
+  "type": "move",
+  "_id": "rrH25Ohoi4xhL19u",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>When you are hidden from your target and wield a ranged weapon, </strong>you can spend 1 Ammo to <em>Finish Them </em>with +Grace. </p>",
+    "moveType": "customs",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": "<p>You remain hidden.</p>"
+      }
+    },
+    "uses": 0,
+    "rollType": "grace",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736310194727,
+    "modifiedTime": 1736310260878,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!rrH25Ohoi4xhL19u"
+}

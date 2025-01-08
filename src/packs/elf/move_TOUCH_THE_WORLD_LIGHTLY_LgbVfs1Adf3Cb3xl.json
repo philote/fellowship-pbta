@@ -1,0 +1,52 @@
+{
+  "folder": "xQBVK5t1At67bu1u",
+  "name": "TOUCH THE WORLD LIGHTLY",
+  "type": "move",
+  "_id": "LgbVfs1Adf3Cb3xl",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>You can safely walk on top of snow, across thin tree branches, along precarious ledges, or on top of held weaponry. You can also run along walls, up trees, or across treacherous surfaces safely, although only for short distances.</p><p>You still need to roll to <em>Get Away </em>if you use this move to escape danger.</p>",
+    "moveType": "core",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736310027535,
+    "modifiedTime": 1736310049315,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!LgbVfs1Adf3Cb3xl"
+}

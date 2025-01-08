@@ -1,0 +1,52 @@
+{
+  "folder": "cfR995XpurFSj3ox",
+  "name": "VOICE OF REASON",
+  "type": "move",
+  "_id": "nGxvYhksjSYpTlPa",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>You alone are the voice of reason in this insane world. <strong>When you offer advice to another player and they ignore it,</strong> you are filled with Hope during any attempts to bail them out of whatever mess they got themselves into. Basically, if you could say \"I told you so\" after your action, you have Hope to do it.</p>",
+    "moveType": "customs",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736312691819,
+    "modifiedTime": 1736312702583,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!nGxvYhksjSYpTlPa"
+}
