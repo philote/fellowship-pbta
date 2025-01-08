@@ -1,0 +1,52 @@
+{
+  "name": "Keep Them Busy",
+  "type": "move",
+  "_id": "uXriNVHOmu3064KN",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>When you act as a distraction or buy some time, tell us how and roll +Courage.</p><p>If you <em>Keep Them Busy </em>using a weapon with Ammo, use 1 Ammo. If you have no Ammo, you cannot <em>Keep Them Busy </em>with that weapon. If you have the Clumsy tag, you take -1 to <em>Keep Them Busy.</em></p><p></p>",
+    "moveType": "basic",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": "<p>They will retaliate against you when time is up.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": "<p>You buy some time, and their attention is all on you, for now.</p><p>They will retaliate against you when time is up.</p>"
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": "<p>You buy some time, and their attention is all on you, for now.</p><p>They will retaliate against you when time is up.</p>"
+      }
+    },
+    "uses": 0,
+    "rollType": "courage",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736308323411,
+    "modifiedTime": 1736308467290,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!uXriNVHOmu3064KN"
+}

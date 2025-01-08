@@ -1,0 +1,40 @@
+{
+  "folder": "vj5DONFf1IgB28XH",
+  "name": "BLACKSMITH",
+  "type": "fellowship-pbta.companion",
+  "_id": "Z6InU743Ah3YdbgS",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "typeName": "BLACKSMITH",
+    "typeDescription": "Strong in arm and strong in trade, this trained professional will keep your weaponry in fine condition.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "spare weapons",
+        "damaged": false
+      },
+      {
+        "name": "strong arm",
+        "damaged": false
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736232106620,
+    "modifiedTime": 1736232129531,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!Z6InU743Ah3YdbgS"
+}

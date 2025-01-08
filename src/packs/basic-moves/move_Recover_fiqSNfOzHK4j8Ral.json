@@ -1,0 +1,52 @@
+{
+  "name": "Recover",
+  "type": "move",
+  "_id": "fiqSNfOzHK4j8Ral",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>When the fellowship rests in a place of safety for over a week,</strong> heal all of your stats and restock all of your Gear. The Overlord then advances their plans and heals one damage.</p>",
+    "moveType": "basic",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736309328088,
+    "modifiedTime": 1736309349371,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!fiqSNfOzHK4j8Ral"
+}

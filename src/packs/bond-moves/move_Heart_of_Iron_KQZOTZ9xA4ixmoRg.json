@@ -1,0 +1,52 @@
+{
+  "name": "Heart of Iron",
+  "type": "move",
+  "_id": "KQZOTZ9xA4ixmoRg",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>When you would make a move against the Overlord, </strong>you may automatically fail the roll to erase one of their Bonds with you. <strong>If you do, </strong>they steal the Spotlight and <em>Twist the Knife </em>against you, but they will not be able to react to anything the rest of the fellowship does while they hurt you.</p>",
+    "moveType": "bonds",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736309628588,
+    "modifiedTime": 1736309640963,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!KQZOTZ9xA4ixmoRg"
+}

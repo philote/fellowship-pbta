@@ -1,0 +1,40 @@
+{
+  "folder": "vj5DONFf1IgB28XH",
+  "name": "DWARVEN BERSERKER",
+  "type": "fellowship-pbta.companion",
+  "_id": "MSdRaRCocdgQFQL3",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "typeName": "DWARVEN BERSERKER",
+    "typeDescription": "The strongers and most aggressive of all dwarves.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "blind rage",
+        "damaged": false
+      },
+      {
+        "name": "reckless valor",
+        "damaged": false
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736232142261,
+    "modifiedTime": 1736232169493,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!MSdRaRCocdgQFQL3"
+}

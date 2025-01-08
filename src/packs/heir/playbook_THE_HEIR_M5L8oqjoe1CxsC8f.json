@@ -1,0 +1,426 @@
+{
+  "name": "THE HEIR",
+  "type": "playbook",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": "<div class=\"playbook-details\"><h1>THE HEIR</h1><div class=\"flexrow\"><div class=\"flexcol\"><div><h2>BASIC PLAYBOOK</h2><p><em>My kingdom has stood for centuries, and its legacy lives on in me. The weight of history rests on my shoulders, but we live in an age where that history may be coming to an end. It is for that reason that I stand here now. So that our legacy shall never be forgotten, I pledge to oppose this rising evil. It is nothing less than my duty.</em></p><p><em>I see the path this evil has taken. In their wake, I see want, suffering, and fear. This I cannot allow. To any who would follow me, I promise, I shall lead you to victory. We shall not be lost this age. We shall prevail. Our history will go on.</em></p><p><em>I am the Heir, and the burden of history is my blade.</em></p></div><div><h2>NAME</h2><p><strong>Choose one or two from each, or make up your own:</strong></p><p><strong>Given Names:</strong> <em>Argorn, Marth, Durindal, Caesar, Ancilotto, Appolonius, MacBeth, Feanor, Arwen, Aurora, Calafia, Cercei, Delphyna, Marceline, Namora, Rose, Vera</em></p><p><strong>Royal Titles:</strong> <em>Prince/Princess, Duke/Duchess, King/Queen, of the Lost, of Felwar, the Brave, the Fourteenth, the Redeemed, of Legends, Child of <span style=\"text-decoration:underline\">        </span>, Blessed by <span style=\"text-decoration:underline\">      </span></em></p></div><div><h2>LOOK</h2><p><strong>Circle one from each list, or make up your own:</strong></p><ul><li>Cropped Hair, Luscious Hair, or Scruffy Hair</li><li>Handsome Face, Scarred Face, or Serene Face</li><li>Weary Eyes, Hard Eyes, or Determined Eyes</li><li>Simple Clothing, Practical Uniform, or Royal Garb</li></ul></div><div><h2>AGENDA</h2><p><strong>When you know not what to do, consult your Agendas.</strong></p><h3>You have these three Agendas:</h3><ul><li>Be Brave, Take Risks</li><li>Tell Us Of Your People</li><li>Improve The World Around You</li></ul><p><strong>And circle a fourth Agenda that only you follow:</strong></p><h3>A Softer Touch</h3><p>Use kindness, diplomacy, and compromise, whenever possible.</p><h3>But What Of My Kingdom?</h3><p>Act on behalf of your kingdom's wealth and honor, first and foremost.</p><h3>Judge, Jury, Executioner</h3><p>Make them pay for their crimes.</p></div><div><h2>STATS</h2><p>Your <strong>Wisdom </strong>stat is +2. Assign +2, +1, +0, -1 to your other stats.</p><p><strong>When a stat is damaged,</strong> mark the small box. You are in <strong>Despair</strong> when you roll a damaged stat.</p><ul><li>Blood</li><li>Courage</li><li>Grace</li><li>Sense</li><li>Wisdom</li></ul></div><div><h2>WHAT IS THE HEIR?</h2><p><strong>Choose the option that best represents your people.</strong></p><h3>THE GREAT BUILDERS</h3><p>Your kingdom is famous for their advanced technology, and you bring that power with you. <strong>When you analyze architecture or engineering, </strong>you can always ask \"How do I fix this?\" or \"How do I break this?\"</p><p>You also add Engineering Tools <em>(2 Uses, Useful) </em>to your Gear, which can produce nearly anything you might need to fix or break something you ask about.</p><h3>THE LOST LINE OF KINGS</h3><p>Your kingdom has fallen and your family and fortunes are lost, but you remain. Some say you are cursed, others say you are lucky to be alive at all. <strong>Once per scene, </strong>you may re- roll one die, yours or another's. Tell us how your curse changed the outcome, after seeing the new result.</p><h3>THE STALWART DEFENDERS</h3><p>Your kingdom is all that has stood between the Overlord and the rest of the world for centuries, locking them away. Stopping them now falls squarely on your shoulders.</p><p><strong>When you </strong><em><strong>Overcome </strong></em><strong>the attacks of a Threat to the World,</strong> you never need to pay a price first.</p><p><strong>When you </strong><em><strong>Overcome </strong></em><strong>an attack that would harm someone you have three Bonds with,</strong> you are filled with Hope.</p><h3>THE FORGOTTEN LANDS</h3><p>Your kingdom was believed to not exist, until recently.</p><p>Your people are unlike any in all the world.</p><p>You have a useful and powerful feature that is unique to you and your people. You have this trait at all times, unless it is marked, and can use it to help you in any way necessary. While this trait is marked, it is damaged and cannot help you.</p><p><strong>When you take damage,</strong> you can mark your trait instead. Tell us how your trait protects you. When you heal, you may remove this mark instead of healing another stat.</p><p>Your Unique Trait: <span style=\"text-decoration:underline\">                        </span></p></div><div><h2>CORE MOVES</h2><p><strong>The Heir has these moves.</strong></p><h3>ROYAL TREATMENT</h3><p><strong>When you visit the ruler of a place and introduce yourself, </strong>you and your friends are all given a room for the night and a hot meal to <em>Fill Your Belly</em>, free of charge.</p><h3>YES, MY LIEGE</h3><p><strong>When you issue a command to someone below your rank, </strong>they'll do it immediately, no questions asked. Someone is below your rank if they are of your People, if they are a Companion, or if they serve or follow someone who has shown you <em>Royal Treatment</em>. You never need to <em>Talk Sense </em>to someone who is below your rank.</p><p><strong>When you give a command that directly harms the person you gave the command to, they become immune to this move forever.</strong></p></div><div><h2>CUSTOM MOVES</h2><p><strong>Choose two of these moves to further define what it means to be the Heir.</strong></p><h3>STRIKE TRUE</h3><p><strong>When you could </strong><em><strong>Finish Them </strong></em><strong>in single combat,</strong> instead of rolling, you may strike a decisive blow.</p><p><strong>Choose one, and tell us how you do it:</strong></p><ul><li><strong>Beaten Down:</strong> They cannot cause further harm during this scene.</li><li><strong>Pinned Down:</strong> They cannot give chase.</li><li><strong>Taken Down:</strong> Choose one of their already damaged stats. Remove it - they no longer have that stat, nor any Threats associated with it.</li></ul><h3>FIELD TREATMENT (WISDOM)</h3><p><strong>When you treat someone's wounds,</strong> roll +Wisdom.</p><p><strong>On a 7+,</strong> they heal 1 damage.</p><p><strong>On a 9-,</strong> it doesn't go smoothly. Either they damage another stat of their choice, or you need to pay a price.</p><p>You can only use this Move on someone who has just been hurt. If they were hurt in a previous scene, it is too late for you to help.</p><h3>FOREIGN EXCHANGE</h3><p>Take a Custom Move from any basic playbook.</p><p>You may also take an Agenda from the chosen playbook.</p><p><strong>This Move cannot be shared.</strong></p><h3>HOW DARE YOU</h3><p><strong>When someone insults you to your face,</strong> you may choose to lash out or remain stoic.</p><p><strong>If you lash out, </strong>roll to <em>Finish Them </em>with +Blood if you lash out with your weapon, or +Grace if you lash out with your tongue. <strong>If you remain stoic, </strong>ask two questions from the <em>Look Closely </em>list without rolling. Their outburst tells you everything.</p><h3>LONG LIVE THE QUEEN</h3><p><strong>When someone else rolls to </strong><em><strong>Overcome </strong></em><strong>harm you would suffer,</strong> they are filled with Hope for their roll.</p><p>You may always have Companions take harm for you if they are within arm's reach, even if you are not aware of the incoming harm.</p><h3>NOBLE BEARING</h3><p>Your allies are always where you need them most.</p><p><strong>When you are in dire need,</strong> you may erase one of your Bonds to have the person listed in that bond appear at your side.</p><p><strong>This Move cannot be shared.</strong></p><h3>PARRY! COUNTER! THRUST!</h3><p><strong>When you fight an enemy one on one in Melee range,</strong> you may <em>Keep Them Busy </em>as if you rolled a 10+.</p><h3>QUIET! DON'T MOVE...</h3><p><strong>When you duck aside and stay silent and still,</strong> enemies will never spot you unless you leave your position. You may hide your allies as well, so long as you hold up a hand, warning them to silence, and they do not speak.</p></div></div><div class=\"flexcol\"><div><h2>PLAYING AS THE HEIR</h2><p>The Heir is the leader, the ruler, the one everyone else looks up to. Their people are versatile, wise, and strong, and your position gives you a lot of power. The Heir gives you the ability to throw your name around, guarantee good treatment for the fellowship, and strike down those who would oppose you.</p><p>Play as The Heir if you want to lead the fellowship, if you value versatility and consistency, if you want to be surrounded by powerful companions, or if you want to do your own thing with conviction.</p></div><div><h2>ADVANCEMENT</h2><p><strong>When you Level Up, increase your level by 1, then choose an option from the list and mark it. You may only choose each option once.</strong> <em>You begin the game at level 1.</em></p><ul><li>Increase your Blood or Grace by 1 (to a maximum of +3).</li><li>Increase one of your stats by 1 (to a maximum of +3).</li><li>Take another Heir Custom.</li><li>Take another Heir Custom.</li><li>Take another Heir Custom, or have another player share a Move with you.</li><li>Share one of your Moves with another player.</li><li><strong>You have Changed.</strong> You must be level 5 or higher to take this Advancement. <strong>When you Change,</strong> choose a Destiny you meet the requirements for and take its first Move.</li></ul></div><div><h2>BONDS</h2><p>You start with 4 bonds with the other members of the Fellowship. Use these, or make your own:</p><p>I shall take <span style=\"text-decoration:underline\">            </span>under my wing, and teach them all that I know.</p><p><span style=\"text-decoration:underline\">             </span>has proven a valuable companion.</p><p><span style=\"text-decoration:underline\">             </span>is a friend of the family.</p><p>I am in love with <span style=\"text-decoration:underline\">              </span>.</p><p>I once betrayed <span style=\"text-decoration:underline\">                </span>, and I am desperate for forgiveness.</p><p><span style=\"text-decoration:underline\">               </span>'s people have aided mine throughout history.</p><p>I prefer to work with <span style=\"text-decoration:underline\">                </span>when I can.</p><p>I have never had a more loyal ally than <span style=\"text-decoration:underline\">                </span>.</p><p>I would give my life for <span style=\"text-decoration:underline\">              </span>.</p><p><span style=\"text-decoration:underline\">             </span>would give their life for me.</p><p><strong>Record your other bonds here:</strong></p></div><div><h2>ROYAL GEAR</h2><p>You start with some food <em>(Food, 3 Uses),</em> poultices <em>(Healing, Slow, 2 Uses),</em> a warhorse you have 1 Bond with, a beautiful blade with a long and storied past <em>(Melee, Precious), </em>and a mansion or castle to call home.</p><p>You also carry a symbol of royalty, which will grant you an audience with anyone you show it to. This symbol is irreplaceable - do not lose it.</p><p>You also gain the Fellowship of the community you call home. Choose one Fellowship move from Chapter 4 to start the game with.</p><h3>Choose your protection:</h3><ul><li>A second sword, and Regal armor <em>(Armor, 1 Use)</em></li><li>A bow, rifle, or throwing knives <em>(Ranged, 2 Ammo)</em></li><li>Choose two: An advisor, a bodyguard, a servant, or a sibling. You have 1 Bond with each of them.</li><li>An arrow trap <em>(Trap, 2 Uses)</em></li></ul><h3>Choose the one thing you brought excessive amounts of:</h3><ul><li>A horse or donkey for everyone in the fellowship. No one has any Bonds with them - if they are damaged, they are lost until you Recover.</li><li>Loads of cash <em>(Precious, 2 Uses)</em></li><li>Fine food <em>(Food, 3 Uses) </em>and drink <em>(Healing, Drunk, 2 Uses)</em></li></ul><p>You are quite rich, <strong>so choose one more Gear option from anyone's Gear list. </strong>You can only pick from a playbook currently being used by the fellowship, and you cannot pick a Gear option someone else picked.</p></div><div><h2>COMPANIONS</h2><p>These companions are those allies who are particularly likely to join arms with you. Many of them are available as Gear options - a Companion in your Gear will always return to you, heal, or be replaced by another when you <em>Recover.</em></p><h3>ADVISOR</h3><p><em>A loyal advisor, well informed of your kingdom's status at all times, and with plenty of opinions about it too.</em></p><p class=\"tags\">consultancy</p><h3>BODYGUARD</h3><p><em>A trained bodyguard, ready to dive in the way of any attack.</em></p><p class=\"tags\">watch out!!!</p><h3>SERVANT</h3><p><em>A maid, butler, or hired hand to carry your things for you.</em></p><p class=\"tags\">i'll get that for you</p><h3>SIBLING</h3><p><em>Another Heir, along for the ride.</em></p><p>i'll get that for you</p><p class=\"tags\">noble bearing | just as good as you are</p><h3>DONKEY</h3><p><em>Donkeys are similar to horses except a little smaller, a little tougher, and infinitely more stubborn.</em></p><p class=\"tags\">beast of burden</p><h3>HORSE</h3><p><em>A horse, of course.</em></p><p class=\"tags\">run like the wind</p><h3>WAR HORSE</h3><p><em>A horse trained for war.</em></p><p class=\"tags\">mounted combat | run like the wind</p></div></div></div></div>",
+    "slug": "the-heir",
+    "actorType": "character",
+    "stats": {
+      "blood": {
+        "label": "Blood",
+        "value": 0
+      },
+      "courage": {
+        "label": "Courage",
+        "value": 0
+      },
+      "grace": {
+        "label": "Grace",
+        "value": 0
+      },
+      "sense": {
+        "label": "Sense",
+        "value": 0
+      },
+      "wisdom": {
+        "label": "Wisdom",
+        "value": 2
+      },
+      "iron": {
+        "label": "Iron",
+        "value": 0
+      },
+      "doom": {
+        "label": "Doom",
+        "value": 0
+      }
+    },
+    "statsDetail": "Your Wisdom stat is +2. Assign +2, +1, +0, -1 to your other stats.",
+    "attributes": {
+      "statsVisibility": {
+        "label": "Stats Visibility",
+        "description": "Which stats are visible on the character sheet?",
+        "type": "ListMany",
+        "options": {
+          "0": {
+            "label": "blood",
+            "value": true
+          },
+          "1": {
+            "label": "courage",
+            "value": true
+          },
+          "2": {
+            "label": "grace",
+            "value": true
+          },
+          "3": {
+            "label": "sense",
+            "value": true
+          },
+          "4": {
+            "label": "wisdom",
+            "value": true
+          },
+          "5": {
+            "label": "iron",
+            "value": false
+          },
+          "6": {
+            "label": "doom",
+            "value": false
+          }
+        },
+        "choices": [
+          {
+            "options": {
+              "0": {
+                "label": "blood",
+                "value": true
+              },
+              "1": {
+                "label": "courage",
+                "value": true
+              },
+              "2": {
+                "label": "grace",
+                "value": true
+              },
+              "3": {
+                "label": "sense",
+                "value": true
+              },
+              "4": {
+                "label": "wisdom",
+                "value": true
+              },
+              "5": {
+                "label": "iron",
+                "value": false
+              },
+              "6": {
+                "label": "doom",
+                "value": false
+              }
+            },
+            "value": ""
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "value": "",
+        "max": null
+      },
+      "initialAgendas": {
+        "label": "Agendas",
+        "type": "LongText",
+        "value": "",
+        "choices": [
+          {
+            "value": "<ul><li>Be Brave, Take Risks</li><li>Tell Us Of Your People</li><li>Improve The World Around You</li></ul>",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "fourthAgenda": {
+        "label": "When you know not what to do, consult your Agendas.",
+        "type": "LongText",
+        "value": "",
+        "choices": [
+          {
+            "value": "<p><strong>A Softer Touch</strong> Use kindness, diplomacy, and compromise, whenever possible.</p>",
+            "options": {}
+          },
+          {
+            "value": "<p><strong>But What Of My Kingdom?</strong> Act on behalf of your kingdom's wealth and honor, first and foremost.</p>",
+            "options": {}
+          },
+          {
+            "value": "<p><strong>Judge, Jury, Executioner</strong>Make them pay for their crimes.</p>",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "lookOne": {
+        "label": "Look",
+        "type": "Text",
+        "value": "",
+        "choices": [
+          {
+            "value": "Cropped Hair",
+            "options": {}
+          },
+          {
+            "value": "Luscious Hair",
+            "options": {}
+          },
+          {
+            "value": "Scruffy Hair",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "lookTwo": {
+        "label": "LookTwo",
+        "type": "Text",
+        "value": "",
+        "choices": [
+          {
+            "value": "Handsome Face",
+            "options": {}
+          },
+          {
+            "value": "Scarred Face",
+            "options": {}
+          },
+          {
+            "value": "Serene Face",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "lookThree": {
+        "label": "LookThree",
+        "type": "Text",
+        "value": "",
+        "choices": [
+          {
+            "value": "Weary Eyes",
+            "options": {}
+          },
+          {
+            "value": "Hard Eyes",
+            "options": {}
+          },
+          {
+            "value": "Determined Eyes",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "lookFour": {
+        "label": "LookFour",
+        "type": "Text",
+        "value": "",
+        "choices": [
+          {
+            "value": "Simple Clothing",
+            "options": {}
+          },
+          {
+            "value": "Practical Uniform",
+            "options": {}
+          },
+          {
+            "value": "Royal Garb",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "advancements": {
+        "label": "Advancement",
+        "description": "When you Level Up, increase your level by 1, then choose an option from the list and mark it. You may only choose each option once.",
+        "type": "ListMany",
+        "options": {
+          "0": {
+            "label": "",
+            "value": false
+          },
+          "1": {
+            "label": "",
+            "value": false
+          },
+          "2": {
+            "label": "",
+            "value": false
+          },
+          "3": {
+            "label": "",
+            "value": false
+          },
+          "4": {
+            "label": "",
+            "value": false
+          },
+          "5": {
+            "label": "",
+            "value": false
+          }
+        },
+        "choices": [
+          {
+            "options": {
+              "0": {
+                "value": false,
+                "label": "Increase your Blood or Grace by 1 (to a maximum of +3)."
+              },
+              "1": {
+                "value": false,
+                "label": "Increase one of your stats by 1 (to a maximum of +3)."
+              },
+              "2": {
+                "value": false,
+                "label": "Take another Heir Custom."
+              },
+              "3": {
+                "value": false,
+                "label": "Take another Heir Custom."
+              },
+              "4": {
+                "value": false,
+                "label": "Take another Heir Custom, or have another player share a Move with you."
+              },
+              "5": {
+                "value": false,
+                "label": "Share one of your Moves with another player."
+              }
+            },
+            "value": ""
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "value": "",
+        "max": null
+      },
+      "unlockDestiny": {
+        "label": "Unlock your Destiny",
+        "description": "You must be level 5 or higher to take this Advancement. When you do, you unlock the ability to choose a Destiny.",
+        "type": "ListMany",
+        "options": {
+          "0": {
+            "label": "You have Changed. When you Change, choose a Destiny you meet the requirements for and take its first Move.",
+            "value": false
+          }
+        },
+        "choices": [
+          {
+            "options": {
+              "0": {
+                "label": "You have Changed. When you Change, choose a Destiny you meet the requirements for and take its first Move.",
+                "value": false
+              }
+            },
+            "value": ""
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "value": "",
+        "max": null
+      },
+      "playingAs": {
+        "label": "Playing as",
+        "value": "",
+        "type": "Details",
+        "choices": [
+          {
+            "value": "<p>The Heir is the leader, the ruler, the one everyone else looks up to. Their people are versatile, wise, and strong, and your position gives you a lot of power. The Heir gives you the ability to throw your name around, guarantee good treatment for the fellowship, and strike down those who would oppose you.</p><p>Play as The Heir if you want to lead the fellowship, if you value versatility and consistency, if you want to be surrounded by powerful companions, or if you want to do your own thing with conviction.</p>",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "details",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "yourPeople": {
+        "label": "Your People",
+        "value": "",
+        "type": "Details",
+        "choices": [
+          {
+            "value": "<h3>THE GREAT BUILDERS</h3><p>Your kingdom is famous for their advanced technology, and you bring that power with you. <strong>When you analyze architecture or engineering, </strong>you can always ask \"How do I fix this?\" or \"How do I break this?\"</p><p>You also add Engineering Tools <em>(2 Uses, Useful) </em>to your Gear, which can produce nearly anything you might need to fix or break something you ask about.</p>",
+            "options": {}
+          },
+          {
+            "value": "<h3>THE LOST LINE OF KINGS</h3><p>Your kingdom has fallen and your family and fortunes are lost, but you remain. Some say you are cursed, others say you are lucky to be alive at all. <strong>Once per scene, </strong>you may re- roll one die, yours or another's. Tell us how your curse changed the outcome, after seeing the new result.</p>",
+            "options": {}
+          },
+          {
+            "value": "<h3>THE STALWART DEFENDERS</h3><p>Your kingdom is all that has stood between the Overlord and the rest of the world for centuries, locking them away. Stopping them now falls squarely on your shoulders.</p><p><strong>When you </strong><em><strong>Overcome </strong></em><strong>the attacks of a Threat to the World,</strong> you never need to pay a price first.</p><p><strong>When you </strong><em><strong>Overcome </strong></em><strong>an attack that would harm someone you have three Bonds with,</strong> you are filled with Hope.</p>",
+            "options": {}
+          },
+          {
+            "value": "<h3>THE FORGOTTEN LANDS</h3><p>Your kingdom was believed to not exist, until recently.</p><p>Your people are unlike any in all the world.</p><p>You have a useful and powerful feature that is unique to you and your people. You have this trait at all times, unless it is marked, and can use it to help you in any way necessary. While this trait is marked, it is damaged and cannot help you.</p><p><strong>When you take damage,</strong> you can mark your trait instead. Tell us how your trait protects you. When you heal, you may remove this mark instead of healing another stat.</p><p>Your Unique Trait: <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "details",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "bonds": {
+        "label": "Bonds",
+        "value": "",
+        "type": "Details",
+        "choices": [
+          {
+            "value": "<p>You start with 4 bonds with the other members of the Fellowship. Use these, or make your own:</p><p>I shall take <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>under my wing, and teach them all that I know.</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>has proven a valuable companion.</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>is a friend of the family.</p><p>I am in love with <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>.</p><p>I once betrayed <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>, and I am desperate for forgiveness.</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>'s people have aided mine throughout history.</p><p>I prefer to work with <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>when I can.</p><p>I have never had a more loyal ally than <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>.</p><p>I would give my life for <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>.</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>would give their life for me.</p><p><strong>Record your other bonds here:</strong></p>",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "details",
+        "max": null,
+        "options": {},
+        "description": ""
+      }
+    },
+    "choiceSets": []
+  },
+  "effects": [],
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736283676179,
+    "modifiedTime": 1736283676179,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_id": "M5L8oqjoe1CxsC8f",
+  "sort": 0,
+  "_key": "!items!M5L8oqjoe1CxsC8f"
+}

@@ -91,17 +91,93 @@
         },
         "Tags": {
             "equipment": {
-                "strong": {
-                    "value": "Strong",
-                    "description": "Very Strong"
+                "Melee": {
+                    "value": "Melee",
+                    "description": "You need to be up close to hit them."
                 },
-                "weak": {
-                    "value": "Weak",
-                    "description": "Pretty Weak"
+                "Ranged": {
+                    "value": "Ranged",
+                    "description": "You can hit them if you can see them. Ranged weapons usually need Ammo or require Reloading."
                 },
-                "glows": {
-                    "value": "Glows",
-                    "description": "Acts as a torch"
+                "Area": {
+                    "value": "Area",
+                    "description": "Area attacks hit everyone in a group."
+                },
+                "Dangerous": {
+                    "value": "Dangerous",
+                    "description": "Dangerous attacks are like Area attacks, but they always cause collateral damage."
+                },
+                "Burning": {
+                    "value": "Burning",
+                    "description": "Burning attacks start fires."
+                },
+                "Clumsy": {
+                    "value": "Clumsy",
+                    "description": "Clumsy items have -1 to be used, and Clumsy armor gives -1 to Get Away."
+                },
+                "Dwarf-Made": {
+                    "value": "Dwarf-Made",
+                    "description": "This item is nearly indestructible."
+                },
+                "Elf-Made": {
+                    "value": "Elf-Made",
+                    "description": "This item does not age, and its touch burns non-elves."
+                },
+                "Necrotic": {
+                    "value": "Necrotic",
+                    "description": "Necrotic attacks inflict wounds that do not heal naturally. Necrotic damage is marked twice, and the first mark cannot be removed by Filling Your Belly."
+                },
+                "Orc-Made": {
+                    "value": "Orc-Made",
+                    "description": "Orc-Made items are Clumsy in any hands but an Orc's."
+                },
+                "Piercing": {
+                    "value": "Piercing",
+                    "description": "The attacker always chooses which stat to damage, and the damage cannot be redirected to armor or other stats."
+                },
+                "Reload": {
+                    "value": "Reload",
+                    "description": "This weapon can only be used once per scene."
+                },
+                "Slow": {
+                    "value": "Slow",
+                    "description": "This takes time and safety to use properly."
+                },
+                "Ammo": {
+                    "value": "Ammo",
+                    "description": "If you use this weapon as a Ranged weapon, you lose it until you can go and get it back."
+                },
+                "Armor": {
+                    "value": "Armor",
+                    "description": "Spend 1 Use to prevent 1 damage you would take."
+                },
+                "Drunk": {
+                    "value": "Drunk",
+                    "description": "When you Use this, you have Despair and cannot have Hope for your next roll."
+                },
+                "Food": {
+                    "value": "Food",
+                    "description": "You can spend it to Fill Your Belly."
+                },
+                "Healing": {
+                    "value": "Healing",
+                    "description": "Spend 1 Use to heal a damaged stat."
+                },
+                "Precious": {
+                    "value": "Precious",
+                    "description": "Spend 1 Use to Forge a Bond with someone, or to not have to do a favor for someone."
+                },
+                "Useful": {
+                    "value": "Useful",
+                    "description": "Spend 1 Use to produce something helpful."
+                },
+                "Vigor": {
+                    "value": "Vigor",
+                    "description": "When you Use this, you have Hope and cannot have Despair for your next roll."
+                },
+                "Trap": {
+                    "value": "Trap",
+                    "description": "Traps are items you need to place in advance."
                 }
             }
         },

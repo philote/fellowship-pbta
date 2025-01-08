@@ -1,0 +1,52 @@
+{
+  "folder": "U2koN7fz4pUK2UNC",
+  "name": "PEOPLE OF STONE",
+  "type": "move",
+  "_id": "C2Eh8xqDeHanCaao",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>The dwarves are built tough. You have a sixth stat, Iron, and you have an additional +1 to assign among your other stats. Iron represents your supreme toughness - your armor, survivability, iron gut, and stubbornness.</p><p><strong>When you </strong><em><strong>Finish Them </strong></em><strong>by outlasting them in a contest of power or endurance,</strong> roll +Iron. <strong>On a 10+</strong>, they pass out.</p><p><strong>When you share this Move with another,</strong> their Iron stat is +1.</p><p><strong>When someone who does not have an Iron stat uses a Move that rolls +Iron,</strong> they roll at +0.</p>",
+    "moveType": "core",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736242650421,
+    "modifiedTime": 1736242736864,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!C2Eh8xqDeHanCaao"
+}

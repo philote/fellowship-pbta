@@ -1,0 +1,52 @@
+{
+  "name": "Fill Your Belly",
+  "type": "move",
+  "_id": "0oHROtaRLXG2bV1G",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>When you are between scenes,</strong> you may Use Food to heal one damage. <strong>When you share a meal with friends,</strong> one person may heal an extra point of damage.</p>",
+    "moveType": "basic",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736309238107,
+    "modifiedTime": 1736309253870,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!0oHROtaRLXG2bV1G"
+}

@@ -1,0 +1,40 @@
+{
+  "folder": "vj5DONFf1IgB28XH",
+  "name": "POWERSUIT",
+  "type": "fellowship-pbta.companion",
+  "_id": "LknuuToX9PH0qRv1",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "typeName": "POWERSUIT",
+    "typeDescription": "A mechanical suit of armor, more vehicle than suit. heavy armor",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "powered movement",
+        "damaged": false
+      },
+      {
+        "name": "rocket fist",
+        "damaged": false
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736232253193,
+    "modifiedTime": 1736232276653,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!LknuuToX9PH0qRv1"
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Speak Softly",
+  "type": "move",
+  "_id": "Ml6muq1ZjhkuT7FF",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>When you have a quiet chat with someone, you may roll +Wisdom. Then, ask three questions from the list.</p>",
+    "moveType": "basic",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": "<p>One of their answers is not helpful. Either they refuse to answer or they reveal a terrible truth you didn't want to hear, their choice.</p><p>One of their other answers is false.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": "<p>One of their answers is not helpful. Either they refuse to answer or they reveal a terrible truth you didn't want to hear, their choice.</p>"
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": "<p>They must answer each question honestly.</p>"
+      }
+    },
+    "uses": 0,
+    "rollType": "wisdom",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": "<ul><li>What can they tell us about <span style=\"text-decoration: underline;\"><span style=\"text-decoration: underline;\">        </span></span>?</li><li>What were they doing, and what are they going to do next?</li><li>What should I be wary of when dealing with them?</li><li>What do they want, and how could we help them get it?</li><li>What would they have us do next?</li></ul>"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736309015953,
+    "modifiedTime": 1736309109269,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!Ml6muq1ZjhkuT7FF"
+}

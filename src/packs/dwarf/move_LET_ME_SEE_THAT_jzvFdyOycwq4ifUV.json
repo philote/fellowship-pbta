@@ -1,0 +1,52 @@
+{
+  "folder": "3B6XT486msmsXls5",
+  "name": "LET ME SEE THAT",
+  "type": "move",
+  "_id": "jzvFdyOycwq4ifUV",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>When you take a few moments to handle or examine an interesting item, vehicle, or architecture,</strong> ask the Overlord two of the following questions. They must answer truthfully.</p><ul><li>Who made this and why should I care about them?</li><li>What was this made to do, and how do I use it or break it?</li><li>What's wrong with this, and how might I fix it?</li></ul>",
+    "moveType": "customs",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736243148592,
+    "modifiedTime": 1736243170391,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!jzvFdyOycwq4ifUV"
+}

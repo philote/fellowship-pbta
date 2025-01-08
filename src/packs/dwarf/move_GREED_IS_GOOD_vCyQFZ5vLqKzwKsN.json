@@ -1,0 +1,52 @@
+{
+  "folder": "3B6XT486msmsXls5",
+  "name": "GREED IS GOOD",
+  "type": "move",
+  "_id": "vCyQFZ5vLqKzwKsN",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>When you desire a treasure or valuable item you have seen or heard of,</strong> you may declare it to be the object of your greed. <strong>When you act directly to secure the object of your greed for yourself,</strong> you are filled with Hope. You cannot choose a new object of your greed until you have acquired your current one, or it becomes unattainable.</p>",
+    "moveType": "customs",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736243047431,
+    "modifiedTime": 1736243064572,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!vCyQFZ5vLqKzwKsN"
+}

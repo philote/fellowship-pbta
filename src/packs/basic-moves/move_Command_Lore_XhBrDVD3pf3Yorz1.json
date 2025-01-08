@@ -1,0 +1,52 @@
+{
+  "name": "Command Lore",
+  "type": "move",
+  "_id": "XhBrDVD3pf3Yorz1",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>When someone asks something about your character or your people,</strong> tell them. <strong>When you ask about another character or their people,</strong> they will tell you. <strong>When you ask about the Overlord,</strong> they alone may choose not to answer.</p>",
+    "moveType": "basic",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736309202794,
+    "modifiedTime": 1736309218861,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!XhBrDVD3pf3Yorz1"
+}

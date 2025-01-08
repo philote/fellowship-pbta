@@ -1,0 +1,22 @@
+{
+  "name": "CORE MOVES",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "xQBVK5t1At67bu1u",
+  "description": "",
+  "sort": 100000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736283778444,
+    "modifiedTime": 1736283778456,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!folders!xQBVK5t1At67bu1u"
+}

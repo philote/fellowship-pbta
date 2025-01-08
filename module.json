@@ -66,15 +66,305 @@
       }
     },
     {
-      "name": "playbooks",
-      "label": "Playbooks",
-      "path": "packs/playbooks",
+      "name": "bond-moves",
+      "label": "Bond Moves",
+      "path": "packs/bond-moves",
       "type": "Item",
       "system": "pbta",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "dwarf",
+      "label": "THE DWARF",
+      "path": "packs/dwarf",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "elf",
+      "label": "THE ELF",
+      "path": "packs/elf",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "halfling",
+      "label": "THE HALFLING",
+      "path": "packs/halfling",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "harbinger",
+      "label": "THE HARBINGER",
+      "path": "packs/harbinger",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "heir",
+      "label": "THE HEIR",
+      "path": "packs/heir",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "orc",
+      "label": "THE ORC",
+      "path": "packs/orc",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "squire",
+      "label": "THE SQUIRE",
+      "path": "packs/squire",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "ascended",
+      "label": "ASCENDED",
+      "path": "packs/ascended",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "chosen-one",
+      "label": "CHOSEN ONE",
+      "path": "packs/chosen-one",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "cyborg",
+      "label": "CYBORG",
+      "path": "packs/cyborg",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "elven-elite",
+      "label": "ELVEN ELITE",
+      "path": "packs/elven-elite",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "end-of-days",
+      "label": "END OF DAYS",
+      "path": "packs/end-of-days",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "firebrand",
+      "label": "FIREBRAND",
+      "path": "packs/firebrand",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "halfling-sheriff",
+      "label": "HALFLING SHERIFF",
+      "path": "packs/halfling-sheriff",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "knight",
+      "label": "KNIGHT",
+      "path": "packs/knight",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "leader",
+      "label": "LEADER",
+      "path": "packs/leader",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "legend",
+      "label": "LEGEND",
+      "path": "packs/legend",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "lord-of-beasts",
+      "label": "LORD OF BEASTS",
+      "path": "packs/lord-of-beasts",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "oracle",
+      "label": "ORACLE",
+      "path": "packs/oracle",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "orc-boss",
+      "label": "ORC BOSS",
+      "path": "packs/orc-boss",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "ur-dwarf",
+      "label": "UR-DWARF",
+      "path": "packs/ur-dwarf",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "warlord",
+      "label": "WARLORD",
+      "path": "packs/warlord",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "witch",
+      "label": "WITCH",
+      "path": "packs/witch",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Playbooks",
+      "packs": [
+        "dwarf",
+        "elf",
+        "halfling",
+        "harbinger",
+        "heir",
+        "orc",
+        "squire"
+      ],
+      "folders": []
+    },
+    {
+      "name": "Destinies",
+      "packs": [
+        "ascended",
+        "chosen-one",
+        "cyborg",
+        "elven-elite",
+        "end-of-days",
+        "firebrand",
+        "halfling-sheriff",
+        "knight",
+        "leader",
+        "legend",
+        "lord-of-beasts",
+        "oracle",
+        "orc-boss",
+        "ur-dwarf",
+        "warlord",
+        "witch"
+      ],
+      "folders": []
     }
   ],
   "url": "#{URL}#",

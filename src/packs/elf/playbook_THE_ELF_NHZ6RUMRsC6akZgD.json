@@ -1,0 +1,426 @@
+{
+  "name": "THE ELF",
+  "type": "playbook",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": "<div class=\"playbook-details\"><h1>THE ELF</h1><div class=\"flexrow\"><div class=\"flexcol\"><div><h2>BASIC PLAYBOOK</h2><p><em>I have witnessed many of this world's wonders. I have seen them come, and seen them go. My people have added to them, and taken them away. Our endless lives attain meaning in the pursuit of timeless perfection. Even among such wondrous people as these, I have earned respect, and that is why I have been chosen to defend our great works against this coming evil.</em></p><p><em>We elves may sometimes forget the world, lost in our dreams of beauty and perfection, but the world does not forget us, and we shall not let the world fall. Among all people, not just my Elves, can be found those of some worth. If you will have me, then my arts, my grace, and my wisdom will serve our common cause.</em></p><p><em>I am the Elf. We remember.</em></p></div><div><h2>NAME</h2><p><strong>Choose one or two from each, or make up your own:</strong></p><p><strong>Given Names:</strong> <em>Eltharion, Fëanor, Fingolfin, Avarial, Haldir, Lóríen, Noldà, Manwë, Malenti, Pirinen, Andariel, Lúthien, Eärwen, Tanis, Celebrian, Elenwë, Mithrandir, Arendhel</em></p><p><strong>Titles:</strong> <em>Greenleaf, Ereinion, Lady of Light, Star of Radiance, Last of the Grey Elves, Half-Elven, Orcrist, Evenstar, Battle-Friend, Strongbow, Kin-Traitor, Blightwood</em></p></div><div><h2>LOOK</h2><p><strong>Circle one from each list, or make up your own:</strong></p><ul><li>Wise Eyes, Piercing Eyes, or Sad Eyes</li><li>Braided Hair, Long Hair, or Dark Hood</li><li>Pristine Robes, Woodsman's Garb, or Fancy Cloak</li><li>Androgynous Body, Tiny Body, or Willowy Body</li></ul></div><div><h2>AGENDA</h2><p><strong>When you know not what to do, consult your Agendas.</strong></p><h3>You have these three Agendas:</h3><ul><li>Be Brave, Take Risks</li><li>Tell Us Of Your People</li><li>Improve The World Around You</li></ul><p><strong>And circle a fourth Agenda that only you follow:</strong></p><h3>Elven Superiority</h3><p>It is your duty to protect the lesser creatures.</p><h3>Eternal Patience</h3><p>Play the long game. You have all the time in the world, so act like it.</p><h3>Perfect Purity</h3><p>Punish those who would defile the sanctity of elven lands and elven works.</p></div><div><h2>STATS</h2><p>Your <strong>Grace </strong>stat is +2. Assign +2, +1, +0, -1 to your other stats.</p><p><strong>When a stat is damaged,</strong> mark the small box. You are in Despair when you roll a damaged stat.</p><ul><li>Blood</li><li>Courage</li><li>Grace</li><li>Sense</li><li>Wisdom</li></ul></div><div><h2>WHAT IS AN ELF?</h2><p>Choose the option that best represents your people:</p><h3>FAERIE</h3><p>Your kin are faeries or nature spirits. Tiny and elusive, they have been forgotten by the other peoples of the world, remembered only as myths or legends. Your people can fly, with all the benefits that brings you, but you cannot carry anyone with you. Add this to your <em>Elder Arts </em>list:</p><ul><li><strong>Pixie Dust: </strong>You grant someone else the ability to fly for the rest of this scene.</li></ul><h3>MERFOLK</h3><p>Your people are part fish, and the ocean is your homeland. You can breathe underwater, and you can grant this gift temporarily to anyone you share a kiss with. <strong>When you use an </strong><em><strong>Elder Art </strong></em><strong>while you have access to a body of water,</strong> do not mark it.</p><h3>STAR ELF</h3><p>Your people come from beyond the skies, and your technology is highly advanced. You start with High-Tech Gizmos (2 Uses, Useful, Elf-Made) in your Gear.</p><p>Instead of burning any non-elf who holds them, Elf-Made items electrocute any non-elf attempting to use them without proper training, causing them to pass out where they stand.</p><h3>WOOD ELF</h3><p>Your people are one with the forests and the trees, and they care for you as you care for them.</p><p><strong>When traveling through woodlands,</strong> you and your allies cannot be followed by your enemies.</p><p><strong>When you use the </strong><em><strong>Camouflage </strong></em><strong>spell,</strong> you may hide any number of allies with you.</p></div><div><h2>CORE MOVES</h2><p>All Elves have these moves.</p><h3>ELDER ARTS</h3><p><strong>When you draw upon the elven power that humans sometimes call magic,</strong> choose a spell from below, then mark it. You cannot use a spell while it is marked.</p><p><strong>When you </strong><em><strong>Fill Your Belly</strong></em><strong>,</strong> remove a mark from one spell.</p><p><strong>When you </strong><em><strong>Recover</strong></em><strong>,</strong> remove all marks on your spells.</p><ul><li><strong>Camouflage: </strong>Become invisible and undetectable. This lasts until you attack or decide to make yourself known.</li><li><strong>Keen Senses: </strong>Ask a single question about your surroundings, and immediately receive a truthful answer.</li><li><strong>Sense Magic: </strong>Immediately know what here is magical and where it is. If there is nothing magical here, you do not mark this spell.</li><li><strong>Whisper on the Wind: </strong>Send a message to someone you have a Bond with. They will hear it whispered in their ears moments after you send it, and they can send a reply of up to 5 words.</li></ul><p><strong>When you Share this move with another, they choose a single spell from the list. That spell is the only one they can use.</strong></p><p>You can Share this move with someone multiple times. Each time you do, they learn another of your spells.</p><h3>TOUCH THE WORLD LIGHTLY</h3><p>You can safely walk on top of snow, across thin tree branches, along precarious ledges, or on top of held weaponry. You can also run along walls, up trees, or across treacherous surfaces safely, although only for short distances.</p><p>You still need to roll to <em>Get Away </em>if you use this move to escape danger.</p></div><div><h2>CUSTOM MOVES</h2><p><strong>Choose two of these moves to further define what it means to be a Elf.</strong></p><h3>ELFSIGHT</h3><p>Your eyes are unnaturally good, and you can see fine detail even through the darkest night or densest fog. <strong>When you </strong><em><strong>Look Closely</strong></em><strong>,</strong> you may study any location you can see, no matter how distant, as if you were standing right there.</p><h3>ELDER MIGHT</h3><p><strong>When you wish to use an </strong><em><strong>Elder Art </strong></em><strong>you have already marked,</strong> you may do so by marking a different <em>Elder Art</em>.</p><p><strong>This Move cannot be Shared.</strong></p><h3>ENCHANTING PERFORMANCE (GRACE)</h3><p><strong>When you perform an Elven art for an attentive audience,</strong> roll +Grace.</p><p><strong>On a 10+, </strong>you may <em>Forge a Bond </em>with as many audience members as you'd like. The Bond should relate to how much they adore and appreciate you.</p><p><strong>On a 7-9, </strong>you may only <em>Forge a Bond </em>with a single listener.</p><p><strong>On a 6-,</strong> no one cares.</p><h3>ENEMY AT THE GATES (GRACE)</h3><p><strong>When you are hidden from your target and wield a ranged weapon, </strong>you can spend 1 Ammo to <em>Finish Them </em>with +Grace. <strong>If you get a 10+, </strong>you remain hidden.</p><h3>HALF-ELF</h3><p>Take a Custom Move from any basic playbook.</p><p>You may also take an Agenda from the chosen playbook.</p><p><strong>This Move cannot be shared.</strong></p><h3>POETRY IN MOTION</h3><p><strong>When you </strong><em><strong>Get Away, </strong></em>you may choose an extra option from the list, even on a 6-.</p><h3>SPECIAL STARDUST</h3><p>Add this to your <em>Elder Arts </em>list:</p><ul><li><strong>Sleep Tight: </strong>You put someone straight to sleep. It is a normal sleep, and they are woken up by anything that would awaken a sleeping person.</li><li><strong>When you Share this Move, </strong>the ally you share it with gains the <em>Elder Arts </em>move as well, but Sleep Tight is the only spell they know. They do not gain your other <em>Elder Arts</em>.</li></ul><h3>WAY WITH WORDS</h3><p><strong>When you </strong><em><strong>Speak Softly </strong></em><strong>with someone who admires or fears you,</strong> you may roll at +Grace instead of +Wisdom.</p><p><strong>When you </strong><em><strong>Speak Softly, </strong></em>you may also ask, \"What do they desire most?\" regardless of the result of your roll.</p></div></div><div class=\"flexcol\"><div><h2>PLAYING AS THE ELF</h2><p>The Elf is graceful eternity. The elves are long-lived, unnatural, unusual, and, if you ask them, perfect. The Elf offers you the ability to dance around your enemies, show up your allies constantly, and generally be the best around at everything cool and flashy.</p><p>Play as The Elf if you want to shine like a diamond, if you like being stylish and graceful, if you want to be the coolest person at the table, or if you want to play as a mysterious magical being.</p></div><div><h2>ADVANCEMENT</h2><p><strong>When you Level Up, increase your level by 1, then choose an option from the list and mark it. You may only choose each option once.</strong> <em>You begin the game at level 1.</em></p><ul><li>Increase your Blood or Sense by 1 (to a maximum of +3).</li><li>Increase one of your stats by 1 (to a maximum of +3).</li><li>Take a Core or Custom move from any basic playbook. You cannot take a move someone else already knows.</li><li>Take another Elven Custom.</li><li>Take another Elven Custom.</li><li>Choose a player you have 3 Bonds with. Share a Move with them.</li><li><strong>You have Changed.</strong> You must be level 5 or higher to take this Advancement. <strong>When you Change,</strong> choose a Destiny you meet the requirements for and take its first Move.</li></ul></div><div><h2>BONDS</h2><p>You start with 4 bonds with the other members of the Fellowship. Use these, or make your own:</p><p><span style=\"text-decoration:underline\">                      </span>has been named a friend to all elves.</p><p><span style=\"text-decoration:underline\">               </span>once helped me with a hunt, and I know we shall hunt again.</p><p>I have trusted <span style=\"text-decoration:underline\">              </span>with the truth about me.</p><p><span style=\"text-decoration:underline\">               </span>'s entire family line is respected by the elves.</p><p><span style=\"text-decoration:underline\">               </span>is my rival, and I theirs.</p><p><span style=\"text-decoration:underline\">               </span>defeated me in a contest of skill and I still cannot believe it.</p><p>I have absolute faith in <span style=\"text-decoration:underline\">                </span>'s abilities.</p><p>I once went to war alongside <span style=\"text-decoration:underline\">                </span>.</p><p>Because of <span style=\"text-decoration:underline\">              </span>, I have changed as a person.</p><p>I have taught <span style=\"text-decoration:underline\">                </span>the ways of elven <span style=\"text-decoration:underline\">                </span>.</p><p><strong>Record your other bonds here:</strong></p></div><div><h2>ELVEN GEAR</h2><p>You start with elven bread <em>(Food, 4 Uses)</em> and a hunter's bow <em>(Ranged, Elf-Made, 3 Ammo).</em></p><h3>Choose what protects you from danger:</h3><ul><li>A fine sword <em>(Melee, Elf-Made)</em></li><li>Light armor <em>(Armor, Elf-Made, 1 Use)</em></li><li>A wolf or hunting bird, which you have 2 Bonds with.</li><li>An arrow trap <em>(Trap, 2 Uses).</em></li></ul><h3>Choose what carries you through this journey:</h3><ul><li>An elven throne or a unicorn, which you have 1 Bond with.</li><li>A friend (an archer, blade dancer, or shadow), who you have 1 Bond with.</li><li>A bottle of elven wine <em>(Healing, Drunk, 2 Uses)</em></li></ul><h3>You have a hunting companion. Choose one:</h3><ul><li>A wolf or hunting bird, which you have 2 Bonds with.</li><li>A friend (an archer, blade dancer, or shadow), who you have 1 Bond with.</li><li>A survival knife <em>(Melee, Elf-Made)</em> and an extra quiver <em>(3 ammo)</em></li></ul><p>Elves you meet will usually carry at least two of the items you chose from the above lists.</p><p>However, the option below is unique to you.</p><h3>Choose a memento of your homeland, it has 1 Use:</h3><ul><li>An elfstone brooch, connecting you to your homeland <em>(Elf-Made). </em>You can Use this item to remove a mark from one of your Elder Arts.</li><li>A ring signifying your membership in a secret organization. You can Use this item to identify another member of this organization, instantly gaining a Bond with them.</li><li><p>The faces of those who have wronged you, etched into your mind. You can Use this item to declare an enemy to be your Nemesis, giving you Hope to all rolls to <em>Finish Them </em>and <em>Overcome </em>them until they are dead. <br /><strong>Record your Nemesis' names here, and cross them off as they die:</strong></p></li></ul></div><div><h2>COMPANIONS</h2><p>Elven companions are those allies who are particularly likely to join arms with you. Many of them are available as Gear options - a Companion in your Gear will always return to you, heal, or be replaced by another when you <em>Recover</em>.</p><h3>ELVEN ARCHER</h3><p><em>An expert with the bow. It is said that elven archers never miss.</em></p><p class=\"tags\">perfect shot | an even more perfect shot</p><h3>BLADE DANCER</h3><p><em>These graceful warriors specialize in fighting alongside a partner, dancing around their ally as they attack.</em></p><p class=\"tags\">dance of death | graceful in all things</p><h3>ELVEN SHADOW</h3><p><em>If you were to see an elven shadow... Well. You won't.</em></p><p class=\"tags\">untraceable | right where you need me</p><h3>ELVEN THRONE</h3><p><em>The Elven Throne is a nickname for a wide variety of devices, almost all entirely natural in origin. Enchanted wooden chairs, wheeled or hovering automatons, even living animals to carry you. They are particularly popular among merfolk who need to travel over land.</em></p><p class=\"tags\">a mind of its own | mobile cover</p><h3>HUNTING BIRD</h3><p><em>Birds of a feather hunt together.</em></p><p class=\"tags\">go for the eyes | eagle eye</p><h3>UNICORN</h3><p><em>A beautiful horned horse, famous for their benevolence.</em></p><p class=\"tags\">infinite compassion | holy horn</p><h3>WOLF</h3><p><em>Wolves are too wild for humans to handle, but they make fine pets for elves and orcs alike.</em></p><p class=\"tags\">pack hunter | loyal</p></div></div></div></div>",
+    "slug": "the-elf",
+    "actorType": "character",
+    "stats": {
+      "blood": {
+        "label": "Blood",
+        "value": 0
+      },
+      "courage": {
+        "label": "Courage",
+        "value": 0
+      },
+      "grace": {
+        "label": "Grace",
+        "value": 2
+      },
+      "sense": {
+        "label": "Sense",
+        "value": 0
+      },
+      "wisdom": {
+        "label": "Wisdom",
+        "value": 0
+      },
+      "iron": {
+        "label": "Iron",
+        "value": 0
+      },
+      "doom": {
+        "label": "Doom",
+        "value": 0
+      }
+    },
+    "statsDetail": "Your Grace stat is +2. Assign +2, +1, +0, -1 to your other stats.",
+    "attributes": {
+      "statsVisibility": {
+        "label": "Stats Visibility",
+        "description": "Which stats are visible on the character sheet?",
+        "type": "ListMany",
+        "options": {
+          "0": {
+            "label": "blood",
+            "value": true
+          },
+          "1": {
+            "label": "courage",
+            "value": true
+          },
+          "2": {
+            "label": "grace",
+            "value": true
+          },
+          "3": {
+            "label": "sense",
+            "value": true
+          },
+          "4": {
+            "label": "wisdom",
+            "value": true
+          },
+          "5": {
+            "label": "iron",
+            "value": false
+          },
+          "6": {
+            "label": "doom",
+            "value": false
+          }
+        },
+        "choices": [
+          {
+            "options": {
+              "0": {
+                "label": "blood",
+                "value": true
+              },
+              "1": {
+                "label": "courage",
+                "value": true
+              },
+              "2": {
+                "label": "grace",
+                "value": true
+              },
+              "3": {
+                "label": "sense",
+                "value": true
+              },
+              "4": {
+                "label": "wisdom",
+                "value": true
+              },
+              "5": {
+                "label": "iron",
+                "value": false
+              },
+              "6": {
+                "label": "doom",
+                "value": false
+              }
+            },
+            "value": ""
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "value": "",
+        "max": null
+      },
+      "initialAgendas": {
+        "label": "Agendas",
+        "type": "LongText",
+        "value": "",
+        "choices": [
+          {
+            "value": "<ul><li>Be Brave, Take Risks</li><li>Tell Us Of Your People</li><li>Improve The World Around You</li></ul>",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "fourthAgenda": {
+        "label": "When you know not what to do, consult your Agendas.",
+        "type": "LongText",
+        "value": "",
+        "choices": [
+          {
+            "value": "<p><strong>Elven Superiority</strong> It is your duty to protect the lesser creatures.</p>",
+            "options": {}
+          },
+          {
+            "value": "<p><strong>Eternal Patience</strong> Play the long game. You have all the time in the world, so act like it.</p>",
+            "options": {}
+          },
+          {
+            "value": "<p><strong>Perfect Purity</strong> Punish those who would defile the sanctity of elven lands and elven works.</p>",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "lookOne": {
+        "label": "Look",
+        "type": "Text",
+        "value": "",
+        "choices": [
+          {
+            "value": "Wise Eyes",
+            "options": {}
+          },
+          {
+            "value": "Piercing Eyes",
+            "options": {}
+          },
+          {
+            "value": "Sad Eyes",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "lookTwo": {
+        "label": "LookTwo",
+        "type": "Text",
+        "value": "",
+        "choices": [
+          {
+            "value": "Braided Hair",
+            "options": {}
+          },
+          {
+            "value": "Long Hair",
+            "options": {}
+          },
+          {
+            "value": "Dark Hood",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "lookThree": {
+        "label": "LookThree",
+        "type": "Text",
+        "value": "",
+        "choices": [
+          {
+            "value": "Pristine Robes",
+            "options": {}
+          },
+          {
+            "value": "Woodsman's Garb",
+            "options": {}
+          },
+          {
+            "value": "Fancy Cloak",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "lookFour": {
+        "label": "LookFour",
+        "type": "Text",
+        "value": "",
+        "choices": [
+          {
+            "value": "Androgynous Body",
+            "options": {}
+          },
+          {
+            "value": "Tiny Body",
+            "options": {}
+          },
+          {
+            "value": "Willowy Body",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "advancements": {
+        "label": "Advancement",
+        "description": "When you Level Up, increase your level by 1, then choose an option from the list and mark it. You may only choose each option once.",
+        "type": "ListMany",
+        "options": {
+          "0": {
+            "label": "",
+            "value": false
+          },
+          "1": {
+            "label": "",
+            "value": false
+          },
+          "2": {
+            "label": "",
+            "value": false
+          },
+          "3": {
+            "label": "",
+            "value": false
+          },
+          "4": {
+            "label": "",
+            "value": false
+          },
+          "5": {
+            "label": "",
+            "value": false
+          }
+        },
+        "choices": [
+          {
+            "options": {
+              "0": {
+                "value": false,
+                "label": "Increase your Blood or Sense by 1 (to a maximum of +3)."
+              },
+              "1": {
+                "value": false,
+                "label": "Increase one of your stats by 1 (to a maximum of +3)."
+              },
+              "2": {
+                "value": false,
+                "label": "Take a Core or Custom move from any basic playbook. You cannot take a move someone else already knows."
+              },
+              "3": {
+                "value": false,
+                "label": "Take another Elven Custom."
+              },
+              "4": {
+                "value": false,
+                "label": "Take another Elven Custom."
+              },
+              "5": {
+                "value": false,
+                "label": "Choose a player you have 3 Bonds with. Share a Move with them."
+              }
+            },
+            "value": ""
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "value": "",
+        "max": null
+      },
+      "unlockDestiny": {
+        "label": "Unlock your Destiny",
+        "description": "You must be level 5 or higher to take this Advancement. When you do, you unlock the ability to choose a Destiny.",
+        "type": "ListMany",
+        "options": {
+          "0": {
+            "label": "You have Changed. When you Change, choose a Destiny you meet the requirements for and take its first Move.",
+            "value": false
+          }
+        },
+        "choices": [
+          {
+            "options": {
+              "0": {
+                "label": "You have Changed. When you Change, choose a Destiny you meet the requirements for and take its first Move.",
+                "value": false
+              }
+            },
+            "value": ""
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "value": "",
+        "max": null
+      },
+      "playingAs": {
+        "label": "Playing as",
+        "value": "",
+        "type": "Details",
+        "choices": [
+          {
+            "value": "<p>The Elf is graceful eternity. The elves are long-lived, unnatural, unusual, and, if you ask them, perfect. The Elf offers you the ability to dance around your enemies, show up your allies constantly, and generally be the best around at everything cool and flashy.</p><p>Play as The Elf if you want to shine like a diamond, if you like being stylish and graceful, if you want to be the coolest person at the table, or if you want to play as a mysterious magical being.</p>",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "details",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "yourPeople": {
+        "label": "Your People",
+        "value": "",
+        "type": "Details",
+        "choices": [
+          {
+            "value": "<h3>FAERIE</h3><p>Your kin are faeries or nature spirits. Tiny and elusive, they have been forgotten by the other peoples of the world, remembered only as myths or legends. Your people can fly, with all the benefits that brings you, but you cannot carry anyone with you. Add this to your <em>Elder Arts </em>list:</p><ul><li><strong>Pixie Dust: </strong>You grant someone else the ability to fly for the rest of this scene.</li></ul>",
+            "options": {}
+          },
+          {
+            "value": "<h3>MERFOLK</h3><p>Your people are part fish, and the ocean is your homeland. You can breathe underwater, and you can grant this gift temporarily to anyone you share a kiss with. <strong>When you use an </strong><em><strong>Elder Art </strong></em><strong>while you have access to a body of water,</strong> do not mark it.</p>",
+            "options": {}
+          },
+          {
+            "value": "<h3>STAR ELF</h3><p>Your people come from beyond the skies, and your technology is highly advanced. You start with High-Tech Gizmos (2 Uses, Useful, Elf-Made) in your Gear.</p><p>Instead of burning any non-elf who holds them, Elf-Made items electrocute any non-elf attempting to use them without proper training, causing them to pass out where they stand.</p>",
+            "options": {}
+          },
+          {
+            "value": "<h3>WOOD ELF</h3><p>Your people are one with the forests and the trees, and they care for you as you care for them.</p><p><strong>When traveling through woodlands,</strong> you and your allies cannot be followed by your enemies.</p><p><strong>When you use the </strong><em><strong>Camouflage </strong></em><strong>spell,</strong> you may hide any number of allies with you.</p>",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "details",
+        "max": null,
+        "options": {},
+        "description": "Choose the option that best represents your people:"
+      },
+      "bonds": {
+        "label": "Bonds",
+        "value": "",
+        "type": "Details",
+        "choices": [
+          {
+            "value": "<p>You start with 4 bonds with the other members of the Fellowship. Use these, or make your own:</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>has been named a friend to all elves.</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>once helped me with a hunt, and I know we shall hunt again.</p><p>I have trusted <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>with the truth about me.</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>'s entire family line is respected by the elves.</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>is my rival, and I theirs.</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>defeated me in a contest of skill and I still cannot believe it.</p><p>I have absolute faith in <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>'s abilities.</p><p>I once went to war alongside <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>.</p><p>Because of <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>, I have changed as a person.</p><p>I have taught <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>the ways of elven <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>.</p><p><strong>Record your other bonds here:</strong></p>",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "details",
+        "max": null,
+        "options": {},
+        "description": ""
+      }
+    },
+    "choiceSets": []
+  },
+  "effects": [],
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736283654382,
+    "modifiedTime": 1736283654382,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_id": "NHZ6RUMRsC6akZgD",
+  "sort": 0,
+  "_key": "!items!NHZ6RUMRsC6akZgD"
+}

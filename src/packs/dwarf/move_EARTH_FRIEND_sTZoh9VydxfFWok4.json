@@ -1,0 +1,52 @@
+{
+  "folder": "3B6XT486msmsXls5",
+  "name": "EARTH FRIEND",
+  "type": "move",
+  "_id": "sTZoh9VydxfFWok4",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>You can speak to the mountains and hear the words of the stones. <strong>When you </strong><em><strong>Speak Softly </strong></em><strong>with the earth,</strong> you may use one of your questions to ask it to move for you. For you, the earth can create pits or one-room caves, collapse or clear stone passageways, or leave behind a message that only dwarves will notice.</p>",
+    "moveType": "customs",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736242977503,
+    "modifiedTime": 1736242999458,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!sTZoh9VydxfFWok4"
+}

@@ -1,0 +1,52 @@
+{
+  "folder": "3B6XT486msmsXls5",
+  "name": "WARRIOR'S PRIDE",
+  "type": "move",
+  "_id": "bXPMauLlD15q73HD",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>When you let out a roar of challenge,</strong> tell us who you are challenging and roll +Blood.</p>",
+    "moveType": "customs",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": "<p>They bring backup with them.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": "<p>They accept, approaching you for battle and dropping whatever they were doing.</p><p>They bring backup with them.</p>"
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": "<p>They accept, approaching you for battle and dropping whatever they were doing.</p>"
+      }
+    },
+    "uses": 0,
+    "rollType": "blood",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736243196956,
+    "modifiedTime": 1736243273851,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!bXPMauLlD15q73HD"
+}

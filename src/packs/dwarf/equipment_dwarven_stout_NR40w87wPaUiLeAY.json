@@ -1,0 +1,35 @@
+{
+  "folder": "ttTZ9vM1qiRj7tGS",
+  "name": "dwarven stout",
+  "type": "equipment",
+  "_id": "NR40w87wPaUiLeAY",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Strong alcohol. You carry a small keg of dwarven stout</p>",
+    "uses": 4,
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"FELLOWSHIP.Tags.equipment.Vigor.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Vigor.description\"},{\"value\":\"FELLOWSHIP.Tags.equipment.Drunk.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Drunk.description\"}]",
+    "itemType": "",
+    "equipmentType": "gear",
+    "actorType": "character"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736231533038,
+    "modifiedTime": 1736231563438,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!NR40w87wPaUiLeAY"
+}

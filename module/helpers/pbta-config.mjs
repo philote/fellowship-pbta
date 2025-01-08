@@ -366,22 +366,29 @@ export function pbtaSettings() {
  * Tag configuration for the PbtA system
  */
 export const tagConfig = {
-      // Tags available to any actor and item
-      actor: {
-        // Tags available to all actors
-        all: '',
-        // Tags available to a specific actor type set up on game.pbta.sheetConfig.actorTypes (e.g. "character", "npc")
-        character: '',
-        npc: ''
-    },
     item: {
-        // Tags available to all actors
-        all: '',
-        // Tags available to a specific item type (e.g. "equipment", "move")
-        gear: '[{"value":"Melee"}, {"value":"Ranged"}, {"value":"Area"}, {"value":"Dangerous"}, {"value":"Burning"}, {"value":"Clumsy"}, {"value":"Dwarf-Made"}, {"value":"Elf-Made"}, {"value":"Necrotic"}, {"value":"Orc-Made"}, {"value":"Piercing"}, {"value":"Reload"}, {"value":"Slow"}, {"value":"Thrown"}, {"value":"Ammo"}, {"value":"Armor"}, {"value":"Drunk"}, {"value":"Food"}, {"value":"Healing"}, {"value":"Precious"}, {"value":"Useful"}, {"value":"Vigor"}, {"value":"Trap"}]',
         equipment:
-            '[{"value":"FELLOWSHIP.Tags.equipment.strong.value", "editable":false, "description":"FELLOWSHIP.Tags.equipment.strong.description"}, ' +
-            '{"value":"FELLOWSHIP.Tags.equipment.weak.value", "editable":false, "description":"FELLOWSHIP.Tags.equipment.weak.description"}, ' +
-            '{"value":"FELLOWSHIP.Tags.equipment.glows.value", "editable":false, "description":"FELLOWSHIP.Tags.equipment.glows.description"}]',
+            '[{"value":"FELLOWSHIP.Tags.equipment.Melee.value", "editable":false, "description":"FELLOWSHIP.Tags.equipment.Melee.description"}, ' +
+            '{"value":"FELLOWSHIP.Tags.equipment.Ranged.value", "editable":false, "description":"FELLOWSHIP.Tags.equipment.Ranged.description"}, ' +
+            '{"value":"FELLOWSHIP.Tags.equipment.Area.value", "editable":false, "description":"FELLOWSHIP.Tags.equipment.Area.description"}, ' +
+            '{"value":"FELLOWSHIP.Tags.equipment.Dangerous.value", "editable":false, "description":"FELLOWSHIP.Tags.equipment.Dangerous.description"}, ' +
+            '{"value":"FELLOWSHIP.Tags.equipment.Burning.value", "editable":false, "description":"FELLOWSHIP.Tags.equipment.Burning.description"}, ' +
+            '{"value":"FELLOWSHIP.Tags.equipment.Clumsy.value", "editable":false, "description":"FELLOWSHIP.Tags.equipment.Clumsy.description"}, ' +
+            '{"value":"FELLOWSHIP.Tags.equipment.Dwarf-Made.value", "editable":false, "description":"FELLOWSHIP.Tags.equipment.Dwarf-Made.description"}, ' +
+            '{"value":"FELLOWSHIP.Tags.equipment.Elf-Made.value", "editable":false, "description":"FELLOWSHIP.Tags.equipment.Elf-Made.description"}, ' +
+            '{"value":"FELLOWSHIP.Tags.equipment.Necrotic.value", "editable":false, "description":"FELLOWSHIP.Tags.equipment.Necrotic.description"}, ' +
+            '{"value":"FELLOWSHIP.Tags.equipment.Orc-Made.value", "editable":false, "description":"FELLOWSHIP.Tags.equipment.Orc-Made.description"}, ' +
+            '{"value":"FELLOWSHIP.Tags.equipment.Piercing.value", "editable":false, "description":"FELLOWSHIP.Tags.equipment.Piercing.description"}, ' +
+            '{"value":"FELLOWSHIP.Tags.equipment.Slow.value", "editable":false, "description":"FELLOWSHIP.Tags.equipment.Slow.description"}, ' +
+            '{"value":"FELLOWSHIP.Tags.equipment.Reload.value", "editable":false, "description":"FELLOWSHIP.Tags.equipment.Reload.description"}, ' +
+            '{"value":"FELLOWSHIP.Tags.equipment.Ammo.value", "editable":false, "description":"FELLOWSHIP.Tags.equipment.Ammo.description"}, ' +
+            '{"value":"FELLOWSHIP.Tags.equipment.Armor.value", "editable":false, "description":"FELLOWSHIP.Tags.equipment.Armor.description"}, ' +
+            '{"value":"FELLOWSHIP.Tags.equipment.Drunk.value", "editable":false, "description":"FELLOWSHIP.Tags.equipment.Drunk.description"}, ' +
+            '{"value":"FELLOWSHIP.Tags.equipment.Food.value", "editable":false, "description":"FELLOWSHIP.Tags.equipment.Food.description"}, ' +
+            '{"value":"FELLOWSHIP.Tags.equipment.Healing.value", "editable":false, "description":"FELLOWSHIP.Tags.equipment.Healing.description"}, ' +
+            '{"value":"FELLOWSHIP.Tags.equipment.Precious.value", "editable":false, "description":"FELLOWSHIP.Tags.equipment.Precious.description"}, ' +
+            '{"value":"FELLOWSHIP.Tags.equipment.Useful.value", "editable":false, "description":"FELLOWSHIP.Tags.equipment.Useful.description"}, ' +
+            '{"value":"FELLOWSHIP.Tags.equipment.Vigor.value", "editable":false, "description":"FELLOWSHIP.Tags.equipment.Vigor.description"}, ' +
+            '{"value":"FELLOWSHIP.Tags.equipment.Trap.value", "editable":false, "description":"FELLOWSHIP.Tags.equipment.Trap.description"}]',
     },
 };

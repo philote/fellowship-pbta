@@ -1,0 +1,52 @@
+{
+  "name": "Taken Out",
+  "type": "move",
+  "_id": "XnNIfkrOodG73Xnd",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>When all of your stats are damaged and you take further damage, you are Taken Out, and no longer able to help out for the rest of the scene. Tell us how you got Taken Out. What happened to you? What is going to happen to you next? Can the fellowship save you from your fate? If so, how?</p>",
+    "moveType": "basic",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736309362827,
+    "modifiedTime": 1736309377182,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!XnNIfkrOodG73Xnd"
+}

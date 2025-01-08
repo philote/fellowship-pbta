@@ -1,0 +1,52 @@
+{
+  "folder": "U2koN7fz4pUK2UNC",
+  "name": "CLEAR THE PATH",
+  "type": "move",
+  "_id": "DDKGfOSpLP4HgTpF",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>When you charge through something standing in between you and where you're going,</strong> roll +Iron.</p>",
+    "moveType": "core",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": "<p>Your reckless charge causes problems. You have to go alone, or leave yourself open to danger, or damage something important, your choice.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": "<p>You charge through and leave a path for your allies to follow.</p><p>Your reckless charge causes problems. You have to go alone, or leave yourself open to danger, or damage something important, your choice.</p>"
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": "<p>You charge through and leave a path for your allies to follow.</p>"
+      }
+    },
+    "uses": 0,
+    "rollType": "iron",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736242756973,
+    "modifiedTime": 1736242859392,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!DDKGfOSpLP4HgTpF"
+}

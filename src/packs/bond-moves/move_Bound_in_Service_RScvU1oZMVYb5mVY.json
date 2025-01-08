@@ -1,0 +1,52 @@
+{
+  "name": "Bound in Service",
+  "type": "move",
+  "_id": "RScvU1oZMVYb5mVY",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>When you call upon a Companion for help,</strong> you may damage one of their stats to create an advantage related to that stat. <strong>If all of a Companion's stats are damaged and they'd take further damage,</strong> lose a Bond with them.</p><p><strong>When no one has any Bonds with a Companion,</strong> they leave the fellowship.</p>",
+    "moveType": "bonds",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736309550267,
+    "modifiedTime": 1736309565235,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!RScvU1oZMVYb5mVY"
+}

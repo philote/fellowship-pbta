@@ -1,0 +1,40 @@
+{
+  "folder": "vj5DONFf1IgB28XH",
+  "name": "THE GUZZLER",
+  "type": "fellowship-pbta.companion",
+  "_id": "i3JO8PzGEU9Dvftx",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "typeName": "THE GUZZLER",
+    "typeDescription": "A prototype automobile, there&#39;s nothing like it in all the world. It runs on alcohol, pops, and bangs.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "20 horsepower",
+        "damaged": false
+      },
+      {
+        "name": "loud and fast",
+        "damaged": false
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736232224247,
+    "modifiedTime": 1736232243550,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!i3JO8PzGEU9Dvftx"
+}

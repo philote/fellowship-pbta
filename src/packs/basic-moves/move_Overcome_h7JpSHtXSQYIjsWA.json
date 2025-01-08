@@ -1,0 +1,52 @@
+{
+  "name": "Overcome",
+  "type": "move",
+  "_id": "h7JpSHtXSQYIjsWA",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>When you attempt to avoid, redirect, or prevent the harm something will cause, </strong>roll +Blood. You can <em>Overcome </em>any obstacle, threat, Cut, or Move made against you or an ally, if you are in position to act and have the means to stop it.</p><p><em>Overcoming</em> harm with a weapon does not cost Ammo.</p>",
+    "moveType": "basic",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": "<p>Choose one: Pay a price to take the 10+ result, or create a temporary solution. A temporary solution will delay the threat, but when time is up, it'll be back in force - the Overlord will tell you when.</p>"
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": "<p>You stop the obstacle, threat, Cut, or Move from causing harm.</p>"
+      }
+    },
+    "uses": 0,
+    "rollType": "blood",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736308193433,
+    "modifiedTime": 1736308292167,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!h7JpSHtXSQYIjsWA"
+}

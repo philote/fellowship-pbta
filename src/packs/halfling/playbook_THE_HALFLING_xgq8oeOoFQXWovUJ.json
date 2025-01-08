@@ -1,0 +1,426 @@
+{
+  "name": "THE HALFLING",
+  "type": "playbook",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": "<div class=\"playbook-details\"><h1>THE HALFLING</h1><div class=\"flexrow\"><div class=\"flexcol\"><div><h2>BASIC PLAYBOOK</h2><p><em>I have kept the good things secret and safe. We're small, often we'll go unnoticed, but any bully will pick on the weakest folks they can find. That's where I come in. I lead danger away, sling rocks at it, taunt it, trick it, you name it! If they won't pick on someone their own size, you can't expect me to play fair, can you?</em></p><p><em>We like to duck out heads, enjoy our pleasures, and live our lives peacefully inside of our comfortable little nooks. Comfort, safety, security - they're what's important, you know? So that's what I stand for, if you'll have me.</em></p><p><em>I am the Halfling, and my people are bigger than you think.</em></p></div><div><h2>NAME</h2><p><strong>Choose one or two from each, or make up your own:</strong></p><p><strong>Given Names:</strong> <em>Aldrim, Adamanta, Bungo, Deagol, Donnamira, Drogo, Estella, Gilly, Hamfast, Lidda, Michael, Pounder, Robin, Robard, Rose, Reuel, Schuyler, Tanner</em></p><p><strong>Surnames:</strong> <em>Bracegirdle, Brannigan, Bullroarer, Cobbles,Goldworthy, Hornblower, Muddyfoot, Neville, Nibs, Pip, Proudneck, Roper, Shea, Sylvester, Tackleford, Trotter</em></p></div><div><h2>LOOK</h2><p><strong>Circle one from each list, or make up your own:</strong></p><ul><li>Twinkling Eyes, Large Eyes, or Piercing Eyes</li><li>Clean Cut, Luscious Curls, or Hooded Face</li><li>Sensible Clothes, Travel Clothes, or Sunday Best</li><li>Hairy Body, Rotund Body, or Wiry Body</li></ul></div><div><h2>AGENDA</h2><p><strong>When you know not what to do, consult your Agendas.</strong></p><h3>You have these three Agendas:</h3><ul><li>Be Brave, Take Risks</li><li>Tell Us Of Your People</li><li>Improve The World Around You</li></ul><p><strong>And circle a fourth Agenda that only you follow:</strong></p><h3>Do Right</h3><p>Stick by your friends and your word, and always do what's right.</p><h3>Get Some Recognition</h3><p>Shake things up when people ignore or underestimate you.</p><h3>Have Fun</h3><p>Everyone else is so gloomy all the time! Make sure they lighten up a bit.</p></div><div><h2>STATS</h2><p>Your <strong>Courage </strong>stat is +2. Assign +2, +1, +0, -1 to your other stats.</p><p><strong>When a stat is damaged,</strong> mark the small box. You are in <strong>Despair</strong> when you roll a damaged stat.</p><ul><li>Blood</li><li>Courage</li><li>Grace</li><li>Sense</li><li>Wisdom</li></ul></div><div><h2>WHAT IS A HALFLING?</h2><p>Choose the option that best represents your people:</p><h3>CLEVER STORYTELLERS</h3><p>Your people love to collect stories from afar, and they love to share. You know just how to get someone to tell you what you want to hear.</p><p><strong>When you </strong><em><strong>Speak Softly </strong></em><strong>over stories and games,</strong> you may take the 7-9 result without rolling. <strong>If you also used Halfling Pipeleaf,</strong> take the 10+ result instead.</p><p><strong>When you Speak Softly and get a 6-, you may ask one less question. If you do, they do not get to refuse to answer one of your questions.</strong></p><h3>DETERMINED SURVIVORS</h3><p>Your people have suffered many setbacks and tragedies, and they have never stopped you yet. You know exactly when to stand your ground and exactly when to bail.</p><p><strong>When you </strong><em><strong>Get Away </strong></em><strong>or </strong><em><strong>Keep Them Busy </strong></em><strong>and get a 6-,</strong> you may instead use the other Move as if you rolled a 7-9.</p><h3>MISCHIEVOUS TRICKSTERS</h3><p>Your people love surprises, and they are natural tricksters. The pranks they play are legendary.</p><p><strong>When you </strong><em><strong>Sting Like A Bee</strong></em><strong>,</strong> choose two options instead of one.</p><h3>TRAVELING NOMADS</h3><p>Your people are travelers, never sticking in one place for long.</p><p><strong>When picking your Gear,</strong> choose one more option from each list - you came prepared for anything.</p></div><div><h2>CORE MOVES</h2><p><strong>All Halflings have these moves.</strong></p><h3>THE LITTLE FOLK (COURAGE)</h3><p><strong>When you do something clever or sneaky while no one is looking, roll +Courage.</strong></p><p><strong>On a 7+, you do it, and no one notices right away.</strong></p><p><strong>On a 9-, everyone knows you did it, as soon as they notice what you did.</strong></p><h3>STING LIKE A BEE</h3><p><strong>When you </strong><em><strong>Keep Them Busy </strong></em><strong>by getting in close and get a 7+,</strong> choose one.</p><p>You can only <em>Sting Like A Bee </em>against those who are larger than you.</p><ul><li>You get them to chase you around, and you both leave the scene.</li><li>You steal something small from them, and they don't notice until they need it or you taunt them with it.</li><li>You get them talking - ask a question from the <em>Speak Softly </em>list.</li><li>You think fast - ask a question from the <em>Look Closely</em> list.</li></ul></div><div><h2>CUSTOM MOVES</h2><p><strong>Choose two of these moves to further define what it means to be a Halfling.</strong></p><h3>A FRIENDLY FACE</h3><p>You are small and easily trusted. <strong>So long as you show a friendly face, </strong>anyone not already actively hostile towards you will treat you as a friend, until proven otherwise.</p><h3>BOTTOMLESS BELLY</h3><p><strong>Whenever you </strong><em><strong>Fill Your Belly</strong></em><strong>,</strong> you may Use as much food as you like, and you heal an equal amount of damage. Anyone trying to compete with you can also Use one extra food to heal an extra point of damage.</p><h3>HALF-A-HALFLING</h3><p>Take a Custom Move from any basic playbook.</p><p>You may also take an Agenda from the chosen playbook.</p><p><strong>This move cannot be shared.</strong></p><h3>LIVED IN A SHOE</h3><p>You can change size at will, shrinking down to the size of an apple or growing as tall as a good chair but you usually stay at a happy medium you're comfortable in.</p><h3>SMALL TARGET</h3><p><strong>When you Overcome an enemy by getting out of their way, on a 7+,</strong> you manage to get completely out of sight - your attacker loses track of you, although you must still pay a price on a 7-9 result. <strong>On a 12+,</strong> <em>everyone </em>loses track of you - tell us where you went, and you're there.</p><h3>TALK NONSENSE (COURAGE)</h3><p><strong>When you </strong><em><strong>Talk Sense </strong></em><strong>by telling grandiose lies with a straight face,</strong> roll +Courage.</p><p><strong>When you </strong><em><strong>Talk Sense </strong></em><strong>and get a 10+,</strong> you may also <em>Sting Like A Bee.</em></p><h3>THE COURAGE OF HALFLINGS</h3><p>You are never in Despair when rolling Courage, even if it is damaged.</p><p><strong>This move cannot be Shared.</strong></p><h3>WHO'S THE TOUGH GUY NOW, TOUGH GUY?</h3><p><strong>When you </strong><em><strong>Overcome </strong></em><strong>an enemy and get a 7+,</strong> you may <em>Sting Like A Bee.</em></p><p><strong>When you could </strong><em><strong>Finish Them</strong></em><strong>,</strong> you may <em>Keep Them Busy</em> as if you got a 10+ instead.</p></div></div><div class=\"flexcol\"><div><h2>PLAYING AS THE HALFLING</h2><p>The Halfling is a troublemaker. You are tiny, underestimated, the underdog, and relatively unknown. The Halfling is a tricksy sort. You'll pop up where they least expect you and you'll do much more than anyone else thinks you can.</p><p>Play as The Halfling if you want to sneak around, if you want to play tricks on your enemies, if you like finding alternative solutions, or if your idea of a good time is partying and food.</p></div><div><h2>ADVANCEMENT</h2><p><strong>When you Level Up, increase your level by 1, then choose an option from the list and mark it. You may only choose each option once.</strong> <em>You begin the game at level 1.</em></p><ul><li>Increase your Grace or Sense by 1 (to a maximum of +3).</li><li>Increase one of your stats by 1 (to a maximum of +3).</li><li>Take another Halfling Custom.</li><li>Take another Halfling Custom, or choose another Move from the list of <em>What Is A Halfling? </em>options.</li><li>Share one of your Moves or Gear options with another player.</li><li>Choose a player you have 3 Bonds with. They share one of their Moves or Gear options with you.</li><li><strong>You have Changed.</strong> You must be level 5 or higher to take this Advancement. <strong>When you Change,</strong> choose a Destiny you meet the requirements for and take its first Move.</li></ul></div><div><h2>BONDS</h2><p>You start with 4 bonds with the other members of the Fellowship. Use these, or make your own:</p><p><span style=\"text-decoration:underline\">                     </span>really enjoys the finer things in life.</p><p>I have mesmerized <span style=\"text-decoration:underline\">                </span>with my stories.</p><p><span style=\"text-decoration:underline\">               </span>respects me, and I respect them too!</p><p><span style=\"text-decoration:underline\">               </span>dragged me from my home and on the road to adventure!</p><p>I once told a lie so good <span style=\"text-decoration:underline\">              </span>STILL thinks it's true.</p><p>One of these days, I'll be as good at this adventuring business as <span style=\"text-decoration:underline\">                </span>is.</p><p>I don't think <span style=\"text-decoration:underline\">                </span>has noticed how much I like them.</p><p><span style=\"text-decoration:underline\">             </span>has my back when things get tough out here.</p><p>I've known <span style=\"text-decoration:underline\">              </span>for all my life!</p><p>I will never lie to <span style=\"text-decoration:underline\">                </span>.</p><p><strong>Record your other bonds here:</strong></p></div><div><h2>HALFLING GEAR</h2><p>You start with a trusty handheld weapon <em>(Melee) </em>and a halfling packed lunch <em>(Food, 2 Uses, each Use feeds three people).</em></p><h3>Choose what you brought to keep your friends safe:</h3><ul><li>A slingshot <em>(Ranged, 2 Ammo)</em></li><li>Poultices <em>(Healing, Slow, 2 Uses)</em></li><li>Burglar's Gear <em>(Useful, 2 Uses)</em></li><li>A pit trap <em>(Trap, 2 Uses). </em>Use it to make them fall into a hole.</li></ul><h3>Choose the companion you brought on your journey:</h3><ul><li>A traveler's carriage, cozy on the inside, which you have 1 Bond with.</li><li>A riding spear <em>(Melee) </em>and a trained mount, common among your people - a riding boar, a riding dog, or a giant spider, your choice, which you have 2 Bonds with.</li><li>A couple friends (Choose two: Brave, Chef, or Fast-Talker), you have 1 Bond with each of them.</li><li>Halfling pipeleaf <em>(Slow, Drunk, 2 Uses)</em> and some snacks <em>(Food, 2 Uses)</em></li></ul><h3>Choose the luxury you couldn't let go:</h3><ul><li>Halfling pipeleaf <em>(Slow, Drunk, 2 Uses)</em></li><li>Another halfling packed lunch <em>(Food, 2 Uses, each Use feeds three people) </em>and some snacks <em>(Food, 2 Uses)</em></li><li>A bottle of elven wine <em>(Healing, Drunk, 2 Uses)</em></li></ul><h3>What fell into your pocket on the way out the door? Choose one:</h3><ul><li>A purse full of foreign coins <em>(Precious, 2 Uses)</em></li><li>An adventuring contract, with all the terms and conditions in writing <em>(1 Use). </em>You can Use this item to win an argument with another player.</li><li>An Address book, filled with family friends <em>(1 Use). </em>You can Use this item to find a friend in any town you go to. You have a Bond with them, write it now.</li></ul><h3>HALFLING PIPELEAF</h3><p><em>(Slow, Drunk, 2 Uses)</em></p><p>Halfling pipeleaf is a particularly popular kind of tobacco, especially among wizards. <strong>When you share your pipeleaf with another (1 Use), </strong><em>Speak Softly </em>with them as if you rolled a 7-9.</p></div><div><h2>COMPANIONS</h2><p>Halfling companions are those allies who are particularly likely to join arms with you. Many of them are available as Gear options - a Companion in your Gear will always return to you, heal, or be replaced by another when you <em>Recover</em>.</p><h3>HALFLING BRAVE</h3><p><em>A more loyal and earnest warrior you'll never find.</em></p><p class=\"tags\">get right in there | loyal beyond all reason</p><h3>HALFLING CHEF</h3><p><em>If you've got the food, they'll make it tasty.</em></p><p class=\"tags\">special ingredients | food (2 uses)</p><h3>FAST-TALKER</h3><p><em>If you'll just listen, you'll understand...</em></p><p class=\"tags\">natural charm | mixed-metaphor-a-minute</p><p>special ingredients food special ingredients food</p><h3>RIDING BOAR</h3><p><em>These wild beasts are popular among both halfling war riders and halfling chefs</em></p><p class=\"tags\">pig-headed | wild charge</p><h3>RIDING DOG</h3><p><em>Dogs may be man's best friend, but only halflings can ride them.</em></p><p class=\"tags\">loyal friend | good nose</p><p>giant spider</p><p><em>Many find these massive spiders absolutely terrifying, but halflings find their mobility to be second to none.</em></p><p class=\"tags\">wall crawler | creepy</p><h3>TRAVELER'S CARRIAGE</h3><p><em>Usually drawn by pony, these carriages are popular homes for the</em></p><p class=\"tags\">sweet home | travel in comfort</p><h3>HALFLING WAR WAGON</h3><p><em>The War Wagon is a carriage converted for war Covered in spikes, it is mounted with a rock ballistae and a kitchen, for that extra taste of home.</em></p><p class=\"tags\">spiked armor | rock ballistae | built for war</p></div></div></div></div>",
+    "slug": "the-halfling",
+    "actorType": "character",
+    "stats": {
+      "blood": {
+        "label": "Blood",
+        "value": 0
+      },
+      "courage": {
+        "label": "Courage",
+        "value": 2
+      },
+      "grace": {
+        "label": "Grace",
+        "value": 0
+      },
+      "sense": {
+        "label": "Sense",
+        "value": 0
+      },
+      "wisdom": {
+        "label": "Wisdom",
+        "value": 0
+      },
+      "iron": {
+        "label": "Iron",
+        "value": 0
+      },
+      "doom": {
+        "label": "Doom",
+        "value": 0
+      }
+    },
+    "statsDetail": "Your Courage stat is +2. Assign +2, +1, +0, -1 to your other stats.",
+    "attributes": {
+      "statsVisibility": {
+        "label": "Stats Visibility",
+        "description": "Which stats are visible on the character sheet?",
+        "type": "ListMany",
+        "options": {
+          "0": {
+            "label": "blood",
+            "value": true
+          },
+          "1": {
+            "label": "courage",
+            "value": true
+          },
+          "2": {
+            "label": "grace",
+            "value": true
+          },
+          "3": {
+            "label": "sense",
+            "value": true
+          },
+          "4": {
+            "label": "wisdom",
+            "value": true
+          },
+          "5": {
+            "label": "iron",
+            "value": false
+          },
+          "6": {
+            "label": "doom",
+            "value": false
+          }
+        },
+        "choices": [
+          {
+            "options": {
+              "0": {
+                "label": "blood",
+                "value": true
+              },
+              "1": {
+                "label": "courage",
+                "value": true
+              },
+              "2": {
+                "label": "grace",
+                "value": true
+              },
+              "3": {
+                "label": "sense",
+                "value": true
+              },
+              "4": {
+                "label": "wisdom",
+                "value": true
+              },
+              "5": {
+                "label": "iron",
+                "value": false
+              },
+              "6": {
+                "label": "doom",
+                "value": false
+              }
+            },
+            "value": ""
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "value": "",
+        "max": null
+      },
+      "initialAgendas": {
+        "label": "Agendas",
+        "type": "LongText",
+        "value": "",
+        "choices": [
+          {
+            "value": "<ul><li>Be Brave, Take Risks</li><li>Tell Us Of Your People</li><li>Improve The World Around You</li></ul>",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "fourthAgenda": {
+        "label": "When you know not what to do, consult your Agendas.",
+        "type": "LongText",
+        "value": "",
+        "choices": [
+          {
+            "value": "<p><strong>Do Right</strong> Stick by your friends and your word, and always do what's right.</p>",
+            "options": {}
+          },
+          {
+            "value": "<p><strong>Get Some Recognition</strong> Shake things up when people ignore or underestimate you.</p>",
+            "options": {}
+          },
+          {
+            "value": "<p><strong>Have Fun</strong> Everyone else is so gloomy all the time! Make sure they lighten up a bit.</p>",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "lookOne": {
+        "label": "Look",
+        "type": "Text",
+        "value": "",
+        "choices": [
+          {
+            "value": "Twinkling Eyes",
+            "options": {}
+          },
+          {
+            "value": "Large Eyes",
+            "options": {}
+          },
+          {
+            "value": "Piercing Eyes",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "lookTwo": {
+        "label": "LookTwo",
+        "type": "Text",
+        "value": "",
+        "choices": [
+          {
+            "value": "Clean Cut",
+            "options": {}
+          },
+          {
+            "value": "Luscious Curls",
+            "options": {}
+          },
+          {
+            "value": "Hooded Face",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "lookThree": {
+        "label": "LookThree",
+        "type": "Text",
+        "value": "",
+        "choices": [
+          {
+            "value": "Sensible Clothes",
+            "options": {}
+          },
+          {
+            "value": "Travel Clothes",
+            "options": {}
+          },
+          {
+            "value": "Sunday Best",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "lookFour": {
+        "label": "LookFour",
+        "type": "Text",
+        "value": "",
+        "choices": [
+          {
+            "value": "Hairy Body",
+            "options": {}
+          },
+          {
+            "value": "Rotund Body",
+            "options": {}
+          },
+          {
+            "value": "Wiry Body",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "advancements": {
+        "label": "Advancement",
+        "description": "When you Level Up, increase your level by 1, then choose an option from the list and mark it. You may only choose each option once.",
+        "type": "ListMany",
+        "options": {
+          "0": {
+            "label": "",
+            "value": false
+          },
+          "1": {
+            "label": "",
+            "value": false
+          },
+          "2": {
+            "label": "",
+            "value": false
+          },
+          "3": {
+            "label": "",
+            "value": false
+          },
+          "4": {
+            "label": "",
+            "value": false
+          },
+          "5": {
+            "label": "",
+            "value": false
+          }
+        },
+        "choices": [
+          {
+            "options": {
+              "0": {
+                "value": false,
+                "label": "Increase your Grace or Sense by 1 (to a maximum of +3)."
+              },
+              "1": {
+                "value": false,
+                "label": "Increase one of your stats by 1 (to a maximum of +3)."
+              },
+              "2": {
+                "value": false,
+                "label": "Take another Halfling Custom."
+              },
+              "3": {
+                "value": false,
+                "label": "Take another Halfling Custom, or choose another Move from the list of <i>What Is A Halfling? </i>options."
+              },
+              "4": {
+                "value": false,
+                "label": "Share one of your Moves or Gear options with another player."
+              },
+              "5": {
+                "value": false,
+                "label": "Choose a player you have 3 Bonds with. They share one of their Moves or Gear options with you."
+              }
+            },
+            "value": ""
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "value": "",
+        "max": null
+      },
+      "unlockDestiny": {
+        "label": "Unlock your Destiny",
+        "description": "You must be level 5 or higher to take this Advancement. When you do, you unlock the ability to choose a Destiny.",
+        "type": "ListMany",
+        "options": {
+          "0": {
+            "label": "You have Changed. When you Change, choose a Destiny you meet the requirements for and take its first Move.",
+            "value": false
+          }
+        },
+        "choices": [
+          {
+            "options": {
+              "0": {
+                "label": "You have Changed. When you Change, choose a Destiny you meet the requirements for and take its first Move.",
+                "value": false
+              }
+            },
+            "value": ""
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "value": "",
+        "max": null
+      },
+      "playingAs": {
+        "label": "Playing as",
+        "value": "",
+        "type": "Details",
+        "choices": [
+          {
+            "value": "<p>The Halfling is a troublemaker. You are tiny, underestimated, the underdog, and relatively unknown. The Halfling is a tricksy sort. You'll pop up where they least expect you and you'll do much more than anyone else thinks you can.</p><p>Play as The Halfling if you want to sneak around, if you want to play tricks on your enemies, if you like finding alternative solutions, or if your idea of a good time is partying and food.</p>",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "details",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "yourPeople": {
+        "label": "Your People",
+        "value": "",
+        "type": "Details",
+        "choices": [
+          {
+            "value": "<h3>CLEVER STORYTELLERS</h3><p>Your people love to collect stories from afar, and they love to share. You know just how to get someone to tell you what you want to hear.</p><p><strong>When you </strong><em><strong>Speak Softly </strong></em><strong>over stories and games,</strong> you may take the 7-9 result without rolling. <strong>If you also used Halfling Pipeleaf,</strong> take the 10+ result instead.</p><p><strong>When you Speak Softly and get a 6-, you may ask one less question. If you do, they do not get to refuse to answer one of your questions.</strong></p>",
+            "options": {}
+          },
+          {
+            "value": "<h3>DETERMINED SURVIVORS</h3><p>Your people have suffered many setbacks and tragedies, and they have never stopped you yet. You know exactly when to stand your ground and exactly when to bail.</p><p><strong>When you </strong><em><strong>Get Away </strong></em><strong>or </strong><em><strong>Keep Them Busy </strong></em><strong>and get a 6-,</strong> you may instead use the other Move as if you rolled a 7-9.</p>",
+            "options": {}
+          },
+          {
+            "value": "<h3>MISCHIEVOUS TRICKSTERS</h3><p>Your people love surprises, and they are natural tricksters. The pranks they play are legendary.</p><p><strong>When you </strong><em><strong>Sting Like A Bee</strong></em><strong>,</strong> choose two options instead of one.</p>",
+            "options": {}
+          },
+          {
+            "value": "<h3>TRAVELING NOMADS</h3><p>Your people are travelers, never sticking in one place for long.</p><p><strong>When picking your Gear,</strong> choose one more option from each list - you came prepared for anything.</p>",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "details",
+        "max": null,
+        "options": {},
+        "description": "Choose the option that best represents your people:"
+      },
+      "bonds": {
+        "label": "Bonds",
+        "value": "",
+        "type": "Details",
+        "choices": [
+          {
+            "value": "<p>You start with 4 bonds with the other members of the Fellowship. Use these, or make your own:</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>really enjoys the finer things in life.</p><p>I have mesmerized <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>with my stories.</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>respects me, and I respect them too!</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>dragged me from my home and on the road to adventure!</p><p>I once told a lie so good <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>STILL thinks it's true.</p><p>One of these days, I'll be as good at this adventuring business as <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>is.</p><p>I don't think <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>has noticed how much I like them.</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>has my back when things get tough out here.</p><p>I've known <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>for all my life!</p><p>I will never lie to <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>.</p><p><strong>Record your other bonds here:</strong></p>",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "details",
+        "max": null,
+        "options": {},
+        "description": ""
+      }
+    },
+    "choiceSets": []
+  },
+  "effects": [],
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736283683500,
+    "modifiedTime": 1736283683500,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_id": "xgq8oeOoFQXWovUJ",
+  "sort": 0,
+  "_key": "!items!xgq8oeOoFQXWovUJ"
+}

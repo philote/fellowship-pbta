@@ -1,0 +1,40 @@
+{
+  "folder": "vj5DONFf1IgB28XH",
+  "name": "DWARVEN GUNNER",
+  "type": "fellowship-pbta.companion",
+  "_id": "nIfu0LZygPMyErsn",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "typeName": "DWARVEN GUNNER",
+    "typeDescription": "Dwarven riflemen are famous throughout the world for their excessive usage of black powder.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "powder keg",
+        "damaged": false
+      },
+      {
+        "name": "sturdy rifle",
+        "damaged": false
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736232062648,
+    "modifiedTime": 1736232096674,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!nIfu0LZygPMyErsn"
+}
