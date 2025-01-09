@@ -1,0 +1,52 @@
+{
+  "folder": "cfR995XpurFSj3ox",
+  "name": "DEFIANT TO THE LAST",
+  "type": "move",
+  "_id": "FpBpuchBFLpHLiLS",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>When you are Taken Out,</strong> you don't go down until the end of the scene. You can continue to act as you please, and further damage against you does nothing.</p><p>This does not stop the Overlord from making you <em>An Offer You Can't Refuse</em>.</p>",
+    "moveType": "destiny",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736407915230,
+    "modifiedTime": 1736407925663,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!FpBpuchBFLpHLiLS"
+}

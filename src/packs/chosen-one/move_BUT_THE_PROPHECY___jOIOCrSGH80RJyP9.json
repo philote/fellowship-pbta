@@ -1,0 +1,52 @@
+{
+  "folder": "cfR995XpurFSj3ox",
+  "name": "BUT THE PROPHECY!?",
+  "type": "move",
+  "_id": "jOIOCrSGH80RJyP9",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>When you act against the Prophecies,</strong> roll +Courage.</p>",
+    "moveType": "destiny",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": "<p>Breaking causality has consequences. The Overlord will tell you one way that defying the Prophcy has changed things for the worse.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": "<p><strong>Y</strong>ou have changed the future. Tell us one part of the Prophecy that has changed and what will happen now as a result.</p><p>Breaking causality has consequences. The Overlord will tell you one way that defying the Prophcy has changed things for the worse.</p>"
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": "<p><strong>Y</strong>ou have changed the future. Tell us one part of the Prophecy that has changed and what will happen now as a result.</p>"
+      }
+    },
+    "uses": 0,
+    "rollType": "courage",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736403308333,
+    "modifiedTime": 1736403385316,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!jOIOCrSGH80RJyP9"
+}

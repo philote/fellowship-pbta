@@ -1,0 +1,54 @@
+{
+  "name": "WITCH",
+  "type": "fellowship-pbta.destiny",
+  "_id": "HrbILlXHqm6ZLDN4",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "htmlFields": [
+      "description"
+    ],
+    "description": "<div class=\"destiny-details\"><p><em>When you can conjure hammers at will, every problem starts looking like an eldritch nail.</em></p><h2>REQUIREMENTS</h2><p><strong>To become the Witch,</strong> you must have solved at least three problems using Magic when they could have been solved otherwise.</p><p>The Witch starts with a Witch Custom Move of their choice.</p><h2>CUSTOM MOVES</h2><p>@UUID[Compendium.fellowship-pbta.witch.Item.DMJcue0vvhsAoR3W]{CONJURER}</p><p>@UUID[Compendium.fellowship-pbta.witch.Item.xrgvmY1KAYqdF2xo]{DEFYING GRAVITY}</p><p>@UUID[Compendium.fellowship-pbta.witch.Item.OWvFUpuAHsXKrYfN]{POTION'S MASTER}</p><p>@UUID[Compendium.fellowship-pbta.witch.Item.ScHcQfAU1JOelX44]{STITCHED TOGETHER}</p><p>@UUID[Compendium.fellowship-pbta.witch.Item.xqBBk56SorItqruc]{TURN YOU INTO A NEWT}</p><p>@UUID[Compendium.fellowship-pbta.witch.Item.cHLX3g9zrODz5wxd]{WITCH'S FAMILIAR}</p></div>",
+    "advancements": [
+      {
+        "used": false,
+        "name": "Increase one of your stats by +1, to a maximum of +3."
+      },
+      {
+        "used": false,
+        "name": "Take a Witch Custom."
+      },
+      {
+        "used": false,
+        "name": "Take a Witch Custom."
+      },
+      {
+        "used": false,
+        "name": "Take a Witch Custom."
+      },
+      {
+        "used": false,
+        "name": "Take a Witch Custom."
+      }
+    ],
+    "moves": []
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736408936174,
+    "modifiedTime": 1736409048534,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!HrbILlXHqm6ZLDN4"
+}

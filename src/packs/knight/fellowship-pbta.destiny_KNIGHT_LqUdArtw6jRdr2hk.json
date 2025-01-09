@@ -1,0 +1,54 @@
+{
+  "name": "KNIGHT",
+  "type": "fellowship-pbta.destiny",
+  "_id": "LqUdArtw6jRdr2hk",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "htmlFields": [
+      "description"
+    ],
+    "description": "<div class=\"destiny-details\"><p><em>You were once the squire, the tag-a-long. You were nobody. But now? Now you are somebody, and nobody can deny your worth. They cannot succeed without you anymore.</em></p><h2>REQUIREMENTS</h2><p><strong>To become the Knight,</strong> you must have 3 or more Bonds with at least two other players.</p><p>The Knight starts with <em>You Have My Shield.</em></p><p>@UUID[Compendium.fellowship-pbta.knight.Item.asX1BXX8DgXdWdBr]{YOU HAVE MY SHIELD}</p><h2>CUSTOM MOVES</h2></div><div class=\"destiny-details\"><p>@UUID[Compendium.fellowship-pbta.knight.Item.xZq1IOkDMewbnGau]{A PROPER KNIGHT}</p><p>@UUID[Compendium.fellowship-pbta.knight.Item.69B3NhU3e2dFZJEY]{ENDLESS DETERMINATION}</p><p>@UUID[Compendium.fellowship-pbta.knight.Item.0SombjTUkPiCQstc]{FULL METAL}</p><p>@UUID[Compendium.fellowship-pbta.knight.Item.nL7Gz4ZgQx02wZZD]{WAR HORSE}</p><p>@UUID[Compendium.fellowship-pbta.knight.Item.yDTEm7bECSYBpuMb]{WE NEED YOUR HELP!}</p><p>@UUID[Compendium.fellowship-pbta.knight.Item.RJoeomyxRkRA4uEz]{YOU MUST KEEP GOING!}</p></div>",
+    "advancements": [
+      {
+        "used": false,
+        "name": "Take the Squire's Core Moves (<i>Fast Friends</i>, <i>It&#39;s Dangerous To Go Alone</i>, and <i>Please, Just Listen</i>). If you already have them, instead increase one of your stats by +1, to a maximum of +3."
+      },
+      {
+        "used": false,
+        "name": "Take a Squire Custom."
+      },
+      {
+        "used": false,
+        "name": "Take a Knight Custom."
+      },
+      {
+        "used": false,
+        "name": "Take a Knight Custom."
+      },
+      {
+        "used": false,
+        "name": "Take a Knight Custom."
+      }
+    ],
+    "moves": []
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736406402655,
+    "modifiedTime": 1736406553003,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!LqUdArtw6jRdr2hk"
+}

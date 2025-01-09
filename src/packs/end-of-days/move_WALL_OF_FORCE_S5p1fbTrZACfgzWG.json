@@ -1,0 +1,52 @@
+{
+  "folder": "cfR995XpurFSj3ox",
+  "name": "WALL OF FORCE",
+  "type": "move",
+  "_id": "S5p1fbTrZACfgzWG",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><em><strong>Requires:</strong> Wizardry</em></p><p>Add the following option to the <em>Wizardry </em>list:</p><ul><li>You can create semi-transparent walls and floors anywhere you wish, as large as you'd like them to be. You can only have one such surface in existence at a time, and it is not indestructible - it can be destroyed by a strong enough hit, and it cannot stop a <strong>Threat to the World</strong>.</li></ul>",
+    "moveType": "destiny",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736404602635,
+    "modifiedTime": 1736404614147,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!S5p1fbTrZACfgzWG"
+}

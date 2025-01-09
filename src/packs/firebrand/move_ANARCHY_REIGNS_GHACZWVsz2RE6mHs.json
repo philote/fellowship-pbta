@@ -1,0 +1,52 @@
+{
+  "folder": "cfR995XpurFSj3ox",
+  "name": "ANARCHY REIGNS",
+  "type": "move",
+  "_id": "GHACZWVsz2RE6mHs",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Add Various Explosive Devices (3 Uses, Area) to your Gear. You can Use these explosives to create an explosion whenever and wherever you need it, even if you could not conceivably planted them ahead of time.</p>",
+    "moveType": "destiny",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736404804871,
+    "modifiedTime": 1736404815430,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!GHACZWVsz2RE6mHs"
+}

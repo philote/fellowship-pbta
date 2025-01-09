@@ -1,0 +1,54 @@
+{
+  "name": "LEADER",
+  "type": "fellowship-pbta.destiny",
+  "_id": "mKYvlKDj8deeKyyA",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "htmlFields": [
+      "description"
+    ],
+    "description": "<div class=\"destiny-details\"><p><em>You're a natural commander, and you find people fall into line when you speak up. So in this trying time, you need to raise your voice and get your team moving.</em></p><h2>REQUIREMENTS</h2><p><strong>To become the Leader,</strong> you must have 3 or more Bonds with at least two Companions.</p><p>The Leader starts with <em>To The Gates of Hell Itself.</em></p><p>@UUID[Compendium.fellowship-pbta.leader.Item.MIkXdMcXNkKtAu1x]{TO THE GATES OF HELL ITSELF}</p><h2>CUSTOM MOVES</h2><p>@UUID[Compendium.fellowship-pbta.leader.Item.DD7ijWrH0sBScI8k]{DISCIPLINARY ACTION}</p><p>@UUID[Compendium.fellowship-pbta.leader.Item.1763m50dQ41mhnHq]{DON'T LET YOUR DREAMS JUST BE DREAMS}</p><p>@UUID[Compendium.fellowship-pbta.leader.Item.CwewDjnsr72kPadV]{EXPERT COMMANDER}</p><p>@UUID[Compendium.fellowship-pbta.leader.Item.QvNCsXEQtJkKnMsh]{INSPIRING PRESENCE}</p><p>@UUID[Compendium.fellowship-pbta.leader.Item.Ocfgy8eEiUyzzkGu]{RECRUITMENT DRIVE}</p></div>",
+    "advancements": [
+      {
+        "used": false,
+        "name": "Take the Heir's Core Moves (<i>Royal Treatment </i>and <i>Yes, My Liege</i>). If you already have them, instead increase one of your stats by +1, to a maximum of +3."
+      },
+      {
+        "used": false,
+        "name": "Take an Heir's Custom."
+      },
+      {
+        "used": false,
+        "name": "Take a Leader Custom."
+      },
+      {
+        "used": false,
+        "name": "Take a Leader Custom."
+      },
+      {
+        "used": false,
+        "name": "Take a Leader Custom."
+      }
+    ],
+    "moves": []
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736406773119,
+    "modifiedTime": 1736406904100,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!mKYvlKDj8deeKyyA"
+}

@@ -1,0 +1,52 @@
+{
+  "folder": "cfR995XpurFSj3ox",
+  "name": "SIXTH SENSE",
+  "type": "move",
+  "_id": "EiKqKAWTg5nVFcjO",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>You always know when you are being watched or followed.</p><p><strong>When you pause to pay attention,</strong> you always know exactly how many people are around you and roughly what direction from you each of them is. This sixth sense will detect people in hiding and even invisible or incorporeal presences, although not their exact location.</p>",
+    "moveType": "destiny",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736407969854,
+    "modifiedTime": 1736407981382,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!EiKqKAWTg5nVFcjO"
+}

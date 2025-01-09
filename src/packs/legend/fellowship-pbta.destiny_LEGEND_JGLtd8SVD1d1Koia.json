@@ -1,0 +1,54 @@
+{
+  "name": "LEGEND",
+  "type": "fellowship-pbta.destiny",
+  "_id": "JGLtd8SVD1d1Koia",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "htmlFields": [
+      "description"
+    ],
+    "description": "<div class=\"destiny-details\"><p><em>Everyone has heard of you. You're the legend! The hero! The one we're all looking up to! And we know you'll save the day, for sure!</em></p><h2>REQUIREMENTS</h2><p><strong>To become the Legend,</strong> you must have earned great renown.</p><p>The Legend starts with <em>The Legend Begins.</em></p><p>@UUID[Compendium.fellowship-pbta.legend.Item.kGnnC0pmdRcytL3k]{THE LEGEND BEGINS}</p><h2>CUSTOM MOVES</h2><p>@UUID[Compendium.fellowship-pbta.legend.Item.Oae5pGPR0Wp48rXH]{ANYTHING YOU CAN DO, I CAN DO BETTER!}</p><p>@UUID[Compendium.fellowship-pbta.legend.Item.gEuy0ymu3uEfb8Pa]{HERO OF THE PEOPLE}</p><p>@UUID[Compendium.fellowship-pbta.legend.Item.FLhBc7QtVzTsX9wS]{LOYAL FANS}</p><p>@UUID[Compendium.fellowship-pbta.legend.Item.o0WckacHAJcrtezA]{THE LEGEND NEVER DIES}</p><p>@UUID[Compendium.fellowship-pbta.legend.Item.5oYglB45DnQP39Re]{THE LEGEND SPREADS}</p></div>",
+    "advancements": [
+      {
+        "used": false,
+        "name": "Increase one of your stats by +1, to a maximum of +3."
+      },
+      {
+        "used": false,
+        "name": "Take a Custom Move from any Basic playbook."
+      },
+      {
+        "used": false,
+        "name": "Take a Legend Custom."
+      },
+      {
+        "used": false,
+        "name": "Take a Legend Custom."
+      },
+      {
+        "used": false,
+        "name": "Take a Legend Custom."
+      }
+    ],
+    "moves": []
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736407156053,
+    "modifiedTime": 1736407248803,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!JGLtd8SVD1d1Koia"
+}

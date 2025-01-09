@@ -1,0 +1,52 @@
+{
+  "folder": "cfR995XpurFSj3ox",
+  "name": "WE NEED YOUR HELP!",
+  "type": "move",
+  "_id": "yDTEm7bECSYBpuMb",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>When you go to find help,</strong> the Overlord will tell you who you find. <strong>If you ask for their aid,</strong> roll +Sense.</p>",
+    "moveType": "destiny",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": "<p>They will not help you, and they may even mean you harm.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": "<p>Choose two, or pay a price to take three. Regardless of your choices, they will help you, and they are sufficient to help with your need.</p><ul><li>They will help immediately, dropping whatever they were doing.</li><li>They ask no questions and need no explanation.</li><li>They demand no favors or payment.</li><li>You <em>Forge A Bond </em>with them.</li></ul>"
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": "<p>All four.</p><ul><li>They will help immediately, dropping whatever they were doing.</li><li>They ask no questions and need no explanation.</li><li>They demand no favors or payment.</li><li>You <em>Forge A Bond </em>with them.</li></ul>"
+      }
+    },
+    "uses": 0,
+    "rollType": "sense",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736406262704,
+    "modifiedTime": 1736406362312,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!yDTEm7bECSYBpuMb"
+}

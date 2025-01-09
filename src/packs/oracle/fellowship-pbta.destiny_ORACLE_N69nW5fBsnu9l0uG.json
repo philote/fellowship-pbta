@@ -1,0 +1,54 @@
+{
+  "name": "ORACLE",
+  "type": "fellowship-pbta.destiny",
+  "_id": "N69nW5fBsnu9l0uG",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "htmlFields": [
+      "description"
+    ],
+    "description": "<div class=\"destiny-details\"><p><em>You see more than any other. You see the truth. You see the future. You see all.</em></p><h2>REQUIREMENTS</h2><p><strong>To become the Oracle,</strong> you must earn the Fellowship of the Harbingers.</p><p>The Oracle starts with <em>Sights Unseen</em>.</p><p>@UUID[Compendium.fellowship-pbta.oracle.Item.oL0P8QR52eCjY4Yq]{SIGHTS UNSEEN}</p><h2>CUSTOM MOVES</h2><p>@UUID[Compendium.fellowship-pbta.oracle.Item.w1hdFS4sFSc5KrSw]{BEND FATE}</p><p>@UUID[Compendium.fellowship-pbta.oracle.Item.3Yd8ggjcYOrnPR5E]{CASSANDRA, CASSANDRA}</p><p>@UUID[Compendium.fellowship-pbta.oracle.Item.Fj3SlwDJjRfsEDtW]{INSIGHT}</p><p>@UUID[Compendium.fellowship-pbta.oracle.Item.UPqDvKf1pEYFynHY]{MIND READER}</p><p>@UUID[Compendium.fellowship-pbta.oracle.Item.SMjZ7rpNAlQz4tmQ]{PROPHETIC BONDS}</p></div>",
+    "advancements": [
+      {
+        "used": false,
+        "name": "Take the Harbinger's Core Moves other than <i>Doom and Gloom (Doomed Soul, Do Not Trifle With Wizards</i>, and <i>Wizardry</i>). Your Doom stat is +2. If you already have them, instead increase one of your stats by +1, to a maximum of +3."
+      },
+      {
+        "used": false,
+        "name": "Take a Harbinger Custom."
+      },
+      {
+        "used": false,
+        "name": "Take an Oracle's Custom."
+      },
+      {
+        "used": false,
+        "name": "Take an Oracle's Custom."
+      },
+      {
+        "used": false,
+        "name": "Take an Oracle's Custom."
+      }
+    ],
+    "moves": []
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736407755552,
+    "modifiedTime": 1736407871384,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!N69nW5fBsnu9l0uG"
+}

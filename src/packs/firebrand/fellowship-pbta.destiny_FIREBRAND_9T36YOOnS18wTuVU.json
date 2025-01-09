@@ -1,0 +1,54 @@
+{
+  "name": "FIREBRAND",
+  "type": "fellowship-pbta.destiny",
+  "_id": "9T36YOOnS18wTuVU",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "htmlFields": [
+      "description"
+    ],
+    "description": "<div class=\"destiny-details\"><p><em>Fire is the ultimate problem solver, as you have already demonstrated. Now to demonstrate further.</em></p><h2>REQUIREMENTS</h2><p><strong>To become the Firebrand,</strong> you must have solved at least three problems with fire.</p><p>The Firebrand starts with <em>Firestarter</em>.</p><p>@UUID[Compendium.fellowship-pbta.firebrand.Item.LRVWEgAZxrFsQBaK]{FIRESTARTER}</p><h2>CUSTOM MOVES</h2><p>@UUID[Compendium.fellowship-pbta.firebrand.Item.GHACZWVsz2RE6mHs]{ANARCHY REIGNS}</p><p>@UUID[Compendium.fellowship-pbta.firebrand.Item.1YVQeHFyrWbmFJeg]{BURNING SOUL}</p><p>@UUID[Compendium.fellowship-pbta.firebrand.Item.TkbQUkJC0E0LG6Xm]{DRAGONFIRE}</p><p>@UUID[Compendium.fellowship-pbta.firebrand.Item.Qbf35izm2xNiwtA8]{PLAY WITH FIRE}</p><p>@UUID[Compendium.fellowship-pbta.firebrand.Item.BQtnujhBMBy5mit8]{PYROMANIA}</p></div>",
+    "advancements": [
+      {
+        "used": false,
+        "name": "Increase one of your stats by +1, to a maximum of +3."
+      },
+      {
+        "used": false,
+        "name": "You become immune to fire, and cannot take damage from fire, heat, or explosions."
+      },
+      {
+        "used": false,
+        "name": "Take a Firebrand Custom."
+      },
+      {
+        "used": false,
+        "name": "Take a Firebrand Custom."
+      },
+      {
+        "used": false,
+        "name": "Take a Firebrand Custom."
+      }
+    ],
+    "moves": []
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736404903653,
+    "modifiedTime": 1736404979785,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!9T36YOOnS18wTuVU"
+}

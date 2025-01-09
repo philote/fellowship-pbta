@@ -1,0 +1,54 @@
+{
+  "name": "CHOSEN ONE",
+  "type": "fellowship-pbta.destiny",
+  "_id": "s14tddxhNANQQZSL",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "htmlFields": [
+      "description"
+    ],
+    "description": "<div class=\"destiny-details\"><p><em>Somehow, it seems like everything's fallen onto your shoulders. You didn't ask for this, but you're here, and no one else is. Rise up, Chosen One.</em></p><h2>REQUIREMENTS</h2><p><strong>To become the Chosen One,</strong> everyone must agree that you are important to the success of the Fellowship.</p><p>The Chosen One starts with <em>Destiny Child</em>.</p><p>@UUID[Compendium.fellowship-pbta.chosen-one.Item.XfZHWArKNgEBGQbO]{DESTINY CHILD}</p><h2>CUSTOM MOVES</h2><p>@UUID[Compendium.fellowship-pbta.chosen-one.Item.3OfOuUYv2tbJaZST]{ANCIENT ALLIES}</p><p>@UUID[Compendium.fellowship-pbta.chosen-one.Item.jOIOCrSGH80RJyP9]{BUT THE PROPHECY!?}</p><p>@UUID[Compendium.fellowship-pbta.chosen-one.Item.bBRA6VGjFjGIq30h]{ENDLESS DETERMINATION}</p><p>@UUID[Compendium.fellowship-pbta.chosen-one.Item.g1XIgFAnbNWc1C4E]{FATE'S PUPPET}</p><p>@UUID[Compendium.fellowship-pbta.chosen-one.Item.0wZ8H5E16wxBRtb0]{I CAN DO THIS}</p></div>",
+    "advancements": [
+      {
+        "used": false,
+        "name": "Increase one of your stats by +1, to a maximum of +3."
+      },
+      {
+        "used": false,
+        "name": "Take a Custom Move from any Basic playbook."
+      },
+      {
+        "used": false,
+        "name": "Take a Chosen One Custom."
+      },
+      {
+        "used": false,
+        "name": "Take a Chosen One Custom."
+      },
+      {
+        "used": false,
+        "name": "Take a Chosen One Custom."
+      }
+    ],
+    "moves": []
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736403520033,
+    "modifiedTime": 1736403693877,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!s14tddxhNANQQZSL"
+}

@@ -1,0 +1,54 @@
+{
+  "name": "LORD OF BEASTS",
+  "type": "fellowship-pbta.destiny",
+  "_id": "Eba4Mosu224sTZR2",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "htmlFields": [
+      "description"
+    ],
+    "description": "<div class=\"destiny-details\"><p><em>You more closely relate to the wild animals of the hunt than you do to your own kin. The beasts respect you and know you as one of their own.</em></p><h2>REQUIREMENTS</h2><p><strong>To become the Lord of Beasts,</strong> you must have Bonds with at least three different Beasts, and three Bonds with at least one Beast.</p><p>The Lord of Beasts starts with <em>Queen of the Wild.</em></p><p>@UUID[Compendium.fellowship-pbta.lord-of-beasts.Item.pT8AJBHy2FlUvL3e]{QUEEN OF THE WILD}</p><h2>CUSTOM MOVES</h2><p>@UUID[Compendium.fellowship-pbta.lord-of-beasts.Item.8zkvV2fP432VzY5u]{EV TRAINING}</p><p>@UUID[Compendium.fellowship-pbta.lord-of-beasts.Item.4PaIyjZ2kUHBG2Bu]{NATURE INCARNATE}</p><p>@UUID[Compendium.fellowship-pbta.lord-of-beasts.Item.8d1LGHxXbcRY6SoX]{NATURE'S WRATH}</p></div><div class=\"destiny-details\"><p>@UUID[Compendium.fellowship-pbta.lord-of-beasts.Item.wuarDVlXQDS6E8i2]{PACK LEADER}</p><p>@UUID[Compendium.fellowship-pbta.lord-of-beasts.Item.kBzhK4c9LZtA875j]{WILD SHAPE}</p></div>",
+    "advancements": [
+      {
+        "used": false,
+        "name": "Increase one of your stats by +1, to a maximum of +3."
+      },
+      {
+        "used": false,
+        "name": "Take the Harbinger Custom Wildspeaker or an Elf Custom."
+      },
+      {
+        "used": false,
+        "name": "Take a Lord of Beasts Custom."
+      },
+      {
+        "used": false,
+        "name": "Take a Lord of Beasts Custom."
+      },
+      {
+        "used": false,
+        "name": "Take a Lord of Beasts Custom."
+      }
+    ],
+    "moves": []
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736407433225,
+    "modifiedTime": 1736407532858,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!Eba4Mosu224sTZR2"
+}

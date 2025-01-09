@@ -1,0 +1,54 @@
+{
+  "name": "WARLORD",
+  "type": "fellowship-pbta.destiny",
+  "_id": "l67ZYTISgKWYeCaV",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "htmlFields": [
+      "description"
+    ],
+    "description": "<div class=\"destiny-details\"><p><em>You have become the ruler of the battlefield,</em></p><p><em>the queen of combat, the king of tactics and strategy, and nothing will get in your way.</em></p><h2>REQUIREMENTS</h2><p><strong>To become the Warlord,</strong> you must earn the Fellowship of the Heir's people.</p><p>The Warlord starts with <em>The Warrior's Path.</em></p><p>@UUID[Compendium.fellowship-pbta.warlord.Item.xFBwYUjGNzxntbCW]{THE WARRIOR'S PATH}</p><h2>CUSTOM MOVES</h2><p>@UUID[Compendium.fellowship-pbta.warlord.Item.nF6wPyzI627IcKjx]{INVINCIBLE GENERAL}</p><p>@UUID[Compendium.fellowship-pbta.warlord.Item.fNS3RXRLXiRkAcJx]{OFF WITH THEIR HEAD}</p><p>@UUID[Compendium.fellowship-pbta.warlord.Item.BYgRGZKfC9A7LbAD]{THE FELLOWSHIP'S ARMIES}</p><p>@UUID[Compendium.fellowship-pbta.warlord.Item.hhMoAhuRSnnghMRD]{TO THE GATES OF HELL ITSELF}</p><p>@UUID[Compendium.fellowship-pbta.warlord.Item.R5OVhCXLJgOFQ1aW]{YOU WILL NOT DIE THIS DAY}</p></div>",
+    "advancements": [
+      {
+        "used": false,
+        "name": "Take the Heir's Core Moves (Royal Treatment and <i>Yes, My Liege</i>). If you already have them, instead increase one of your stats by +1, to a maximum of +3."
+      },
+      {
+        "used": false,
+        "name": "Take an Heir's Custom."
+      },
+      {
+        "used": false,
+        "name": "Take a Warlord Custom."
+      },
+      {
+        "used": false,
+        "name": "Take a Warlord Custom."
+      },
+      {
+        "used": false,
+        "name": "Take a Warlord Custom."
+      }
+    ],
+    "moves": []
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736408632954,
+    "modifiedTime": 1736408756091,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!l67ZYTISgKWYeCaV"
+}

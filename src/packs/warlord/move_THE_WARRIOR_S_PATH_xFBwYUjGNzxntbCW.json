@@ -1,0 +1,52 @@
+{
+  "folder": "cfR995XpurFSj3ox",
+  "name": "THE WARRIOR'S PATH",
+  "type": "move",
+  "_id": "xFBwYUjGNzxntbCW",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Being outnumbered is meaningless to you, as your enemy's movements are easily read and effortlessly thwarted. <strong>When you try to </strong><em><strong>Overcome </strong></em><strong>the harm a Group, a Gang, or an Army would deal to you,</strong> you always take the 10+ result, without rolling.</p>",
+    "moveType": "destiny",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736408478029,
+    "modifiedTime": 1736408488211,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!xFBwYUjGNzxntbCW"
+}

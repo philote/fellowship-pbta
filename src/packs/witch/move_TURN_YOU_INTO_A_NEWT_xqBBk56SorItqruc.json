@@ -1,0 +1,52 @@
+{
+  "folder": "cfR995XpurFSj3ox",
+  "name": "TURN YOU INTO A NEWT",
+  "type": "move",
+  "_id": "xqBBk56SorItqruc",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>When you wish to conjure a hex upon them,</strong> state the full name of someone you can see and the reason for your curse. Hexes are narrative - tell us what they lose and what they gain, such as losing arms to gain wings, losing claws to gain suction cups, or losing speech to gain gills.</p><p>Your hexes always end at dawn's first light. Hexes never work on a <strong>Threat to the World. If you try to hex another player, </strong>they may attempt to <em>Overcome </em>your hex after you tell them what it is. Your hexes can never be directly lethal, such as taking away the ability to breathe.</p><p>Otherwise, your hexes always work every time.</p>",
+    "moveType": "destiny",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736408885353,
+    "modifiedTime": 1736408896769,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!xqBBk56SorItqruc"
+}

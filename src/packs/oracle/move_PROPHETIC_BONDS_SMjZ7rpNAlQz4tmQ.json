@@ -1,0 +1,52 @@
+{
+  "folder": "cfR995XpurFSj3ox",
+  "name": "PROPHETIC BONDS",
+  "type": "move",
+  "_id": "SMjZ7rpNAlQz4tmQ",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>You can write Bonds about your visions, telling the future of the person named in the Bond. These Bonds are unbreakable until they come to pass.</p><p><strong>When you are watching the target of your visions and they are in the right place and time,</strong> you can erase a Bond with them to have it come to pass right before your eyes. You cannot take action while watching a vision unfold.</p>",
+    "moveType": "destiny",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736407728832,
+    "modifiedTime": 1736407739644,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!SMjZ7rpNAlQz4tmQ"
+}

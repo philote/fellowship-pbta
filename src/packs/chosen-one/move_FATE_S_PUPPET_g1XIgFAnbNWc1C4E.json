@@ -1,0 +1,52 @@
+{
+  "folder": "cfR995XpurFSj3ox",
+  "name": "FATE'S PUPPET",
+  "type": "move",
+  "_id": "g1XIgFAnbNWc1C4E",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>When you act exactly as has been foretold in the Prophecy,</strong> you can mark this Move to declare what happens next. What happens next must be in line with the Prophecies as foretold by you and/or the Harbinger, but otherwise anything you say becomes true.</p><p>You cannot use this Move while it is marked.</p><p><strong>When you earn Fellowship,</strong> remove your mark from this Move.</p>",
+    "moveType": "destiny",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736403429544,
+    "modifiedTime": 1736403447396,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!g1XIgFAnbNWc1C4E"
+}

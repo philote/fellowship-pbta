@@ -1,0 +1,52 @@
+{
+  "folder": "cfR995XpurFSj3ox",
+  "name": "I'M IN CHARGE NOW",
+  "type": "move",
+  "_id": "qnoJxbqx1gxMPtYD",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>When you tell someone what to do while speaking with authority, earned or otherwise,</strong> roll +Courage.</p>",
+    "moveType": "destiny",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": "<p>You are ignored.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": "<p>They stop what they're doing to listen to you, but will act as they please once you're done speaking.</p>"
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": "<p>They do what you say without even thinking about it.</p>"
+      }
+    },
+    "uses": 0,
+    "rollType": "courage",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736405858036,
+    "modifiedTime": 1736405920537,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!qnoJxbqx1gxMPtYD"
+}

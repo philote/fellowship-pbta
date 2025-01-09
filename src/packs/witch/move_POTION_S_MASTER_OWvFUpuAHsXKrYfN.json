@@ -1,0 +1,52 @@
+{
+  "folder": "cfR995XpurFSj3ox",
+  "name": "POTION'S MASTER",
+  "type": "move",
+  "_id": "OWvFUpuAHsXKrYfN",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>When you </strong><em><strong>Fill Your Belly,</strong></em> you may instead spend 1 Food to brew a potion. It has 1 Use when brewed, and a potion's effects are never permanent. You can create a basic Healing Potion (1 Use, Healing), or something a bit more unusual. <strong>When brewing an unusual potion, </strong>describe what it looks like, tell us what it does, and then <strong>choose two:</strong></p><ul><li>It is a cream and must be applied; it has the <em>Slow </em>tag.</li><li>It gets the imbiber <em>Drunk</em>.</li><li>It is expensive - spend 1 Use of anything to finish it.</li><li>It has a weird side effect, which you'll discover when you drink it.</li></ul>",
+    "moveType": "destiny",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736408847132,
+    "modifiedTime": 1736408860559,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!OWvFUpuAHsXKrYfN"
+}

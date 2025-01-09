@@ -3,7 +3,10 @@
   "type": "fellowship-pbta.destiny",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<div class=\"destiny-details\">\n<p><em>You have become more than you once were, more than anyone should ever be. You have gained truly unparalleled power, but at what cost?</em></p>\n<h2>REQUIREMENTS</h2>\n<p><strong>To become the Ascended,</strong> you must take a Source of Power for yourself.</p>\n<p>This Destiny is only allowed in a game with the Overlord.</p>\n<p>The Ascended starts with either <em>Inconceivable Truth</em> or <em>Infinite Power</em>, your choice. You have also become a <strong>Threat to the World</strong>, and the Overlord always knows where you are.</p>\n<p>@UUID[Compendium.fellowship-pbta.ascended.Item.xNVqPtP7OBQUPvYQ]{INCONCEIVABLE TRUTH}</p>\n<p>@UUID[Compendium.fellowship-pbta.ascended.Item.of8vqmTTbSOJq9jF]{INFINITE POWER}</p>\n<h2>CUSTOM MOVES</h2>\n<p>@UUID[Compendium.fellowship-pbta.ascended.Item.fhdnhXCFbDNaJCUc]{INVINCIBLE SOUL}</p>\n<p>@UUID[Compendium.fellowship-pbta.ascended.Item.oSUk8LNX8YeW5Q3v]{UNPARALLELED SKILL}</p>\n<p>@UUID[Compendium.fellowship-pbta.ascended.Item.oiwyO0ANSh9EHWuo]{UNSTOPPABLE FORCE}</p>\n<p>@UUID[Compendium.fellowship-pbta.ascended.Item.7UyIObaTcVAxOsh4]{UNTOUCHABLE BEAUTY}</p>\n</div>",
+    "htmlFields": [
+      "description"
+    ],
+    "description": "<div class=\"destiny-details\"><p><em>You have become more than you once were, more than anyone should ever be. You have gained truly unparalleled power, but at what cost?</em></p><h2>REQUIREMENTS</h2><p><strong>To become the Ascended,</strong> you must take a Source of Power for yourself.</p><p>This Destiny is only allowed in a game with the Overlord.</p><p>The Ascended starts with either <em>Inconceivable Truth</em> or <em>Infinite Power</em>, your choice. You have also become a <strong>Threat to the World</strong>, and the Overlord always knows where you are.</p><p>@UUID[Compendium.fellowship-pbta.ascended.Item.xNVqPtP7OBQUPvYQ]{INCONCEIVABLE TRUTH}</p><p>@UUID[Compendium.fellowship-pbta.ascended.Item.of8vqmTTbSOJq9jF]{INFINITE POWER}</p><h2>CUSTOM MOVES</h2><p>@UUID[Compendium.fellowship-pbta.ascended.Item.fhdnhXCFbDNaJCUc]{INVINCIBLE SOUL}</p><p>@UUID[Compendium.fellowship-pbta.ascended.Item.oSUk8LNX8YeW5Q3v]{UNPARALLELED SKILL}</p><p>@UUID[Compendium.fellowship-pbta.ascended.Item.oiwyO0ANSh9EHWuo]{UNSTOPPABLE FORCE}</p><p>@UUID[Compendium.fellowship-pbta.ascended.Item.7UyIObaTcVAxOsh4]{UNTOUCHABLE BEAUTY}</p></div>",
     "advancements": [
       {
         "name": "Take a Custom Move from any basic playbook.",
@@ -42,7 +45,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.9",
     "createdTime": 1736396361553,
-    "modifiedTime": 1736396493815,
+    "modifiedTime": 1736397208115,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_id": "jVWGy2eu9zaDbKTm",

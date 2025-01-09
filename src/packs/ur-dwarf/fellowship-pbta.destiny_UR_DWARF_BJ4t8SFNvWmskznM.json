@@ -1,0 +1,54 @@
+{
+  "name": "UR-DWARF",
+  "type": "fellowship-pbta.destiny",
+  "_id": "BJ4t8SFNvWmskznM",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "htmlFields": [
+      "description"
+    ],
+    "description": "<div class=\"destiny-details\"><p><em>You are the platonic ideal of what it means to be a Dwarf. All of dwarven-kind will remember you, until history itself is gone.</em></p><h2>REQUIREMENTS</h2><p><strong>To become the Ur-Dwarf,</strong> you must earn the Fellowship of the Dwarves.</p><p>The Ur-Dwarf starts with <em>Mountain Stance</em>.</p><p>@UUID[Compendium.fellowship-pbta.ur-dwarf.Item.m9HrfJdmgEMDpSU6]{MOUNTAIN STANCE}</p><h2>CUSTOM MOVES</h2><p>@UUID[Compendium.fellowship-pbta.ur-dwarf.Item.qGSwxktnvVYuyxCt]{DIG TOO DEEP}</p><p>@UUID[Compendium.fellowship-pbta.ur-dwarf.Item.ihizTGNt8ZDj2x7f]{FOE HAMMER}</p><p>@UUID[Compendium.fellowship-pbta.ur-dwarf.Item.UvSfl003LiZ05Uqr]{FORGE MASTER}</p><p>@UUID[Compendium.fellowship-pbta.ur-dwarf.Item.gdL2LDQ2z9nQdqVX]{GREED IS ETERNAL}</p><p>@UUID[Compendium.fellowship-pbta.ur-dwarf.Item.xPzo1XJrrX8DxuJG]{LORD UNDER THE MOUNTAINS}</p></div>",
+    "advancements": [
+      {
+        "used": false,
+        "name": "Take the Dwarven Core Moves Clear The Path, People of Stone, and Unbreakable. If you already have them, instead increase one of your stats by +1, to a maximum of +3."
+      },
+      {
+        "used": false,
+        "name": "Take a Dwarven Custom."
+      },
+      {
+        "used": false,
+        "name": "Take an Ur-Dwarf Custom."
+      },
+      {
+        "used": false,
+        "name": "Take an Ur-Dwarf Custom."
+      },
+      {
+        "used": false,
+        "name": "Take an Ur-Dwarf Custom."
+      }
+    ],
+    "moves": []
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736408310820,
+    "modifiedTime": 1736408430166,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!BJ4t8SFNvWmskznM"
+}

@@ -1,0 +1,52 @@
+{
+  "folder": "cfR995XpurFSj3ox",
+  "name": "INSIGHT",
+  "type": "move",
+  "_id": "Fj3SlwDJjRfsEDtW",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Your visions give you the insight you need to do exactly the right thing at the right time. <strong>When you use your future sight to know what's coming, </strong>you may choose a spell from below, then mark it. You cannot use a spell while it is marked.</p><p><strong>When you spend Food,</strong> remove a mark from one spell.</p><p><strong>When you </strong><em><strong>Recover</strong></em><strong>,</strong> remove all marks on your spells.</p><ul><li><strong>Right Place:</strong> You or an ally are standing in the perfect spot to do exactly what needs to be done.</li><li><strong>Right Time:</strong> You take action with perfect timing, giving you a 10+ result on your next roll.</li><li><strong>Butterfly Effect:</strong> Your small action before has set up the perfect chain of events to give an ally Hope on their roll.</li></ul>",
+    "moveType": "destiny",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736407691584,
+    "modifiedTime": 1736407705234,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!Fj3SlwDJjRfsEDtW"
+}

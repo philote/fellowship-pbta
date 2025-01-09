@@ -1,0 +1,52 @@
+{
+  "folder": "cfR995XpurFSj3ox",
+  "name": "CASSANDRA, CASSANDRA",
+  "type": "move",
+  "_id": "3Yd8ggjcYOrnPR5E",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>When you Talk Sense by telling them their future,</strong> roll with +Doom.</p>",
+    "moveType": "destiny",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": "<p>They believe you are lying to them, and they no longer trust you.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": "<p>They do not require a favor of you, but they will do what they think is best based on the future you described to them.</p>"
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": "<p>They do exactly as you say without question.</p>"
+      }
+    },
+    "uses": 0,
+    "rollType": "doom",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736407622225,
+    "modifiedTime": 1736407683856,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!3Yd8ggjcYOrnPR5E"
+}

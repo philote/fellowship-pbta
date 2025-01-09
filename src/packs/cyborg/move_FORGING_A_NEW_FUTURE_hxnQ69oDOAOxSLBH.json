@@ -1,0 +1,52 @@
+{
+  "folder": "cfR995XpurFSj3ox",
+  "name": "FORGING A NEW FUTURE",
+  "type": "move",
+  "_id": "hxnQ69oDOAOxSLBH",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>When you </strong><em><strong>Recover</strong></em><strong> within a community you have Fellowship with,</strong> you can create a population of androids here. Tell us a unique trait these androids have, and how they fit in with the society you are leaving them to.</p><p>You can <em>Command Lore </em>about the androids and robots of this world, as well as <em>Command Lore </em>about any communities you have left your robots within.</p>",
+    "moveType": "destiny",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736403813131,
+    "modifiedTime": 1736403824625,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!hxnQ69oDOAOxSLBH"
+}

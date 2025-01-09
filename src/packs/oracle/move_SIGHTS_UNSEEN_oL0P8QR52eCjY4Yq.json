@@ -1,0 +1,52 @@
+{
+  "folder": "cfR995XpurFSj3ox",
+  "name": "SIGHTS UNSEEN",
+  "type": "move",
+  "_id": "oL0P8QR52eCjY4Yq",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>When you have time and safety,</strong> you can Command Lore about the future. Your visions will always come to pass, eventually.</p><p><strong>When you </strong><em><strong>Command Lore </strong></em><strong>about the future,</strong> your visions will tell you what happened, but not why or how. They will tell you either where it took place or when it will take place, but not both. In addition, you can only name one single person you saw in your vision, never more.</p><p>For example, if you see a vision of someone's murder, you can name the killer or the victim, but not both.</p><p>You can tell us about the circumstances you saw, but not how they died or why they were killed.</p><p>You can tell us where or when the murder will take place, but not both.</p><p>And now that you've seen it, that murder is guaranteed to come to pass, with all the details you've foretold.</p>",
+    "moveType": "destiny",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736407578733,
+    "modifiedTime": 1736407593956,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!oL0P8QR52eCjY4Yq"
+}

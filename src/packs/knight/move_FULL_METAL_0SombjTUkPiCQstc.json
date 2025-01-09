@@ -1,0 +1,52 @@
+{
+  "folder": "cfR995XpurFSj3ox",
+  "name": "FULL METAL",
+  "type": "move",
+  "_id": "0SombjTUkPiCQstc",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>You gain the Iron stat at +2. If you already had the Iron stat, increase it by +1 (to a maximum of +3). Iron represents your supreme toughness - your armor, survivability, iron gut, and stubbornness.</p><p><strong>When you </strong><em><strong>Finish Them</strong></em><strong> by outlasting them in a contest of power or endurance,</strong> roll +Iron. <strong>On a 10+,</strong> they pass out.</p><p><strong>When you or an ally within arm's reach would suffer terrible consequences,</strong> you may damage your Iron stat to negate those consequences.</p>",
+    "moveType": "destiny",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736406239846,
+    "modifiedTime": 1736406252591,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!0SombjTUkPiCQstc"
+}

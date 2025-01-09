@@ -1,0 +1,52 @@
+{
+  "folder": "cfR995XpurFSj3ox",
+  "name": "DEVIL'S TOYS",
+  "type": "move",
+  "_id": "UjPY7aBRYDELum0k",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>You are capable of crafting terrifying magical items. It will be expensive and require exotic materials, but it can be done, at great personal cost. <strong>When you forge such an item, </strong>describe what it looks like, tell us what it does, and then <strong>choose two:</strong></p><ul><li>The item brings great misfortune to all who use it.</li><li>Permanently damage one of your stats, never to be healed.</li><li>Its creation will cause a great calamity to come to pass.</li><li>The item will thirst for blood or chaos, and force those feelings upon all who carry it.</li></ul><p><strong>If you can accept the darkness of your creation,</strong> you are now the owner of a unique magic item with a suitably powerful and dramatic ability for the cost put into it.</p>",
+    "moveType": "destiny",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736404530766,
+    "modifiedTime": 1736404551123,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!UjPY7aBRYDELum0k"
+}

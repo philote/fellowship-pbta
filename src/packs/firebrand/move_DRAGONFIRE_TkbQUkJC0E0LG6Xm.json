@@ -1,0 +1,52 @@
+{
+  "folder": "cfR995XpurFSj3ox",
+  "name": "DRAGONFIRE",
+  "type": "move",
+  "_id": "TkbQUkJC0E0LG6Xm",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>You know the secrets of dragonfire, and you can reproduce its effects. Add Dragonfire (2 Uses) to your Gear, and tell us how you use it.</p><p>Dragonfire is able to melt down anything you expose it to. You can Use your Dragonfire to obliterate someone or something. It can melt a hole through a wall, destroy anything (even Dwarf-Made items), or vaporize someone who is not a <strong>Threat to the World.</strong></p>",
+    "moveType": "destiny",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736404838636,
+    "modifiedTime": 1736404851118,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!TkbQUkJC0E0LG6Xm"
+}

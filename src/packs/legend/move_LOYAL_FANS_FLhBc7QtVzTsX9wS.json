@@ -1,0 +1,52 @@
+{
+  "folder": "cfR995XpurFSj3ox",
+  "name": "LOYAL FANS",
+  "type": "move",
+  "_id": "FLhBc7QtVzTsX9wS",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>When you speak before a crowd,</strong> roll +Grace.</p>",
+    "moveType": "destiny",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": "<p>They give you the paparazzi treatment.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": "<p>You gain 3 Fandom.</p><p>They give you the paparazzi treatment.</p><p>You can spend 1-Fandom to make them do one of the following:</p><ul><li>Bring someone forward and deliver them to you.</li><li>Unite and fight for you.</li><li>Fall into a frenzy of emotion - joy, sorrow, or rage, your choice.</li><li>Go quietly back to their lives.</li></ul>"
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": "<p>You gain 3 Fandom.</p><p>You can spend 1-Fandom to make them do one of the following:</p><ul><li>Bring someone forward and deliver them to you.</li><li>Unite and fight for you.</li><li>Fall into a frenzy of emotion - joy, sorrow, or rage, your choice.</li><li>Go quietly back to their lives.</li></ul>"
+      }
+    },
+    "uses": 0,
+    "rollType": "grace",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736406992785,
+    "modifiedTime": 1736407103124,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!FLhBc7QtVzTsX9wS"
+}

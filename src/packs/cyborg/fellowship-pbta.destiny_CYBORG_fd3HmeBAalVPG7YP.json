@@ -1,0 +1,54 @@
+{
+  "name": "CYBORG",
+  "type": "fellowship-pbta.destiny",
+  "_id": "fd3HmeBAalVPG7YP",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "htmlFields": [
+      "description"
+    ],
+    "description": "<div class=\"destiny-details\"><p><em>You have rebuilt yourself, and become stronger for it.</em></p><h2>REQUIREMENTS</h2><p><strong>To become the Cyborg,</strong> you must have taken technology to a new level. This is arbitrary and up for player interpretation, but generally, if you want to be the Cyborg, you have to do technology things first.</p><p>The Cyborg starts with a Cyborg Custom Move of their choice.</p><h2>CUSTOM MOVES</h2><p>@UUID[Compendium.fellowship-pbta.cyborg.Item.aHjDgmJ9zwT72lCD]{BRIDGE TO ANYWHERE}</p><p>@UUID[Compendium.fellowship-pbta.cyborg.Item.ESCiLTWLFjJvBk2b]{BRILLIANT INVENTOR}</p><p>@UUID[Compendium.fellowship-pbta.cyborg.Item.hxnQ69oDOAOxSLBH]{FORGING A NEW FUTURE}</p><p>@UUID[Compendium.fellowship-pbta.cyborg.Item.C8q0gViOqXMmyt6S]{HAND CANNON}</p><p>@UUID[Compendium.fellowship-pbta.cyborg.Item.m63XVUDZOpvQox9j]{ICARUS}</p><p>@UUID[Compendium.fellowship-pbta.cyborg.Item.tqZrOa6tuYqbJYfc]{ROBOTIC BITS}</p></div>",
+    "advancements": [
+      {
+        "used": false,
+        "name": "Increase one of your stats by +1, to a maximum of +3."
+      },
+      {
+        "used": false,
+        "name": "Take a Cyborg Custom."
+      },
+      {
+        "used": false,
+        "name": "Take a Cyborg Custom."
+      },
+      {
+        "used": false,
+        "name": "Take a Cyborg Custom."
+      },
+      {
+        "used": false,
+        "name": "Take a Cyborg Custom."
+      }
+    ],
+    "moves": []
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736403900290,
+    "modifiedTime": 1736404012566,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!fd3HmeBAalVPG7YP"
+}
