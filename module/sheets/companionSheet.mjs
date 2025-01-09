@@ -31,6 +31,7 @@ export class CompanionSheet extends ItemSheet {
 
 		return context;
 	}
+	
 	/** @override */
 	async activateListeners(html) {
 		super.activateListeners(html);

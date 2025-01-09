@@ -1,0 +1,52 @@
+{
+  "name": "UNSTOPPABLE FORCE",
+  "type": "move",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>You never take the 6- result to <em>Overcome, Keep Them Busy</em>, or <em>Get Away</em>. <strong>When you roll a 6- on those Moves,</strong> act as though you rolled a 7.</p><p>You can no longer compromise, retreat, or surrender, for any reason. <strong>When you take a course of action,</strong> you become completely committed to it.</p>",
+    "moveType": "destiny",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "folder": "cfR995XpurFSj3ox",
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736396353680,
+    "modifiedTime": 1736396355505,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_id": "oiwyO0ANSh9EHWuo",
+  "sort": 400000,
+  "_key": "!items!oiwyO0ANSh9EHWuo"
+}

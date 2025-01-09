@@ -1,0 +1,52 @@
+{
+  "name": "INFINITE POWER",
+  "type": "move",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>The power flows through your veins, more power than you ever imagined possible. <strong>When you unleash the massive power contained within you, </strong>you may take two damage to destroy anything that isn't a <strong>Threat to the World</strong>. Tell us what this means and what this looks like.</p><p>This power comes with a cost. You lose the Agenda <strong>Improve The World Around You</strong>. Replace it with the Agenda <strong>Show Off Your Power</strong>, as you cannot be convinced there is anything greater than what you can accomplish now.</p>",
+    "moveType": "destiny",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "folder": "cfR995XpurFSj3ox",
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736396344390,
+    "modifiedTime": 1736396355505,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_id": "of8vqmTTbSOJq9jF",
+  "sort": 600000,
+  "_key": "!items!of8vqmTTbSOJq9jF"
+}

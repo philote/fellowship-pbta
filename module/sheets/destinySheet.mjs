@@ -9,7 +9,7 @@ export class DestinySheet extends ItemSheet {
 		return foundry.utils.mergeObject(super.defaultOptions, {
 			classes: ["pbta", "sheet", "item"],
 			width: 450,
-			height: 375,
+			height: 500,
 		});
 	}
 
@@ -29,8 +29,25 @@ export class DestinySheet extends ItemSheet {
 		// Add the items's data to context.data for easier access, as well as flags.
 		context.system = itemData.system;
 
+		context.enriched = {
+			description: this.item.system.description,
+		};
+
+		// Handle rich text fields.
+		const enrichmentOptions = {
+			async: true,
+			secrets: this.item.isOwner,
+			rollData: this.item?.getRollData() ?? {},
+			relativeTo: this.item,
+		};
+	  
+		if (context.system?.description) {
+			context.enriched.description = await TextEditor.enrichHTML(context.system.description, enrichmentOptions);
+		}
+
 		return context;
 	}
+
 	/** @override */
 	async activateListeners(html) {
 		super.activateListeners(html);
@@ -39,23 +56,23 @@ export class DestinySheet extends ItemSheet {
 
 	async _destinyAction(event) {
 		event.preventDefault();
-		// const clickedElement = $(event.currentTarget);
-		// const action = clickedElement.data().destinyAction;
-		// const id = clickedElement.data().destinyId;
-		// const stats = this.object.system.stats;
+		const clickedElement = $(event.currentTarget);
+		const action = clickedElement.data().destinyAction;
+		const id = clickedElement.data().destinyId;
+		const advancements = this.object.system.advancements;
 
-		// switch (action) {
-		// 	case "add":
-		// 		stats.push({
-		// 			name: "New Stat",
-		// 			damaged: false,
-		// 		});
-		// 		break;
-		// 	case "delete":
-		// 		stats.splice(id, 1);
-		// 		break;
-		// }
+		switch (action) {
+			case "add":
+				advancements.push({
+					name: "New Advancement",
+					damaged: false,
+				});
+				break;
+			case "delete":
+				advancements.splice(id, 1);
+				break;
+		}
 
-		// await this.object.update({ ["system.stats"]: stats });
+		await this.object.update({ ["system.advancements"]: advancements });
 	}
 }

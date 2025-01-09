@@ -1,0 +1,51 @@
+{
+  "name": "ASCENDED",
+  "type": "fellowship-pbta.destiny",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<div class=\"destiny-details\">\n<p><em>You have become more than you once were, more than anyone should ever be. You have gained truly unparalleled power, but at what cost?</em></p>\n<h2>REQUIREMENTS</h2>\n<p><strong>To become the Ascended,</strong> you must take a Source of Power for yourself.</p>\n<p>This Destiny is only allowed in a game with the Overlord.</p>\n<p>The Ascended starts with either <em>Inconceivable Truth</em> or <em>Infinite Power</em>, your choice. You have also become a <strong>Threat to the World</strong>, and the Overlord always knows where you are.</p>\n<p>@UUID[Compendium.fellowship-pbta.ascended.Item.xNVqPtP7OBQUPvYQ]{INCONCEIVABLE TRUTH}</p>\n<p>@UUID[Compendium.fellowship-pbta.ascended.Item.of8vqmTTbSOJq9jF]{INFINITE POWER}</p>\n<h2>CUSTOM MOVES</h2>\n<p>@UUID[Compendium.fellowship-pbta.ascended.Item.fhdnhXCFbDNaJCUc]{INVINCIBLE SOUL}</p>\n<p>@UUID[Compendium.fellowship-pbta.ascended.Item.oSUk8LNX8YeW5Q3v]{UNPARALLELED SKILL}</p>\n<p>@UUID[Compendium.fellowship-pbta.ascended.Item.oiwyO0ANSh9EHWuo]{UNSTOPPABLE FORCE}</p>\n<p>@UUID[Compendium.fellowship-pbta.ascended.Item.7UyIObaTcVAxOsh4]{UNTOUCHABLE BEAUTY}</p>\n</div>",
+    "advancements": [
+      {
+        "name": "Take a Custom Move from any basic playbook.",
+        "used": false
+      },
+      {
+        "name": "Take a Custom Move from any other Destiny.",
+        "used": false
+      },
+      {
+        "name": "Take an Ascended Custom.",
+        "used": false
+      },
+      {
+        "name": "Take an Ascended Custom.",
+        "used": false
+      },
+      {
+        "name": "Take an Ascended Custom.",
+        "used": false
+      }
+    ],
+    "moves": []
+  },
+  "effects": [],
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736396361553,
+    "modifiedTime": 1736396493815,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_id": "jVWGy2eu9zaDbKTm",
+  "sort": 0,
+  "_key": "!items!jVWGy2eu9zaDbKTm"
+}

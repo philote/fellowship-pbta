@@ -23,6 +23,7 @@ export default [
         loadTemplates: "readonly",
         Actors: "readonly",
         fromUuid: "readonly",
+        TextEditor: "readonly",
       }
     }
   },

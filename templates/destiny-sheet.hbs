@@ -1,18 +1,55 @@
-<form class='{{cssClass}} item-form flexcol' autocomplete='off'>
-  <header class="sheet-header flexrow">
-      <div class="cell--image">
-        <img class="profile-img" src="{{item.img}}" data-edit="img" />
-      </div>
-      <div class="header-fields">
-          <h3>Name</h3>
-          <h1 class="charname"><input name="name" type="text" value="{{item.name}}" placeholder="{{localize "PBTA.Common.Name"}}"/></h1>
-      </div>
-  </header>
-  {{! Sheet Body }}
-  <section class='sheet-body'>
-    <div class="form-group-stacked">
-      <label>Description</label>
-      <textarea type="text" name="system.description" value="{{system.description}}" data-dtype="String">{{system.description}}</textarea>
-    </div>
-  </section>
+<form class="{{cssClass}} item-form flexcol" autocomplete="off">
+	<header class="sheet-header flexrow">
+		<div class="cell--image">
+			<img class="profile-img" src="{{item.img}}" data-edit="img" />
+		</div>
+		<div class="header-fields">
+			<h3>DESTINY PLAYBOOK</h3>
+			<h1 class="charname"><input
+					name="name"
+					type="text"
+					value="{{item.name}}"
+					placeholder="{{localize 'PBTA.Common.Name'}}"
+				/></h1>
+		</div>
+	</header>
+	{{! Sheet Body }}
+	<section class="sheet-body">
+		<div class="form-group-stacked">
+			<label>Description</label>
+      <prose-mirror name="system.description" data-document-u-u-i-d="{{item.uuid}}" value="{{system.description}}" collaborate="true" toggled="true">
+        {{{enriched.description}}}
+      </prose-mirror>
+		</div>
+		<div class="flexcol">
+			<div class="flexrow">
+				<h2><label>Advancements</label></h2>
+				<a class="item-add" data-destiny-action="add" title="add"><i
+						class="fas fa-plus"
+					></i></a>
+			</div>
+			<div class="item-group">
+				{{#each system.advancements}}
+					<div class="flexrow">
+            <input
+							type="checkbox"
+							name="system.advancements.{{@key}}.used"
+							{{checked this.used}}
+						/>
+						<input
+							type="text"
+							name="system.advancements.{{@key}}.name"
+							value="{{this.name}}"
+						/>
+						<a
+							class="item-delete"
+							data-destiny-id={{@key}}
+							data-destiny-action="delete"
+							title="delete"
+						><i class="fas fa-trash"></i></a>
+					</div>
+				{{/each}}
+			</div>
+		</div>
+	</section>
 </form>

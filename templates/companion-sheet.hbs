@@ -1,47 +1,76 @@
-<form class='{{cssClass}} item-form flexcol' autocomplete='off'>
-  <header class="sheet-header flexrow">
-      <div class="cell--image">
-        <img class="profile-img" src="{{item.img}}" data-edit="img" />
-      </div>
-      <div class="header-fields">
-          <h3>Name</h3>
-          <h1 class="charname"><input name="name" type="text" value="{{item.name}}" placeholder="{{localize "PBTA.Common.Name"}}"/></h1>
-      </div>
-  </header>
-  {{! Sheet Body }}
-  <section class='sheet-body'>
-    <div class="form-group">
-      <label>Type</label>
-      <input type="text" name="system.typeName" value="{{system.typeName}}" data-dtype="String"/>
-    </div>
-    <div class="form-group-stacked">
-      <label>Type Description</label>
-      <textarea type="text" name="system.typeDescription" value="{{system.typeDescription}}" data-dtype="String">{{system.typeDescription}}</textarea>
-    </div>
-    <div class="form-group">
-      <label>Despair</label>
-      <input type="checkbox" name="system.inDespair" {{checked system.inDespair}}/>
-    </div>
+<form class="{{cssClass}} item-form flexcol" autocomplete="off">
+	<header class="sheet-header flexrow">
+		<div class="cell--image">
+			<img class="profile-img" src="{{item.img}}" data-edit="img" />
+		</div>
+		<div class="header-fields">
+			<h3>Name</h3>
+			<h1 class="charname"><input
+					name="name"
+					type="text"
+					value="{{item.name}}"
+					placeholder="{{localize 'PBTA.Common.Name'}}"
+				/></h1>
+		</div>
+	</header>
+	{{! Sheet Body }}
+	<section class="sheet-body">
+		<div class="form-group">
+			<label>Type</label>
+			<input
+				type="text"
+				name="system.typeName"
+				value="{{system.typeName}}"
+				data-dtype="String"
+			/>
+		</div>
+		<div class="form-group-stacked">
+			<label>Type Description</label>
+			<textarea
+				type="text"
+				name="system.typeDescription"
+				value="{{system.typeDescription}}"
+				data-dtype="String"
+			>{{system.typeDescription}}</textarea>
+		</div>
+		<div class="form-group">
+			<label>Despair</label>
+			<input
+				type="checkbox"
+				name="system.inDespair"
+				{{checked system.inDespair}}
+			/>
+		</div>
 
-      <div class='form-group-stacked'>
-        <div class='flexrow'>
-          <label>Stats</label>
-          <a class='item-add' data-companion-action='add' title='add'><i class='fas fa-plus'></i></a>
-        </div>
-        <div class='item-group'>
-          {{#each system.stats}}
-            <div class='flexrow'>
-              <input type='text' name='system.stats.{{@key}}.name' value='{{this.name}}'/>
-              <input type="checkbox" name="system.stats.{{@key}}.damaged" {{checked this.damaged}}/>
-              <a
-                class='item-delete'
-                data-companion-id={{@key}}
-                data-companion-action='delete'
-                title='delete'
-              ><i class='fas fa-trash'></i></a>
-            </div>
-          {{/each}}
-        </div>
-      </div>
-  </section>
+		<div class="form-group-stacked">
+			<div class="flexrow">
+				<label>Stats</label>
+				<a class="item-add" data-companion-action="add" title="add"><i
+						class="fas fa-plus"
+					></i></a>
+			</div>
+			<div class="item-group">
+				{{#each system.stats}}
+					<div class="flexrow">
+						<input
+							type="text"
+							name="system.stats.{{@key}}.name"
+							value="{{this.name}}"
+						/>
+						<input
+							type="checkbox"
+							name="system.stats.{{@key}}.damaged"
+							{{checked this.damaged}}
+						/>
+						<a
+							class="item-delete"
+							data-companion-id={{@key}}
+							data-companion-action="delete"
+							title="delete"
+						><i class="fas fa-trash"></i></a>
+					</div>
+				{{/each}}
+			</div>
+		</div>
+	</section>
 </form>

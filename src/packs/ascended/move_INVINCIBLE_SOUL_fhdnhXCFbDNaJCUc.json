@@ -1,0 +1,52 @@
+{
+  "name": "INVINCIBLE SOUL",
+  "type": "move",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>When you would get Taken Out,</strong> heal 2 damage instead. This does not stop the Overlord from making you <em>An Offer You Can't Refuse</em>.</p><p><strong>When the Overlord makes you </strong><em><strong>An Offer You Can't Refuse</strong></em><strong>,</strong> you will always accept their offer, but your power is great enough that you can negotiate. Add a caveat of your choosing to their terms.</p>",
+    "moveType": "destiny",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "folder": "cfR995XpurFSj3ox",
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.9",
+    "createdTime": 1736396349954,
+    "modifiedTime": 1736396355505,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_id": "fhdnhXCFbDNaJCUc",
+  "sort": 100000,
+  "_key": "!items!fhdnhXCFbDNaJCUc"
+}

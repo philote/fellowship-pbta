@@ -33,5 +33,4 @@ export async function getDestinies() {
 				uuid: p.uuid,
 			};
 		});
-	console.log(CONFIG.FELLOWSHIP.destinies)
 }
