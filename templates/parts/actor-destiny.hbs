@@ -1,16 +1,17 @@
 <div class="sheet-playbook flexrow">
-    <div class="view-destiny {{#if currentDestinyUuid}}active{{/if}}"
-        data-playbook="{{currentDestinyUuid}}"
+    {{log system.currentDestinyUuid}}
+    <div class="view-destiny {{#if system.currentDestinyUuid}}active{{/if}}"
+        data-destiny="{{system.currentDestinyUuid}}"
         data-tooltip="{{localize 'FELLOWSHIP.ViewDestiny'}}"
         data-tooltip-direction="UP"
     >
-        {{#if currentDestinyUuid}}
+        {{#if system.currentDestinyUuid}}
         <i class="fas fa-eye"></i>
         {{else}}
         <i class="fas fa-eye-slash"></i>
         {{/if}}
     </div>
-    <select class="input--title char-destiny">
-    {{selectOptions destinies selected=currentDestinyUuid valueAttr="uuid" labelAttr="name" }}
+    <select class="input--title char-destiny" name="system.currentDestinyUuid">
+    {{selectOptions destinies selected=system.currentDestinyUuid valueAttr="uuid" labelAttr="name" blank=(localize "FELLOWSHIP.Destiny") sort=true}}
     </select>
 </div>

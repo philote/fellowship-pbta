@@ -24,6 +24,7 @@ export default [
         Actors: "readonly",
         fromUuid: "readonly",
         TextEditor: "readonly",
+        pbta: "readonly",
       }
     }
   },

@@ -6,9 +6,11 @@ import { CompanionSheet } from './sheets/companionSheet.mjs';
 import { DestinyModel } from './data/destinyModel.mjs';
 import { DestinySheet } from './sheets/destinySheet.mjs';
 import { FellowshipActorSheetMixin } from './sheets/actor-sheet.mjs';
+import { CharacterModel } from './data/characterModel.mjs';
 
 Hooks.once('init', () => {
     // Fellowship ActorSheet Setup
+    CONFIG.Actor.dataModels.character = CharacterModel;
     const fellowshipActorSheet = FellowshipActorSheetMixin(game.pbta.applications.actor.PbtaActorSheet);
     Actors.unregisterSheet('pbta', game.pbta.applications.actor.PbtaActorSheet, { types: ['character'] });
     Actors.registerSheet('pbta', fellowshipActorSheet, {
