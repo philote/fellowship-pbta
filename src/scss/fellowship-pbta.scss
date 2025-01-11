@@ -3,6 +3,34 @@
 /* Playbook */
 // Make playbook attributes header easier to understand
 .pbta.sheet{
+    button:disabled {
+        background-color: rgba(153, 153, 153, 0.092);
+        color: rgba(84, 84, 84, 0.424);
+        border-color: rgba(84, 84, 84, 0.424);
+        cursor: default;
+
+        &:hover {
+            background-color: rgba(153, 153, 153, 0.092);
+            color: rgba(84, 84, 84, 0.424);
+            border-color: rgba(84, 84, 84, 0.424);
+            cursor: default;
+        }
+    }
+
+    .cell--destiny {
+        margin-bottom: 10px;
+
+        .flexrow{
+            gap: 5px;
+            align-items: center;
+        }
+
+        .view-destiny {
+            flex: 0;
+        }
+
+        // .destiny-name {}
+    }
 
     .playbook-details {
         // display: flex;

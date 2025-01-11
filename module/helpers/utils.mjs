@@ -7,6 +7,7 @@ export const preloadHandlebarsTemplates = async function () {
       'modules/fellowship-pbta/templates/parts/actor-inventory.hbs',
       'modules/fellowship-pbta/templates/parts/actor-advancements.hbs',
       'modules/fellowship-pbta/templates/parts/actor-destiny.hbs',
+      'modules/fellowship-pbta/templates/dialog-destiny.hbs',
     ]);
 };
 
@@ -29,7 +30,6 @@ export async function getDestinies() {
 		.map((p) => {
 			return {
 				name: p.name,
-				slug: p.system.slug || p.name.slugify(),
 				uuid: p.uuid,
 			};
 		});

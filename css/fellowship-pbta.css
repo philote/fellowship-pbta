@@ -1,5 +1,27 @@
 /* Colors */
 /* Playbook */
+.pbta.sheet button:disabled {
+  background-color: rgba(153, 153, 153, 0.092);
+  color: rgba(84, 84, 84, 0.424);
+  border-color: rgba(84, 84, 84, 0.424);
+  cursor: default;
+}
+.pbta.sheet button:disabled:hover {
+  background-color: rgba(153, 153, 153, 0.092);
+  color: rgba(84, 84, 84, 0.424);
+  border-color: rgba(84, 84, 84, 0.424);
+  cursor: default;
+}
+.pbta.sheet .cell--destiny {
+  margin-bottom: 10px;
+}
+.pbta.sheet .cell--destiny .flexrow {
+  gap: 5px;
+  align-items: center;
+}
+.pbta.sheet .cell--destiny .view-destiny {
+  flex: 0;
+}
 .pbta.sheet .playbook-details .flexrow {
   gap: 10px;
 }

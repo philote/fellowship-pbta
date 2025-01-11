@@ -20,10 +20,7 @@ export function FellowshipActorSheetMixin(Base) {
 
                 // get available Destinies
                 if (!CONFIG.FELLOWSHIP.destinies.length) await utils.getDestinies();
-			    context.destinies = CONFIG.FELLOWSHIP.destinies
-                    .map((d) => {
-                        return { name: d.name, uuid: d.uuid };
-                    });
+			    // context.destinies = CONFIG.FELLOWSHIP.destinies
             }
 			return context;
 		}
@@ -31,9 +28,10 @@ export function FellowshipActorSheetMixin(Base) {
         /** @override */
         activateListeners(html) {
             super.activateListeners(html);
-            // Set Destiny
-            html.find(".char-destiny").on("change", this._onDestinyChanged.bind(this))
-            // View Destiny.
+            // Destiny
+            html.find(".add-destiny").on("click", this._onAddDestiny.bind(this))
+            html.find(".delete-destiny").on("click", this._onDeleteDestiny.bind(this))
+            // Destiny.
             html.find(".view-destiny.active").on("click", this._onViewDestiny.bind(this));
         }
 
@@ -46,23 +44,43 @@ export function FellowshipActorSheetMixin(Base) {
             this.actor.items.find((i) => i.type === "fellowship-pbta.destiny")?.sheet.render(true);
         }
 
-        async _onDestinyChanged(event) {
+        async _onDeleteDestiny(event) {
             event.preventDefault();
-            const currentDestiny = this.actor.system.currentDestinyUuid;
-            const selectedDestinyUuid = event.target.value;
+            this.actor.items.find((i) => i.type === "fellowship-pbta.destiny")?.deleteDialog();
+        }
 
-            if (currentDestiny) {
-                const deleted = await this.actor.items.find((i) => i.type === "fellowship-pbta.destiny")?.delete();
-                if (!deleted) {
-                    event.target.value = currentDestiny.uuid;
-                    event.stopPropagation();
-                    return;
+        async _onAddDestiny(event) {
+            event.preventDefault();
+            const dialogContext = {
+                destinies: CONFIG.FELLOWSHIP.destinies,
+                uuid: 0
+            };
+            const content = await renderTemplate("modules/fellowship-pbta/templates/dialog-destiny.hbs", dialogContext);
+
+            const selection = await foundry.applications.api.DialogV2.prompt({
+                window: { title: "Proceed" },
+                content: content,
+                ok: {
+                    callback: (event, button) => {
+                        const output = Array.from(button.form.elements).reduce((obj, input) => {
+                            if (input.name) obj[input.name] = input.value;
+                            return obj;
+                          }, {});
+                        return output;
+                    }
                 }
-            }
+              })
+
+            console.log("TEST DIALOG");
+            console.log(selection);
+            const selectedDestinyUuid = selection.uuid;
+            console.log(selectedDestinyUuid);
 
             if (selectedDestinyUuid) {
                 await this.actor.createEmbeddedDocuments("Item", [await fromUuid(selectedDestinyUuid)], { keepId: true, originalUuid: selectedDestinyUuid });
             };
+
+
         }
 
         /**

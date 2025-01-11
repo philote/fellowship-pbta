@@ -1,17 +1,38 @@
-<div class="sheet-playbook flexrow">
-    {{log system.currentDestinyUuid}}
-    <div class="view-destiny {{#if system.currentDestinyUuid}}active{{/if}}"
-        data-destiny="{{system.currentDestinyUuid}}"
-        data-tooltip="{{localize 'FELLOWSHIP.ViewDestiny'}}"
-        data-tooltip-direction="UP"
-    >
-        {{#if system.currentDestinyUuid}}
-        <i class="fas fa-eye"></i>
-        {{else}}
-        <i class="fas fa-eye-slash"></i>
-        {{/if}}
+<div class="cell cell--destiny">
+    <h2 class="cell__title">
+        <label class="item-group-label">Your Destiny</label>
+        <div class="destiny-modify">
+            {{#if actor.destiny.length}}
+                <button type="button" class="delete-destiny">
+                    <i class="fas fa-minus"></i>
+                </button>
+            {{else}}
+                
+                <button type="button" class="add-destiny" {{#if (not system.attributes.unlockDestiny.options.0.value)}}disabled{{/if}}>
+                    <i class="fas fa-plus"></i>
+                </button>
+            {{/if}}
+        </div>
+    </h2>
+    <div class="flexrow">
+        <div class="view-destiny {{#if actor.destiny.length}}active{{/if}}"
+            data-tooltip="{{localize 'FELLOWSHIP.ViewDestiny'}}"
+            data-tooltip-direction="UP"
+        >
+            {{#if actor.destiny.length}}
+                <i class="fas fa-eye"></i>
+            {{else}}
+                <i class="fas fa-eye-slash"></i>
+            {{/if}}
+        </div>
+        <div class="destiny-name">
+            <span>
+            {{#if actor.destiny.length}}
+                {{actor.destiny.0.name}}
+            {{else}}
+                None
+            {{/if}}
+            </span>
+        </div>
     </div>
-    <select class="input--title char-destiny" name="system.currentDestinyUuid">
-    {{selectOptions destinies selected=system.currentDestinyUuid valueAttr="uuid" labelAttr="name" blank=(localize "FELLOWSHIP.Destiny") sort=true}}
-    </select>
 </div>
