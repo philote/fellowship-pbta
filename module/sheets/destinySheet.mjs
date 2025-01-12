@@ -8,8 +8,8 @@ export class DestinySheet extends ItemSheet {
 	static get defaultOptions() {
 		return foundry.utils.mergeObject(super.defaultOptions, {
 			classes: ["pbta", "sheet", "item"],
-			width: 450,
-			height: 500,
+			width: 500,
+			height: 550,
 		});
 	}
 

@@ -16,7 +16,6 @@ export function FellowshipActorSheetMixin(Base) {
                 context.actor.companions = context.actor.items.filter((i) => i.type === 'fellowship-pbta.companion');
                 // Prepare Destiny Item
                 context.actor.destiny = context.actor.items.filter((i) => i.type === 'fellowship-pbta.destiny');
-                console.log(context.actor.destiny);
 
                 // get available Destinies
                 if (!CONFIG.FELLOWSHIP.destinies.length) await utils.getDestinies();
@@ -71,16 +70,10 @@ export function FellowshipActorSheetMixin(Base) {
                 }
               })
 
-            console.log("TEST DIALOG");
-            console.log(selection);
             const selectedDestinyUuid = selection.uuid;
-            console.log(selectedDestinyUuid);
-
             if (selectedDestinyUuid) {
                 await this.actor.createEmbeddedDocuments("Item", [await fromUuid(selectedDestinyUuid)], { keepId: true, originalUuid: selectedDestinyUuid });
             };
-
-
         }
 
         /**

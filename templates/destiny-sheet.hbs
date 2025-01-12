@@ -1,4 +1,4 @@
-<form class="{{cssClass}} item-form flexcol" autocomplete="off">
+<form class="{{cssClass}} destiny-item item-form flexcol" autocomplete="off">
 	<header class="sheet-header flexrow">
 		<div class="cell--image">
 			<img class="profile-img" src="{{item.img}}" data-edit="img" />
@@ -16,22 +16,26 @@
 	{{! Sheet Body }}
 	<section class="sheet-body">
 		<div class="form-group-stacked">
-			<label>Description</label>
+			<h2 class="cell__title">
+				<label class="item-group-label">Description</label>
+			</h2>
       <prose-mirror name="system.description" data-document-u-u-i-d="{{item.uuid}}" value="{{system.description}}" collaborate="true" toggled="true">
         {{{enriched.description}}}
       </prose-mirror>
 		</div>
 		<div class="flexcol">
-			<div class="flexrow">
-				<h2><label>Advancements</label></h2>
-				<a class="item-add" data-destiny-action="add" title="add"><i
-						class="fas fa-plus"
-					></i></a>
-			</div>
+			<h2 class="cell__title">
+				<label class="item-group-label">Advancements</label>
+				<div class="destiny-modify">
+					<button type="button" class="item-add" data-destiny-action="add">
+						<i class="fas fa-plus"></i>
+					</button>
+				</div>
+			</h2>
 			<div class="item-group">
 				{{#each system.advancements}}
 					<div class="flexrow">
-            <input
+            			<input
 							type="checkbox"
 							name="system.advancements.{{@key}}.used"
 							{{checked this.used}}

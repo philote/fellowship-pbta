@@ -9,7 +9,7 @@ export class CompanionSheet extends ItemSheet {
 		return foundry.utils.mergeObject(super.defaultOptions, {
 			classes: ["pbta", "sheet", "item"],
 			width: 450,
-			height: 375,
+			height: 450,
 		});
 	}
 

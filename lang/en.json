@@ -55,8 +55,7 @@
                 "destinyAdvancement": {
                     "label": "Destiny Advancement",
                     "description": "When you Level Up, choose one Advancement from either this list or from your Basic Playbook, then mark it. You may only choose each option once."
-                },
-                "levelLabel": "Level"
+                }
             },
             "details": {
                 "playingAsLabel": "Playing as",
@@ -68,6 +67,7 @@
                 "notesLabel": "Notes",
                 "bondsLabel": "Bonds",
                 "agendasLabel": "Agendas",
+                "lastAgendasLabel": "Last Agenda",
                 "earnedFellowshipLabel": "Earned Fellowship"
             },
             "equipmentTypes": {

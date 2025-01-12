@@ -1,8 +1,171 @@
 /* Colors */
+$c-red: #7d1208;
+$c-bright-red: #a6170a;
+$c-dark-grey: #272c33;
+$c-med-grey: #3f4652;
+$c-lighter-grey: #ebeced;
+$c-light-grey: #dddedf;
+$c-light-grey2: #c1c1c1;
+$c-gold: #f5b56a;
+
+.vtt .window-app {
+    &.dialog input[type=radio] {
+        margin: 0 8px;
+        flex: 0;
+        align-self: center;
+    }
+ 
+    .window-header .window-title {
+        margin: 0 0 0.5rem !important;
+    }
+}
+
+.pbta.sheet.item {
+    .sheet-body {
+        padding: 8px;
+    }
+}
 
 /* Playbook */
-// Make playbook attributes header easier to understand
-.pbta.sheet{
+.pbta.sheet {
+
+    // Core
+    h1, h2, h3, h4 {
+        border: none;
+        margin: 0.5rem 0 !important;
+    }
+
+    header.sheet-header h1 input {
+        margin: 0;
+    }
+
+    &.window-app input:disabled, 
+    &.window-app select:disabled, 
+    &.window-app textarea:disabled {
+        color: $c-light-grey2;
+        background-color: $c-med-grey;
+        height: 40px;
+        padding: 0 8px;
+    }
+
+    &.window-app input, 
+    &.window-app button, 
+    &.window-app select, 
+    &.window-app textarea {
+        background-color: $c-light-grey;
+        color: $c-dark-grey;
+        padding: 0 8px;
+    }
+
+    .cell__title {
+        color: $c-med-grey;
+        border-bottom: 2px solid $c-med-grey;
+        text-transform: uppercase;
+    }
+
+    .editor-content {
+        background-color: $c-light-grey;
+        border-radius: 4px;
+        padding: 0 8px;
+    }
+
+    .window-header {
+        background-color: $c-dark-grey;
+    }
+
+    .window-content {
+        background-color: $c-lighter-grey;
+        color: $c-dark-grey;
+        padding: 0;
+
+        .sheet-header {
+            padding: 8px;
+            background-color: $c-dark-grey;
+
+            .header-fields {
+                color: $c-lighter-grey;
+            }
+        }
+
+        .sheet-top {
+            .sheet-attributes {
+                padding: 8px;
+                background-color: $c-med-grey;
+                .cell__title {
+                    color: $c-lighter-grey;
+                    border-bottom: 2px solid $c-med-grey;
+                    text-transform: uppercase;
+                }
+            }
+
+            .sheet-attributes-top {
+                padding: 0 8px;
+                border: none;
+                margin: 5px 0;
+            }
+        }
+
+        .sheet-bottom {
+            padding: 8px;
+        }
+    }
+
+    .tabs .item {
+        border-radius: 4px 4px 0 0;
+        background: $c-light-grey2;
+        color: $c-med-grey;
+        margin: 0 4px;
+        padding: 4px;
+        line-height: 1.6;
+        text-transform: uppercase;
+        font-size: var(--font-size-16);
+        flex: 1;
+
+        &.active {
+            background: $c-dark-grey;
+            color: $c-lighter-grey;
+            text-shadow: none;
+            font-weight: bold;
+        }
+
+        &:hover, &:focus {
+            background: $c-bright-red;
+            color: $c-lighter-grey;
+            text-shadow: none;
+        }
+    }
+
+    .window-resizable-handle {
+        background: $c-med-grey;
+    }
+
+    // stats
+    .sheet-attributes .cell--stats .stat {
+        background: $c-red;
+        color: $c-lighter-grey;
+
+        &:hover {
+            background: $c-bright-red;
+        }
+
+        .cell__title {
+            border-bottom: 1px solid $c-lighter-grey;
+        }
+    }
+    
+    // Items
+    &.item {
+    
+        .window-content {
+            .flexrow {
+                a, input[type="checkbox"] {
+                    flex: 0;
+                }
+            }
+        }
+    }
+
+    // General
     button:disabled {
         background-color: rgba(153, 153, 153, 0.092);
         color: rgba(84, 84, 84, 0.424);
@@ -17,6 +180,7 @@
         }
     }
 
+    // Destiny
     .cell--destiny {
         margin-bottom: 10px;
 
@@ -29,23 +193,12 @@
             flex: 0;
         }
 
-        // .destiny-name {}
+        .fa-eye-slash {
+            color: rgba(84, 84, 84, 0.424);
+        }
     }
 
     .playbook-details {
-        // display: flex;
-        // flex-direction: row;
-        // gap: 10px;
-
-        // & > h1 {
-        //     background-color: red;
-        // }
-
-        // .column {
-        //     display: flex;
-        //     flex-direction: column;
-        //     gap: 10px;
-        // }
 
         .flexrow {
             gap: 10px;
@@ -142,35 +295,28 @@
         display: none;
     }
 
-    // fix playbook dropdown without advancement 
-    .sheet-header__fields 
-    .sheet-playbook 
-    .charplaybook {
-        border-right: 1px solid rgba(0, 0, 0, .25);
-    }
-
     // Make the attributes top cells layout better
-    .sheet-wrapper 
-    .sheet-top 
-    .sheet-attributes-top 
-    .cell--attributes-top {
-        .cell .cell__title {
-            min-height: 30px;
-        }
-        .cell--attr-fourthAgenda label {
-            font-weight: normal;
-            font-size: small;
-        }
+    // .sheet-wrapper 
+    // .sheet-top 
+    // .sheet-attributes-top 
+    // .cell--attributes-top {
+    //     .cell .cell__title {
+    //         min-height: 30px;
+    //     }
+    //     .cell--attr-fourthAgenda label {
+    //         font-weight: normal;
+    //         font-size: small;
+    //     }
     
-        .cell--attr-initialAgendas, 
-        .cell--attr-fourthAgenda {
-            flex: 2;
-        }
+    //     .cell--attr-initialAgendas, 
+    //     .cell--attr-fourthAgenda {
+    //         flex: 2;
+    //     }
     
-        .cell--attr-level {
-            flex: 1;
-        }
-    }
+    //     .cell--attr-level {
+    //         flex: 1;
+    //     }
+    // }
 
     .sheet-bottom 
     .cell--attributes-left {
@@ -186,7 +332,8 @@
 
         .cell--attr-lookTwo, 
         .cell--attr-lookThree, 
-        .cell--attr-lookFour {
+        .cell--attr-lookFour,
+        .cell--attr-fourthAgenda {
             margin-top: 5px;
             .cell__title {
                 display: none;

@@ -1,4 +1,4 @@
-<form class="{{cssClass}} item-form flexcol" autocomplete="off">
+<form class="{{cssClass}} companion-item item-form flexcol" autocomplete="off">
 	<header class="sheet-header flexrow">
 		<div class="cell--image">
 			<img class="profile-img" src="{{item.img}}" data-edit="img" />
@@ -41,36 +41,36 @@
 				{{checked system.inDespair}}
 			/>
 		</div>
-
-		<div class="form-group-stacked">
-			<div class="flexrow">
-				<label>Stats</label>
-				<a class="item-add" data-companion-action="add" title="add"><i
-						class="fas fa-plus"
-					></i></a>
+		<br>
+		<h2 class="cell__title">
+			<label class="item-group-label">Stats</label>
+			<div class="destiny-modify">
+				<button type="button" class="item-add" data-companion-action="add">
+					<i class="fas fa-plus"></i>
+				</button>
 			</div>
-			<div class="item-group">
-				{{#each system.stats}}
-					<div class="flexrow">
-						<input
-							type="text"
-							name="system.stats.{{@key}}.name"
-							value="{{this.name}}"
-						/>
-						<input
-							type="checkbox"
-							name="system.stats.{{@key}}.damaged"
-							{{checked this.damaged}}
-						/>
-						<a
-							class="item-delete"
-							data-companion-id={{@key}}
-							data-companion-action="delete"
-							title="delete"
-						><i class="fas fa-trash"></i></a>
-					</div>
-				{{/each}}
-			</div>
+		</h2>
+		<div class="item-group">
+			{{#each system.stats}}
+				<div class="flexrow">
+					<input
+						type="text"
+						name="system.stats.{{@key}}.name"
+						value="{{this.name}}"
+					/>
+					<input
+						type="checkbox"
+						name="system.stats.{{@key}}.damaged"
+						{{checked this.damaged}}
+					/>
+					<a
+						class="item-delete"
+						data-companion-id={{@key}}
+						data-companion-action="delete"
+						title="delete"
+					><i class="fas fa-trash"></i></a>
+				</div>
+			{{/each}}
 		</div>
 	</section>
 </form>

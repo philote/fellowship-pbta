@@ -1,5 +1,116 @@
 /* Colors */
+.vtt .window-app.dialog input[type=radio] {
+  margin: 0 8px;
+  flex: 0;
+  align-self: center;
+}
+.vtt .window-app .window-header .window-title {
+  margin: 0 0 0.5rem !important;
+}
+
+.pbta.sheet.item .sheet-body {
+  padding: 8px;
+}
+
 /* Playbook */
+.pbta.sheet h1, .pbta.sheet h2, .pbta.sheet h3, .pbta.sheet h4 {
+  border: none;
+  margin: 0.5rem 0 !important;
+}
+.pbta.sheet header.sheet-header h1 input {
+  margin: 0;
+}
+.pbta.sheet.window-app input:disabled, .pbta.sheet.window-app select:disabled, .pbta.sheet.window-app textarea:disabled {
+  color: #c1c1c1;
+  background-color: #3f4652;
+  height: 40px;
+  padding: 0 8px;
+}
+.pbta.sheet.window-app input, .pbta.sheet.window-app button, .pbta.sheet.window-app select, .pbta.sheet.window-app textarea {
+  background-color: #dddedf;
+  color: #272c33;
+  padding: 0 8px;
+}
+.pbta.sheet .cell__title {
+  color: #3f4652;
+  border-bottom: 2px solid #3f4652;
+  text-transform: uppercase;
+}
+.pbta.sheet .editor-content {
+  background-color: #dddedf;
+  border-radius: 4px;
+  padding: 0 8px;
+}
+.pbta.sheet .window-header {
+  background-color: #272c33;
+}
+.pbta.sheet .window-content {
+  background-color: #ebeced;
+  color: #272c33;
+  padding: 0;
+}
+.pbta.sheet .window-content .sheet-header {
+  padding: 8px;
+  background-color: #272c33;
+}
+.pbta.sheet .window-content .sheet-header .header-fields {
+  color: #ebeced;
+}
+.pbta.sheet .window-content .sheet-top .sheet-attributes {
+  padding: 8px;
+  background-color: #3f4652;
+}
+.pbta.sheet .window-content .sheet-top .sheet-attributes .cell__title {
+  color: #ebeced;
+  border-bottom: 2px solid #3f4652;
+  text-transform: uppercase;
+}
+.pbta.sheet .window-content .sheet-top .sheet-attributes-top {
+  padding: 0 8px;
+  border: none;
+  margin: 5px 0;
+}
+.pbta.sheet .window-content .sheet-bottom {
+  padding: 8px;
+}
+.pbta.sheet .tabs .item {
+  border-radius: 4px 4px 0 0;
+  background: #c1c1c1;
+  color: #3f4652;
+  margin: 0 4px;
+  padding: 4px;
+  line-height: 1.6;
+  text-transform: uppercase;
+  font-size: var(--font-size-16);
+  flex: 1;
+}
+.pbta.sheet .tabs .item.active {
+  background: #272c33;
+  color: #ebeced;
+  text-shadow: none;
+  font-weight: bold;
+}
+.pbta.sheet .tabs .item:hover, .pbta.sheet .tabs .item:focus {
+  background: #a6170a;
+  color: #ebeced;
+  text-shadow: none;
+}
+.pbta.sheet .window-resizable-handle {
+  background: #3f4652;
+}
+.pbta.sheet .sheet-attributes .cell--stats .stat {
+  background: #7d1208;
+  color: #ebeced;
+}
+.pbta.sheet .sheet-attributes .cell--stats .stat:hover {
+  background: #a6170a;
+}
+.pbta.sheet .sheet-attributes .cell--stats .stat .cell__title {
+  border-bottom: 1px solid #ebeced;
+}
+.pbta.sheet.item .window-content .flexrow a, .pbta.sheet.item .window-content .flexrow input[type=checkbox] {
+  flex: 0;
+}
 .pbta.sheet button:disabled {
   background-color: rgba(153, 153, 153, 0.092);
   color: rgba(84, 84, 84, 0.424);
@@ -21,6 +132,9 @@
 }
 .pbta.sheet .cell--destiny .view-destiny {
   flex: 0;
+}
+.pbta.sheet .cell--destiny .fa-eye-slash {
+  color: rgba(84, 84, 84, 0.424);
 }
 .pbta.sheet .playbook-details .flexrow {
   gap: 10px;
@@ -88,23 +202,6 @@
 .pbta.sheet .hidden {
   display: none;
 }
-.pbta.sheet .sheet-header__fields .sheet-playbook .charplaybook {
-  border-right: 1px solid rgba(0, 0, 0, 0.25);
-}
-.pbta.sheet .sheet-wrapper .sheet-top .sheet-attributes-top .cell--attributes-top .cell .cell__title {
-  min-height: 30px;
-}
-.pbta.sheet .sheet-wrapper .sheet-top .sheet-attributes-top .cell--attributes-top .cell--attr-fourthAgenda label {
-  font-weight: normal;
-  font-size: small;
-}
-.pbta.sheet .sheet-wrapper .sheet-top .sheet-attributes-top .cell--attributes-top .cell--attr-initialAgendas,
-.pbta.sheet .sheet-wrapper .sheet-top .sheet-attributes-top .cell--attributes-top .cell--attr-fourthAgenda {
-  flex: 2;
-}
-.pbta.sheet .sheet-wrapper .sheet-top .sheet-attributes-top .cell--attributes-top .cell--attr-level {
-  flex: 1;
-}
 .pbta.sheet .sheet-bottom .cell--attributes-left .cell--attr-lookOne input,
 .pbta.sheet .sheet-bottom .cell--attributes-left .cell--attr-lookTwo input,
 .pbta.sheet .sheet-bottom .cell--attributes-left .cell--attr-lookThree input,
@@ -113,12 +210,14 @@
 }
 .pbta.sheet .sheet-bottom .cell--attributes-left .cell--attr-lookTwo,
 .pbta.sheet .sheet-bottom .cell--attributes-left .cell--attr-lookThree,
-.pbta.sheet .sheet-bottom .cell--attributes-left .cell--attr-lookFour {
+.pbta.sheet .sheet-bottom .cell--attributes-left .cell--attr-lookFour,
+.pbta.sheet .sheet-bottom .cell--attributes-left .cell--attr-fourthAgenda {
   margin-top: 5px;
 }
 .pbta.sheet .sheet-bottom .cell--attributes-left .cell--attr-lookTwo .cell__title,
 .pbta.sheet .sheet-bottom .cell--attributes-left .cell--attr-lookThree .cell__title,
-.pbta.sheet .sheet-bottom .cell--attributes-left .cell--attr-lookFour .cell__title {
+.pbta.sheet .sheet-bottom .cell--attributes-left .cell--attr-lookFour .cell__title,
+.pbta.sheet .sheet-bottom .cell--attributes-left .cell--attr-fourthAgenda .cell__title {
   display: none;
 }
 .pbta.sheet .sheet-bottom .cell--attributes-left .cell--attr-lookFour {

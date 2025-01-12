@@ -99,35 +99,6 @@ export const configSheet = async () => {
                             },
                         }
                     },
-                    level: {
-                        label: game.i18n.localize("FELLOWSHIP.CharacterSheets.attr.levelLabel"),
-                        description: null,
-                        customLabel: false,
-                        userLabel: false,
-                        type: "Number",
-                        value: 0,
-                        position: "Top"
-                    },
-                    initialAgendas: {
-                        label: game.i18n.localize("FELLOWSHIP.CharacterSheets.details.agendasLabel"),
-                        description: null,
-                        customLabel: false,
-                        userLabel: false,
-                        type: "LongText",
-                        position: "top",
-                        playbook: true,
-                        value: ""
-                    },
-                    fourthAgenda: {
-                        label: "When you know not what to do, consult your Agendas.",
-                        description: null,
-                        customLabel: false,
-                        userLabel: false,
-                        type: "LongText",
-                        position: "top",
-                        playbook: true,
-                        value: ""
-                    },
                     lookOne: {
                         label: game.i18n.localize("FELLOWSHIP.CharacterSheets.details.lookLabel"),
                         description: null,
@@ -165,6 +136,26 @@ export const configSheet = async () => {
                         userLabel: false,
                         type: "Text",
                         position: "left",                                
+                        playbook: true,
+                        value: ""
+                    },
+                    initialAgendas: {
+                        label: game.i18n.localize("FELLOWSHIP.CharacterSheets.details.agendasLabel"),
+                        description: null,
+                        customLabel: false,
+                        userLabel: false,
+                        type: "LongText",
+                        position: "left",
+                        playbook: true,
+                        value: ""
+                    },
+                    fourthAgenda: {
+                        label: game.i18n.localize("FELLOWSHIP.CharacterSheets.details.lastAgendasLabel"),
+                        description: null,
+                        customLabel: false,
+                        userLabel: false,
+                        type: "LongText",
+                        position: "left",
                         playbook: true,
                         value: ""
                     },
@@ -356,10 +347,10 @@ export function pbtaSettings() {
     game.settings.set('pbta', 'hideOngoing', true);
     game.settings.set('pbta', 'hideHold', true);
     game.settings.set('pbta', 'hideUses', false);
-    game.settings.set('pbta', 'hideRollFormula', true);
+    game.settings.set('pbta', 'hideRollFormula', true);``
     game.settings.set('pbta', 'hideRollMode', false);
     game.settings.set('pbta', 'advForward', true);
-    game.settings.set('pbta', 'hideAdvancement', 'both');
+    game.settings.set('pbta', 'hideAdvancement', 'none');
 };
 
 /**
