@@ -74,6 +74,11 @@
                 "gear": "Gear"
             }
         },
+        "CompanionSheet": {
+            "label": "Companions",
+            "despair.label": "In Despair",
+            "stats.label": "Stats"
+        },
         "NPCSheets": {
             "attr": {
                 "factionLabel": "Faction",

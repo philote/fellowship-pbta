@@ -30,6 +30,10 @@ $c-gold: #f5b56a;
 .pbta.sheet {
 
     // Core
+    .caps {
+        text-transform: uppercase;
+    }
+
     h1, h2, h3, h4 {
         border: none;
         margin: 0.5rem 0 !important;
@@ -61,6 +65,28 @@ $c-gold: #f5b56a;
         color: $c-med-grey;
         border-bottom: 2px solid $c-med-grey;
         text-transform: uppercase;
+    }
+
+    .cell--companion
+    .item-controls {
+        flex: 0 0 auto;
+    }
+
+    .cell--companion 
+    .items-list 
+    .item 
+    .flexrow {
+        gap: 4px;
+        align-items: center;
+
+        h2 {
+            margin: 0 !important;
+            flex: 0 0 auto;
+        }
+
+        label {
+            align-self: self-start;
+        }
     }
 
     .editor-content {
@@ -286,7 +312,7 @@ $c-gold: #f5b56a;
             border: 5px double black;
             padding: 10px;
             margin: 0 0 10px 0;
-            background-color: white;
+            background-color: $c-light-grey;
         }
     }
 

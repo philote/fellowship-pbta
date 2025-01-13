@@ -1,6 +1,6 @@
 <div class='cell cell--companion cell--group'>
   <h2 class='cell__title'>
-    <label class='item-group-label'>Companions</label>
+    <label class='item-group-label'>{{localize "FELLOWSHIP.CompanionSheet.label"}}</label>
     <div class='item-controls'>
       <button
         type='button'
@@ -12,14 +12,46 @@
       </button>
     </div>
   </h2>
+  
   <ol class='items-list'>
-    {{#each actor.companions as |companion key|}}
-      <li class='item flexcol' data-item-id='{{companion._id}}'>
+    {{#each actor.companions as |companion companionKey|}}
+      <li class='item flexcol' draggable="true" data-item-id='{{companion._id}}'>
         <div class='flexrow'>
-          <h3 class='item-name'>{{companion.name}}</h3>
+          <h2 class='item-name'>{{companion.name}}</h2>
+          <label class="checkbox">
+            <input 
+              type="checkbox"
+              class='companion-update'
+              data-action='despair'
+              data-value={{companion.system.inDespair}}
+              {{checked companion.system.inDespair}}
+              />
+            {{localize "FELLOWSHIP.CompanionSheet.despair.label"}}
+          </label>
           <div class='item-controls'>
             <a class='item-control item-edit' title='Edit Item'><i class='fas fa-edit'></i></a>
             <a class='item-control item-delete' title='Delete Item'><i class='fas fa-trash'></i></a>
+          </div>
+        </div>
+        <div>
+          <p><b class="caps">{{companion.system.typeName}}:</b> <i>{{companion.system.typeDescription}}</i></p>
+          
+          <hr>
+          <h3>{{localize "FELLOWSHIP.CompanionSheet.stats.label"}}</h3>
+          <div class="flexrow">
+            {{#each companion.system.stats as |stat statKey|}}
+            <label class="checkbox caps">
+              <input 
+                type="checkbox"
+                class='companion-update'
+                data-action='stat'
+                data-stat='{{statKey}}'
+                data-value={{stat.damaged}}
+                {{checked stat.damaged}}
+                />
+              {{stat.name}}
+            </label>
+            {{/each}}
           </div>
         </div>
       </li>

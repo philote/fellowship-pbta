@@ -16,7 +16,6 @@ export function FellowshipActorSheetMixin(Base) {
                 context.actor.companions = context.actor.items.filter((i) => i.type === 'fellowship-pbta.companion');
                 // Prepare Destiny Item
                 context.actor.destiny = context.actor.items.filter((i) => i.type === 'fellowship-pbta.destiny');
-
                 // get available Destinies
                 if (!CONFIG.FELLOWSHIP.destinies.length) await utils.getDestinies();
 			    // context.destinies = CONFIG.FELLOWSHIP.destinies
@@ -27,11 +26,32 @@ export function FellowshipActorSheetMixin(Base) {
         /** @override */
         activateListeners(html) {
             super.activateListeners(html);
+            // Companions
+            html.find(".companion-update").on("click", this._onCompanionUpdate.bind(this))
             // Destiny
             html.find(".add-destiny").on("click", this._onAddDestiny.bind(this))
             html.find(".delete-destiny").on("click", this._onDeleteDestiny.bind(this))
-            // Destiny.
             html.find(".view-destiny.active").on("click", this._onViewDestiny.bind(this));
+        }
+
+        async _onCompanionUpdate(event) {
+            event.preventDefault();
+            const itemId = $(event.currentTarget).parents('.item').attr('data-item-id');
+            const action = event.target.dataset.action;
+            const item = this.actor.items.get(itemId);
+
+            switch(action) {
+                case "despair": {
+                    await item.update({ 'system.inDespair': !item.system.inDespair });
+                    break;
+                }
+                case "stat": {
+                    const stat = event.target.dataset.stat;
+                    item.system.stats[stat].damaged = !item.system.stats[stat].damaged
+                    await item.update({ [`system.stats`]: item.system.stats });
+                    break;
+                }
+              }
         }
 
         /**
