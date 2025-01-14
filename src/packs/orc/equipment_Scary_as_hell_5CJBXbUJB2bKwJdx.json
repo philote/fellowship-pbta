@@ -15,7 +15,7 @@
     "actorType": "character"
   },
   "effects": [],
-  "sort": 0,
+  "sort": 100000,
   "ownership": {
     "default": 0,
     "UuXSPD7DIN5UiO1L": 3
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1736845601938,
-    "modifiedTime": 1736845615939,
+    "modifiedTime": 1736887934876,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!5CJBXbUJB2bKwJdx"

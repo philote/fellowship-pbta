@@ -1,6 +1,6 @@
 {
   "folder": "ESv9M4m5H4Fw1IPp",
-  "name": "extra quiver",
+  "name": "Extra quiver",
   "type": "equipment",
   "_id": "T9eY8EG5xBWKh6Oo",
   "img": "icons/svg/item-bag.svg",
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1736843691420,
-    "modifiedTime": 1736843703654,
+    "modifiedTime": 1736884343812,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!T9eY8EG5xBWKh6Oo"

@@ -1,0 +1,35 @@
+{
+  "folder": "ESv9M4m5H4Fw1IPp",
+  "name": "A mansion or castle to call home",
+  "type": "equipment",
+  "_id": "yo8SX9rl4wL59Y2A",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "",
+    "uses": 0,
+    "quantity": 1,
+    "weight": 0,
+    "tags": "",
+    "itemType": "",
+    "equipmentType": "gear",
+    "actorType": "character"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1736887171656,
+    "modifiedTime": 1736887178790,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!yo8SX9rl4wL59Y2A"
+}

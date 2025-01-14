@@ -5,7 +5,7 @@
   "_id": "NR40w87wPaUiLeAY",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>Strong alcohol. You carry a small keg of dwarven stout</p>",
+    "description": "<p>Strong alcohol. You carry a small keg of dwarven stout <em>(4 Uses, Vigor, then Drunk).</em></p>",
     "uses": 4,
     "quantity": 1,
     "weight": 0,
@@ -26,9 +26,9 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
+    "systemVersion": "1.1.12",
     "createdTime": 1736231533038,
-    "modifiedTime": 1736846131774,
+    "modifiedTime": 1736883345186,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!NR40w87wPaUiLeAY"

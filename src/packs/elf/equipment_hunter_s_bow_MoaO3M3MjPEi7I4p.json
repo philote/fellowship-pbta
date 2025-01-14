@@ -1,6 +1,6 @@
 {
   "folder": "ESv9M4m5H4Fw1IPp",
-  "name": "hunter's bow",
+  "name": "Hunter's bow",
   "type": "equipment",
   "_id": "MoaO3M3MjPEi7I4p",
   "img": "icons/svg/item-bag.svg",
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1736843472409,
-    "modifiedTime": 1736843500069,
+    "modifiedTime": 1736884354965,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!MoaO3M3MjPEi7I4p"

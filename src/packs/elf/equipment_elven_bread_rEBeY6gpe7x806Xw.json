@@ -1,6 +1,6 @@
 {
   "folder": "ESv9M4m5H4Fw1IPp",
-  "name": "elven bread",
+  "name": "Elven bread",
   "type": "equipment",
   "_id": "rEBeY6gpe7x806Xw",
   "img": "icons/svg/item-bag.svg",
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1736843417588,
-    "modifiedTime": 1736843458261,
+    "modifiedTime": 1736884334656,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!rEBeY6gpe7x806Xw"

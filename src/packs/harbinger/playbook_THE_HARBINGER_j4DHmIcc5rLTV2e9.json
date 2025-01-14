@@ -407,7 +407,242 @@
         "description": ""
       }
     },
-    "choiceSets": []
+    "choiceSets": [
+      {
+        "title": "HARBINGER'S CORE",
+        "desc": "All Harbingers have these moves.",
+        "type": "multi",
+        "repeatable": true,
+        "choices": [
+          {
+            "uuid": "Compendium.fellowship-pbta.harbinger.Item.lK4PVj8SueEMXANk",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.harbinger.Item.hSNSaIKVz3ZI3nUK",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.harbinger.Item.WGzaLxuBGfoJHv28",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.harbinger.Item.L6DCdjRMftDOgdZN",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          }
+        ],
+        "grantOn": 0,
+        "granted": false,
+        "advancement": 0
+      },
+      {
+        "title": "HARBINGER'S CUSTOM",
+        "desc": "Choose one of these moves to further define what it means to be a Harbinger.",
+        "type": "multi",
+        "repeatable": true,
+        "choices": [
+          {
+            "uuid": "Compendium.fellowship-pbta.harbinger.Item.5ZcUFKrCgukEveam",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.harbinger.Item.53Ce5xvZzoEvrhWB",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.harbinger.Item.lmvEKqWF0YJeBLXs",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.harbinger.Item.h98C8u8Wjfdvjl78",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.harbinger.Item.wHNzxEKBB8zWznmK",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.harbinger.Item.QBTuCYyuxYgqKgh2",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.harbinger.Item.3uJd6Hh02R2TuYQW",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.harbinger.Item.tYfLBoAtVjcWeUC7",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          }
+        ],
+        "grantOn": 1,
+        "granted": false,
+        "advancement": 0
+      },
+      {
+        "title": "Starting gear",
+        "desc": "",
+        "type": "multi",
+        "repeatable": true,
+        "choices": [
+          {
+            "uuid": "Compendium.fellowship-pbta.harbinger.Item.nG9sAKgMgAZQeDdh",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.harbinger.Item.LSkOqa5rWY9owdMV",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.harbinger.Item.GWqZeFjx0hUwxduw",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          }
+        ],
+        "grantOn": 0,
+        "granted": false,
+        "advancement": 0
+      },
+      {
+        "title": "Choose the secret weapon you brought with you on this journey:",
+        "desc": "",
+        "type": "multi",
+        "repeatable": false,
+        "choices": [
+          {
+            "uuid": "Compendium.fellowship-pbta.harbinger.Item.YbxSZBpkJN1SMHXg",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.harbinger.Item.RqSR8k81yYGfRuaB",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.harbinger.Item.1gAGYSGhWIQgcpeq",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.harbinger.Item.IePgpd9N8VEUp9cg",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          }
+        ],
+        "grantOn": 1,
+        "granted": false,
+        "advancement": 0
+      },
+      {
+        "title": "Choose your companion",
+        "desc": "You have 1 Bond with them:",
+        "type": "multi",
+        "repeatable": false,
+        "choices": [
+          {
+            "uuid": "Compendium.fellowship-pbta.harbinger.Item.TDdQMTjvDkC2K21h",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.harbinger.Item.t7pV5FOKrevVwMoS",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.harbinger.Item.3Ck61j4hNFvrcCcT",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.harbinger.Item.6nruAnatBr2LSTkZ",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.harbinger.Item.H7F38r4wpKHAdy6M",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          }
+        ],
+        "grantOn": 1,
+        "granted": false,
+        "advancement": 0
+      },
+      {
+        "title": "Choose your source of magic:",
+        "desc": "",
+        "type": "multi",
+        "repeatable": false,
+        "choices": [
+          {
+            "uuid": "Compendium.fellowship-pbta.harbinger.Item.yAF3FBAKH5P64TEZ",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "img": "icons/svg/item-bag.svg",
+            "uuid": "Compendium.fellowship-pbta.harbinger.Item.vSQX5SY5Nyklxsb8",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.harbinger.Item.6u9qeWrhYlxvVbkF",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.harbinger.Item.Ozt3cVLPs3YPEGDq",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          }
+        ],
+        "grantOn": 1,
+        "granted": false,
+        "advancement": 0
+      }
+    ]
   },
   "effects": [],
   "folder": null,
@@ -421,9 +656,9 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
+    "systemVersion": "1.1.12",
     "createdTime": 1736283679606,
-    "modifiedTime": 1736283679606,
+    "modifiedTime": 1736886143940,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_id": "j4DHmIcc5rLTV2e9",

@@ -1,6 +1,6 @@
 {
   "folder": "ESv9M4m5H4Fw1IPp",
-  "name": "strange jerky",
+  "name": "Strange jerky",
   "type": "equipment",
   "_id": "lfuwogEQ4y0EXmFg",
   "img": "icons/svg/item-bag.svg",
@@ -15,7 +15,7 @@
     "actorType": "character"
   },
   "effects": [],
-  "sort": 0,
+  "sort": 800000,
   "ownership": {
     "default": 0,
     "UuXSPD7DIN5UiO1L": 3
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1736845287742,
-    "modifiedTime": 1736845299271,
+    "modifiedTime": 1736887934876,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!lfuwogEQ4y0EXmFg"

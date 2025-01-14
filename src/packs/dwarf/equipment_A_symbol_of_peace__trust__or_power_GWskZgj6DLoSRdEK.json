@@ -5,7 +5,7 @@
   "_id": "GWskZgj6DLoSRdEK",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>A symbol of peace, trust, or power between the dwarves and another civilization of the fellowship. Choose another player: you have an <strong>Unbreakable Bond</strong> with them, write it now. Nothing can undo this bond you share with them.</p>",
+    "description": "<p>A symbol of peace, trust, or power between the dwarves and another civilization of the fellowship. Choose another player: you have an <strong>Unbreakable Bond </strong>with them, write it now. Nothing can undo this bond you share with them.</p>",
     "uses": 0,
     "quantity": 1,
     "weight": 0,
@@ -26,9 +26,9 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
+    "systemVersion": "1.1.12",
     "createdTime": 1736231839479,
-    "modifiedTime": 1736231872289,
+    "modifiedTime": 1736883833526,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!GWskZgj6DLoSRdEK"

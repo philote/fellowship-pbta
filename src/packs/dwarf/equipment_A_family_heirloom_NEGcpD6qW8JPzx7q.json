@@ -5,7 +5,7 @@
   "_id": "NEGcpD6qW8JPzx7q",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>None like it in the world. <strong>When you ask your ancestors for guidance on a topic,</strong> you may Command Lore about that topic of the rest of the scene as if it were part of your culture.</p>",
+    "description": "<p>A family heirloom, none like it in the world <em>(1 Use)</em>. <strong>When you ask your ancestors for guidance on a topic </strong><em>(1 Use)</em><strong>, </strong>you may Command Lore about that topic of the rest of the scene as if it were part of your culture.</p>",
     "uses": 1,
     "quantity": 1,
     "weight": 0,
@@ -26,9 +26,9 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
+    "systemVersion": "1.1.12",
     "createdTime": 1736231784044,
-    "modifiedTime": 1736231826025,
+    "modifiedTime": 1736883813309,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!NEGcpD6qW8JPzx7q"

@@ -1,36 +1,3 @@
-# character sheet
-- name
-- stats
-    - blood
-    - courage
-    - grace
-    - sense
-    - wisdom
-    --------
-    - iron
-    - doom
-- playbook
-- look
-    - one, two, three, four
-- Agendas
-    - initial 3
-    - fourth Agenda that only you follow
-- Your People's Lore / Your People [choose one]
-- moves
-    - core
-    - customs
-    - shared customs
-- level
-- gear [list of items]
-- earned fellowship
-- notes
-- advancement [list]
-- bonds
-- playing as
-
-- companions [list of items]
-- Destiny
-
 # Framework Sheets
 - Overlord
 - The Empire
@@ -59,24 +26,6 @@
 # Team sheets
 - The Rebellion
 - The Ship
-
-# Items
-- Destiny
-    - name
-    - image
-    - description
-    - notes
-    - requirements
-    - Moves [list of moves]
-        - starting moves
-        - custom moves
-    - Advancement [list of advancement]
-- companions
-    - name
-    - image
-    - description
-    - notes
-    - 
 
 # NPC sheet
 # Threats

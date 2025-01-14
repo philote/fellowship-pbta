@@ -401,7 +401,289 @@
         "description": ""
       }
     },
-    "choiceSets": []
+    "choiceSets": [
+      {
+        "title": "ORCISH CORE",
+        "desc": "All Orcs have these moves.",
+        "type": "multi",
+        "repeatable": true,
+        "choices": [
+          {
+            "uuid": "Compendium.fellowship-pbta.orc.Item.igxYfN7jrQpcGfWp",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.orc.Item.7Jqt1X0LKb5pEZ4O",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          }
+        ],
+        "grantOn": 0,
+        "granted": false,
+        "advancement": 0
+      },
+      {
+        "title": "ORC CUSTOM",
+        "desc": "Choose two of these moves to further define what it means to be the Orc.",
+        "type": "multi",
+        "repeatable": true,
+        "choices": [
+          {
+            "uuid": "Compendium.fellowship-pbta.orc.Item.oyDbAmEhVC98tzCR",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.orc.Item.ZT1rPAosVGQqSp30",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.orc.Item.4W8VhmtdzdVSNNZ8",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.orc.Item.0rarRNIZKFRrOwNi",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.orc.Item.uQyDmJ7xjKWwyceO",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.orc.Item.u3SfUCnRKyQyhJkE",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.orc.Item.F5ppXwYFauoAuYFi",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.orc.Item.9lJfZ8CbHG03vTZV",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          }
+        ],
+        "grantOn": 1,
+        "granted": false,
+        "advancement": 0
+      },
+      {
+        "title": "Starting Gear",
+        "desc": "",
+        "type": "multi",
+        "repeatable": true,
+        "choices": [
+          {
+            "uuid": "Compendium.fellowship-pbta.orc.Item.wSK30ikiyTSHTXEr",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.orc.Item.UWhZCwattFV0aQgE",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.orc.Item.go8zG2Tvudjzt01v",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.orc.Item.76bS81G3YTpUt0pr",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.orc.Item.lfuwogEQ4y0EXmFg",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          }
+        ],
+        "grantOn": 0,
+        "granted": false,
+        "advancement": 0
+      },
+      {
+        "title": "Choose two weapons you brought along for this journey:",
+        "desc": "",
+        "type": "multi",
+        "repeatable": false,
+        "choices": [
+          {
+            "uuid": "Compendium.fellowship-pbta.orc.Item.VoPyWAoQNjnmwGw4",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.orc.Item.gW5nF90rpKPxOQxH",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.orc.Item.u05EqEdy3DFS42Oh",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.orc.Item.uC10meVVClMbIPgI",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          }
+        ],
+        "grantOn": 1,
+        "granted": false,
+        "advancement": 0
+      },
+      {
+        "title": "Choose your companion",
+        "desc": "You have 1 Bond with them:",
+        "type": "multi",
+        "repeatable": false,
+        "choices": [
+          {
+            "uuid": "Compendium.fellowship-pbta.orc.Item.R51OfnlMiB7DJbhF",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.orc.Item.hQvWLg8vEmtqrSEu",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.orc.Item.2AAeAJFsSAOnIEuI",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.orc.Item.9vjqitGm8MnbQORx",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.orc.Item.XXpVVgV924V93TnO",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.orc.Item.OzyUXn5diHZc9m2U",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          }
+        ],
+        "grantOn": 1,
+        "granted": false,
+        "advancement": 0
+      },
+      {
+        "title": "Choose your treasure:",
+        "desc": "",
+        "type": "multi",
+        "repeatable": false,
+        "choices": [
+          {
+            "uuid": "Compendium.fellowship-pbta.orc.Item.R51OfnlMiB7DJbhF",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.orc.Item.hQvWLg8vEmtqrSEu",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.orc.Item.2AAeAJFsSAOnIEuI",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.orc.Item.u05EqEdy3DFS42Oh",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.orc.Item.9vjqitGm8MnbQORx",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          }
+        ],
+        "grantOn": 1,
+        "granted": false,
+        "advancement": 0
+      },
+      {
+        "title": "Choose the reason the Orcs named you their champion:",
+        "desc": "",
+        "type": "multi",
+        "repeatable": false,
+        "choices": [
+          {
+            "img": "icons/svg/item-bag.svg",
+            "uuid": "Compendium.fellowship-pbta.orc.Item.5ixe2xcN9w1DVx0u",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.orc.Item.5CJBXbUJB2bKwJdx",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.orc.Item.sWh9sKkxxk1rD61M",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.orc.Item.6ffp0fdSgRAxawwK",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          }
+        ],
+        "grantOn": 1,
+        "granted": false,
+        "advancement": 0
+      }
+    ]
   },
   "effects": [],
   "folder": null,
@@ -415,9 +697,9 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
+    "systemVersion": "1.1.12",
     "createdTime": 1736283672066,
-    "modifiedTime": 1736283672066,
+    "modifiedTime": 1736888134312,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_id": "ajZJDTUYTe13nfk6",
