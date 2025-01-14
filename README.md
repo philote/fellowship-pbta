@@ -23,8 +23,9 @@
 </p>
 
 <p>
-    If you’ve enjoyed my work and find value in what I create, please consider supporting me with a small donation on Ko-fi. I truly love what I do, and your support helps me dedicate time and resources to ongoing development. Every contribution, no matter the size, makes a difference and allows me to continue doing what I’m passionate about. Thank you for considering—it means the world to me. [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G3I91JQ)
+    If you’ve enjoyed my work and find value in what I create, please consider supporting me with a small donation on Ko-fi. I truly love what I do, and your support helps me dedicate time and resources to ongoing development. Every contribution, no matter the size, makes a difference and allows me to continue doing what I’m passionate about. Thank you for considering—it means the world to me. 
 </p>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G3I91JQ)
 
 ### An unofficial Fellowship 2E module for Foundry VTT using the PbtA System
 Fellowship 2nd Edition is a tabletop role-playing game that emphasizes collaborative storytelling and world-building, inspired by epic journeys like The Lord of the Rings or Avatar: The Last Airbender. Players take on the roles of iconic heroes from distinct cultures, each wielding unique powers and abilities, as they band together to confront a shared adversary, known as the Overlord.
