@@ -1,4 +1,12 @@
 /* Colors */
+@font-face {
+  font-family: "Crimson Text Regular";
+  src: url("../../assets/fonts/crimson-text/CrimsonText-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Crimson Text Bold";
+  src: url("../../assets/fonts/crimson-text/CrimsonText-Bold.ttf") format("truetype");
+}
 .vtt .window-app.dialog input[type=radio] {
   margin: 0 8px;
   flex: 0;
@@ -13,12 +21,27 @@
 }
 
 /* Playbook */
+.pbta.sheet .cell--image {
+  background: rgba(39, 44, 51, 0.75);
+}
 .pbta.sheet .caps {
   text-transform: uppercase;
 }
-.pbta.sheet h1, .pbta.sheet h2, .pbta.sheet h3, .pbta.sheet h4 {
+.pbta.sheet h1, .pbta.sheet h2, .pbta.sheet h3, .pbta.sheet h4, .pbta.sheet h2 label {
   border: none;
-  margin: 0.5rem 0 !important;
+}
+.pbta.sheet h1, .pbta.sheet h2, .pbta.sheet h3, .pbta.sheet h2 label {
+  font-family: "Crimson Text Regular", serif;
+}
+.pbta.sheet .sheet-tabs .item {
+  font-family: "Crimson Text Regular", serif;
+}
+.pbta.sheet .cell__title {
+  font-family: "Crimson Text Regular", serif;
+  font-weight: bold;
+  color: #3f4652;
+  border-bottom: 2px solid #3f4652;
+  text-transform: uppercase;
 }
 .pbta.sheet header.sheet-header h1 input {
   margin: 0;
@@ -33,11 +56,6 @@
   background-color: #dddedf;
   color: #272c33;
   padding: 0 8px;
-}
-.pbta.sheet .cell__title {
-  color: #3f4652;
-  border-bottom: 2px solid #3f4652;
-  text-transform: uppercase;
 }
 .pbta.sheet .cell--companion .item-controls {
   flex: 0 0 auto;
@@ -63,6 +81,10 @@
 }
 .pbta.sheet .window-content {
   background-color: #ebeced;
+  background: url("../assets/layout/background.webp");
+  background-size: cover;
+  background-position: left top;
+  background-repeat: no-repeat;
   color: #272c33;
   padding: 0;
 }
@@ -76,6 +98,10 @@
 .pbta.sheet .window-content .sheet-top .sheet-attributes {
   padding: 8px;
   background-color: #3f4652;
+  background: url("../assets/layout/background-header.webp");
+  background-size: cover;
+  background-position: left top;
+  background-repeat: no-repeat;
 }
 .pbta.sheet .window-content .sheet-top .sheet-attributes .cell__title {
   color: #ebeced;
@@ -83,9 +109,9 @@
   text-transform: uppercase;
 }
 .pbta.sheet .window-content .sheet-top .sheet-attributes-top {
-  padding: 0 8px;
+  padding: 0;
   border: none;
-  margin: 5px 0;
+  margin: 0;
 }
 .pbta.sheet .window-content .sheet-bottom {
   padding: 8px;
@@ -123,7 +149,7 @@
   background: #a6170a;
 }
 .pbta.sheet .sheet-attributes .cell--stats .stat .cell__title {
-  border-bottom: 1px solid #ebeced;
+  border-bottom: 1px solid #b17772;
 }
 .pbta.sheet.item .window-content .flexrow a, .pbta.sheet.item .window-content .flexrow input[type=checkbox] {
   flex: 0;
@@ -141,7 +167,12 @@
   cursor: default;
 }
 .pbta.sheet .cell--destiny {
-  margin-bottom: 10px;
+  margin-bottom: 20px;
+}
+.pbta.sheet .cell--destiny .cell__title {
+  height: 37px;
+  margin-top: 3px;
+  align-items: center;
 }
 .pbta.sheet .cell--destiny .flexrow {
   gap: 5px;

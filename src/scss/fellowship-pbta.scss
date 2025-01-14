@@ -1,12 +1,6 @@
-/* Colors */
-$c-red: #7d1208;
-$c-bright-red: #a6170a;
-$c-dark-grey: #272c33;
-$c-med-grey: #3f4652;
-$c-lighter-grey: #ebeced;
-$c-light-grey: #dddedf;
-$c-light-grey2: #c1c1c1;
-$c-gold: #f5b56a;
+@use 'base/vars.scss' as *;
+@use 'base/colors.scss' as *;
+@use 'base/typography.scss' as *;
 
 .vtt .window-app {
     &.dialog input[type=radio] {
@@ -29,14 +23,32 @@ $c-gold: #f5b56a;
 /* Playbook */
 .pbta.sheet {
 
+    .cell--image {
+        background: $c-dark-grey-75;
+    }
+
     // Core
     .caps {
         text-transform: uppercase;
     }
 
-    h1, h2, h3, h4 {
+    h1, h2, h3, h4, h2 label {
         border: none;
-        margin: 0.5rem 0 !important;
+    }
+
+    h1, h2, h3, h2 label {
+        font-family: $font-header;
+    }
+    .sheet-tabs .item {
+        font-family: $font-header;
+    }
+
+    .cell__title {
+        font-family: $font-header;
+        font-weight: bold;
+        color: $c-med-grey;
+        border-bottom: 2px solid $c-med-grey;
+        text-transform: uppercase;
     }
 
     header.sheet-header h1 input {
@@ -59,12 +71,6 @@ $c-gold: #f5b56a;
         background-color: $c-light-grey;
         color: $c-dark-grey;
         padding: 0 8px;
-    }
-
-    .cell__title {
-        color: $c-med-grey;
-        border-bottom: 2px solid $c-med-grey;
-        text-transform: uppercase;
     }
 
     .cell--companion
@@ -101,6 +107,10 @@ $c-gold: #f5b56a;
 
     .window-content {
         background-color: $c-lighter-grey;
+        background: url("../assets/layout/background.webp");
+        background-size: cover;
+        background-position: left top;
+        background-repeat: no-repeat;
         color: $c-dark-grey;
         padding: 0;
 
@@ -117,6 +127,10 @@ $c-gold: #f5b56a;
             .sheet-attributes {
                 padding: 8px;
                 background-color: $c-med-grey;
+                background: url("../assets/layout/background-header.webp");
+                background-size: cover;
+                background-position: left top;
+                background-repeat: no-repeat;
                 .cell__title {
                     color: $c-lighter-grey;
                     border-bottom: 2px solid $c-med-grey;
@@ -125,9 +139,9 @@ $c-gold: #f5b56a;
             }
 
             .sheet-attributes-top {
-                padding: 0 8px;
+                padding: 0;
                 border: none;
-                margin: 5px 0;
+                margin: 0;
             }
         }
 
@@ -175,7 +189,7 @@ $c-gold: #f5b56a;
         }
 
         .cell__title {
-            border-bottom: 1px solid $c-lighter-grey;
+            border-bottom: 1px solid $c-light-red;
         }
     }
     
@@ -208,7 +222,13 @@ $c-gold: #f5b56a;
 
     // Destiny
     .cell--destiny {
-        margin-bottom: 10px;
+        margin-bottom: 20px;
+
+        .cell__title {
+            height: 37px;
+            margin-top: 3px;
+            align-items: center;
+        }
 
         .flexrow{
             gap: 5px;
@@ -320,29 +340,6 @@ $c-gold: #f5b56a;
     .hidden {
         display: none;
     }
-
-    // Make the attributes top cells layout better
-    // .sheet-wrapper 
-    // .sheet-top 
-    // .sheet-attributes-top 
-    // .cell--attributes-top {
-    //     .cell .cell__title {
-    //         min-height: 30px;
-    //     }
-    //     .cell--attr-fourthAgenda label {
-    //         font-weight: normal;
-    //         font-size: small;
-    //     }
-    
-    //     .cell--attr-initialAgendas, 
-    //     .cell--attr-fourthAgenda {
-    //         flex: 2;
-    //     }
-    
-    //     .cell--attr-level {
-    //         flex: 1;
-    //     }
-    // }
 
     .sheet-bottom 
     .cell--attributes-left {

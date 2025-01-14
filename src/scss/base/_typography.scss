@@ -1,0 +1,13 @@
+@use 'vars.scss' as *;
+$fonts-path: '#{$asset-path}fonts/';
+
+@font-face {
+  font-family: 'Crimson Text Regular';
+  src: url('#{$fonts-path}crimson-text/CrimsonText-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Crimson Text Bold';
+  src: url('#{$fonts-path}crimson-text/CrimsonText-Bold.ttf') format('truetype');
+}
+
+$font-header: 'Crimson Text Regular', serif;
