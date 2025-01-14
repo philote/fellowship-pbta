@@ -1,0 +1,40 @@
+{
+  "folder": "S2unqZEH77Zo0pic",
+  "name": "GIANT SPIDER",
+  "type": "fellowship-pbta.companion",
+  "_id": "zYkjAK8cJAwY86QF",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "typeName": "GIANT SPIDER",
+    "typeDescription": "Many find these massive spiders absolutely terrifying, but halflings find their mobility to be second to none.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "wall crawler",
+        "damaged": false
+      },
+      {
+        "name": "creepy",
+        "damaged": false
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1736841719896,
+    "modifiedTime": 1736841742007,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!zYkjAK8cJAwY86QF"
+}

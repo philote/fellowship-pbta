@@ -1,0 +1,40 @@
+{
+  "folder": "S2unqZEH77Zo0pic",
+  "name": "TRAVELER'S CARRIAGE",
+  "type": "fellowship-pbta.companion",
+  "_id": "w7Xb6DyJ18Cf61Ua",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "typeName": "TRAVELER'S CARRIAGE",
+    "typeDescription": "Usually drawn by pony, these carriages are popular homes for the average nomad or merchant.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "sweet home",
+        "damaged": false
+      },
+      {
+        "name": "travel in comfort",
+        "damaged": false
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1736841752177,
+    "modifiedTime": 1736841834224,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!w7Xb6DyJ18Cf61Ua"
+}

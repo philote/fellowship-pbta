@@ -1,0 +1,40 @@
+{
+  "folder": "S2unqZEH77Zo0pic",
+  "name": "SIBLING",
+  "type": "fellowship-pbta.companion",
+  "_id": "oMvPC5JZkYMmkecS",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "typeName": "SIBLING",
+    "typeDescription": "Another Heir, along for the ride.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "noble bearing",
+        "damaged": false
+      },
+      {
+        "name": "just as good as you are",
+        "damaged": false
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1736842170443,
+    "modifiedTime": 1736842233500,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!oMvPC5JZkYMmkecS"
+}

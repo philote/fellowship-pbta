@@ -1,0 +1,40 @@
+{
+  "folder": "S2unqZEH77Zo0pic",
+  "name": "HALFLING CHEF",
+  "type": "fellowship-pbta.companion",
+  "_id": "jbVsGTXSmM89z7Mf",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "typeName": "HALFLING CHEF",
+    "typeDescription": "If you've got the food, they'll make it tasty.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "special ingredients",
+        "damaged": false
+      },
+      {
+        "name": "food (2 uses)",
+        "damaged": false
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1736841309893,
+    "modifiedTime": 1736841342483,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!jbVsGTXSmM89z7Mf"
+}

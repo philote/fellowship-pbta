@@ -1,0 +1,36 @@
+{
+  "folder": "S2unqZEH77Zo0pic",
+  "name": "SERVANT",
+  "type": "fellowship-pbta.companion",
+  "_id": "O5p1ZaLKFzYDL51F",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "typeName": "SERVANT",
+    "typeDescription": "A maid, butler, or hired hand to carry your things for you.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "i'll get that for you",
+        "damaged": false
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1736842147593,
+    "modifiedTime": 1736842162374,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!O5p1ZaLKFzYDL51F"
+}

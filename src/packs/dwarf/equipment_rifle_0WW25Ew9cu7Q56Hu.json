@@ -1,6 +1,6 @@
 {
   "folder": "ttTZ9vM1qiRj7tGS",
-  "name": "rifle",
+  "name": "Rifle",
   "type": "equipment",
   "_id": "0WW25Ew9cu7Q56Hu",
   "img": "icons/svg/item-bag.svg",
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.9",
     "createdTime": 1736231163292,
-    "modifiedTime": 1736231344430,
+    "modifiedTime": 1736846152211,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!0WW25Ew9cu7Q56Hu"

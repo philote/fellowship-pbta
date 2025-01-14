@@ -1,0 +1,40 @@
+{
+  "folder": "S2unqZEH77Zo0pic",
+  "name": "BRAINS",
+  "type": "fellowship-pbta.companion",
+  "_id": "hQvWLg8vEmtqrSEu",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "typeName": "BRAINS",
+    "typeDescription": "The smartest orc you've ever met. They know exactly how to take apart anything you might want them to.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "clever plan",
+        "damaged": false
+      },
+      {
+        "name": "tear it down",
+        "damaged": false
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1736842403928,
+    "modifiedTime": 1736842421327,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!hQvWLg8vEmtqrSEu"
+}

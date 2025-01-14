@@ -1,0 +1,40 @@
+{
+  "folder": "S2unqZEH77Zo0pic",
+  "name": "SMALL ARMY",
+  "type": "fellowship-pbta.companion",
+  "_id": "srHyeUe5d9b01F7B",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "typeName": "SMALL ARMY",
+    "typeDescription": "Untrained and poorly armored, these warriors are nevertheless dedicated to their cause.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "body count",
+        "damaged": false
+      },
+      {
+        "name": "poke 'em good",
+        "damaged": false
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1736842729815,
+    "modifiedTime": 1736842747594,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!srHyeUe5d9b01F7B"
+}

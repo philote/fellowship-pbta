@@ -1,0 +1,40 @@
+{
+  "folder": "S2unqZEH77Zo0pic",
+  "name": "ELVEN SHADOW",
+  "type": "fellowship-pbta.companion",
+  "_id": "yRzpMMHbJ5q9sxw0",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "typeName": "ELVEN SHADOW",
+    "typeDescription": "If you were to see an elven shadow... Well. You won't.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "untraceable",
+        "damaged": false
+      },
+      {
+        "name": "right where you need me",
+        "damaged": false
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1736840970287,
+    "modifiedTime": 1736840997783,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!yRzpMMHbJ5q9sxw0"
+}

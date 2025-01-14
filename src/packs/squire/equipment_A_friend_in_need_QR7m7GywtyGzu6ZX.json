@@ -1,15 +1,15 @@
 {
-  "folder": "ttTZ9vM1qiRj7tGS",
-  "name": "Heavy armor",
+  "folder": "ESv9M4m5H4Fw1IPp",
+  "name": "A friend in need",
   "type": "equipment",
-  "_id": "QhGzLDGIX05erSWf",
+  "_id": "QR7m7GywtyGzu6ZX",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "",
+    "description": "<p>A friend in need <em>(1 Use). </em>Use this to have someone helpful show up, right now.</p>",
     "uses": 1,
     "quantity": 1,
     "weight": 0,
-    "tags": "[{\"value\":\"FELLOWSHIP.Tags.equipment.Armor.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Armor.description\"}]",
+    "tags": "",
     "itemType": "",
     "equipmentType": "gear",
     "actorType": "character"
@@ -26,10 +26,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
-    "createdTime": 1736231415723,
-    "modifiedTime": 1736846144259,
+    "systemVersion": "1.1.12",
+    "createdTime": 1736846056293,
+    "modifiedTime": 1736846067451,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
-  "_key": "!items!QhGzLDGIX05erSWf"
+  "_key": "!items!QR7m7GywtyGzu6ZX"
 }

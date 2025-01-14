@@ -1,0 +1,48 @@
+{
+  "folder": "S2unqZEH77Zo0pic",
+  "name": "OGRE",
+  "type": "fellowship-pbta.companion",
+  "_id": "1ngQuRjoQVIrJXjo",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "typeName": "OGRE",
+    "typeDescription": "A simple creature, an Ogre is easily confused and easily misled. But just as easily, they will destroy your house or crush your head.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "giant's strength",
+        "damaged": false
+      },
+      {
+        "name": "huge club",
+        "damaged": false
+      },
+      {
+        "name": "tough as nails",
+        "damaged": false
+      },
+      {
+        "name": "a simple mind",
+        "damaged": false
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1736842686684,
+    "modifiedTime": 1736842720535,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!1ngQuRjoQVIrJXjo"
+}

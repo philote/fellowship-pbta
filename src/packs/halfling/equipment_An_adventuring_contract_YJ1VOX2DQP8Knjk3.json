@@ -1,17 +1,17 @@
 {
-  "folder": "ttTZ9vM1qiRj7tGS",
-  "name": "Heavy armor",
+  "folder": "ESv9M4m5H4Fw1IPp",
+  "name": "An adventuring contract",
   "type": "equipment",
-  "_id": "QhGzLDGIX05erSWf",
+  "_id": "YJ1VOX2DQP8Knjk3",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "",
+    "description": "<p>An adventuring contract, with all the terms and conditions in writing <em>(1 Use). </em>You can Use this item to win an argument with another player.</p>",
     "uses": 1,
     "quantity": 1,
     "weight": 0,
-    "tags": "[{\"value\":\"FELLOWSHIP.Tags.equipment.Armor.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Armor.description\"}]",
+    "tags": "",
     "itemType": "",
-    "equipmentType": "gear",
+    "equipmentType": "",
     "actorType": "character"
   },
   "effects": [],
@@ -26,10 +26,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
-    "createdTime": 1736231415723,
-    "modifiedTime": 1736846144259,
+    "systemVersion": "1.1.12",
+    "createdTime": 1736844296436,
+    "modifiedTime": 1736844312532,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
-  "_key": "!items!QhGzLDGIX05erSWf"
+  "_key": "!items!YJ1VOX2DQP8Knjk3"
 }

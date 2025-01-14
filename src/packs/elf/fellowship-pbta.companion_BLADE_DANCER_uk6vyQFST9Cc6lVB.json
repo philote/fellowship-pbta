@@ -1,0 +1,40 @@
+{
+  "folder": "S2unqZEH77Zo0pic",
+  "name": "BLADE DANCER",
+  "type": "fellowship-pbta.companion",
+  "_id": "uk6vyQFST9Cc6lVB",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "typeName": "BLADE DANCER",
+    "typeDescription": "These graceful warriors specialize in fighting alongside a partner, dancing around their ally as they attack.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "dance of death",
+        "damaged": false
+      },
+      {
+        "name": "graceful in all things",
+        "damaged": false
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1736840922321,
+    "modifiedTime": 1736840956943,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!uk6vyQFST9Cc6lVB"
+}

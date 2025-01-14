@@ -1,15 +1,15 @@
 {
-  "folder": "ttTZ9vM1qiRj7tGS",
-  "name": "Heavy armor",
+  "folder": "ESv9M4m5H4Fw1IPp",
+  "name": "A ring",
   "type": "equipment",
-  "_id": "QhGzLDGIX05erSWf",
+  "_id": "07GyqeXJyhqa1fj3",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "",
+    "description": "<p>A ring signifying your membership in a secret organization. You can Use this item to identify another member of this organization, instantly gaining a Bond with them.</p>",
     "uses": 1,
     "quantity": 1,
     "weight": 0,
-    "tags": "[{\"value\":\"FELLOWSHIP.Tags.equipment.Armor.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Armor.description\"}]",
+    "tags": "",
     "itemType": "",
     "equipmentType": "gear",
     "actorType": "character"
@@ -26,10 +26,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
-    "createdTime": 1736231415723,
-    "modifiedTime": 1736846144259,
+    "systemVersion": "1.1.12",
+    "createdTime": 1736843768230,
+    "modifiedTime": 1736843783905,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
-  "_key": "!items!QhGzLDGIX05erSWf"
+  "_key": "!items!07GyqeXJyhqa1fj3"
 }

@@ -1,15 +1,15 @@
 {
-  "folder": "ttTZ9vM1qiRj7tGS",
-  "name": "Heavy armor",
+  "folder": "ESv9M4m5H4Fw1IPp",
+  "name": "Cunning as can be",
   "type": "equipment",
-  "_id": "QhGzLDGIX05erSWf",
+  "_id": "5ixe2xcN9w1DVx0u",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "",
-    "uses": 1,
+    "description": "<p>Cunning as can be <em>(2 Uses). </em>Use this to <em>Look Closely</em> without rolling, asking one question from the list.</p>",
+    "uses": 2,
     "quantity": 1,
     "weight": 0,
-    "tags": "[{\"value\":\"FELLOWSHIP.Tags.equipment.Armor.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Armor.description\"}]",
+    "tags": "",
     "itemType": "",
     "equipmentType": "gear",
     "actorType": "character"
@@ -26,10 +26,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
-    "createdTime": 1736231415723,
-    "modifiedTime": 1736846144259,
+    "systemVersion": "1.1.12",
+    "createdTime": 1736845627547,
+    "modifiedTime": 1736845644844,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
-  "_key": "!items!QhGzLDGIX05erSWf"
+  "_key": "!items!5ixe2xcN9w1DVx0u"
 }

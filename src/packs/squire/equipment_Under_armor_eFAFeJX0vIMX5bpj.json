@@ -1,8 +1,8 @@
 {
-  "folder": "ttTZ9vM1qiRj7tGS",
-  "name": "Heavy armor",
+  "folder": "ESv9M4m5H4Fw1IPp",
+  "name": "Under-armor",
   "type": "equipment",
-  "_id": "QhGzLDGIX05erSWf",
+  "_id": "eFAFeJX0vIMX5bpj",
   "img": "icons/svg/item-bag.svg",
   "system": {
     "description": "",
@@ -26,10 +26,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
-    "createdTime": 1736231415723,
-    "modifiedTime": 1736846144259,
+    "systemVersion": "1.1.12",
+    "createdTime": 1736845774603,
+    "modifiedTime": 1736845785509,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
-  "_key": "!items!QhGzLDGIX05erSWf"
+  "_key": "!items!eFAFeJX0vIMX5bpj"
 }

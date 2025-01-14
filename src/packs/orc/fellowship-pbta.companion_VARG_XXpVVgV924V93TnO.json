@@ -1,0 +1,40 @@
+{
+  "folder": "S2unqZEH77Zo0pic",
+  "name": "VARG",
+  "type": "fellowship-pbta.companion",
+  "_id": "XXpVVgV924V93TnO",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "typeName": "VARG",
+    "typeDescription": "These massive wolves are large enough for a full grown ogre to ride, and surly enough to make an ogre think twice about doing it.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "cruel beast",
+        "damaged": false
+      },
+      {
+        "name": "go for the jugular",
+        "damaged": false
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1736842501373,
+    "modifiedTime": 1736842523617,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!XXpVVgV924V93TnO"
+}

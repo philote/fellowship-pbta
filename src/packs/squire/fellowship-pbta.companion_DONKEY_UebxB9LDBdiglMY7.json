@@ -1,0 +1,36 @@
+{
+  "folder": "S2unqZEH77Zo0pic",
+  "name": "DONKEY",
+  "type": "fellowship-pbta.companion",
+  "_id": "UebxB9LDBdiglMY7",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "typeName": "DONKEY",
+    "typeDescription": "Donkeys are similar to horses, but a little smaller, a little tougher, and infinitely more stubborn.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "beast of burden",
+        "damaged": false
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1736842615053,
+    "modifiedTime": 1736842628502,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!UebxB9LDBdiglMY7"
+}

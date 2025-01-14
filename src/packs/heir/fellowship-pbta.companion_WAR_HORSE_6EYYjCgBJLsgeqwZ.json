@@ -1,0 +1,40 @@
+{
+  "folder": "S2unqZEH77Zo0pic",
+  "name": "WAR HORSE",
+  "type": "fellowship-pbta.companion",
+  "_id": "6EYYjCgBJLsgeqwZ",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "typeName": "WAR HORSE",
+    "typeDescription": "A horse trained for war.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "mounted combat",
+        "damaged": false
+      },
+      {
+        "name": "run like the wind",
+        "damaged": false
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1736842327646,
+    "modifiedTime": 1736842344650,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!6EYYjCgBJLsgeqwZ"
+}

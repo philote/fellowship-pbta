@@ -1,0 +1,40 @@
+{
+  "folder": "S2unqZEH77Zo0pic",
+  "name": "ELVEN ARCHER",
+  "type": "fellowship-pbta.companion",
+  "_id": "nTDd2LuGVdrKc0MT",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "typeName": "ELVEN ARCHER",
+    "typeDescription": "An expert with the bow. It is said that elven archers never miss.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "perfect shot",
+        "damaged": false
+      },
+      {
+        "name": "an even more perfect shot",
+        "damaged": false
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1736840868709,
+    "modifiedTime": 1736840904962,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!nTDd2LuGVdrKc0MT"
+}

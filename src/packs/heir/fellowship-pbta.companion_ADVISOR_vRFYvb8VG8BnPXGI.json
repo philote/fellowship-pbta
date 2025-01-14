@@ -1,0 +1,36 @@
+{
+  "folder": "S2unqZEH77Zo0pic",
+  "name": "ADVISOR",
+  "type": "fellowship-pbta.companion",
+  "_id": "vRFYvb8VG8BnPXGI",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "typeName": "ADVISOR",
+    "typeDescription": "A loyal advisor, well informed of your kingdom's status at all times, and with plenty of opinions about it too.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "consultancy",
+        "damaged": false
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1736842098770,
+    "modifiedTime": 1736842114402,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!vRFYvb8VG8BnPXGI"
+}

@@ -1,6 +1,6 @@
 {
   "folder": "ttTZ9vM1qiRj7tGS",
-  "name": "exploding trap",
+  "name": "Exploding trap",
   "type": "equipment",
   "_id": "MZFFIZhZdyhLXGuQ",
   "img": "icons/svg/item-bag.svg",
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.9",
     "createdTime": 1736231373941,
-    "modifiedTime": 1736231397705,
+    "modifiedTime": 1736846136383,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!MZFFIZhZdyhLXGuQ"

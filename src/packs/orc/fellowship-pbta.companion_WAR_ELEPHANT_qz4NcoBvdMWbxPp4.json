@@ -1,0 +1,40 @@
+{
+  "folder": "S2unqZEH77Zo0pic",
+  "name": "WAR ELEPHANT",
+  "type": "fellowship-pbta.companion",
+  "_id": "qz4NcoBvdMWbxPp4",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "typeName": "WAR ELEPHANT",
+    "typeDescription": "The largest in ground-based war animal technology, these massive creatures can support a small building on their backs. The APC of the fantasy age.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "tusks and screaming",
+        "damaged": false
+      },
+      {
+        "name": "armored platform",
+        "damaged": false
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1736842533084,
+    "modifiedTime": 1736842556989,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!qz4NcoBvdMWbxPp4"
+}

@@ -1,0 +1,40 @@
+{
+  "folder": "S2unqZEH77Zo0pic",
+  "name": "ZOMBIE",
+  "type": "fellowship-pbta.companion",
+  "_id": "gfqEXFnCY40Mbp0G",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "typeName": "ZOMBIE",
+    "typeDescription": "shamble. hunt. lunge. eat. braaaains. Nearly mindless, but potentially tamed if fed properly and often.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "painless",
+        "damaged": false
+      },
+      {
+        "name": "simpleton hivemind",
+        "damaged": false
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1736842755002,
+    "modifiedTime": 1736842773172,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!gfqEXFnCY40Mbp0G"
+}

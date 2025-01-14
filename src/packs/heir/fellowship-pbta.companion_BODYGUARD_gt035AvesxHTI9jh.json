@@ -1,0 +1,36 @@
+{
+  "folder": "S2unqZEH77Zo0pic",
+  "name": "BODYGUARD",
+  "type": "fellowship-pbta.companion",
+  "_id": "gt035AvesxHTI9jh",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "typeName": "BODYGUARD",
+    "typeDescription": "A trained bodyguard, ready to dive in the way of any attack.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "watch out!!!",
+        "damaged": false
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1736842124260,
+    "modifiedTime": 1736842138467,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!gt035AvesxHTI9jh"
+}

@@ -1,12 +1,12 @@
 {
-  "folder": "ttTZ9vM1qiRj7tGS",
-  "name": "Dwarven stout",
+  "folder": "ESv9M4m5H4Fw1IPp",
+  "name": "Orcish moonshine",
   "type": "equipment",
-  "_id": "NR40w87wPaUiLeAY",
+  "_id": "u05EqEdy3DFS42Oh",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "<p>Strong alcohol. You carry a small keg of dwarven stout</p>",
-    "uses": 4,
+    "description": "<p>Orcish moonshine <em>(Food for Orcs, Drunk then Vigor, 2 Uses). </em>You may replace its tags with <em>(Ranged, Thrown, Burning).</em></p>",
+    "uses": 2,
     "quantity": 1,
     "weight": 0,
     "tags": "[{\"value\":\"FELLOWSHIP.Tags.equipment.Vigor.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Vigor.description\"},{\"value\":\"FELLOWSHIP.Tags.equipment.Drunk.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Drunk.description\"}]",
@@ -26,10 +26,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
-    "createdTime": 1736231533038,
-    "modifiedTime": 1736846131774,
+    "systemVersion": "1.1.12",
+    "createdTime": 1736845363497,
+    "modifiedTime": 1736845415147,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
-  "_key": "!items!NR40w87wPaUiLeAY"
+  "_key": "!items!u05EqEdy3DFS42Oh"
 }

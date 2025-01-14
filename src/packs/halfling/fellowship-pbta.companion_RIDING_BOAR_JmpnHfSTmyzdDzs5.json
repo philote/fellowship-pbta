@@ -1,0 +1,40 @@
+{
+  "folder": "S2unqZEH77Zo0pic",
+  "name": "RIDING BOAR",
+  "type": "fellowship-pbta.companion",
+  "_id": "JmpnHfSTmyzdDzs5",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "typeName": "RIDING BOAR",
+    "typeDescription": "These wild beasts are popular among both halfling war riders and halfling chefs",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "pig-headed",
+        "damaged": false
+      },
+      {
+        "name": "wild charge",
+        "damaged": false
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1736841584290,
+    "modifiedTime": 1736841604919,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!JmpnHfSTmyzdDzs5"
+}

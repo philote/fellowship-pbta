@@ -1,0 +1,40 @@
+{
+  "folder": "S2unqZEH77Zo0pic",
+  "name": "RIDING DOG",
+  "type": "fellowship-pbta.companion",
+  "_id": "i7ccCBMrRLpxihlO",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "typeName": "RIDING DOG",
+    "typeDescription": "Dogs may be man's best friend, but only halflings can ride them.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "loyal friend",
+        "damaged": false
+      },
+      {
+        "name": "good nose",
+        "damaged": false
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1736841614592,
+    "modifiedTime": 1736841632406,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!i7ccCBMrRLpxihlO"
+}

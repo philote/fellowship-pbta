@@ -1,0 +1,40 @@
+{
+  "folder": "S2unqZEH77Zo0pic",
+  "name": "POLITICIAN",
+  "type": "fellowship-pbta.companion",
+  "_id": "jDLJsJN5VNHvkEar",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "typeName": "POLITICIAN",
+    "typeDescription": "They have their own agenda, but it has nothing to do with you or the Overlord. Probably.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "political power",
+        "damaged": false
+      },
+      {
+        "name": "spineless",
+        "damaged": false
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1736842659934,
+    "modifiedTime": 1736842678057,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!jDLJsJN5VNHvkEar"
+}

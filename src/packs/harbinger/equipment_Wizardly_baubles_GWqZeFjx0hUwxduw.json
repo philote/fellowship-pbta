@@ -1,15 +1,15 @@
 {
-  "folder": "ttTZ9vM1qiRj7tGS",
-  "name": "Shield",
+  "folder": "ESv9M4m5H4Fw1IPp",
+  "name": "Wizardly baubles",
   "type": "equipment",
-  "_id": "E0d12vSFl1wvNugY",
+  "_id": "GWqZeFjx0hUwxduw",
   "img": "icons/svg/item-bag.svg",
   "system": {
     "description": "",
     "uses": 2,
     "quantity": 1,
     "weight": 0,
-    "tags": "[{\"value\":\"FELLOWSHIP.Tags.equipment.Armor.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Armor.description\"},{\"value\":\"FELLOWSHIP.Tags.equipment.Clumsy.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Clumsy.description\"}]",
+    "tags": "[{\"value\":\"FELLOWSHIP.Tags.equipment.Useful.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Useful.description\"}]",
     "itemType": "",
     "equipmentType": "gear",
     "actorType": "character"
@@ -26,10 +26,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
-    "createdTime": 1736231444528,
-    "modifiedTime": 1736846149068,
+    "systemVersion": "1.1.12",
+    "createdTime": 1736844471174,
+    "modifiedTime": 1736844488128,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
-  "_key": "!items!E0d12vSFl1wvNugY"
+  "_key": "!items!GWqZeFjx0hUwxduw"
 }

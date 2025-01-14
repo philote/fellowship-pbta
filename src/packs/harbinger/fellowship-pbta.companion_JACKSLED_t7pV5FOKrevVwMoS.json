@@ -1,0 +1,40 @@
+{
+  "folder": "S2unqZEH77Zo0pic",
+  "name": "JACKSLED",
+  "type": "fellowship-pbta.companion",
+  "_id": "t7pV5FOKrevVwMoS",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "typeName": "JACKSLED",
+    "typeDescription": "A sleigh, drawn by many small animals, usually rabbits or dogs. The Jacksled is the fastest vehicle in the known world, but it doesn't have much room for passengers.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "supply run",
+        "damaged": false
+      },
+      {
+        "name": "outrun anything",
+        "damaged": false
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1736842011334,
+    "modifiedTime": 1736842033924,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!t7pV5FOKrevVwMoS"
+}

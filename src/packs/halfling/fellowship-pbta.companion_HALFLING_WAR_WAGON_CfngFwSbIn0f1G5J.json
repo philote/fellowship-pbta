@@ -1,0 +1,44 @@
+{
+  "folder": "S2unqZEH77Zo0pic",
+  "name": "HALFLING WAR WAGON",
+  "type": "fellowship-pbta.companion",
+  "_id": "CfngFwSbIn0f1G5J",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "typeName": "HALFLING WAR WAGON",
+    "typeDescription": "The War Wagon is a carriage converted for war Covered in spikes, it is mounted with a rock ballistae and a kitchen, for that extra taste of home.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "spiked armor",
+        "damaged": false
+      },
+      {
+        "name": "rock ballistae",
+        "damaged": false
+      },
+      {
+        "name": "built for war",
+        "damaged": false
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1736841844368,
+    "modifiedTime": 1736841875077,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!CfngFwSbIn0f1G5J"
+}

@@ -1,15 +1,15 @@
 {
-  "folder": "ttTZ9vM1qiRj7tGS",
-  "name": "Heavy armor",
+  "folder": "ESv9M4m5H4Fw1IPp",
+  "name": "A flashpowder trap",
   "type": "equipment",
-  "_id": "QhGzLDGIX05erSWf",
+  "_id": "RqSR8k81yYGfRuaB",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "",
-    "uses": 1,
+    "description": "<p>It blinds everyone in the area for a short time.</p>",
+    "uses": 2,
     "quantity": 1,
     "weight": 0,
-    "tags": "[{\"value\":\"FELLOWSHIP.Tags.equipment.Armor.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Armor.description\"}]",
+    "tags": "[{\"value\":\"FELLOWSHIP.Tags.equipment.Trap.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Trap.description\"}]",
     "itemType": "",
     "equipmentType": "gear",
     "actorType": "character"
@@ -26,10 +26,10 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
-    "createdTime": 1736231415723,
-    "modifiedTime": 1736846144259,
+    "systemVersion": "1.1.12",
+    "createdTime": 1736844682340,
+    "modifiedTime": 1736844707501,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
-  "_key": "!items!QhGzLDGIX05erSWf"
+  "_key": "!items!RqSR8k81yYGfRuaB"
 }
