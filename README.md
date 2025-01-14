@@ -21,11 +21,11 @@
         <img alt="GitHub stars" src="https://img.shields.io/github/stars/philote/fellowship-pbta">
     </a>
 </p>
-
-<p>
-    If you’ve enjoyed my work and find value in what I create, please consider supporting me with a small donation on Ko-fi. I truly love what I do, and your support helps me dedicate time and resources to ongoing development. Every contribution, no matter the size, makes a difference and allows me to continue doing what I’m passionate about. Thank you for considering—it means the world to me. 
+<p align="center">
+   	<a href='https://ko-fi.com/G2G3I91JQ' target='_blank'>
+					<img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+				</a>
 </p>
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G3I91JQ)
 
 ### An unofficial Fellowship 2E module for Foundry VTT using the PbtA System
 Fellowship 2nd Edition is a tabletop role-playing game that emphasizes collaborative storytelling and world-building, inspired by epic journeys like The Lord of the Rings or Avatar: The Last Airbender. Players take on the roles of iconic heroes from distinct cultures, each wielding unique powers and abilities, as they band together to confront a shared adversary, known as the Overlord.
@@ -33,6 +33,8 @@ Fellowship 2nd Edition is a tabletop role-playing game that emphasizes collabora
 The ideas used in this module are from Fellowship 2E from [Liberi Gothica Games](https://liberigothica.itch.io/) Written by [Vel Mini](https://bsky.app/profile/velimini.bsky.social). You can get the Books at [itch.io](https://liberigothica.itch.io/fellowship-a-tabletop-adventure-game)
 
 This module is for [Foundry VTT](https://foundryvtt.com/) and requires the [PbtA System](https://github.com/asacolips-projects/pbta) created by [asacolips](https://github.com/asacolips).
+
+If you’ve enjoyed my work and find value in what I create, please consider supporting me with a small donation on [Ko-fi](https://ko-fi.com/G2G3I91JQ). I truly love what I do, and your support helps me dedicate time and resources to ongoing development. Every contribution, no matter the size, makes a difference and allows me to continue doing what I’m passionate about. Thank you for considering—it means the world to me.
 
 ## Screenshot
 ![Screenshot of the character sheet](assets/screenshot.webp)
