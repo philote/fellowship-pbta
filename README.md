@@ -1,8 +1,6 @@
 <!-- ![Cover](assets/cover.webp) -->
 
 # Fellowship 2E Module (Unofficial)
-> [!Warning]
-> This module is in the early stages of development, use with caution.
 
 <p align="center">
     <img alt="Foundry Version 12 support" src="https://img.shields.io/badge/Foundry-v12-informational">
