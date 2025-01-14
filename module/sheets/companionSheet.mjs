@@ -48,7 +48,7 @@ export class CompanionSheet extends ItemSheet {
 		switch (action) {
 			case "add":
 				stats.push({
-					name: "New Stat",
+					name: game.i18n.localize("FELLOWSHIP.CompanionSheet.default"),
 					damaged: false,
 				});
 				break;

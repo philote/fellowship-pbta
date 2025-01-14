@@ -60,8 +60,8 @@ export const configSheet = async () => {
                 },
                 attributes: {
                     statsVisibility: {
-                        label: "Stats Visibility",
-                        description: "Which stats are visible on the character sheet?",
+                        label: game.i18n.localize("FELLOWSHIP.CharacterSheets.attr.statsVisibility.label"),
+                        description: game.i18n.localize("FELLOWSHIP.CharacterSheets.attr.statsVisibility.description"),
                         customLabel: false,
                         userLabel: false,
                         playbook: true,
@@ -70,31 +70,31 @@ export const configSheet = async () => {
                         sort: false,
                         options: {
                             0: {
-                                label: "blood",
+                                label: game.i18n.localize("FELLOWSHIP.CharacterSheets.attr.statsVisibility.options.0"),
                                 value: true
                             },
                             1: {
-                                label: "courage",
+                                label: game.i18n.localize("FELLOWSHIP.CharacterSheets.attr.statsVisibility.options.1"),
                                 value: true
                             },
                             2: {
-                                label: "grace",
+                                label: game.i18n.localize("FELLOWSHIP.CharacterSheets.attr.statsVisibility.options.2"),
                                 value: true
                             },
                             3: {
-                                label: "sense",
+                                label: game.i18n.localize("FELLOWSHIP.CharacterSheets.attr.statsVisibility.options.3"),
                                 value: true
                             },
                             4: {
-                                label: "wisdom",
+                                label: game.i18n.localize("FELLOWSHIP.CharacterSheets.attr.statsVisibility.options.4"),
                                 value: true
                             },
                             5: {
-                                label: "iron",
+                                label: game.i18n.localize("FELLOWSHIP.CharacterSheets.attr.statsVisibility.options.5"),
                                 value: false
                             },
                             6: {
-                                label: "doom",
+                                label: game.i18n.localize("FELLOWSHIP.CharacterSheets.attr.statsVisibility.options.6"),
                                 value: false
                             },
                         }

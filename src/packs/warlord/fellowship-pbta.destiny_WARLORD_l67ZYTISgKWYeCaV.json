@@ -11,7 +11,7 @@
     "advancements": [
       {
         "used": false,
-        "name": "Take the Heir's Core Moves (Royal Treatment and <i>Yes, My Liege</i>). If you already have them, instead increase one of your stats by +1, to a maximum of +3."
+        "name": "Take the Heir's Core Moves (Royal Treatment and Yes, My Liege). If you already have them, instead increase one of your stats by +1, to a maximum of +3."
       },
       {
         "used": false,
@@ -45,9 +45,9 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
+    "systemVersion": "1.1.11",
     "createdTime": 1736408632954,
-    "modifiedTime": 1736408756091,
+    "modifiedTime": 1736713796954,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!l67ZYTISgKWYeCaV"

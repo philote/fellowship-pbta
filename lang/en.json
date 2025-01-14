@@ -52,9 +52,18 @@
                         }
                     }
                 },
-                "destinyAdvancement": {
-                    "label": "Destiny Advancement",
-                    "description": "When you Level Up, choose one Advancement from either this list or from your Basic Playbook, then mark it. You may only choose each option once."
+                "statsVisibility": {
+                    "label": "Stats Visibility",
+                    "description": "Which stats are visible on the character sheet?",
+                    "options": {
+                        "0": "BLOOD",
+                        "1": "COURAGE",
+                        "2": "GRACE",
+                        "3": "SENSE",
+                        "4": "WISDOM",
+                        "5": "IRON",
+                        "6": "Doom"
+                    }
                 }
             },
             "details": {
@@ -72,12 +81,27 @@
             },
             "equipmentTypes": {
                 "gear": "Gear"
+            },
+            "destiny": {
+                "prompt.title": "Choose Your Destiny"
             }
         },
         "CompanionSheet": {
             "label": "Companions",
+            "name.label": "Name",
+            "type": {
+                "label": "Type",
+                "description": "Type Description"
+            },
             "despair.label": "In Despair",
-            "stats.label": "Stats"
+            "stats.label": "Stats",
+            "default": "New Stat"
+        },
+        "DestinySheet": {
+            "label": "DESTINY PLAYBOOK",
+            "description": "Description",
+            "advancements": "Advancements",
+            "advancement.default": "New Advancement"
         },
         "NPCSheets": {
             "attr": {

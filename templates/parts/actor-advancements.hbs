@@ -56,33 +56,4 @@
 			{{/each}}
 		</ul>
 	</div>
-	{{!-- destiny Advancements --}}
-	{{!-- <div class="cell cell--destiny--destinyAdvancements cell--attr-destiny--destinyAdvancements cell--{{system.attributes.destinyAdvancements.type}}">
-		<span class="cell__title">{{system.attributes.destinyAdvancements.label}}</span>
-		{{#if system.attributes.destinyAdvancements.description}}<p class="cell__description cell__description--attr">{{system.attributes.destinyAdvancements.description}}</p>{{/if}}
-		<ul class="cell__checkboxes flexcol">
-			{{#each system.attributes.destinyAdvancements.options as |option optionKey|}}
-				<label
-					class="flexrow"
-					{{#if option.tooltip}}
-						data-tooltip="{{option.tooltip}}"
-						data-tooltip-direction="UP"
-					{{/if}}
-				>
-					{{#if option.values}}
-						{{#each option.values as |subOption subOptionKey|}}
-							<input type="checkbox" class="attr-list" name="system.attributes.destinyAdvancements.options.{{optionKey}}.values.{{subOptionKey}}.value" {{checked subOption.value}}/>
-						{{/each}}
-					{{else}}
-						<input type="checkbox" class="attr-list" name="system.attributes.destinyAdvancements.options.{{optionKey}}.value" {{checked option.value}}/>
-					{{/if}}
-					{{#if (eq option.label "[Text]")}}
-						<input type="text" class="input input-title" name="system.attributes.destinyAdvancements.options.{{optionKey}}.userLabel" value="{{option.userLabel}}">
-					{{else}}
-						{{option.label}}
-					{{/if}}
-				</label>
-			{{/each}}
-		</ul>
-	</div> --}}
 </div>

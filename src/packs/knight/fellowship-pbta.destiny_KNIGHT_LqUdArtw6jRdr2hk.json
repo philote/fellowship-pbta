@@ -11,7 +11,7 @@
     "advancements": [
       {
         "used": false,
-        "name": "Take the Squire's Core Moves (<i>Fast Friends</i>, <i>It&#39;s Dangerous To Go Alone</i>, and <i>Please, Just Listen</i>). If you already have them, instead increase one of your stats by +1, to a maximum of +3."
+        "name": "Take the Squire's Core Moves (Fast Friends, It's Dangerous To Go Alone, and Please, Just Listen). If you already have them, instead increase one of your stats by +1, to a maximum of +3."
       },
       {
         "used": false,
@@ -45,9 +45,9 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
+    "systemVersion": "1.1.11",
     "createdTime": 1736406402655,
-    "modifiedTime": 1736406553003,
+    "modifiedTime": 1736714001507,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!LqUdArtw6jRdr2hk"

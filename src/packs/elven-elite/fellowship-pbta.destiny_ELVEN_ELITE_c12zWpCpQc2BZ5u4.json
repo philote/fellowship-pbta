@@ -7,11 +7,11 @@
     "htmlFields": [
       "description"
     ],
-    "description": "<div class=\"destiny-details\"><p><em>You have become the one thing no elf thought was possible: A better elf.</em></p><h2>REQUIREMENTS</h2><p><strong>To become the Elven Elite,</strong> you must earn the Fellowship of the Elves. The Elven Elite starts with <em>Perfect Grace</em>.</p><p>@UUID[Compendium.fellowship-pbta.elven-elite.Item.ac7nUNVt5p6BeuOy]{PERFECT GRACE}</p><h2>CUSTOM MOVES</h2><p>@UUID[Compendium.fellowship-pbta.elven-elite.Item.3s5atM7CqSxmCfap]{EVIL'S BANE}</p><p>@UUID[Compendium.fellowship-pbta.elven-elite.Item.Z2ZrxmissIrUzzyq]{HAND OF SILVER}</p><p>@UUID[Compendium.fellowship-pbta.elven-elite.Item.weHeuU9ydwyHdxRA]{HYPNOTIC COMMAND}</p><p>@UUID[Compendium.fellowship-pbta.elven-elite.Item.27Y4RxjyZTXedYFM]{MASTER OF THE OLD WAYS}</p><p>@UUID[Compendium.fellowship-pbta.elven-elite.Item.XCh4b1fcXJgcSUHQ]{SERENITY}</p></div>",
+    "description": "<div class=\"destiny-details\"><p><em>You have become the one thing no elf thought was possible: A better elf.</em></p><h2>REQUIREMENTS</h2><p><strong>To become the Elven Elite,</strong> you must earn the Fellowship of the Elves. </p><p>The Elven Elite starts with <em>Perfect Grace</em>.</p><p>@UUID[Compendium.fellowship-pbta.elven-elite.Item.ac7nUNVt5p6BeuOy]{PERFECT GRACE}</p><h2>CUSTOM MOVES</h2><p>@UUID[Compendium.fellowship-pbta.elven-elite.Item.3s5atM7CqSxmCfap]{EVIL'S BANE}</p><p>@UUID[Compendium.fellowship-pbta.elven-elite.Item.Z2ZrxmissIrUzzyq]{HAND OF SILVER}</p><p>@UUID[Compendium.fellowship-pbta.elven-elite.Item.weHeuU9ydwyHdxRA]{HYPNOTIC COMMAND}</p><p>@UUID[Compendium.fellowship-pbta.elven-elite.Item.27Y4RxjyZTXedYFM]{MASTER OF THE OLD WAYS}</p><p>@UUID[Compendium.fellowship-pbta.elven-elite.Item.XCh4b1fcXJgcSUHQ]{SERENITY}</p></div>",
     "advancements": [
       {
         "used": false,
-        "name": "Take the Elven Core Moves (<i>Elder Arts</i> and <i>Touch The World Lightly)</i>. If you already have them, instead increase one of your stats by +1, to a maximum of +3."
+        "name": "Take the Elven Core Moves (Elder Arts and Touch The World Lightly). If you already have them, instead increase one of your stats by +1, to a maximum of +3."
       },
       {
         "used": false,
@@ -45,9 +45,9 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
+    "systemVersion": "1.1.11",
     "createdTime": 1736404225450,
-    "modifiedTime": 1736404407062,
+    "modifiedTime": 1736714126954,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!c12zWpCpQc2BZ5u4"

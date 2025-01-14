@@ -77,7 +77,7 @@ export function FellowshipActorSheetMixin(Base) {
             const content = await renderTemplate("modules/fellowship-pbta/templates/dialog-destiny.hbs", dialogContext);
 
             const selection = await foundry.applications.api.DialogV2.prompt({
-                window: { title: "Proceed" },
+                window: { title: game.i18n.localize("FELLOWSHIP.CharacterSheets.destiny.prompt.title") },
                 content: content,
                 ok: {
                     callback: (event, button) => {

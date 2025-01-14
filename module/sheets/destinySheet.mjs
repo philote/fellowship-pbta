@@ -64,7 +64,7 @@ export class DestinySheet extends ItemSheet {
 		switch (action) {
 			case "add":
 				advancements.push({
-					name: "New Advancement",
+					name: game.i18n.localize("FELLOWSHIP.DestinySheet.advancement.default"),
 					damaged: false,
 				});
 				break;

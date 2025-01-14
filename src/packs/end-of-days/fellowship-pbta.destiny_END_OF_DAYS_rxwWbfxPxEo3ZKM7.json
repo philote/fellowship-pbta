@@ -11,7 +11,7 @@
     "advancements": [
       {
         "used": false,
-        "name": "Take the Harbinger&#39;s Core Moves other than <i>Doom and Gloom (Doomed Soul, Do Not Trifle With Wizards</i>, and <i>Wizardry</i>). Your Doom stat is +2. If you already have them, instead increase one of your stats by +1, to a maximum of +3."
+        "name": "Take the Harbinger's Core Moves other than Doom and Gloom (Doomed Soul, Do Not Trifle With Wizards, and Wizardry). Your Doom stat is +2. If you already have them, instead increase one of your stats by +1, to a maximum of +3."
       },
       {
         "used": false,
@@ -45,9 +45,9 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
+    "systemVersion": "1.1.11",
     "createdTime": 1736404647009,
-    "modifiedTime": 1736404756292,
+    "modifiedTime": 1736714084747,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!rxwWbfxPxEo3ZKM7"

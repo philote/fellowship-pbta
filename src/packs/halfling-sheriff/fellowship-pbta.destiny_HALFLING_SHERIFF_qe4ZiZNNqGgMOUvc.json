@@ -11,7 +11,7 @@
     "advancements": [
       {
         "used": false,
-        "name": "Take the Halfling Core Moves (<i>Sting Like A Bee </i>and <i>The Little Folk)</i>. If you already have them, instead increase one of your stats by +1, to a maximum of +3."
+        "name": "Take the Halfling Core Moves (Sting Like A Bee and The Little Folk). If you already have them, instead increase one of your stats by +1, to a maximum of +3."
       },
       {
         "used": false,
@@ -45,9 +45,9 @@
     "duplicateSource": null,
     "coreVersion": "12.331",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
+    "systemVersion": "1.1.11",
     "createdTime": 1736405994926,
-    "modifiedTime": 1736406079994,
+    "modifiedTime": 1736714036962,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!qe4ZiZNNqGgMOUvc"

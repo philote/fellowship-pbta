@@ -4,7 +4,7 @@
 			<img class="profile-img" src="{{item.img}}" data-edit="img" />
 		</div>
 		<div class="header-fields">
-			<h3>DESTINY PLAYBOOK</h3>
+			<h3>{{localize 'FELLOWSHIP.DestinySheet.label'}}</h3>
 			<h1 class="charname"><input
 					name="name"
 					type="text"
@@ -17,7 +17,7 @@
 	<section class="sheet-body">
 		<div class="form-group-stacked">
 			<h2 class="cell__title">
-				<label class="item-group-label">Description</label>
+				<label class="item-group-label">{{localize 'FELLOWSHIP.DestinySheet.description'}}</label>
 			</h2>
       <prose-mirror name="system.description" data-document-u-u-i-d="{{item.uuid}}" value="{{system.description}}" collaborate="true" toggled="true">
         {{{enriched.description}}}
@@ -25,7 +25,7 @@
 		</div>
 		<div class="flexcol">
 			<h2 class="cell__title">
-				<label class="item-group-label">Advancements</label>
+				<label class="item-group-label">{{localize 'FELLOWSHIP.DestinySheet.advancements'}}</label>
 				<div class="destiny-modify">
 					<button type="button" class="item-add" data-destiny-action="add">
 						<i class="fas fa-plus"></i>
