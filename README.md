@@ -21,10 +21,9 @@
         <img alt="GitHub stars" src="https://img.shields.io/github/stars/philote/fellowship-pbta">
     </a>
 </p>
-<p align="center">
-    <a href="https://ko-fi.com/G2G3I91JQ">
-        <img alt="ko-fi" src="https://ko-fi.com/img/githubbutton_sm.svg">
-    </a>
+
+<p>
+    If you’ve enjoyed my work and find value in what I create, please consider supporting me with a small donation on Ko-fi. I truly love what I do, and your support helps me dedicate time and resources to ongoing development. Every contribution, no matter the size, makes a difference and allows me to continue doing what I’m passionate about. Thank you for considering—it means the world to me. [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G3I91JQ)
 </p>
 
 ### An unofficial Fellowship 2E module for Foundry VTT using the PbtA System
