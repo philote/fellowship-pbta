@@ -51,7 +51,6 @@ You can install the latest released version of the module by using this manifest
     - Added Companion support
     - sheet designs
 - NPC Sheet
-- Overload Sheet
 - Item Compendiums
     - Book 1 Playbooks
     - Book 1 Destinies
