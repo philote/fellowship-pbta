@@ -7,20 +7,25 @@
 - image
 - look
     - one, two, three, four
-- level
+- Principles [list]
+- Basic Cuts [list]
 - Agendas
     - initial 2
     - third Agenda that only you follow
-- Plans
-- Generals
-- Armies
 - Moves
+    - basic
+    - core
     - custom
 - "stats" [list of stats]
+- Plans
 - weakness
-- vulnerabilities
-- bonds [list of bonds]
+- Foibles
+- Generals (companion)
+- Armies
 - gear [list of items]
+- bonds [list of bonds]
+- Advancement [list]
+- level
 - notes
 
 # Team sheets
@@ -45,9 +50,9 @@
     - The Scourge
         - bastions, aberrations, undead, dark lords
     - The Titans
-        - legends, monsters
+        - Legends, Monsters
     - The Troops
-- stats (one to four stats), can be damaged (like health)
+- stats (one to four stats), can be damaged (like health) each one has an associated threat
     Examples: Bloodlust: This threat goes into a frenzy at the sight of blood. If your Blood is damaged, this threat's Cuts against you are Hard Cuts.
         Creepy: This threat is terrifying. If your Courage is damaged, you cannot take a stand against this threat.
         Rampage: This threat is difficult to evade. If your Grace is damaged, you cannot defend against this threat's attacks.
@@ -55,6 +60,45 @@
         Persuasive: This threat is hard to deny. If your Wisdom is damaged, you will go along with whatever they say.
         Tough As Nails: The first time this threat would be damaged or destroyed, damage this stat instead.
         Armored: This stat has to be damaged twice.
-- moves [list of moves]
-- tags
-- Modifications (tags) [list of modifications]
+
+Threats
+Generals (special threats)
+
+NPC
+- name
+- img
+- description
+- Stats [list (name, description)]
+
+Threat
+- name
+- Type
+- subtype
+- is Secret?
+- is a Source of Power?
+- img
+- description
+- Stats [list (name, description)]
+
+Set Piece
+- enemies [list]
+- barriers [list]
+- Set of threats, each has a set of stats
+
+Generals
+pick any single threat from Chapter 7, and make it a Threat to the World. They have access to all of your Overlord Basic Moves, but not your Overlord Core or Custom moves.
+
+
+Set -> Threats -> type:[barrier | enemy] -> subtype -> Stats
+- is Secret 
+- is Source of Power
+
+PCs
+Companions [Bonded to PC]
+Overlord
+Threats
+    Barrier
+    Enemy
+        General
+
+What about NPCs?

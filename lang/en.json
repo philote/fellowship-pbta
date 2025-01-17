@@ -1,239 +1,316 @@
 {
-    "TYPES.Item.fellowship-pbta.companion": "Companion",
-    "TYPES.Item.fellowship-pbta.destiny": "Destiny",
-    "FELLOWSHIP": {
-        "Destiny": "Your Destiny",
-        "ViewDestiny": "View Destiny",
-        "SheetConfig": {
-            "character": "Fellowship Character Sheet"
-        },
-        "CharacterSheets": {
-            "advancementsTab": "Advancements",
-            "rollResults": {
-                "complications": "Complications...",
-                "partialSuccess": "Partial success.",
-                "success": "Success!"
-            },
-            "despairToggle": "Despair",
-            "stats": {
-                "blood": "Blood",
-                "courage": "Courage",
-                "grace": "Grace",
-                "sense": "Sense",
-                "wisdom": "Wisdom",
-                "iron": "Iron",
-                "doom": "Doom"
-            },
-            "moveTypes": {
-                "basicLabel": "Basic Moves",
-                "coreLabel": "Core Moves",
-                "customsLabel": "Custom Moves",
-                "fellowshipLabel": "Fellowship Moves",
-                "destinyLabel": "Destiny Moves",
-                "bondsLabel": "Bonds Moves"
-            },
-            "attr": {
-                "advancement": {
-                    "label": "Advancement",
-                    "description": "When you Level Up, increase your level by 1, then choose an option from the list and mark it. You may only choose each option once.",
-                    "options": {
-                        "0": "Increase one of your stats by 1 (to a maximum of +3).",
-                        "1": "Increase one of your stats by 1 (to a maximum of +3).",
-                        "2": "Take another Custom.",
-                        "3": "Take another Custom, or ask another player to share a Move with you.",
-                        "4": "Take another Custom, or two more Gear options (You cannot choose a Gear option you already have).",
-                        "5": "Share one of your Gear options with another player."
-                    },
-                    "destiny": {
-                        "label": "Unlock your Destiny",
-                        "description": "You must be level 5 or higher to take this Advancement. When you do, you unlock the ability to choose a Destiny.",
-                        "options": {
-                            "0": "You have Changed. When you Change, choose a Destiny you meet the requirements for and take its first Move."
-                        }
-                    }
-                },
-                "statsVisibility": {
-                    "label": "Stats Visibility",
-                    "description": "Which stats are visible on the character sheet?",
-                    "options": {
-                        "0": "BLOOD",
-                        "1": "COURAGE",
-                        "2": "GRACE",
-                        "3": "SENSE",
-                        "4": "WISDOM",
-                        "5": "IRON",
-                        "6": "Doom"
-                    }
-                }
-            },
-            "details": {
-                "playingAsLabel": "Playing as",
-                "yourPeopleLabel": "Your People",
-                "lookLabel": "Look",
-                "lookLabelTwo": "LookTwo",
-                "lookLabelThree": "LookThree",
-                "lookLabelFour": "LookFour",
-                "notesLabel": "Notes",
-                "bondsLabel": "Bonds",
-                "agendasLabel": "Agendas",
-                "lastAgendasLabel": "Last Agenda",
-                "earnedFellowshipLabel": "Earned Fellowship"
-            },
-            "equipmentTypes": {
-                "gear": "Gear"
-            },
-            "destiny": {
-                "prompt.title": "Choose Your Destiny"
-            }
-        },
-        "CompanionSheet": {
-            "label": "Companions",
-            "name.label": "Name",
-            "type": {
-                "label": "Type",
-                "description": "Type Description"
-            },
-            "despair.label": "In Despair",
-            "stats.label": "Stats",
-            "default": "New Stat"
-        },
-        "DestinySheet": {
-            "label": "DESTINY PLAYBOOK",
-            "description": "Description",
-            "advancements": "Advancements",
-            "advancement.default": "New Advancement"
-        },
-        "NPCSheets": {
-            "attr": {
-                "factionLabel": "Faction",
-                "injuryLabel": "Injury",
-                "flyLabel": "Can Fly?",
-                "ageLabel": "Age"
-            },
-            "details": {
-                "biographyLabel": "Biography"
-            },
-            "moveTypes": {
-                "basicLabel": "Basic Moves"
-            },
-            "lootLabel": "Loot"
-        },
-        "Tags": {
-            "equipment": {
-                "Melee": {
-                    "value": "Melee",
-                    "description": "You need to be up close to hit them."
-                },
-                "Ranged": {
-                    "value": "Ranged",
-                    "description": "You can hit them if you can see them. Ranged weapons usually need Ammo or require Reloading."
-                },
-                "Area": {
-                    "value": "Area",
-                    "description": "Area attacks hit everyone in a group."
-                },
-                "Dangerous": {
-                    "value": "Dangerous",
-                    "description": "Dangerous attacks are like Area attacks, but they always cause collateral damage."
-                },
-                "Burning": {
-                    "value": "Burning",
-                    "description": "Burning attacks start fires."
-                },
-                "Clumsy": {
-                    "value": "Clumsy",
-                    "description": "Clumsy items have -1 to be used, and Clumsy armor gives -1 to Get Away."
-                },
-                "Dwarf-Made": {
-                    "value": "Dwarf-Made",
-                    "description": "This item is nearly indestructible."
-                },
-                "Elf-Made": {
-                    "value": "Elf-Made",
-                    "description": "This item does not age, and its touch burns non-elves."
-                },
-                "Necrotic": {
-                    "value": "Necrotic",
-                    "description": "Necrotic attacks inflict wounds that do not heal naturally. Necrotic damage is marked twice, and the first mark cannot be removed by Filling Your Belly."
-                },
-                "Orc-Made": {
-                    "value": "Orc-Made",
-                    "description": "Orc-Made items are Clumsy in any hands but an Orc's."
-                },
-                "Piercing": {
-                    "value": "Piercing",
-                    "description": "The attacker always chooses which stat to damage, and the damage cannot be redirected to armor or other stats."
-                },
-                "Reload": {
-                    "value": "Reload",
-                    "description": "This weapon can only be used once per scene."
-                },
-                "Slow": {
-                    "value": "Slow",
-                    "description": "This takes time and safety to use properly."
-                },
-                "Ammo": {
-                    "value": "Ammo",
-                    "description": "If you use this weapon as a Ranged weapon, you lose it until you can go and get it back."
-                },
-                "Armor": {
-                    "value": "Armor",
-                    "description": "Spend 1 Use to prevent 1 damage you would take."
-                },
-                "Drunk": {
-                    "value": "Drunk",
-                    "description": "When you Use this, you have Despair and cannot have Hope for your next roll."
-                },
-                "Food": {
-                    "value": "Food",
-                    "description": "You can spend it to Fill Your Belly."
-                },
-                "Healing": {
-                    "value": "Healing",
-                    "description": "Spend 1 Use to heal a damaged stat."
-                },
-                "Precious": {
-                    "value": "Precious",
-                    "description": "Spend 1 Use to Forge a Bond with someone, or to not have to do a favor for someone."
-                },
-                "Useful": {
-                    "value": "Useful",
-                    "description": "Spend 1 Use to produce something helpful."
-                },
-                "Vigor": {
-                    "value": "Vigor",
-                    "description": "When you Use this, you have Hope and cannot have Despair for your next roll."
-                },
-                "Trap": {
-                    "value": "Trap",
-                    "description": "Traps are items you need to place in advance."
-                }
-            }
-        },
-        "Settings": {
-            "game": {
-                "heading": "Fellowship 2nd Edition",
-                "publisher": {
-                    "title": "Liberi Gothica Games"
-                },
-                "github": {
-                    "title": "Module Repository"
-                },
-                "kofi": {
-                    "title": "Support me on Ko-fi"
-                }
-            },
-            "startup": {
-                "name": "First Time Startup",
-                "dialog": {
-                    "title": "Welcome to Fellowship",
-                    "content": "Would you like to use this module's custom startup screen?"
-                }
-            },
-            "img": {
-                "name": "Use the Module Login Image?",
-                "hint": "If set to true: use the module login img; if set to false: use the default or user set login image."
-            }
-        }
-    }
+	"TYPES.Item.fellowship-pbta.companion": "Companion",
+	"TYPES.Item.fellowship-pbta.destiny": "Destiny",
+	"TYPES.Item.fellowship-pbta.stat": "Stat",
+	"FELLOWSHIP": {
+		"Destiny": "Your Destiny",
+		"ViewDestiny": "View Destiny",
+		"SheetConfig": {
+			"character": "Fellowship Character Sheet",
+			"companion": "Companion Sheet",
+			"destiny": "Destiny Sheet",
+			"stat": "Stat Sheet",
+			"npc": "NPC Sheet"
+		},
+		"CharacterSheets": {
+			"advancementsTab": "Advancements",
+			"rollResults": {
+				"complications": "Complications...",
+				"partialSuccess": "Partial success.",
+				"success": "Success!"
+			},
+			"despairToggle": "Despair",
+			"stats": {
+				"blood": "Blood",
+				"courage": "Courage",
+				"grace": "Grace",
+				"sense": "Sense",
+				"wisdom": "Wisdom",
+				"iron": "Iron",
+				"doom": "Doom"
+			},
+			"moveTypes": {
+				"basicLabel": "Basic Moves",
+				"coreLabel": "Core Moves",
+				"customsLabel": "Custom Moves",
+				"fellowshipLabel": "Fellowship Moves",
+				"destinyLabel": "Destiny Moves",
+				"bondsLabel": "Bonds Moves"
+			},
+			"attr": {
+				"advancement": {
+					"label": "Advancement",
+					"description": "When you Level Up, increase your level by 1, then choose an option from the list and mark it. You may only choose each option once.",
+					"options": {
+						"0": "Increase one of your stats by 1 (to a maximum of +3).",
+						"1": "Increase one of your stats by 1 (to a maximum of +3).",
+						"2": "Take another Custom.",
+						"3": "Take another Custom, or ask another player to share a Move with you.",
+						"4": "Take another Custom, or two more Gear options (You cannot choose a Gear option you already have).",
+						"5": "Share one of your Gear options with another player."
+					},
+					"destiny": {
+						"label": "Unlock your Destiny",
+						"description": "You must be level 5 or higher to take this Advancement. When you do, you unlock the ability to choose a Destiny.",
+						"options": {
+							"0": "You have Changed. When you Change, choose a Destiny you meet the requirements for and take its first Move."
+						}
+					}
+				},
+				"statsVisibility": {
+					"label": "Stats Visibility",
+					"description": "Which stats are visible on the character sheet?",
+					"options": {
+						"0": "BLOOD",
+						"1": "COURAGE",
+						"2": "GRACE",
+						"3": "SENSE",
+						"4": "WISDOM",
+						"5": "IRON",
+						"6": "Doom"
+					}
+				}
+			},
+			"details": {
+				"playingAsLabel": "Playing as",
+				"yourPeopleLabel": "Your People",
+				"lookLabel": "Look",
+				"lookLabelTwo": "LookTwo",
+				"lookLabelThree": "LookThree",
+				"lookLabelFour": "LookFour",
+				"notesLabel": "Notes",
+				"bondsLabel": "Bonds",
+				"agendasLabel": "Agendas",
+				"lastAgendasLabel": "Last Agenda",
+				"earnedFellowshipLabel": "Earned Fellowship"
+			},
+			"equipmentTypes": {
+				"gear": "Gear"
+			},
+			"destiny": {
+				"prompt.title": "Choose Your Destiny"
+			}
+		},
+		"CompanionSheet": {
+			"label": "Companions",
+			"name.label": "COMPANION",
+			"type": {
+				"label": "Type",
+				"description": "Type Description"
+			},
+			"despair.label": "In Despair",
+			"stats.label": "Stats",
+			"default": "New Stat"
+		},
+		"DestinySheet": {
+			"label": "DESTINY PLAYBOOK",
+			"description": "Description",
+			"advancements": "Advancements",
+			"advancement.default": "New Advancement"
+		},
+		"StatSheet": {
+			"description": "Description",
+			"label": "STAT",
+			"damaged": "Damaged"
+		},
+		"NPCSheets": {
+			"attr": {
+				"type": {
+					"label": "Type",
+					"options": {
+						"other": "Other",
+						"barrier": "Barrier",
+						"beast": "Beast",
+						"innocent": "Innocent",
+						"horde": "Horde",
+						"machine": "Machine",
+						"organization": "Organization",
+						"scourge": "Scourge",
+						"titan": "Titan"
+					},
+					"subtype": {
+						"barriers": {
+							"Curses": "Curse",
+							"Obstacles": "Obstacle",
+							"Traps": "Trap",
+							"Zones": "Zone"
+						},
+						"beasts": {
+							"Aquatic": "Aquatic",
+							"Cities": "City",
+							"Mountains": "Mountains",
+							"Plains": "Plains",
+							"Supernatural": "Supernatural",
+							"Woodlands": "Woodlands",
+							"Vehicles": "Vehicle"
+						},
+						"innocents": {
+							"Bystanders": "Bystander",
+							"Criminals": "Criminal",
+							"Tolkien": "Tolkien",
+							"Invells": "Invells",
+							"Rebels": "Rebel",
+							"Benefactors": "Benefactor"
+						},
+						"hordes": {
+							"Commanders": "Commanders",
+							"Minions": "Minions"
+						},
+						"machines": {
+							"Androids": "Android",
+							"Drones": "Drone",
+							"MachineCities": "Machine city",
+							"Programs": "Program",
+							"SupportUnits": "Support unit"
+						},
+						"organizations": {
+							"Counterparts": "Counterpart", 
+							"Rogues": "Rogue"
+						},
+						"scourges": { 
+							"Bastions": "Bastion",
+							"Aberrations": "Aberration",
+							"Undead": "Undead",
+							"DarkLords": "Dark lord"
+						},
+						"titans": {
+							"Legends": "Legend",
+							"Monsters": "Monster"
+						}
+					}
+				},
+				"subtype": "Subtype",
+				"isSecret": "is Secret?",
+				"isSourcePower": "is a Source of Power?",
+                "stats": "STATS"
+			},
+			"details": {
+				"description": "Description",
+				"notes": "Notes"
+			},
+			"moveTypes": {
+				"basic": "Basic Moves"
+			},
+			"equipmentTypes": {
+				"loot": "Loot"
+			}
+		},
+		"Tags": {
+			"equipment": {
+				"Melee": {
+					"value": "Melee",
+					"description": "You need to be up close to hit them."
+				},
+				"Ranged": {
+					"value": "Ranged",
+					"description": "You can hit them if you can see them. Ranged weapons usually need Ammo or require Reloading."
+				},
+				"Area": {
+					"value": "Area",
+					"description": "Area attacks hit everyone in a group."
+				},
+				"Dangerous": {
+					"value": "Dangerous",
+					"description": "Dangerous attacks are like Area attacks, but they always cause collateral damage."
+				},
+				"Burning": {
+					"value": "Burning",
+					"description": "Burning attacks start fires."
+				},
+				"Clumsy": {
+					"value": "Clumsy",
+					"description": "Clumsy items have -1 to be used, and Clumsy armor gives -1 to Get Away."
+				},
+				"Dwarf-Made": {
+					"value": "Dwarf-Made",
+					"description": "This item is nearly indestructible."
+				},
+				"Elf-Made": {
+					"value": "Elf-Made",
+					"description": "This item does not age, and its touch burns non-elves."
+				},
+				"Necrotic": {
+					"value": "Necrotic",
+					"description": "Necrotic attacks inflict wounds that do not heal naturally. Necrotic damage is marked twice, and the first mark cannot be removed by Filling Your Belly."
+				},
+				"Orc-Made": {
+					"value": "Orc-Made",
+					"description": "Orc-Made items are Clumsy in any hands but an Orc's."
+				},
+				"Piercing": {
+					"value": "Piercing",
+					"description": "The attacker always chooses which stat to damage, and the damage cannot be redirected to armor or other stats."
+				},
+				"Reload": {
+					"value": "Reload",
+					"description": "This weapon can only be used once per scene."
+				},
+				"Slow": {
+					"value": "Slow",
+					"description": "This takes time and safety to use properly."
+				},
+				"Ammo": {
+					"value": "Ammo",
+					"description": "If you use this weapon as a Ranged weapon, you lose it until you can go and get it back."
+				},
+				"Armor": {
+					"value": "Armor",
+					"description": "Spend 1 Use to prevent 1 damage you would take."
+				},
+				"Drunk": {
+					"value": "Drunk",
+					"description": "When you Use this, you have Despair and cannot have Hope for your next roll."
+				},
+				"Food": {
+					"value": "Food",
+					"description": "You can spend it to Fill Your Belly."
+				},
+				"Healing": {
+					"value": "Healing",
+					"description": "Spend 1 Use to heal a damaged stat."
+				},
+				"Precious": {
+					"value": "Precious",
+					"description": "Spend 1 Use to Forge a Bond with someone, or to not have to do a favor for someone."
+				},
+				"Useful": {
+					"value": "Useful",
+					"description": "Spend 1 Use to produce something helpful."
+				},
+				"Vigor": {
+					"value": "Vigor",
+					"description": "When you Use this, you have Hope and cannot have Despair for your next roll."
+				},
+				"Trap": {
+					"value": "Trap",
+					"description": "Traps are items you need to place in advance."
+				}
+			}
+		},
+		"Settings": {
+			"game": {
+				"heading": "Fellowship 2nd Edition",
+				"publisher": {
+					"title": "Liberi Gothica Games"
+				},
+				"github": {
+					"title": "Module Repository"
+				},
+				"kofi": {
+					"title": "Support me on Ko-fi"
+				}
+			},
+			"startup": {
+				"name": "First Time Startup",
+				"dialog": {
+					"title": "Welcome to Fellowship",
+					"content": "Would you like to use this module's custom startup screen?"
+				}
+			},
+			"img": {
+				"name": "Use the Module Login Image?",
+				"hint": "If set to true: use the module login img; if set to false: use the default or user set login image."
+			}
+		}
+	}
 }

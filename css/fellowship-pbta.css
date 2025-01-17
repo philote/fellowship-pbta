@@ -1,11 +1,11 @@
 /* Colors */
 @font-face {
   font-family: "Crimson Text Regular";
-  src: url("../../assets/fonts/crimson-text/CrimsonText-Regular.ttf") format("truetype");
+  src: url("../assets/fonts/crimson-text/CrimsonText-Regular.ttf") format("truetype");
 }
 @font-face {
   font-family: "Crimson Text Bold";
-  src: url("../../assets/fonts/crimson-text/CrimsonText-Bold.ttf") format("truetype");
+  src: url("../assets/fonts/crimson-text/CrimsonText-Bold.ttf") format("truetype");
 }
 .vtt .window-app.dialog input[type=radio] {
   margin: 0 8px;
@@ -21,6 +21,30 @@
 }
 
 /* Playbook */
+.pbta.sheet.npc .cell--bio .editor-content {
+  min-height: 170px;
+}
+.pbta.sheet.npc .npc-attr {
+  color: #dddedf;
+  padding-left: 8px;
+}
+.pbta.sheet.npc .npc-attr h2 {
+  margin: 12px 0 0 0;
+}
+.pbta.sheet.npc .npc-attr .flexrow {
+  gap: 8px;
+  margin-top: 8px;
+}
+.pbta.sheet.npc .npc-attr .flexrow select {
+  width: 100%;
+}
+.pbta.sheet.npc .npc-attr .flexrow h3 {
+  margin: 0;
+}
+.pbta.sheet.npc .npc-attr .input--title {
+  height: 32px;
+  line-height: 32px;
+}
 .pbta.sheet .cell--image {
   background: rgba(39, 44, 51, 0.75);
 }
@@ -31,13 +55,13 @@
   border: none;
 }
 .pbta.sheet h1, .pbta.sheet h2, .pbta.sheet h3, .pbta.sheet h2 label {
-  font-family: "Crimson Text Regular", serif;
+  font-family: "Crimson Text Bold", serif;
 }
 .pbta.sheet .sheet-tabs .item {
-  font-family: "Crimson Text Regular", serif;
+  font-family: "Crimson Text Bold", serif;
 }
 .pbta.sheet .cell__title {
-  font-family: "Crimson Text Regular", serif;
+  font-family: "Crimson Text Bold", serif;
   font-weight: bold;
   color: #3f4652;
   border-bottom: 2px solid #3f4652;
@@ -56,20 +80,6 @@
   background-color: #dddedf;
   color: #272c33;
   padding: 0 8px;
-}
-.pbta.sheet .cell--companion .item-controls {
-  flex: 0 0 auto;
-}
-.pbta.sheet .cell--companion .items-list .item .flexrow {
-  gap: 4px;
-  align-items: center;
-}
-.pbta.sheet .cell--companion .items-list .item .flexrow h2 {
-  margin: 0 !important;
-  flex: 0 0 auto;
-}
-.pbta.sheet .cell--companion .items-list .item .flexrow label {
-  align-self: self-start;
 }
 .pbta.sheet .editor-content {
   background-color: #dddedf;
@@ -216,36 +226,40 @@
   align-items: start;
   font-weight: normal;
 }
-.pbta.sheet .cell--companion {
+.pbta.sheet .cell--f-item.cell--companion {
   margin-top: 20px;
   padding-top: 10px;
-  border-top: 3px solid black;
+  border-top: 3px dotted black;
 }
-.pbta.sheet .cell--companion .cell__title {
-  border-bottom: none;
-  font-size: 2em;
+.pbta.sheet .cell--f-item .cell__title .item-controls {
+  top: 4px;
 }
-.pbta.sheet .cell--companion .items-list {
+.pbta.sheet .cell--f-item .items-list {
   margin: 0;
   padding: 0;
 }
-.pbta.sheet .cell--companion .items-list .item {
-  margin: 5px;
+.pbta.sheet .cell--f-item .items-list .item-controls {
+  flex: 0 0 auto;
 }
-.pbta.sheet .cell--companion .item-name {
-  font-weight: bold;
-  flex: auto;
-  margin: 0;
-  display: flex;
-  align-items: stretch;
-  justify-content: flex-start;
-  border: none;
-}
-.pbta.sheet .cell--companion .items-list .item {
-  border: 5px double black;
-  padding: 10px;
-  margin: 0 0 10px 0;
+.pbta.sheet .cell--f-item .items-list .item {
+  border: 4px double rgba(39, 44, 51, 0.5);
+  padding: 4px 8px;
+  margin: 0 0 8px 0;
   background-color: #dddedf;
+}
+.pbta.sheet .cell--f-item .items-list .item .flexrow {
+  gap: 4px;
+  align-items: center;
+  justify-content: space-between;
+}
+.pbta.sheet .cell--f-item .items-list .item .flexrow h2 {
+  flex: 0 1 auto;
+}
+.pbta.sheet .cell--f-item .items-list .item .flexrow .item-name {
+  margin: 0;
+}
+.pbta.sheet .cell--f-item .items-list .item .flexrow label {
+  align-self: self-start;
 }
 .pbta.sheet .hidden {
   display: none;
@@ -303,3 +317,5 @@
   border-bottom: 0px;
   margin: 0px;
 }
+
+/*# sourceMappingURL=fellowship-pbta.css.map */

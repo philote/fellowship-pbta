@@ -4,7 +4,7 @@
 			<img class="profile-img" src="{{item.img}}" data-edit="img" />
 		</div>
 		<div class="header-fields">
-			<h3>{{localize 'FELLOWSHIP.CompanionSheet.name.label'}}</h3>
+			<h1>{{localize "FELLOWSHIP.CompanionSheet.name.label"}}</h1>
 			<h1 class="charname"><input
 					name="name"
 					type="text"
@@ -15,8 +15,8 @@
 	</header>
 	{{! Sheet Body }}
 	<section class="sheet-body">
-		<div class="form-group">
-			<label>{{localize 'FELLOWSHIP.CompanionSheet.type.label'}}</label>
+		<div class="form-group-stacked">
+			<h2 class="cell__title"><label>{{localize "FELLOWSHIP.CompanionSheet.type.label"}}</label></h2>
 			<input
 				type="text"
 				name="system.typeName"
@@ -25,7 +25,7 @@
 			/>
 		</div>
 		<div class="form-group-stacked">
-			<label>{{localize 'FELLOWSHIP.CompanionSheet.type.description'}}</label>
+			<h2 class="cell__title"><label>{{localize "FELLOWSHIP.CompanionSheet.type.description"}}</label></h2>
 			<textarea
 				type="text"
 				name="system.typeDescription"
@@ -34,16 +34,17 @@
 			>{{system.typeDescription}}</textarea>
 		</div>
 		<div class="form-group">
-			<label>{{localize 'FELLOWSHIP.CompanionSheet.despair.label'}}</label>
-			<input
+			<h2><label><input
 				type="checkbox"
 				name="system.inDespair"
 				{{checked system.inDespair}}
-			/>
+			/>{{localize "FELLOWSHIP.CompanionSheet.despair.label"}}</label></h2>
 		</div>
-		<br>
+		<br />
 		<h2 class="cell__title">
-			<label class="item-group-label">{{localize 'FELLOWSHIP.CompanionSheet.stats.label'}}</label>
+			<label class="item-group-label">{{localize
+					"FELLOWSHIP.CompanionSheet.stats.label"
+				}}</label>
 			<div class="destiny-modify">
 				<button type="button" class="item-add" data-companion-action="add">
 					<i class="fas fa-plus"></i>

@@ -279,59 +279,60 @@ export const configSheet = async () => {
             },
             npc: {
                 attributes: {
-                    fly: {
-                        label: game.i18n.localize('FELLOWSHIP.NPCSheets.attr.flyLabel'),
+                    threatType: {
+                        type: "Text",
+                        label: game.i18n.localize('FELLOWSHIP.NPCSheets.attr.type.label'),
                         description: null,
                         customLabel: false,
                         userLabel: false,
-                        type: 'checkbox',
-                        default: false,
                         position: 'Top',
                     },
-                    injury: {
-                        label: game.i18n.localize('FELLOWSHIP.NPCSheets.attr.injuryLabel'),
+                    threatSubtype: {
+                        type: "Text",
+                        label: game.i18n.localize('FELLOWSHIP.NPCSheets.attr.subtype'),
                         description: null,
                         customLabel: false,
                         userLabel: false,
-                        type: 'Clock',
-                        value: 0,
-                        max: 4,
-                        steps: [false, false, false, false],
                         position: 'Top',
                     },
-                    faction: {
-                        type: 'Text',
-                        label: game.i18n.localize('FELLOWSHIP.NPCSheets.attr.factionLabel'),
+                    isSourcePower: {
+                        type: 'Checkbox',
+                        label: null,
+                        checkboxLabel: game.i18n.localize('FELLOWSHIP.NPCSheets.attr.isSourcePower'),
                         description: null,
                         customLabel: false,
                         userLabel: false,
                         position: 'Left',
                     },
-                    age: {
-                        label: game.i18n.localize('FELLOWSHIP.NPCSheets.attr.ageLabel'),
+                    isSecret: {
+                        type: 'Checkbox',
+                        label: null,
+                        checkboxLabel: game.i18n.localize('FELLOWSHIP.NPCSheets.attr.isSecret'),
                         description: null,
                         customLabel: false,
                         userLabel: false,
-                        type: 'Number',
-                        default: 1,
                         position: 'Left',
                     },
                 },
                 details: {
                     biography: {
-                        label: game.i18n.localize("FELLOWSHIP.NPCSheets.details.biographyLabel"),
+                        label: game.i18n.localize("FELLOWSHIP.NPCSheets.details.description"),
+                        value: ""
+                    },
+                    notes: {
+                        label: game.i18n.localize("FELLOWSHIP.NPCSheets.details.notes"),
                         value: ""
                     }
                 },
                 moveTypes: {
                     basic: {
-                        label: game.i18n.localize("FELLOWSHIP.NPCSheets.moveTypes.basicLabel"),
+                        label: game.i18n.localize("FELLOWSHIP.NPCSheets.moveTypes.basic"),
                         moves: []
                     }
                 },
                 equipmentTypes: {
                     loot: {
-                        label: game.i18n.localize('FELLOWSHIP.NPCSheets.lootLabel'),
+                        label: game.i18n.localize('FELLOWSHIP.NPCSheets.equipmentTypes.loot'),
                     },
                 },
             }

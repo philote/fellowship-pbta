@@ -23,6 +23,41 @@
 /* Playbook */
 .pbta.sheet {
 
+    &.npc{
+        .cell--bio {
+            .editor-content {
+                min-height: 170px;
+            }
+        }
+
+        .npc-attr {
+            color: $c-light-grey;
+            padding-left: 8px;
+
+            h2 {
+                margin: 12px 0 0 0;
+            }
+
+            .flexrow {
+                gap: 8px;
+                margin-top: 8px;
+                
+                select {
+                    width: 100%;
+                }
+
+                h3 {
+                    margin: 0;
+                }
+            }
+
+            .input--title {
+                height: 32px;
+                line-height: 32px;
+            }
+        }
+    }
+
     .cell--image {
         background: $c-dark-grey-75;
     }
@@ -73,28 +108,6 @@
         padding: 0 8px;
     }
 
-    .cell--companion
-    .item-controls {
-        flex: 0 0 auto;
-    }
-
-    .cell--companion 
-    .items-list 
-    .item 
-    .flexrow {
-        gap: 4px;
-        align-items: center;
-
-        h2 {
-            margin: 0 !important;
-            flex: 0 0 auto;
-        }
-
-        label {
-            align-self: self-start;
-        }
-    }
-
     .editor-content {
         background-color: $c-light-grey;
         border-radius: 4px;
@@ -107,7 +120,7 @@
 
     .window-content {
         background-color: $c-lighter-grey;
-        background: url("../assets/layout/background.webp");
+        background: url("#{$layout-path}background.webp");
         background-size: cover;
         background-position: left top;
         background-repeat: no-repeat;
@@ -127,7 +140,7 @@
             .sheet-attributes {
                 padding: 8px;
                 background-color: $c-med-grey;
-                background: url("../assets/layout/background-header.webp");
+                background: url("#{$layout-path}background-header.webp");
                 background-size: cover;
                 background-position: left top;
                 background-repeat: no-repeat;
@@ -298,41 +311,51 @@
         font-weight: normal;
     }
 
-    // companion cell styles
-    .cell--companion {
-        margin-top: 20px;
-        padding-top: 10px;
-        border-top: 3px solid black;
-
-        .cell__title {
-            border-bottom: none;
-            font-size: 2em;
+    // Companion & Stat cell styles
+    .cell--f-item {
+        &.cell--companion {
+            margin-top: 20px;
+            padding-top: 10px;
+            border-top: 3px dotted black;
         }
+
+        .cell__title .item-controls {
+            top: 4px;
+        }
+        
 
         .items-list {
             margin: 0;
             padding: 0;
 
-            .item {
-            margin: 5px;
+            .item-controls {
+                flex: 0 0 auto;
             }
-        }
 
-        .item-name {
-            font-weight: bold;
-            flex: auto;
-            margin: 0;
-            display: flex;
-            align-items: stretch;
-            justify-content: flex-start;
-            border: none;
-        }
+            .item {
+                border: 4px double $c-dark-grey-50;
+                padding: 4px 8px;
+                margin: 0 0 8px 0;
+                background-color: $c-light-grey;
 
-        .items-list .item {
-            border: 5px double black;
-            padding: 10px;
-            margin: 0 0 10px 0;
-            background-color: $c-light-grey;
+                .flexrow {
+                    gap: 4px;
+                    align-items: center;
+                    justify-content: space-between;
+            
+                    h2 {
+                        flex: 0 1 auto;
+                    }
+
+                    .item-name {
+                        margin: 0;
+                    }
+            
+                    label {
+                        align-self: self-start;
+                    }
+                }
+            }
         }
     }
 

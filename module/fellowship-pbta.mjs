@@ -7,8 +7,21 @@ import { DestinyModel } from "./data/destinyModel.mjs";
 import { DestinySheet } from "./sheets/destinySheet.mjs";
 import { FellowshipActorSheetMixin } from "./sheets/actor-sheet.mjs";
 import { CharacterModel } from "./data/characterModel.mjs";
+import { StatModel } from "./data/statModel.mjs";
+import { StatSheet } from "./sheets/statSheet.mjs";
+import { FellowshipActorNpcSheetMixin } from "./sheets/actor-npc-sheet.mjs";
 
 Hooks.once("init", () => {
+
+	// Custom NPC Sheet Setup
+	const fellowshipActorNpcSheet = FellowshipActorNpcSheetMixin(game.pbta.applications.actor.PbtaActorSheet);
+	Actors.unregisterSheet('pbta', game.pbta.applications.actor.PbtaActorNpcSheet, { types: ['npc'] });
+	Actors.registerSheet('pbta', fellowshipActorNpcSheet, {
+		types: ['npc'],
+		makeDefault: true,
+		label: 'FELLOWSHIP.SheetConfig.npc',
+	});
+
 	// Fellowship ActorSheet Setup
 	CONFIG.Actor.dataModels.character = CharacterModel;
 	const fellowshipActorSheet = FellowshipActorSheetMixin(
@@ -33,7 +46,7 @@ Hooks.once("init", () => {
 	Items.registerSheet("fellowship-pbta", CompanionSheet, {
 		types: ["fellowship-pbta.companion"],
 		makeDefault: true,
-		label: "Companion Sheet",
+		label: "FELLOWSHIP.SheetConfig.companion",	
 	});
 
 	// Destiny DataModel & Sheet Setup
@@ -46,7 +59,20 @@ Hooks.once("init", () => {
 	Items.registerSheet("fellowship-pbta", DestinySheet, {
 		types: ["fellowship-pbta.destiny"],
 		makeDefault: true,
-		label: "Destiny Sheet",
+		label: "FELLOWSHIP.SheetConfig.destiny",
+	});
+
+	// Stat DataModel & Sheet Setup
+	Object.assign(CONFIG.Item.dataModels, {
+		"fellowship-pbta.stat": StatModel,
+	});
+	Items.unregisterSheet("pbta", game.pbta.applications.item.PbtaItemSheet, {
+		types: ["fellowship-pbta.stat"],
+	});
+	Items.registerSheet("fellowship-pbta", StatSheet, {
+		types: ["fellowship-pbta.stat"],
+		makeDefault: true,
+		label: "FELLOWSHIP.SheetConfig.stat",
 	});
 
 	// Register settings
@@ -91,6 +117,7 @@ Hooks.once("pbtaSheetConfig", () => {
 });
 
 Hooks.once("ready", async function () {
+	utils.getThreatTypes();
 	// Get destinies in world and compendium, with code so Babele works
 	if (!(game.modules.get("babele")?.active && game.i18n.lang !== "en")) {
 		utils.getDestinies();

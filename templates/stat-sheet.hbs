@@ -1,0 +1,47 @@
+<form class="{{cssClass}} companion-item item-form flexcol" autocomplete="off">
+	<header class="sheet-header flexrow">
+		<div class="cell--image">
+			<img class="profile-img" src="{{item.img}}" data-edit="img" />
+		</div>
+		<div class="header-fields">
+			<h1>{{localize "FELLOWSHIP.StatSheet.label"}}</h1>
+			<h1 class="charname"><input
+					name="name"
+					type="text"
+					value="{{item.name}}"
+					placeholder="{{localize 'PBTA.Common.Name'}}"
+				/></h1>
+		</div>
+	</header>
+	{{! Sheet Body }}
+	<section class="sheet-body">
+		<div class="form-group">
+			<h3>
+				<label>
+					<input
+						type="checkbox"
+						name="system.damaged"
+						{{checked system.damaged}}
+					/>
+					{{localize "FELLOWSHIP.StatSheet.damaged"}}
+				</label>
+			</h3>
+		</div>
+		<div class="form-group-stacked">
+			<h2 class="cell__title">
+				<label class="item-group-label">{{localize
+						"FELLOWSHIP.StatSheet.description"
+					}}</label>
+			</h2>
+			<prose-mirror
+				name="system.description"
+				data-document-u-u-i-d="{{item.uuid}}"
+				value="{{system.description}}"
+				collaborate="true"
+				toggled="true"
+			>
+				{{{enriched.description}}}
+			</prose-mirror>
+		</div>
+	</section>
+</form>
