@@ -313,6 +313,33 @@ export const configSheet = async () => {
                         userLabel: false,
                         position: 'Left',
                     },
+                    isCompanion: {
+                        type: 'Checkbox',
+                        label: null,
+                        checkboxLabel: game.i18n.localize('FELLOWSHIP.NPCSheets.attr.isCompanion'),
+                        description: null,
+                        customLabel: false,
+                        userLabel: false,
+                        position: 'Left',
+                    },
+                    isInDespair: {
+                        type: 'Checkbox',
+                        label: null,
+                        checkboxLabel: game.i18n.localize('FELLOWSHIP.NPCSheets.attr.isInDespair'),
+                        description: null,
+                        customLabel: false,
+                        userLabel: false,
+                        position: 'Left',
+                    },
+                    bonds: {
+                        type: 'Number',
+                        label: game.i18n.localize('FELLOWSHIP.NPCSheets.attr.bonds'),
+                        description: null,
+                        default: 0,
+                        customLabel: false,
+                        userLabel: false,
+                        position: 'Left',
+                    },
                 },
                 details: {
                     biography: {

@@ -21,6 +21,23 @@
 }
 
 /* Playbook */
+.pbta.sheet a.content-link, .pbta.sheet a.inline-roll {
+  background: none;
+  color: #272c33;
+  font-weight: bold;
+  padding: 2px 2px;
+  border: none;
+  border-radius: none;
+}
+.pbta.sheet a.content-link i, .pbta.sheet a.inline-roll i {
+  color: rgba(39, 44, 51, 0.75);
+}
+.pbta.sheet a.content-link:hover, .pbta.sheet a.inline-roll:hover {
+  color: #a6170a;
+}
+.pbta.sheet a.content-link:hover i, .pbta.sheet a.inline-roll:hover i {
+  color: #a6170a;
+}
 .pbta.sheet.npc .cell--bio .editor-content {
   min-height: 170px;
 }
@@ -71,9 +88,8 @@
   margin: 0;
 }
 .pbta.sheet.window-app input:disabled, .pbta.sheet.window-app select:disabled, .pbta.sheet.window-app textarea:disabled {
-  color: #c1c1c1;
+  color: #ebeced;
   background-color: #3f4652;
-  height: 40px;
   padding: 0 8px;
 }
 .pbta.sheet.window-app input, .pbta.sheet.window-app button, .pbta.sheet.window-app select, .pbta.sheet.window-app textarea {
@@ -225,6 +241,20 @@
 .pbta.sheet .cell__radio label.flexrow {
   align-items: start;
   font-weight: normal;
+}
+.pbta.sheet .cell--f-item .companion {
+  margin-bottom: 10px;
+}
+.pbta.sheet .cell--f-item .companion .bond {
+  align-items: center;
+  gap: 10px;
+}
+.pbta.sheet .cell--f-item .companion .bond input[type=text] {
+  max-width: 30px;
+}
+.pbta.sheet .cell--f-item .companion .item-controls {
+  top: 0px;
+  width: unset;
 }
 .pbta.sheet .cell--f-item.cell--companion {
   margin-top: 20px;

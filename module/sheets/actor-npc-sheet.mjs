@@ -41,6 +41,21 @@ export function FellowshipActorNpcSheetMixin(Base) {
           const subtypes = CONFIG.FELLOWSHIP.threats.get(context.actor.system.attributes.threatType.value)
           context.actor.threatSubtypes = subtypes;
         }
+
+        // Enrich text fields.
+        for (let item of context.actor.stats) {
+          const sourceItem = this.actor.items.get(item._id) ?? {};
+          const enrichmentOptions = {
+            secrets: this.actor.isOwner,
+            rollData: sourceItem?.getRollData() ?? {},
+            relativeTo: sourceItem
+          };
+
+          if (item.system?.description) {
+            item.system.description =
+              await TextEditor.enrichHTML(item.system.description, enrichmentOptions);
+          }
+        }
       }
 			return context;
 		}

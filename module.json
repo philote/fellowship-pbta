@@ -59,9 +59,130 @@
   ],
   "packs": [
     {
+      "name": "gear",
+      "label": "Gear",
+      "path": "packs/gear",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "barriers",
+      "label": "Barriers",
+      "path": "packs/barriers",
+      "type": "Actor",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "beasts",
+      "label": "Beasts",
+      "path": "packs/beasts",
+      "type": "Actor",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "innocents",
+      "label": "Innocents",
+      "path": "packs/innocents",
+      "type": "Actor",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "barriers",
+      "label": "Barriers",
+      "path": "packs/barriers",
+      "type": "Actor",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "hordes",
+      "label": "Hordes",
+      "path": "packs/hordes",
+      "type": "Actor",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "machines",
+      "label": "Machines",
+      "path": "packs/machines",
+      "type": "Actor",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "organizations",
+      "label": "Organizations",
+      "path": "packs/organizations",
+      "type": "Actor",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "scourges",
+      "label": "Scourges",
+      "path": "packs/scourges",
+      "type": "Actor",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "titans",
+      "label": "Titans",
+      "path": "packs/titans",
+      "type": "Actor",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
       "name": "basic-moves",
       "label": "Basic Moves",
       "path": "packs/basic-moves",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "other-moves",
+      "label": "Other Moves",
+      "path": "packs/other-moves",
       "type": "Item",
       "system": "pbta",
       "ownership": {
@@ -367,6 +488,20 @@
         "ur-dwarf",
         "warlord",
         "witch"
+      ],
+      "folders": []
+    },
+    {
+      "name": "Threats",
+      "packs": [
+        "barriers",
+        "beasts",
+        "innocents",
+        "hordes",
+        "machines",
+        "organizations",
+        "scourges",
+        "titans"
       ],
       "folders": []
     }

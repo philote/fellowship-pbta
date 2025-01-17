@@ -116,7 +116,7 @@
 		"NPCSheets": {
 			"attr": {
 				"type": {
-					"label": "Type",
+					"label": "TYPE",
 					"options": {
 						"other": "Other",
 						"barrier": "Barrier",
@@ -182,7 +182,11 @@
 				"subtype": "Subtype",
 				"isSecret": "is Secret?",
 				"isSourcePower": "is a Source of Power?",
-                "stats": "STATS"
+                "stats": "STATS",
+                "companion": "Companion",
+				"isCompanion": "Is this a Companion?",
+				"isInDespair": "In Despair",
+				"bonds": "Bonds"
 			},
 			"details": {
 				"description": "Description",

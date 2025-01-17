@@ -1,31 +1,31 @@
 {
-  "name": "Recover",
+  "name": "Rage Against The Machine",
   "type": "move",
-  "_id": "fiqSNfOzHK4j8Ral",
+  "_id": "O02Fh0yPpK2b3Cma",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p><strong>When the fellowship rests in a place of safety for over a week,</strong> heal all of your stats and restock all of your Gear. The Overlord then advances their plans and heals one damage.</p><p>Check to see if have zero bonds with any of your <strong>Companions</strong>. If you do, remove them from your sheet. During this <em>Recovery,</em> you may gain a new Companion with the same abilities, OR get a new Companion from the same Gear option <em>(See your Playbook)</em>.</p>",
-    "moveType": "basic",
+    "description": "<p>A player trying to control the mob rolls +Blood.</p>",
+    "moveType": "",
     "rollFormula": "",
     "moveResults": {
       "failure": {
         "key": "system.moveResults.failure.value",
         "label": "Complications...",
-        "value": ""
+        "value": "<p>You’re the new target of their wrath. Charismatic threats can use a Cut to change the target of a mob’s wrath, but it takes time.</p>"
       },
       "partial": {
         "key": "system.moveResults.partial.value",
         "label": "Partial success.",
-        "value": ""
+        "value": "<p>They change the target of their anger, but the Overlord will tell you what they’re mad at now.</p>"
       },
       "success": {
         "key": "system.moveResults.success.value",
         "label": "Success!",
-        "value": ""
+        "value": "<p>Their anger is now pointed wherever you want it to be.</p>"
       }
     },
     "uses": 0,
-    "rollType": "",
+    "rollType": "blood",
     "rollMod": 0,
     "actorType": "character",
     "choices": ""
@@ -44,9 +44,9 @@
     "coreVersion": "12.331",
     "systemId": "pbta",
     "systemVersion": "1.1.12",
-    "createdTime": 1736309328088,
-    "modifiedTime": 1737097458901,
+    "createdTime": 1737151998983,
+    "modifiedTime": 1737152064025,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
-  "_key": "!items!fiqSNfOzHK4j8Ral"
+  "_key": "!items!O02Fh0yPpK2b3Cma"
 }

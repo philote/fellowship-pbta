@@ -1,3 +1,10 @@
+# Companions
+They are basically NPCs with 
+- Bonds with PCs: 0 bonds = "leave your services"
+- Despair = cant use
+- Companion?
+
+
 # Framework Sheets
 - Overlord
 - The Empire

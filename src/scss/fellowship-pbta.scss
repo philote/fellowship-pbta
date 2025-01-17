@@ -23,7 +23,28 @@
 /* Playbook */
 .pbta.sheet {
 
-    &.npc{
+    a.content-link, a.inline-roll {
+        background: none;
+        color: $c-dark-grey;
+        font-weight: bold;
+        padding: 2px 2px;
+        border: none;
+        border-radius: none;
+
+        i {
+            color: $c-dark-grey-75;
+        }
+
+        &:hover {
+            color: $c-bright-red;
+
+            i {
+                color: $c-bright-red;
+            }
+        }
+    }
+
+    &.npc {
         .cell--bio {
             .editor-content {
                 min-height: 170px;
@@ -93,9 +114,8 @@
     &.window-app input:disabled, 
     &.window-app select:disabled, 
     &.window-app textarea:disabled {
-        color: $c-light-grey2;
+        color: $c-lighter-grey;
         background-color: $c-med-grey;
-        height: 40px;
         padding: 0 8px;
     }
 
@@ -313,6 +333,25 @@
 
     // Companion & Stat cell styles
     .cell--f-item {
+
+        .companion {
+            margin-bottom: 10px;
+
+            .bond {
+                align-items: center;
+                gap: 10px;
+
+                input[type="text"] {
+                    max-width: 30px;   
+                }
+            }
+
+            .item-controls {
+                top: 0px;
+                width: unset;
+            }
+        }
+
         &.cell--companion {
             margin-top: 20px;
             padding-top: 10px;
@@ -323,7 +362,6 @@
             top: 4px;
         }
         
-
         .items-list {
             margin: 0;
             padding: 0;

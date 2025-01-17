@@ -1,7 +1,5 @@
 <form class="{{cssClass}} npc" autocomplete="off">
-
 	<div class="sheet-wrapper">
-
 		<section class="sheet-top flexcol">
 			<section class="sheet-attributes flexrow">
 				<div class="cell cell--image">
@@ -15,7 +13,7 @@
 						value="{{actor.name}}"
 						placeholder="Name"
 					/>
-					<h2><label>THREAT TYPE</label></h2>
+					<h2><label>{{localize "FELLOWSHIP.NPCSheets.attr.type.label"}}</label></h2>
 					<div class="flexrow">
 						<label>
 							<select name="system.attributes.threatType.value">
@@ -77,6 +75,45 @@
 
 		<section class="sheet-bottom flexrow">
 			<section class="sheet-main flexcol cell--f-item">
+				{{!-- <div class="companion">
+					<h2 class="cell__title">
+						<label class="item-group-label">{{localize
+								"FELLOWSHIP.NPCSheets.attr.companion"
+							}}</label>
+						<div class="item-controls">
+							<input
+								type="checkbox"
+								name="system.attributes.isCompanion.value"
+								{{checked system.attributes.isCompanion.value}}
+							/>
+						</div>
+					</h2>
+					{{#if system.attributes.isCompanion.value}}
+					<div class="flexrow">
+						<h3>
+							<label>
+								<input
+									type="checkbox"
+									name="system.attributes.isInDespair.value"
+									{{checked system.attributes.isInDespair.value}}
+								/>
+								{{localize "FELLOWSHIP.NPCSheets.attr.isInDespair"}}
+							</label>
+						</h3>
+						<h3>
+							<label class="flexrow bond">
+								<input
+									type="text"
+									name="system.attributes.bonds.value"
+									value="{{system.attributes.bonds.value}}"
+									data-dtype="Number"
+								/>
+								{{localize "FELLOWSHIP.NPCSheets.attr.bonds"}}
+							</label>
+						</h3>
+					</div>
+					{{/if}}
+				</div> --}}
 				<h2 class="cell__title">
 					<label class="item-group-label">{{localize
 							"FELLOWSHIP.NPCSheets.attr.stats"
@@ -117,9 +154,17 @@
 									/>
 									{{localize "FELLOWSHIP.StatSheet.damaged"}}
 								</label>
-								{{!-- <p>{{{stat.system.description}}}</p> --}}
 								{{log stat}}
 								{{{stat.system.description}}}
+								{{!-- {{editor
+									result.enriched
+									target=(concat "system.details" key "value" join=".")
+									button=true
+									owner=@root.owner
+									editable=@root.editable
+									engine="prosemirror"
+									collaborate=false
+								}} --}}
 							</div>
 						</li>
 					{{/each}}
