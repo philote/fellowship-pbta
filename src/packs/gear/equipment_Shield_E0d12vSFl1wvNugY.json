@@ -1,0 +1,35 @@
+{
+  "folder": null,
+  "name": "Shield",
+  "type": "equipment",
+  "_id": "E0d12vSFl1wvNugY",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "",
+    "uses": 2,
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"FELLOWSHIP.Tags.equipment.Armor.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Armor.description\"},{\"value\":\"FELLOWSHIP.Tags.equipment.Clumsy.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Clumsy.description\"}]",
+    "itemType": "",
+    "equipmentType": "gear",
+    "actorType": "character"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1737155446289,
+    "modifiedTime": 1737155446289,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!E0d12vSFl1wvNugY"
+}

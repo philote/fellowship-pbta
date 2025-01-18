@@ -1,0 +1,35 @@
+{
+  "folder": null,
+  "name": "The leylines of magic",
+  "type": "equipment",
+  "_id": "Ozt3cVLPs3YPEGDq",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>The leylines of magic that hold reality together <em>(2 Uses). You can Use this connection to the leylines</em> to access a sealed location, or seal off an accessible location, bending space to accomodate your need.</p>",
+    "uses": 2,
+    "quantity": 1,
+    "weight": 0,
+    "tags": "",
+    "itemType": "",
+    "equipmentType": "gear",
+    "actorType": "character"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1737155522225,
+    "modifiedTime": 1737155522225,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!Ozt3cVLPs3YPEGDq"
+}

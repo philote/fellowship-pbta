@@ -183,7 +183,7 @@
           "description"
         ],
         "damaged": false,
-        "description": "<p>They will give you a @UUID[Compendium.fellowship-pbta.halfling.Item.3ld4lKM5gnd6CF3l]{Halfling Packed Lunch} (2 uses, Food, each use feeds 3 people) in exchange for something Precious.</p>"
+        "description": "<p>They will give you a @UUID[Compendium.fellowship-pbta.gear.Item.3ld4lKM5gnd6CF3l]{Halfling Packed Lunch} (2 uses, Food, each use feeds 3 people) in exchange for something Precious.</p>"
       },
       "_id": "8iJkp1aSDsBE4Qhi",
       "img": "icons/svg/item-bag.svg",

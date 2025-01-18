@@ -1,0 +1,35 @@
+{
+  "folder": null,
+  "name": "Orcish moonshine",
+  "type": "equipment",
+  "_id": "u05EqEdy3DFS42Oh",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Orcish moonshine <em>(Food for Orcs, Drunk then Vigor, 2 Uses). </em>You may replace its tags with <em>(Ranged, Thrown, Burning).</em></p>",
+    "uses": 2,
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"FELLOWSHIP.Tags.equipment.Vigor.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Vigor.description\"},{\"value\":\"FELLOWSHIP.Tags.equipment.Drunk.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Drunk.description\"}]",
+    "itemType": "",
+    "equipmentType": "gear",
+    "actorType": "character"
+  },
+  "effects": [],
+  "sort": 1000000,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1737155500213,
+    "modifiedTime": 1737155500213,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!u05EqEdy3DFS42Oh"
+}

@@ -492,13 +492,13 @@
         "repeatable": true,
         "choices": [
           {
-            "uuid": "Compendium.fellowship-pbta.halfling.Item.3ld4lKM5gnd6CF3l",
+            "uuid": "Compendium.fellowship-pbta.gear.Item.3ld4lKM5gnd6CF3l",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.halfling.Item.FqBWWG7osfyjWD91",
+            "uuid": "Compendium.fellowship-pbta.gear.Item.FqBWWG7osfyjWD91",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
@@ -515,25 +515,25 @@
         "repeatable": false,
         "choices": [
           {
-            "uuid": "Compendium.fellowship-pbta.halfling.Item.jraDIPQknybnK1F2",
+            "uuid": "Compendium.fellowship-pbta.gear.Item.jraDIPQknybnK1F2",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.halfling.Item.wS7CZ8KSZtJ2mF6t",
+            "uuid": "Compendium.fellowship-pbta.gear.Item.wS7CZ8KSZtJ2mF6t",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.halfling.Item.xaR4gAxqGKrY2NFM",
+            "uuid": "Compendium.fellowship-pbta.gear.Item.5wojxwqIYtz0Q64G",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.halfling.Item.R5qslBbirN47wmzt",
+            "uuid": "Compendium.fellowship-pbta.gear.Item.R5qslBbirN47wmzt",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
@@ -550,61 +550,19 @@
         "repeatable": false,
         "choices": [
           {
-            "uuid": "Compendium.fellowship-pbta.halfling.Item.ltebyq5S2wXwPAvH",
+            "uuid": "Compendium.fellowship-pbta.gear.Item.hkm00YKy1Z5ZEGbV",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.halfling.Item.zYkjAK8cJAwY86QF",
+            "uuid": "Compendium.fellowship-pbta.gear.Item.GOwwI48vTMWK75Up",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.halfling.Item.nHqMRvdYRuvJqgUx",
-            "img": "icons/svg/item-bag.svg",
-            "granted": false,
-            "advancement": 0
-          },
-          {
-            "uuid": "Compendium.fellowship-pbta.halfling.Item.jbVsGTXSmM89z7Mf",
-            "img": "icons/svg/item-bag.svg",
-            "granted": false,
-            "advancement": 0
-          },
-          {
-            "uuid": "Compendium.fellowship-pbta.halfling.Item.hkm00YKy1Z5ZEGbV",
-            "img": "icons/svg/item-bag.svg",
-            "granted": false,
-            "advancement": 0
-          },
-          {
-            "uuid": "Compendium.fellowship-pbta.halfling.Item.JmpnHfSTmyzdDzs5",
-            "img": "icons/svg/item-bag.svg",
-            "granted": false,
-            "advancement": 0
-          },
-          {
-            "uuid": "Compendium.fellowship-pbta.halfling.Item.i7ccCBMrRLpxihlO",
-            "img": "icons/svg/item-bag.svg",
-            "granted": false,
-            "advancement": 0
-          },
-          {
-            "uuid": "Compendium.fellowship-pbta.halfling.Item.GOwwI48vTMWK75Up",
-            "img": "icons/svg/item-bag.svg",
-            "granted": false,
-            "advancement": 0
-          },
-          {
-            "uuid": "Compendium.fellowship-pbta.halfling.Item.7J4UlS1AmAUxXagq",
-            "img": "icons/svg/item-bag.svg",
-            "granted": false,
-            "advancement": 0
-          },
-          {
-            "uuid": "Compendium.fellowship-pbta.halfling.Item.w7Xb6DyJ18Cf61Ua",
+            "uuid": "Compendium.fellowship-pbta.gear.Item.7J4UlS1AmAUxXagq",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
@@ -621,25 +579,25 @@
         "repeatable": false,
         "choices": [
           {
-            "uuid": "Compendium.fellowship-pbta.halfling.Item.6X71Vl6iA0DmPQvI",
+            "uuid": "Compendium.fellowship-pbta.gear.Item.6X71Vl6iA0DmPQvI",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.halfling.Item.3ld4lKM5gnd6CF3l",
+            "uuid": "Compendium.fellowship-pbta.gear.Item.3ld4lKM5gnd6CF3l",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.halfling.Item.hkm00YKy1Z5ZEGbV",
+            "uuid": "Compendium.fellowship-pbta.gear.Item.hkm00YKy1Z5ZEGbV",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.halfling.Item.7J4UlS1AmAUxXagq",
+            "uuid": "Compendium.fellowship-pbta.gear.Item.7J4UlS1AmAUxXagq",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
@@ -656,19 +614,19 @@
         "repeatable": false,
         "choices": [
           {
-            "uuid": "Compendium.fellowship-pbta.halfling.Item.DP0lzMOst4rMbytP",
+            "uuid": "Compendium.fellowship-pbta.gear.Item.DP0lzMOst4rMbytP",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.halfling.Item.YJ1VOX2DQP8Knjk3",
+            "uuid": "Compendium.fellowship-pbta.gear.Item.YJ1VOX2DQP8Knjk3",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.halfling.Item.NY0JeD75FrwrgK8T",
+            "uuid": "Compendium.fellowship-pbta.gear.Item.NY0JeD75FrwrgK8T",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
@@ -693,7 +651,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1736283683500,
-    "modifiedTime": 1736885653487,
+    "modifiedTime": 1737156473933,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_id": "xgq8oeOoFQXWovUJ",

@@ -405,7 +405,8 @@
       {
         "title": "HEIR'S CORE",
         "desc": "The Heir has these moves.",
-        "type": "multi",
+        "grantOn": 0,
+        "advancement": 0,
         "repeatable": true,
         "choices": [
           {
@@ -421,14 +422,14 @@
             "advancement": 0
           }
         ],
-        "grantOn": 0,
-        "granted": false,
-        "advancement": 0
+        "type": "multi",
+        "granted": false
       },
       {
         "title": "HEIR'S CUSTOM",
         "desc": "Choose two of these moves to further define what it means to be the Heir.",
-        "type": "multi",
+        "grantOn": 1,
+        "advancement": 0,
         "repeatable": true,
         "choices": [
           {
@@ -480,144 +481,113 @@
             "advancement": 0
           }
         ],
-        "grantOn": 1,
-        "granted": false,
-        "advancement": 0
+        "type": "multi",
+        "granted": false
       },
       {
         "title": "Starting gear",
         "desc": "",
-        "type": "multi",
+        "grantOn": 0,
+        "advancement": 0,
         "repeatable": true,
         "choices": [
           {
-            "uuid": "Compendium.fellowship-pbta.heir.Item.yo8SX9rl4wL59Y2A",
+            "uuid": "Compendium.fellowship-pbta.gear.Item.yo8SX9rl4wL59Y2A",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.heir.Item.s34AnEZY8xKDF2uW",
+            "uuid": "Compendium.fellowship-pbta.gear.Item.s34AnEZY8xKDF2uW",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.heir.Item.5wojxwqIYtz0Q64G",
+            "uuid": "Compendium.fellowship-pbta.gear.Item.5wojxwqIYtz0Q64G",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.heir.Item.mlhFSvwi4KKGNGxG",
-            "img": "icons/svg/item-bag.svg",
-            "granted": false,
-            "advancement": 0
-          },
-          {
-            "uuid": "Compendium.fellowship-pbta.heir.Item.6EYYjCgBJLsgeqwZ",
+            "uuid": "Compendium.fellowship-pbta.gear.Item.mlhFSvwi4KKGNGxG",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
           }
         ],
-        "grantOn": 0,
-        "granted": false,
-        "advancement": 0
+        "type": "multi",
+        "granted": false
       },
       {
         "title": "Choose your protection:",
         "desc": "Choose one group: Sword & Armor, Bow-rifle-knives, Choose Two [advisor, bodyguard, servant, sibling],  Arrow Trap",
-        "type": "multi",
+        "grantOn": 1,
+        "advancement": 0,
         "repeatable": false,
         "choices": [
           {
-            "uuid": "Compendium.fellowship-pbta.heir.Item.vRFYvb8VG8BnPXGI",
+            "uuid": "Compendium.fellowship-pbta.gear.Item.b5VSjd1HSQ0DyE09",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.heir.Item.3Il8HdhGKdXpId0L",
+            "uuid": "Compendium.fellowship-pbta.gear.Item.6F3oLTVzHwpWSE91",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.heir.Item.gt035AvesxHTI9jh",
+            "uuid": "Compendium.fellowship-pbta.gear.Item.pjXo5o1NoxbivYpQ",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.heir.Item.6F3oLTVzHwpWSE91",
-            "img": "icons/svg/item-bag.svg",
-            "granted": false,
-            "advancement": 0
-          },
-          {
-            "uuid": "Compendium.fellowship-pbta.heir.Item.pjXo5o1NoxbivYpQ",
-            "img": "icons/svg/item-bag.svg",
-            "granted": false,
-            "advancement": 0
-          },
-          {
-            "uuid": "Compendium.fellowship-pbta.heir.Item.itwzK4mWEhXY95iG",
-            "img": "icons/svg/item-bag.svg",
-            "granted": false,
-            "advancement": 0
-          },
-          {
-            "uuid": "Compendium.fellowship-pbta.heir.Item.O5p1ZaLKFzYDL51F",
-            "img": "icons/svg/item-bag.svg",
-            "granted": false,
-            "advancement": 0
-          },
-          {
-            "uuid": "Compendium.fellowship-pbta.heir.Item.oMvPC5JZkYMmkecS",
+            "uuid": "Compendium.fellowship-pbta.gear.Item.itwzK4mWEhXY95iG",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
           }
         ],
-        "grantOn": 1,
-        "granted": false,
-        "advancement": 0
+        "type": "multi",
+        "granted": false
       },
       {
         "title": "Choose the one thing you brought excessive amounts of:",
         "desc": "Food and Drink go together.",
-        "type": "multi",
+        "grantOn": 1,
+        "advancement": 0,
         "repeatable": false,
         "choices": [
           {
-            "uuid": "Compendium.fellowship-pbta.heir.Item.QunJrQJxotrAEiSb",
+            "uuid": "Compendium.fellowship-pbta.gear.Item.QunJrQJxotrAEiSb",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.heir.Item.LR92SUNukOVpl7Ha",
+            "uuid": "Compendium.fellowship-pbta.gear.Item.LR92SUNukOVpl7Ha",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.heir.Item.Fp8O6GeGMtGz4dIP",
+            "uuid": "Compendium.fellowship-pbta.gear.Item.Fp8O6GeGMtGz4dIP",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.heir.Item.Mgouaa92KuxxmQbw",
+            "uuid": "Compendium.fellowship-pbta.gear.Item.Mgouaa92KuxxmQbw",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
           }
         ],
-        "grantOn": 1,
-        "granted": false,
-        "advancement": 0
+        "type": "multi",
+        "granted": false
       }
     ]
   },
@@ -635,7 +605,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1736283676179,
-    "modifiedTime": 1736887565101,
+    "modifiedTime": 1737156488031,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_id": "M5L8oqjoe1CxsC8f",

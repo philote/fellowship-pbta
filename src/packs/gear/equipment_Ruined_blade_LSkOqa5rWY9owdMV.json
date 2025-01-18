@@ -1,0 +1,35 @@
+{
+  "folder": null,
+  "name": "Ruined blade",
+  "type": "equipment",
+  "_id": "LSkOqa5rWY9owdMV",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<h3>You carry a ruined blade <em>(Melee). </em><strong>Choose its enchantment:</strong></h3><ul><li>It cuts through anything <em>(Piercing).</em></li><li>Its wounds do not heal <em>(Necrotic).</em></li><li>It blazes with fire <em>(Burning).</em></li><li>It is incredibly powerful and unsafe to use <em>(Dangerous).</em></li></ul>",
+    "uses": 0,
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"FELLOWSHIP.Tags.equipment.Melee.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Melee.description\"}]",
+    "itemType": "",
+    "equipmentType": "gear",
+    "actorType": "character"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1737155522225,
+    "modifiedTime": 1737155522225,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!LSkOqa5rWY9owdMV"
+}

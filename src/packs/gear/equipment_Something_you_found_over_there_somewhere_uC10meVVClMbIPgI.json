@@ -1,0 +1,35 @@
+{
+  "folder": null,
+  "name": "Something you found over there somewhere",
+  "type": "equipment",
+  "_id": "uC10meVVClMbIPgI",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "",
+    "uses": 2,
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"FELLOWSHIP.Tags.equipment.Useful.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Useful.description\"}]",
+    "itemType": "",
+    "equipmentType": "gear",
+    "actorType": "character"
+  },
+  "effects": [],
+  "sort": 1100000,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1737155500213,
+    "modifiedTime": 1737158897520,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!uC10meVVClMbIPgI"
+}

@@ -1,0 +1,35 @@
+{
+  "folder": null,
+  "name": "Strong as an ox",
+  "type": "equipment",
+  "_id": "sWh9sKkxxk1rD61M",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Strong as an ox <em>(2 Uses). </em>Use this to smash through a wall or door.</p>",
+    "uses": 2,
+    "quantity": 1,
+    "weight": 0,
+    "tags": "",
+    "itemType": "",
+    "equipmentType": "gear",
+    "actorType": "character"
+  },
+  "effects": [],
+  "sort": 900000,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1737155500213,
+    "modifiedTime": 1737155500213,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!sWh9sKkxxk1rD61M"
+}

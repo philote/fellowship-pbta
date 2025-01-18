@@ -1,0 +1,35 @@
+{
+  "folder": null,
+  "name": "A friend in need",
+  "type": "equipment",
+  "_id": "QR7m7GywtyGzu6ZX",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>A friend in need <em>(1 Use). </em>Use this to have someone helpful show up, right now.</p>",
+    "uses": 1,
+    "quantity": 1,
+    "weight": 0,
+    "tags": "",
+    "itemType": "",
+    "equipmentType": "gear",
+    "actorType": "character"
+  },
+  "effects": [],
+  "sort": 600000,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1737155467580,
+    "modifiedTime": 1737155467580,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!QR7m7GywtyGzu6ZX"
+}

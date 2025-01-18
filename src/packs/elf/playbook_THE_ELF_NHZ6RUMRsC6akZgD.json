@@ -492,13 +492,13 @@
         "repeatable": true,
         "choices": [
           {
-            "uuid": "Compendium.fellowship-pbta.elf.Item.rEBeY6gpe7x806Xw",
+            "uuid": "Compendium.fellowship-pbta.gear.Item.rEBeY6gpe7x806Xw",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.elf.Item.MoaO3M3MjPEi7I4p",
+            "uuid": "Compendium.fellowship-pbta.gear.Item.MoaO3M3MjPEi7I4p",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
@@ -515,31 +515,19 @@
         "repeatable": false,
         "choices": [
           {
-            "uuid": "Compendium.fellowship-pbta.elf.Item.obBFqLR9uVEIpE5A",
+            "uuid": "Compendium.fellowship-pbta.gear.Item.obBFqLR9uVEIpE5A",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.elf.Item.b5VSjd1HSQ0DyE09",
+            "uuid": "Compendium.fellowship-pbta.gear.Item.b5VSjd1HSQ0DyE09",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.elf.Item.020qbCMSV0vM1Xby",
-            "img": "icons/svg/item-bag.svg",
-            "granted": false,
-            "advancement": 0
-          },
-          {
-            "uuid": "Compendium.fellowship-pbta.elf.Item.M12wIc7zsH1AG4ah",
-            "img": "icons/svg/item-bag.svg",
-            "granted": false,
-            "advancement": 0
-          },
-          {
-            "uuid": "Compendium.fellowship-pbta.elf.Item.9XjBCzkFEMDatHe4",
+            "uuid": "Compendium.fellowship-pbta.gear.Item.M12wIc7zsH1AG4ah",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
@@ -556,37 +544,7 @@
         "repeatable": false,
         "choices": [
           {
-            "uuid": "Compendium.fellowship-pbta.elf.Item.uJ59aiMJhiIIZ6d7",
-            "img": "icons/svg/item-bag.svg",
-            "granted": false,
-            "advancement": 0
-          },
-          {
-            "uuid": "Compendium.fellowship-pbta.elf.Item.uk6vyQFST9Cc6lVB",
-            "img": "icons/svg/item-bag.svg",
-            "granted": false,
-            "advancement": 0
-          },
-          {
-            "uuid": "Compendium.fellowship-pbta.elf.Item.nTDd2LuGVdrKc0MT",
-            "img": "icons/svg/item-bag.svg",
-            "granted": false,
-            "advancement": 0
-          },
-          {
-            "uuid": "Compendium.fellowship-pbta.elf.Item.yRzpMMHbJ5q9sxw0",
-            "img": "icons/svg/item-bag.svg",
-            "granted": false,
-            "advancement": 0
-          },
-          {
-            "uuid": "Compendium.fellowship-pbta.elf.Item.12ljXBpwchuoJj6v",
-            "img": "icons/svg/item-bag.svg",
-            "granted": false,
-            "advancement": 0
-          },
-          {
-            "uuid": "Compendium.fellowship-pbta.elf.Item.nu3jfrsZbxzggeMu",
+            "uuid": "Compendium.fellowship-pbta.gear.Item.6X71Vl6iA0DmPQvI",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
@@ -603,43 +561,13 @@
         "repeatable": false,
         "choices": [
           {
-            "uuid": "Compendium.fellowship-pbta.elf.Item.CJr33CYxHj8ryjc9",
+            "uuid": "Compendium.fellowship-pbta.gear.Item.CJr33CYxHj8ryjc9",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.elf.Item.uk6vyQFST9Cc6lVB",
-            "img": "icons/svg/item-bag.svg",
-            "granted": false,
-            "advancement": 0
-          },
-          {
-            "uuid": "Compendium.fellowship-pbta.elf.Item.nTDd2LuGVdrKc0MT",
-            "img": "icons/svg/item-bag.svg",
-            "granted": false,
-            "advancement": 0
-          },
-          {
-            "uuid": "Compendium.fellowship-pbta.elf.Item.yRzpMMHbJ5q9sxw0",
-            "img": "icons/svg/item-bag.svg",
-            "granted": false,
-            "advancement": 0
-          },
-          {
-            "uuid": "Compendium.fellowship-pbta.elf.Item.T9eY8EG5xBWKh6Oo",
-            "img": "icons/svg/item-bag.svg",
-            "granted": false,
-            "advancement": 0
-          },
-          {
-            "uuid": "Compendium.fellowship-pbta.elf.Item.020qbCMSV0vM1Xby",
-            "img": "icons/svg/item-bag.svg",
-            "granted": false,
-            "advancement": 0
-          },
-          {
-            "uuid": "Compendium.fellowship-pbta.elf.Item.9XjBCzkFEMDatHe4",
+            "uuid": "Compendium.fellowship-pbta.gear.Item.T9eY8EG5xBWKh6Oo",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
@@ -656,19 +584,19 @@
         "repeatable": false,
         "choices": [
           {
-            "uuid": "Compendium.fellowship-pbta.elf.Item.07GyqeXJyhqa1fj3",
+            "uuid": "Compendium.fellowship-pbta.gear.Item.07GyqeXJyhqa1fj3",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.elf.Item.tp3PjVDhDge0BQHQ",
+            "uuid": "Compendium.fellowship-pbta.gear.Item.tp3PjVDhDge0BQHQ",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.elf.Item.CgDTCgJPchlmTzgV",
+            "uuid": "Compendium.fellowship-pbta.gear.Item.CgDTCgJPchlmTzgV",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
@@ -693,7 +621,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1736283654382,
-    "modifiedTime": 1736884814340,
+    "modifiedTime": 1737156467106,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_id": "NHZ6RUMRsC6akZgD",

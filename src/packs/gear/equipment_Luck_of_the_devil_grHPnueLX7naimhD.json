@@ -1,0 +1,35 @@
+{
+  "folder": null,
+  "name": "Luck of the devil",
+  "type": "equipment",
+  "_id": "grHPnueLX7naimhD",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Luck of the devil <em>(1 Use). </em>Use this to completely escape harm unscathed.</p>",
+    "uses": 1,
+    "quantity": 1,
+    "weight": 0,
+    "tags": "",
+    "itemType": "",
+    "equipmentType": "gear",
+    "actorType": "character"
+  },
+  "effects": [],
+  "sort": 1300000,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1737155467580,
+    "modifiedTime": 1737155467580,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!grHPnueLX7naimhD"
+}
