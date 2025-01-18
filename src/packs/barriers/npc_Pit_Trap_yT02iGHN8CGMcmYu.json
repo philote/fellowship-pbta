@@ -1,0 +1,262 @@
+{
+  "name": "Pit Trap",
+  "type": "npc",
+  "_id": "yT02iGHN8CGMcmYu",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "stats": {},
+    "attributes": {
+      "threatType": {
+        "type": "Text",
+        "label": "TYPE",
+        "description": null,
+        "customLabel": false,
+        "userLabel": false,
+        "position": "Top",
+        "value": "Barrier"
+      },
+      "threatSubtype": {
+        "type": "Text",
+        "label": "Subtype",
+        "description": null,
+        "customLabel": false,
+        "userLabel": false,
+        "position": "Top",
+        "value": "Trap"
+      },
+      "isSourcePower": {
+        "type": "Checkbox",
+        "label": null,
+        "checkboxLabel": "is a Source of Power?",
+        "description": null,
+        "customLabel": false,
+        "userLabel": false,
+        "position": "Left",
+        "value": false
+      },
+      "isSecret": {
+        "type": "Checkbox",
+        "label": null,
+        "checkboxLabel": "is Secret?",
+        "description": null,
+        "customLabel": false,
+        "userLabel": false,
+        "position": "Left",
+        "value": true
+      },
+      "isCompanion": {
+        "type": "Checkbox",
+        "label": null,
+        "checkboxLabel": "Is this a Companion?",
+        "description": null,
+        "customLabel": false,
+        "userLabel": false,
+        "position": "Left"
+      },
+      "isInDespair": {
+        "type": "Checkbox",
+        "label": null,
+        "checkboxLabel": "In Despair",
+        "description": null,
+        "customLabel": false,
+        "userLabel": false,
+        "position": "Left"
+      },
+      "bonds": {
+        "type": "Number",
+        "label": "Bonds",
+        "description": null,
+        "default": 0,
+        "customLabel": false,
+        "userLabel": false,
+        "position": "Left"
+      }
+    },
+    "attrLeft": {},
+    "attrTop": {},
+    "details": {
+      "biography": {
+        "label": "Description",
+        "value": "<p>The ground is suddenly not ground, and that sucks. </p><p>This threat is <strong>Secret</strong>.</p>"
+      },
+      "notes": {
+        "label": "Notes",
+        "value": ""
+      }
+    },
+    "tags": ""
+  },
+  "prototypeToken": {
+    "name": "Pit Trap",
+    "displayName": 0,
+    "actorLink": false,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "hexagonalShape": 0,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "flags": {},
+    "randomImg": false
+  },
+  "items": [
+    {
+      "name": "Hidden Trap",
+      "type": "fellowship-pbta.stat",
+      "system": {
+        "htmlFields": [
+          "description"
+        ],
+        "damaged": false,
+        "description": "<p>When a player has to pay a price, the Overlord can instead damage this stat to put them into the pit. The trap is no longer Secret.</p>"
+      },
+      "_id": "7rP5VT5L8kAifUeF",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "UuXSPD7DIN5UiO1L": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pbta",
+        "systemVersion": "1.1.12",
+        "createdTime": 1737172029600,
+        "modifiedTime": 1737172050646,
+        "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+      },
+      "_key": "!actors.items!yT02iGHN8CGMcmYu.7rP5VT5L8kAifUeF"
+    },
+    {
+      "name": "Long Way Down",
+      "type": "fellowship-pbta.stat",
+      "system": {
+        "htmlFields": [
+          "description"
+        ],
+        "damaged": false,
+        "description": "<p>Falling in or being knocked into the pit deals 1 damage to anyone who can't slow their fall somehow.</p>"
+      },
+      "_id": "xJI09h3rh6mjnAf9",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "UuXSPD7DIN5UiO1L": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pbta",
+        "systemVersion": "1.1.12",
+        "createdTime": 1737172058649,
+        "modifiedTime": 1737172069082,
+        "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+      },
+      "_key": "!actors.items!yT02iGHN8CGMcmYu.xJI09h3rh6mjnAf9"
+    }
+  ],
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1737172010772,
+    "modifiedTime": 1737172028433,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!actors!yT02iGHN8CGMcmYu"
+}

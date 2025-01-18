@@ -103,17 +103,6 @@
       }
     },
     {
-      "name": "barriers",
-      "label": "Barriers",
-      "path": "packs/barriers",
-      "type": "Actor",
-      "system": "pbta",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
       "name": "hordes",
       "label": "Hordes",
       "path": "packs/hordes",
@@ -161,6 +150,17 @@
       "name": "titans",
       "label": "Titans",
       "path": "packs/titans",
+      "type": "Actor",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "elite",
+      "label": "The Overlord's Elite",
+      "path": "packs/elite",
       "type": "Actor",
       "system": "pbta",
       "ownership": {
@@ -501,7 +501,8 @@
         "machines",
         "organizations",
         "scourges",
-        "titans"
+        "titans",
+        "elite"
       ],
       "folders": []
     }

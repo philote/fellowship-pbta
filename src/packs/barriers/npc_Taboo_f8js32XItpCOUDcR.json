@@ -1,0 +1,230 @@
+{
+  "name": "Taboo",
+  "type": "npc",
+  "_id": "f8js32XItpCOUDcR",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "stats": {},
+    "attributes": {
+      "threatType": {
+        "type": "Text",
+        "label": "TYPE",
+        "description": null,
+        "customLabel": false,
+        "userLabel": false,
+        "position": "Top",
+        "value": "Barrier"
+      },
+      "threatSubtype": {
+        "type": "Text",
+        "label": "Subtype",
+        "description": null,
+        "customLabel": false,
+        "userLabel": false,
+        "position": "Top",
+        "value": "Zone"
+      },
+      "isSourcePower": {
+        "type": "Checkbox",
+        "label": null,
+        "checkboxLabel": "is a Source of Power?",
+        "description": null,
+        "customLabel": false,
+        "userLabel": false,
+        "position": "Left",
+        "value": false
+      },
+      "isSecret": {
+        "type": "Checkbox",
+        "label": null,
+        "checkboxLabel": "is Secret?",
+        "description": null,
+        "customLabel": false,
+        "userLabel": false,
+        "position": "Left",
+        "value": false
+      },
+      "isCompanion": {
+        "type": "Checkbox",
+        "label": null,
+        "checkboxLabel": "Is this a Companion?",
+        "description": null,
+        "customLabel": false,
+        "userLabel": false,
+        "position": "Left"
+      },
+      "isInDespair": {
+        "type": "Checkbox",
+        "label": null,
+        "checkboxLabel": "In Despair",
+        "description": null,
+        "customLabel": false,
+        "userLabel": false,
+        "position": "Left"
+      },
+      "bonds": {
+        "type": "Number",
+        "label": "Bonds",
+        "description": null,
+        "default": 0,
+        "customLabel": false,
+        "userLabel": false,
+        "position": "Left"
+      }
+    },
+    "attrLeft": {},
+    "attrTop": {},
+    "details": {
+      "biography": {
+        "label": "Description",
+        "value": "<p>“Do no harm,” the sigil says. Heed this warning.</p>"
+      },
+      "notes": {
+        "label": "Notes",
+        "value": ""
+      }
+    },
+    "tags": ""
+  },
+  "prototypeToken": {
+    "name": "Taboo",
+    "displayName": 0,
+    "actorLink": false,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "hexagonalShape": 0,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "flags": {},
+    "randomImg": false
+  },
+  "items": [
+    {
+      "name": "Do No Harm",
+      "type": "fellowship-pbta.stat",
+      "system": {
+        "htmlFields": [
+          "description"
+        ],
+        "damaged": false,
+        "description": "<p>This place is under a spell of protection. The trigger will be labeled all throughout the area - “Do No Harm” and “Do Not Enter” are popular ones, but the command can be anything. Anyone who breaks the taboo will be punished immediately.</p><p>The punishment can come in many forms, but once it is revealed, it must be consistent. If breaking the taboo summons a golem, it will always summon a golem, no matter who breaks it. Common punishments are immediate damage, immediate banishment (either from the zone or into a holding area elsewhere), or summoning monsters to attack the transgressor. Golems, undead, and demons are the most common defenders of a taboo.</p><p>The Taboo will always have a source somewhere around the center of its area. A spell scroll or magic crystal is common. If this source is destroyed or taken away from its place, damage this stat, and the taboo ends.</p>"
+      },
+      "_id": "d3pm5sis7X1ynVQG",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "UuXSPD7DIN5UiO1L": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pbta",
+        "systemVersion": "1.1.12",
+        "createdTime": 1737172491799,
+        "modifiedTime": 1737172504515,
+        "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+      },
+      "_key": "!actors.items!f8js32XItpCOUDcR.d3pm5sis7X1ynVQG"
+    }
+  ],
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1737172449001,
+    "modifiedTime": 1737172486564,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!actors!f8js32XItpCOUDcR"
+}

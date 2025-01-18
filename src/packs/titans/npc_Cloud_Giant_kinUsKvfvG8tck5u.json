@@ -1,0 +1,262 @@
+{
+  "name": "Cloud Giant",
+  "type": "npc",
+  "_id": "kinUsKvfvG8tck5u",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "stats": {},
+    "attributes": {
+      "threatType": {
+        "type": "Text",
+        "label": "TYPE",
+        "description": null,
+        "customLabel": false,
+        "userLabel": false,
+        "position": "Top",
+        "value": "Titan"
+      },
+      "threatSubtype": {
+        "type": "Text",
+        "label": "Subtype",
+        "description": null,
+        "customLabel": false,
+        "userLabel": false,
+        "position": "Top",
+        "value": "Monster"
+      },
+      "isSourcePower": {
+        "type": "Checkbox",
+        "label": null,
+        "checkboxLabel": "is a Source of Power?",
+        "description": null,
+        "customLabel": false,
+        "userLabel": false,
+        "position": "Left",
+        "value": false
+      },
+      "isSecret": {
+        "type": "Checkbox",
+        "label": null,
+        "checkboxLabel": "is Secret?",
+        "description": null,
+        "customLabel": false,
+        "userLabel": false,
+        "position": "Left",
+        "value": false
+      },
+      "isCompanion": {
+        "type": "Checkbox",
+        "label": null,
+        "checkboxLabel": "Is this a Companion?",
+        "description": null,
+        "customLabel": false,
+        "userLabel": false,
+        "position": "Left"
+      },
+      "isInDespair": {
+        "type": "Checkbox",
+        "label": null,
+        "checkboxLabel": "In Despair",
+        "description": null,
+        "customLabel": false,
+        "userLabel": false,
+        "position": "Left"
+      },
+      "bonds": {
+        "type": "Number",
+        "label": "Bonds",
+        "description": null,
+        "default": 0,
+        "customLabel": false,
+        "userLabel": false,
+        "position": "Left"
+      }
+    },
+    "attrLeft": {},
+    "attrTop": {},
+    "details": {
+      "biography": {
+        "label": "Description",
+        "value": "<p>These warriors are 3 or 4 times as tall as the average elf or human. Cloud Giants can walk along the sky and run across the wind, but they lack some of the durability of other giants.</p>"
+      },
+      "notes": {
+        "label": "Notes",
+        "value": ""
+      }
+    },
+    "tags": ""
+  },
+  "prototypeToken": {
+    "name": "Cloud Giant",
+    "displayName": 0,
+    "actorLink": false,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "hexagonalShape": 0,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "flags": {},
+    "randomImg": false
+  },
+  "items": [
+    {
+      "name": "Windrunner",
+      "type": "fellowship-pbta.stat",
+      "system": {
+        "htmlFields": [
+          "description"
+        ],
+        "damaged": false,
+        "description": "<p>Cloud Giants can fly, and their attacks send enemies flying along the wind. Cloud Giants will never go in-doors if they can help it.</p>"
+      },
+      "_id": "g7zHLpPK72F6uhDP",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "UuXSPD7DIN5UiO1L": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pbta",
+        "systemVersion": "1.1.12",
+        "createdTime": 1737179272968,
+        "modifiedTime": 1737179281827,
+        "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+      },
+      "_key": "!actors.items!kinUsKvfvG8tck5u.g7zHLpPK72F6uhDP"
+    },
+    {
+      "name": "Like Flies",
+      "type": "fellowship-pbta.stat",
+      "system": {
+        "htmlFields": [
+          "description"
+        ],
+        "damaged": false,
+        "description": "<p>Anyone who fails a roll or pays a price while on top of a Cloud Giant is swatted off, in addition to the usual consequences.</p>"
+      },
+      "_id": "1TxnumJzXo6PolEq",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "UuXSPD7DIN5UiO1L": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pbta",
+        "systemVersion": "1.1.12",
+        "createdTime": 1737179288814,
+        "modifiedTime": 1737179299523,
+        "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+      },
+      "_key": "!actors.items!kinUsKvfvG8tck5u.1TxnumJzXo6PolEq"
+    }
+  ],
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1737179258524,
+    "modifiedTime": 1737179325758,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!actors!kinUsKvfvG8tck5u"
+}

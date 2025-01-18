@@ -1,0 +1,262 @@
+{
+  "name": "Corruption",
+  "type": "npc",
+  "_id": "fBPjURLXb0hDDpCX",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "stats": {},
+    "attributes": {
+      "threatType": {
+        "type": "Text",
+        "label": "TYPE",
+        "description": null,
+        "customLabel": false,
+        "userLabel": false,
+        "position": "Top",
+        "value": "Scourge"
+      },
+      "threatSubtype": {
+        "type": "Text",
+        "label": "Subtype",
+        "description": null,
+        "customLabel": false,
+        "userLabel": false,
+        "position": "Top",
+        "value": "Aberration"
+      },
+      "isSourcePower": {
+        "type": "Checkbox",
+        "label": null,
+        "checkboxLabel": "is a Source of Power?",
+        "description": null,
+        "customLabel": false,
+        "userLabel": false,
+        "position": "Left",
+        "value": false
+      },
+      "isSecret": {
+        "type": "Checkbox",
+        "label": null,
+        "checkboxLabel": "is Secret?",
+        "description": null,
+        "customLabel": false,
+        "userLabel": false,
+        "position": "Left",
+        "value": false
+      },
+      "isCompanion": {
+        "type": "Checkbox",
+        "label": null,
+        "checkboxLabel": "Is this a Companion?",
+        "description": null,
+        "customLabel": false,
+        "userLabel": false,
+        "position": "Left"
+      },
+      "isInDespair": {
+        "type": "Checkbox",
+        "label": null,
+        "checkboxLabel": "In Despair",
+        "description": null,
+        "customLabel": false,
+        "userLabel": false,
+        "position": "Left"
+      },
+      "bonds": {
+        "type": "Number",
+        "label": "Bonds",
+        "description": null,
+        "default": 0,
+        "customLabel": false,
+        "userLabel": false,
+        "position": "Left"
+      }
+    },
+    "attrLeft": {},
+    "attrTop": {},
+    "details": {
+      "biography": {
+        "label": "Description",
+        "value": "<p>A spreading blight. This is an environmental threat that slowly grows, and it is a visual representation of the Overlord's influence.</p>"
+      },
+      "notes": {
+        "label": "Notes",
+        "value": ""
+      }
+    },
+    "tags": ""
+  },
+  "prototypeToken": {
+    "name": "Corruption",
+    "displayName": 0,
+    "actorLink": false,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "hexagonalShape": 0,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "flags": {},
+    "randomImg": false
+  },
+  "items": [
+    {
+      "name": "Corrosive Field",
+      "type": "fellowship-pbta.stat",
+      "system": {
+        "htmlFields": [
+          "description"
+        ],
+        "damaged": false,
+        "description": "<p>Anything that enters the Corruption that isn't part of The Scourge must <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.DcDqpZeXbttwDdUR]{pay a price}</em>.</p>"
+      },
+      "_id": "n8I1ytDgOanPfC9O",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "UuXSPD7DIN5UiO1L": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pbta",
+        "systemVersion": "1.1.12",
+        "createdTime": 1737178360615,
+        "modifiedTime": 1737178376625,
+        "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+      },
+      "_key": "!actors.items!fBPjURLXb0hDDpCX.n8I1ytDgOanPfC9O"
+    },
+    {
+      "name": "Long Term Problem",
+      "type": "fellowship-pbta.stat",
+      "system": {
+        "htmlFields": [
+          "description"
+        ],
+        "damaged": false,
+        "description": "<p>The spread of Corruption can be held off by containing or damaging it, perhaps with fire or thick barricades of sand or stone, but it cannot be stopped permanently without stopping The Overlord.</p>"
+      },
+      "_id": "1yIwgbl45UDZtIac",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "UuXSPD7DIN5UiO1L": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pbta",
+        "systemVersion": "1.1.12",
+        "createdTime": 1737178378617,
+        "modifiedTime": 1737178390352,
+        "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+      },
+      "_key": "!actors.items!fBPjURLXb0hDDpCX.1yIwgbl45UDZtIac"
+    }
+  ],
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1737178333814,
+    "modifiedTime": 1737178352305,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!actors!fBPjURLXb0hDDpCX"
+}

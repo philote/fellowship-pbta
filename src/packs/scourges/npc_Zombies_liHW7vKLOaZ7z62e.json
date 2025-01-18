@@ -1,0 +1,262 @@
+{
+  "name": "Zombies",
+  "type": "npc",
+  "_id": "liHW7vKLOaZ7z62e",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "stats": {},
+    "attributes": {
+      "threatType": {
+        "type": "Text",
+        "label": "TYPE",
+        "description": null,
+        "customLabel": false,
+        "userLabel": false,
+        "position": "Top",
+        "value": "Scourge"
+      },
+      "threatSubtype": {
+        "type": "Text",
+        "label": "Subtype",
+        "description": null,
+        "customLabel": false,
+        "userLabel": false,
+        "position": "Top",
+        "value": "Undead"
+      },
+      "isSourcePower": {
+        "type": "Checkbox",
+        "label": null,
+        "checkboxLabel": "is a Source of Power?",
+        "description": null,
+        "customLabel": false,
+        "userLabel": false,
+        "position": "Left",
+        "value": false
+      },
+      "isSecret": {
+        "type": "Checkbox",
+        "label": null,
+        "checkboxLabel": "is Secret?",
+        "description": null,
+        "customLabel": false,
+        "userLabel": false,
+        "position": "Left",
+        "value": false
+      },
+      "isCompanion": {
+        "type": "Checkbox",
+        "label": null,
+        "checkboxLabel": "Is this a Companion?",
+        "description": null,
+        "customLabel": false,
+        "userLabel": false,
+        "position": "Left"
+      },
+      "isInDespair": {
+        "type": "Checkbox",
+        "label": null,
+        "checkboxLabel": "In Despair",
+        "description": null,
+        "customLabel": false,
+        "userLabel": false,
+        "position": "Left"
+      },
+      "bonds": {
+        "type": "Number",
+        "label": "Bonds",
+        "description": null,
+        "default": 0,
+        "customLabel": false,
+        "userLabel": false,
+        "position": "Left"
+      }
+    },
+    "attrLeft": {},
+    "attrTop": {},
+    "details": {
+      "biography": {
+        "label": "Description",
+        "value": "<p>Shamble. Hunt. Lunge. Eat. Braaaains.</p>"
+      },
+      "notes": {
+        "label": "Notes",
+        "value": ""
+      }
+    },
+    "tags": ""
+  },
+  "prototypeToken": {
+    "name": "Zombies",
+    "displayName": 0,
+    "actorLink": false,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "hexagonalShape": 0,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "sight": {
+      "enabled": false,
+      "range": 0,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "flags": {},
+    "randomImg": false
+  },
+  "items": [
+    {
+      "name": "Painless",
+      "type": "fellowship-pbta.stat",
+      "system": {
+        "htmlFields": [
+          "description"
+        ],
+        "damaged": false,
+        "description": "<p>Zombies do not stop attacking until they are destroyed. If they take damage while all of their stats are already damaged, they are destroyed.</p>"
+      },
+      "_id": "eHHPWlCUvuP2cQDc",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "UuXSPD7DIN5UiO1L": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pbta",
+        "systemVersion": "1.1.12",
+        "createdTime": 1737178726694,
+        "modifiedTime": 1737178734379,
+        "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+      },
+      "_key": "!actors.items!liHW7vKLOaZ7z62e.eHHPWlCUvuP2cQDc"
+    },
+    {
+      "name": "Simpleton Hivemind",
+      "type": "fellowship-pbta.stat",
+      "system": {
+        "htmlFields": [
+          "description"
+        ],
+        "damaged": false,
+        "description": "<p>A group of zombies acts as a single unit, moving as one towards the nearest source of living meat. They are easily duped and confused - <strong>When this stat is damaged</strong>, the group breaks up and cannot focus on anything that isn't within arm's reach.</p>"
+      },
+      "_id": "qBqZHFIk7g4rYOik",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "UuXSPD7DIN5UiO1L": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pbta",
+        "systemVersion": "1.1.12",
+        "createdTime": 1737178736460,
+        "modifiedTime": 1737178769416,
+        "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+      },
+      "_key": "!actors.items!liHW7vKLOaZ7z62e.qBqZHFIk7g4rYOik"
+    }
+  ],
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1737178706459,
+    "modifiedTime": 1737178785389,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!actors!liHW7vKLOaZ7z62e"
+}
