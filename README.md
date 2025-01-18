@@ -1,5 +1,3 @@
-<!-- ![Cover](assets/cover.webp) -->
-
 # Fellowship 2E Module (Unofficial)
 
 <p align="center">
@@ -52,21 +50,19 @@ You can install the latest released version of the module by using this manifest
     - Added Destiny support
     - Added Companion support
     - sheet designs
-- NPC Sheet
+- NPC/Threat Sheet 
 - Item Compendiums
-    - Book 1 Playbooks
-    - Book 1 Destinies
+    - Playbooks
+    - Destinies
     - Playbook Companions
-    - Playbook Gear
-    - All the Book 1 Moves
+    - Gear
+    - All the Moves
+    - Some of the NPC/Threats
 
 ## TODO
 - Overlord sheet
-- NPC sheet cleanup
-- Finish adding gear and companions
+- Finish adding NPC/Threats
 
 # License & Acknowledgements
 [Fellowship 2nd Edition](https://liberigothica.itch.io/fellowship-a-tabletop-adventure-game) was created by [Vel Mini](@velimini.bsky.social) and is copyright (2015-2019) by Vel Mini and [Liberi Gothica Games](https://liberigothica.itch.io/). The content in the book Fellowship 2e book is under the Creative Commons CC-BY-SA License:
 https://creativecommons.org/licenses/by-sa/4.0/
-
-<!-- Icons from game-icons.net are released under a Creative Commons Attribution 3.0 Unported license. https://creativecommons.org/licenses/by/3.0/ -->
