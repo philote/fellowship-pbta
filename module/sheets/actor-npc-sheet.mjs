@@ -30,7 +30,7 @@ export function FellowshipActorNpcSheetMixin(Base) {
 		async getData() {
 			const context = await super.getData();
       if (this.actor.baseType === 'npc') {
-        // Prepare Companions Items
+        // Prepare Stat Items
         context.actor.stats = context.actor.items.filter((i) => i.type === 'fellowship-pbta.stat');
         // get available Types & Subtypes
         if (!CONFIG.FELLOWSHIP.threats.length) await utils.getThreatTypes();
@@ -42,7 +42,7 @@ export function FellowshipActorNpcSheetMixin(Base) {
           context.actor.threatSubtypes = subtypes;
         }
 
-        // Enrich text fields.
+        // Enrich Stat text fields.
         for (let item of context.actor.stats) {
           const sourceItem = this.actor.items.get(item._id) ?? {};
           const enrichmentOptions = {
@@ -78,6 +78,6 @@ export function FellowshipActorNpcSheetMixin(Base) {
               break;
           }
         }
-  }
+    }
 	};
 }

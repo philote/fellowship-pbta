@@ -1,0 +1,135 @@
+{
+  "name": "Overlord Framework",
+  "_id": "Wspo5QWJyqQdielu",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "FRAMEWORK PRINCIPLES",
+      "type": "text",
+      "_id": "3BcoC6S5r2eEyt4P",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Your <strong>Principles</strong> are the rules you must follow. <strong>Do not break them.</strong></p><ul><li><p><strong>Create problems, not solutions.</strong> You're the bad guy. You make things worse. You make things harder. And then you leave them be. Don't overthink things or come up with pre-made solutions. If the fellowship has an idea, let their moves decide how it goes.</p></li><li><p><strong>Address the characters, not the players.</strong> Don't call them \"Jesse\" or \"Sam,\" call them \"Aurora\" and \"Rumblebelly.\"</p></li><li><p><strong>Embrace the fantastic.</strong> Don't let the world be boring. Make the game weird, make the world interesting, give everyone a reason to remember everything they come across.</p></li><li><p><strong>Make a move that follows.</strong> When you use a Cut, use one that makes sense. Ask yourself: Which cut makes the most sense? Which cut would cause the most chaos? Which cut would be the most fun? Then use the one you need most - logic, chaos, or fun.</p></li><li><p><strong>Never speak the name of your Cut.</strong> Just say what happens.</p></li><li><p><strong>Ask questions, use the answers.</strong> Ask them questions, write down the answers, and use those answers later. Make the information they've given you matter. • Be a fan of their characters. Be cool, let them be cool, and appreciate everyone at the table.</p></li><li><p><strong>Pass the Spotlight.</strong> You're in charge of the Spotlight, so make sure everyone gets a turn. Share the Spotlight, and share it often.</p></li><li><p><strong>Think dangerous.</strong> Never be afraid of raising the stakes, increasing the tension, and making things more dangerous and exciting.</p></li><li><p><strong>Begin and end with the fiction.</strong> Start a move with what triggered it, end the move with what it accomplished, and then move to the next move from there.</p></li><li><p><strong>Think off-screen, too.</strong> Not everything needs to happen right here and right now. The Overlord is always up to something, but it might not be here.</p></li><li><p><strong>Don't shut them down.</strong> Never say 'no.' If something is impossible, then Tell Them The Consequences or Requirements.</p></li><li><p><strong>Be the referee.</strong> If someone doesn't know what move to make or how to do something within the rules, tell them. Even if you do not know either, tell them. Its better to make the call than ruin the flow by looking up an answer, so make the call, ref.</p></li></ul>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "UuXSPD7DIN5UiO1L": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pbta",
+        "systemVersion": "1.1.12",
+        "createdTime": 1737333091197,
+        "modifiedTime": 1737333675767,
+        "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+      },
+      "_key": "!journal.pages!Wspo5QWJyqQdielu.3BcoC6S5r2eEyt4P"
+    },
+    {
+      "sort": 200000,
+      "name": "FRAMEWORK CUTS",
+      "type": "text",
+      "_id": "PBTrM0AWIri4ICZJ",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Your Cuts are story-telling weapons that you use to control the game.</p><p>Cuts come in two strengths: <strong>Hard Cuts</strong> and <strong>Soft Cuts</strong>.</p><p>A <strong>Soft Cut</strong> gives them time to respond. <strong>When you make a Soft Cut,</strong> before it does anything, you ask someone \"So what do you do?\" and give them a chance to react to it.</p><p><strong>When they look to you for what happens next,</strong> when a new scene starts, or when no one knows what is going on, make a <strong>Soft Cut</strong> that makes sense.</p><p>A <strong>Hard Cut</strong> just happens and there is nothing they can do about it. <strong>If you only ever make Soft Cuts,</strong> nothing will ever happen, so bring down that hammer.</p><p><strong>When a player fails to stop a Soft Cut,</strong> <strong>when someone rolls a 6 or less,</strong> or <strong>when you need to scare 'em a bit,</strong> make a Hard Cut that makes sense.</p><p><strong>Your Cuts are:</strong></p><ul><li><p><strong>Reveal an unwelcome truth.</strong> Tell them something they don't want to hear.</p></li><li><p><strong>Show signs of an approaching threat.</strong> Reveal a new problem they need to deal with.</p></li><li><p><strong>Deal damage.</strong> Hurt them. Damage them, damage their companions, damage the places and people they care about. If the pain is right, you can even damage their Bonds. Hurt them.</p></li><li><p><strong>Use up or take away their resources.</strong> They have Gear and Companions for a reason. Make them use it, make them lose it, make them burn it up..</p></li><li><p><strong>Turn their move back on them.</strong> When their move goes badly, turn it back against them.</p></li><li><p><strong>Separate them.</strong> They're strongest together, so put things between them. Make them take on the world solo every now and then.</p></li><li><p><strong>Put someone on the spot.</strong> Put someone in danger, then make someone else save them. The key phrase for this Cut is \"While you're doing that...\"</p></li><li><p><strong>Present an opportunity.</strong> This Cut gives them a break. If you think of something cool they could do right now, present an opportunity to them.</p></li><li><p><strong>Show a downside.</strong> Tell them what's wrong with their plan at the exact worst moment for them to hear about what's wrong with their plan.</p></li><li><p><strong>Tell them the consequences or requirements.</strong> Sometimes they can't do what they want without doing or getting something else first, or without great pain or expense. If they want to do the impossible, tell them how much the impossible costs.</p></li></ul>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "UuXSPD7DIN5UiO1L": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pbta",
+        "systemVersion": "1.1.12",
+        "createdTime": 1737333837821,
+        "modifiedTime": 1737334218225,
+        "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+      },
+      "_key": "!journal.pages!Wspo5QWJyqQdielu.PBTrM0AWIri4ICZJ"
+    },
+    {
+      "sort": 300000,
+      "name": "MASTER PLAN",
+      "type": "text",
+      "_id": "ij0dViFGsXmi0w57",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>The Overlord has a basic plan for what to do with this world, but you do not need to know all of the details. The fellowship can attempt to learn your plans, but this should require them to capture a General, undertake a sneaking mission, or earn it through great peril.</p><p>You begin the game with two New Plans: write down a source of power you wish to seize, and a community you wish to destroy. All plans start at stage 0.</p><p><strong>Whenever the fellowship @UUID[Compendium.fellowship-pbta.basic-moves.Item.fiqSNfOzHK4j8Ral]{Recovers} or the Overlord </strong><em><strong>Levels Up</strong></em><strong>,</strong> you advance your plans. <strong>When the fellowship has A Little Downtime,</strong> you may advance your plans during your turn, but the fellowship will immediately hear about it if you do.</p><p></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "UuXSPD7DIN5UiO1L": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pbta",
+        "systemVersion": "1.1.12",
+        "createdTime": 1737334558193,
+        "modifiedTime": 1737334701351,
+        "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+      },
+      "_key": "!journal.pages!Wspo5QWJyqQdielu.ij0dViFGsXmi0w57"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1737333081647,
+    "modifiedTime": 1737333799683,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!journal!Wspo5QWJyqQdielu"
+}

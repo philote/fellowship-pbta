@@ -77,7 +77,10 @@ export function FellowshipActorSheetMixin(Base) {
             const content = await renderTemplate("modules/fellowship-pbta/templates/dialog-destiny.hbs", dialogContext);
 
             const selection = await foundry.applications.api.DialogV2.prompt({
-                window: { title: game.i18n.localize("FELLOWSHIP.CharacterSheets.destiny.prompt.title") },
+                window: { 
+                    title: game.i18n.localize("FELLOWSHIP.CharacterSheets.destiny.prompt.title"),
+                    resizable: true
+                },
                 content: content,
                 ok: {
                     callback: (event, button) => {
@@ -85,15 +88,15 @@ export function FellowshipActorSheetMixin(Base) {
                             if (input.name) obj[input.name] = input.value;
                             return obj;
                           }, {});
-                        return output;
+                        return output.uuid;
                     }
-                }
+                },
+                position: { width: 400 },
+                rejectClose: false
               })
-
-            const selectedDestinyUuid = selection.uuid;
-            if (selectedDestinyUuid) {
-                await this.actor.createEmbeddedDocuments("Item", [await fromUuid(selectedDestinyUuid)], { keepId: true, originalUuid: selectedDestinyUuid });
-            };
+            if (selection) {
+                await this.actor.createEmbeddedDocuments("Item", [await fromUuid(selection)], { keepId: true, originalUuid: selection });
+            }
         }
 
         /**

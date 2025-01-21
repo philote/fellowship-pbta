@@ -362,7 +362,145 @@ export const configSheet = async () => {
                         label: game.i18n.localize('FELLOWSHIP.NPCSheets.equipmentTypes.loot'),
                     },
                 },
-            }
+            },
+            'fellowship-pbta.overlord': {
+                baseType: "npc",
+                attributes: {
+                    title: {
+                        type: "Text",
+                        label: game.i18n.localize('FELLOWSHIP.OverlordSheet.attr.title'),
+                        description: null,
+                        customLabel: false,
+                        userLabel: false,
+                        position: 'Top',
+                        value: ""
+                    },
+                    lookOne: {
+                        type: "Text",
+                        label: game.i18n.localize('FELLOWSHIP.OverlordSheet.attr.looks'),
+                        description: null,
+                        customLabel: false,
+                        userLabel: false,
+                        position: 'Left',
+                        value: ""
+                    },
+                    lookTwo: {
+                        type: "Text",
+                        label: null,
+                        description: null,
+                        customLabel: false,
+                        userLabel: false,
+                        position: 'Left',
+                        value: ""
+                    },
+                    lookThree: {
+                        type: "Text",
+                        label: null,
+                        description: null,
+                        customLabel: false,
+                        userLabel: false,
+                        position: 'Left',
+                        value: ""
+                    },
+                    lookFour: {
+                        type: "Text",
+                        label: null,
+                        description: null,
+                        customLabel: false,
+                        userLabel: false,
+                        position: 'Left',
+                        value: ""
+                    },
+                    weakness: {
+                        type: "Text",
+                        label: game.i18n.localize('FELLOWSHIP.OverlordSheet.attr.weakness.label'),
+                        description: game.i18n.localize('FELLOWSHIP.OverlordSheet.attr.weakness.description'),
+                        customLabel: false,
+                        userLabel: false,
+                        position: 'Left',
+                        value: ""
+                    },
+                    extraCut: {
+                        type: "Text",
+                        label: game.i18n.localize('FELLOWSHIP.OverlordSheet.attr.extraCut'),
+                        description: null,
+                        customLabel: false,
+                        userLabel: false,
+                        position: 'Top',
+                        value: ""
+                    },
+                    thirdAgenda: {
+                        type: "Text",
+                        label: game.i18n.localize('FELLOWSHIP.OverlordSheet.attr.thirdAgenda.label'),
+                        description: null,
+                        customLabel: false,
+                        userLabel: false,
+                        position: 'Left',
+                        value: ""
+                    },
+                    army: {
+                        type: "Text",
+                        label: game.i18n.localize('FELLOWSHIP.OverlordSheet.attr.army.label'),
+                        description: game.i18n.localize('FELLOWSHIP.OverlordSheet.attr.army.description'),
+                        customLabel: false,
+                        userLabel: false,
+                        position: 'Top',
+                        value: ""
+                    },
+                    bonds: {
+                        type: "LongText",
+                        label: game.i18n.localize('FELLOWSHIP.OverlordSheet.attr.bonds.label'),
+                        description: game.i18n.localize('FELLOWSHIP.OverlordSheet.attr.bonds.description'),
+                        customLabel: false,
+                        userLabel: false,
+                        position: 'Top',
+                        value: game.i18n.localize('FELLOWSHIP.OverlordSheet.attr.bonds.value'),
+                    },
+                    secretReason: {
+                        type: "Text",
+                        label: game.i18n.localize('FELLOWSHIP.OverlordSheet.attr.secretReason.label'),
+                        description: game.i18n.localize('FELLOWSHIP.OverlordSheet.attr.secretReason.description'),
+                        customLabel: false,
+                        userLabel: false,
+                        position: 'Top',
+                        value: ""
+                    },
+                    level: {
+                        type: "Number",
+                        label: game.i18n.localize('FELLOWSHIP.OverlordSheet.attr.weakness.label'),
+                        description: game.i18n.localize('FELLOWSHIP.OverlordSheet.attr.weakness.description'),
+                        customLabel: false,
+                        userLabel: false,
+                        position: 'Top',
+                        value: 1
+                    },
+                },
+                details: {
+                    biography: {
+                        label: game.i18n.localize("FELLOWSHIP.OverlordSheet.details.notes"),
+                        value: ""
+                    }
+                },
+                moveTypes: {
+                    basic: {
+                        label: game.i18n.localize("FELLOWSHIP.OverlordSheet.moveTypes.basic"),
+                        moves: []
+                    },
+                    core: {
+                        label: game.i18n.localize("FELLOWSHIP.OverlordSheet.moveTypes.core"),
+                        moves: []
+                    },
+                    custom: {
+                        label: game.i18n.localize("FELLOWSHIP.OverlordSheet.moveTypes.custom"),
+                        moves: []
+                    },
+                },
+                equipmentTypes: {
+                    gear: {
+                        label: game.i18n.localize('FELLOWSHIP.OverlordSheet.equipmentTypes.gear'),
+                    },
+                },
+            },
         }
     }
 };

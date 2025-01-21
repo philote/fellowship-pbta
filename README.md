@@ -56,13 +56,27 @@ You can install the latest released version of the module by using this manifest
     - Destinies
     - Playbook Companions
     - Gear
-    - All the Moves
-    - Some of the NPC/Threats
+    - All of the Basic, Bond, Playbook Moves
+    - All of the NPC/Threats
 
 ## TODO
-- Overlord sheet
-- Finish adding NPC/Threats
+- Overlord Sheet [In-progress]
+- Overlord Moves
 
 # License & Acknowledgements
+## Fellowship 2nd Edition
 [Fellowship 2nd Edition](https://liberigothica.itch.io/fellowship-a-tabletop-adventure-game) was created by [Vel Mini](@velimini.bsky.social) and is copyright (2015-2019) by Vel Mini and [Liberi Gothica Games](https://liberigothica.itch.io/). The content in the book Fellowship 2e book is under the Creative Commons CC-BY-SA License:
 https://creativecommons.org/licenses/by-sa/4.0/
+
+## Images from [Smithsonian Open Access](https://www.si.edu/openaccess)
+This media is in the public domain (free of copyright restrictions). You can copy, modify, and distribute this work without contacting the Smithsonian. For more information, visit the Smithsonian's Terms of Use page at https://www.si.edu/Termsofuse
+
+### NMNH-LEW87005c2_1pt25x_ppl
+Used for background texture \
+__Smithsonian Record ID:__ [edanmdm:nmnhmineralsciences_1037187](http://n2t.net/ark:/65665/35c1f77f0-7b52-49cf-b86c-84d9a1fe725d) \
+__File Usage:__ CC0
+
+### CHSDM-AE920E7F4CF92-000001
+Used for background texture \
+__Smithsonian Record ID:__ [edanmdm:chndm_1979-91-953](http://n2t.net/ark:/65665/kq4d02a3c84-a1ad-451b-963b-208517d7d8aa) \
+__File Usage:__ CC0

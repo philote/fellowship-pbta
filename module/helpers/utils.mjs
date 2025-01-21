@@ -7,7 +7,10 @@ export const preloadHandlebarsTemplates = async function () {
 		"modules/fellowship-pbta/templates/parts/actor-inventory.hbs",
 		"modules/fellowship-pbta/templates/parts/actor-advancements.hbs",
 		"modules/fellowship-pbta/templates/parts/actor-destiny.hbs",
+		"modules/fellowship-pbta/templates/parts/actor-overlord-inventory.hbs",
+		"modules/fellowship-pbta/templates/parts/actor-overlord-description.hbs",
 		"modules/fellowship-pbta/templates/dialog-destiny.hbs",
+		"modules/fellowship-pbta/templates/dialog-secret-reason.hbs",
 	]);
 };
 

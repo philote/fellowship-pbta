@@ -40,6 +40,9 @@
     "css/fellowship-pbta.css"
   ],
   "documentTypes": {
+    "Actor": {
+      "overlord": {}
+    },
     "Item": {
       "companion": {},
       "destiny": {
@@ -47,6 +50,9 @@
       },
       "stat": {
         "htmlFields": ["description"]
+      },
+      "plan": {
+        "htmlFields": ["notes", "toDestroy"]
       }
     }
   },
@@ -58,6 +64,17 @@
     }
   ],
   "packs": [
+    {
+      "name": "overlord",
+      "label": "Overlord Info",
+      "path": "packs/overlord",
+      "type": "JournalEntry",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
     {
       "name": "gear",
       "label": "Gear",
@@ -456,6 +473,13 @@
     }
   ],
   "packFolders": [
+    {
+      "name": "Documents",
+      "packs": [
+        "overlord"
+      ],
+      "folders": []
+    },
     {
       "name": "Playbooks",
       "packs": [

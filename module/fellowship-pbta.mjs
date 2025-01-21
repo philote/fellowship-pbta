@@ -5,11 +5,15 @@ import { CompanionModel } from "./data/companionModel.mjs";
 import { CompanionSheet } from "./sheets/companionSheet.mjs";
 import { DestinyModel } from "./data/destinyModel.mjs";
 import { DestinySheet } from "./sheets/destinySheet.mjs";
-import { FellowshipActorSheetMixin } from "./sheets/actor-sheet.mjs";
 import { CharacterModel } from "./data/characterModel.mjs";
+import { FellowshipActorSheetMixin } from "./sheets/actor-sheet.mjs";
 import { StatModel } from "./data/statModel.mjs";
 import { StatSheet } from "./sheets/statSheet.mjs";
 import { FellowshipActorNpcSheetMixin } from "./sheets/actor-npc-sheet.mjs";
+import { OverlordModel } from './data/overlordModel.mjs';
+import { OverlordSheetMixin } from "./sheets/overlord-sheet.mjs";
+import { PlanModel } from "./data/planModel.mjs";
+import { PlanSheet } from "./sheets/planSheet.mjs";
 
 Hooks.once("init", () => {
 
@@ -20,6 +24,16 @@ Hooks.once("init", () => {
 		types: ['npc'],
 		makeDefault: true,
 		label: 'FELLOWSHIP.SheetConfig.npc',
+	});
+
+	// Custom Overlord Sheet Setup
+	CONFIG.Actor.dataModels['fellowship-pbta.overlord'] = OverlordModel;
+	CONFIG.Actor.typeLabels['fellowship-pbta.overlord'] = 'TYPES.fellowship-pbta.overlord';
+	const overlordSheet = OverlordSheetMixin(game.pbta.applications.actor.PbtaActorNpcSheet);
+	Actors.registerSheet('fellowship-pbta', overlordSheet, {
+	  types: ['fellowship-pbta.overlord'],
+	  makeDefault: true,
+	  label: 'FELLOWSHIP.SheetConfig.overlord',
 	});
 
 	// Fellowship ActorSheet Setup
@@ -73,6 +87,19 @@ Hooks.once("init", () => {
 		types: ["fellowship-pbta.stat"],
 		makeDefault: true,
 		label: "FELLOWSHIP.SheetConfig.stat",
+	});
+
+	// Plan DataModel & Sheet Setup
+	Object.assign(CONFIG.Item.dataModels, {
+		"fellowship-pbta.plan": PlanModel,
+	});
+	Items.unregisterSheet("pbta", game.pbta.applications.item.PbtaItemSheet, {
+		types: ["fellowship-pbta.plan"],
+	});
+	Items.registerSheet("fellowship-pbta", PlanSheet, {
+		types: ["fellowship-pbta.plan"],
+		makeDefault: true,
+		label: "FELLOWSHIP.SheetConfig.plan",
 	});
 
 	// Register settings

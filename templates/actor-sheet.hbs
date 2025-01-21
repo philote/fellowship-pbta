@@ -17,20 +17,16 @@
 
 			</section>
 			{{/if}}
-
-			<section class="sheet-attributes-top">
-				{{~> "pbta.actor-attributes" attrs=system.attrTop cssClass="cell--attributes-top flexrow" owner=owner editable=editable ~}}
-			</section>
 		</section>
 
 		<section class="sheet-bottom flexrow">
 			{{!-- Sidebar --}}
 			{{#if (objLen system.attrLeft)}}
 			<section>
-				{{#if isCharacter}}
-					{{> "modules/fellowship-pbta/templates/parts/actor-destiny.hbs" }}
-				{{/if}}
 				<div class="cell cell--aesthetics">
+					{{#if isCharacter}}
+						{{> "modules/fellowship-pbta/templates/parts/actor-destiny.hbs" }}
+					{{/if}}
 					{{> "pbta.actor-attributes" attrs=system.attrLeft cssClass="cell--attributes-left" owner=owner editable=editable}}
 				</div>
 			</section>

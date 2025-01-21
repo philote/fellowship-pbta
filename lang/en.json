@@ -2,7 +2,13 @@
 	"TYPES.Item.fellowship-pbta.companion": "Companion",
 	"TYPES.Item.fellowship-pbta.destiny": "Destiny",
 	"TYPES.Item.fellowship-pbta.stat": "Stat",
+	"TYPES.Item.fellowship-pbta.plan": "Overlord Plan",
+	"TYPES.fellowship-pbta.overlord": "Overlord",
 	"FELLOWSHIP": {
+		"placeholder": {
+			"name": "Name",
+			"title": "Title"
+		},
 		"Destiny": "Your Destiny",
 		"ViewDestiny": "View Destiny",
 		"SheetConfig": {
@@ -10,7 +16,9 @@
 			"companion": "Companion Sheet",
 			"destiny": "Destiny Sheet",
 			"stat": "Stat Sheet",
-			"npc": "NPC Sheet"
+			"plan": "Plan Sheet",
+			"npc": "NPC Sheet",
+			"overlord": "Overlord Sheet"
 		},
 		"CharacterSheets": {
 			"advancementsTab": "Advancements",
@@ -113,6 +121,30 @@
 			"label": "STAT",
 			"damaged": "Damaged"
 		},
+		"PlanSheet": {
+			"label": "Master Plan",
+			"notes": "Notes",
+			"stage": {
+				"0": {
+					"label": "Stage 0: Create A New Plan",
+					"description": "Name a Source of Power you wish to seize, or a community you wish to destroy, and write it down."
+				},
+				"1": {
+					"label": "Stage 1: Begin the plan",
+					"description": "Your forces move into position to act upon your plan. At this point, the fellowship hears that you are up to something, but not what you are doing or where your forces are."
+				},
+				"2": {
+					"label": "Stage 2: Execute the plan",
+					"description": "Your forces take action. The fellowship hears about what you are up to, but stopping you now would be very difficult."
+				},
+				"3": {
+					"label": "Stage 3: Victory",
+					"description": "You seize the source of power, or destroy the named community. A destroyed community no longer grants Fellowship."
+				}
+			},
+			"info": "<b>When you Advance your Plans,</b> you choose one of them and move it one step forward. You will always have two plans going at once - whenever you have only one plan left, write a second new plan immediately.",
+			"footNote": "<b>When you could Advance Your Plans,</b> you may instead do one of the following: heal a damaged Overlord stat, recruit a General, or swap an undamaged Overlord stat for a new one. Write the new stat now."
+		},
 		"NPCSheets": {
 			"attr": {
 				"type": {
@@ -197,6 +229,98 @@
 			},
 			"equipmentTypes": {
 				"loot": "Loot"
+			}
+		},
+		"OverlordSheet": {
+			"tabs": {
+				"info": "Info",
+				"eq-army": "EQ & Army",
+				"adv-bonds": "Adv. & Bonds"
+			},
+			"attr": {
+				"title": "Title",
+				"looks": "Looks",
+				"extraCut": {
+					"label": "Extra Cut",
+					"default": "<i>Choose a 3rd Agenda to see your Extra Cut.</i>"
+				},
+				"thirdAgenda": {
+					"label": "Agenda",
+					"description": "When you know not what to do, consult your Agendas.",
+					"agenda.label": "Third Agenda",
+					"givenAgenda": {
+						"1": "<span><b>Create Opportunities To Do Good</b> The world is filled with people who need the help of the fellowship. Give them people to save. Give them a broken world, and see how they fix it.</span>",
+						"2": "<span><b>Play To Find Out What Happens</b> The world is constantly changing and you can never truly know what happens next. Roll with it. Let the game evolve naturally, with everyone's input. Don't plan anything outside of what the Overlord is doing.</span>"
+					},
+					"agendaOptions": {
+						"0": {
+							"label": "Ultimate Power",
+							"description": "Place wonderful things in jeopardy.",
+							"extraCut": "Show signs of your increasing power Every time they see you or where you've been, it is always worse than last time."
+						},
+						"1": {
+							"label": "World Is Mine",
+							"description": "Portray a world on the edge of defeat.",
+							"extraCut": "Expand the Overlord's Grasp Show them just how far your power stretches. Tell them of another conquered land, another lost battalion, another defeated ally. Your reach always presses onward."
+						},
+						"2": {
+							"label": "Watch The World Burn",
+							"description": "Fill the world with strange and painful events.",
+							"extraCut": "Leave chaos in the Overlord's wake Where the Overlord goes, pain follows. Show chaos, show collateral damage, show the effects of terrible curses."
+						}
+					}
+				},
+				"army": {
+					"label": "THE OVERLORD'S ARMIES",
+					"description": "Choose the option that best represents your people. The option you choose gives you access to that category of enemies in the Overlord's Toolbox, to serve you and do your bidding in whatever ways you'd like. You may still use the options you do not choose to threaten the fellowship, but they do not serve the Overlord."
+				},
+				"weakness": {
+					"label": "WEAKNESS",
+					"description": "There is a single material, item, charm, ritual, or spell that you are vulnerable to. This is your Weakness."
+				},
+				"bonds": {
+					"label": "OVERLORD BONDS",
+					"description": "You start with one Bond with each member of the fellowship. Each other player writes their name into one of these Bonds:",
+					"value": "<p>I destroyed<span style=\"text-decoration: underline;\"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>'s hometown.</p><p>I have caused great harm to<span style=\"text-decoration: underline;\"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>'s people.</p><p>I killed someone important to<span style=\"text-decoration: underline;\"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>.</p><p><span style=\"text-decoration: underline;\"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>killed someone important to me.</p><p><span style=\"text-decoration: underline;\"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>knows the details of my previous defeat.</p><p><span style=\"text-decoration: underline;\"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>'s people serve me now.</p><p>Only<span style=\"text-decoration: underline;\"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>knows my Weaknesses.</p><p>I have fought<span style=\"text-decoration: underline;\"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>before, and left a wound upon them. It burns in my presence.</p><p><span style=\"text-decoration: underline;\"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>was once my friend.</p><p><span style=\"text-decoration: underline;\"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>secretly admires me and the things I do.</p><p><b>Record your other bonds here:</b></p>"
+				},
+				"secretReason": {
+					"label": "Secret Motivation",
+					"description": "Choose the secret reason you're doing all of this. You do not have to tell the fellowship your choice.",
+					"button": "Choose your Secret Reason",
+					"prompt.title": "Choose your Secret Reason",
+					"options": {
+						"0.label": "You have a sympathetic backstory of loss and tragedy. It does not justify your actions, except to yourself. You gain a Bond with anyone who listens to some of your backstory, but they also gain a Bond with you.",
+						"1.label": "It is not you who does all this, but something that is controlling you - a dark master in the shadows, an evil artifact corrupting whoever holds it, or an even greater threat you are trying to destroy yourself. When the fellowship defeats you, reveal this new threat. It's their problem now.",
+						"2.label": "You are a part of a recurring cycle, and you know you are destined to be defeated. If you could only convince the fellowship to listen to you, maybe you could break the cycle once and for all... But the heroes never listen to you.",
+						"3.label": "You don't have a secret. You're just an evil jerk with way too much power."
+					}
+				},
+				"level": {
+					"label": "LEVEL",
+					"description": "When you Level Up, increase your level by 1, then do all of the following:"
+				}
+			},
+			"principles": {
+				"button": "Principles"
+			},
+			"cuts": {
+				"button": "Cuts"
+			},
+			"masterPlan": {
+				"label": "YOUR PLANS",
+				"button": "Master Plan",
+				"plan.label": "Plans"
+			},
+			"details": {
+				"notes": "Notes"
+			},
+			"moveTypes": {
+				"basic": "Basic Moves",
+				"core": "Core Moves",
+				"custom": "Custom Moves"
+			},
+			"equipmentTypes": {
+				"gear": "Gear"
 			}
 		},
 		"Tags": {

@@ -1,0 +1,69 @@
+.pbta.sheet.item {
+    .sheet-body {
+        padding: 8px;
+    }
+
+    .window-content {
+        .flexrow {
+            a, input[type="checkbox"] {
+                flex: 0;
+            }
+        }
+    }
+
+    .playbook-details {
+        .flexrow {
+            gap: 10px;
+        }
+
+        .flexcol {
+            align-self: flex-start;
+        }
+    }
+
+    // make playbook headers & buttons look better
+    &.playbook {
+        .item-form 
+        .item-controls {
+            align-content: center;
+        }
+        
+        .sheet-body {
+            .tab[data-tab="attributes"] {
+                .flexrow span{
+                    font-weight: bold;
+                    font-size: 1.5em;
+                    margin: 20px 0 5px 0;
+                }
+            }
+    
+            a[data-action="add-attribute-choice"] {
+                background: #fff;
+                border: 1px solid #000;
+                line-height: 1;
+                margin: 0px 10px;
+                padding: 1px 9px;
+                border-radius: 3px;
+            }
+        }
+    }
+
+    .plan-item {
+        .sheet-header {
+            margin-bottom: 0;
+        }
+
+        .editor,
+        .editor-content {
+            min-height: 100px;
+        }
+
+        .sheet-body .flexrow {
+            margin-top: 10px;
+        }
+
+        .notes {
+            margin-top: 20px;
+        }
+    }
+}

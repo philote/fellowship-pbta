@@ -1,0 +1,36 @@
+@use '../base/colors' as *;
+
+.pbta.sheet.npc {
+    .cell--bio {
+        .editor-content {
+            min-height: 170px;
+        }
+    }
+
+    .npc-attr {
+        color: $c-light-grey;
+        padding-left: 8px;
+
+        h2 {
+            margin: 12px 0 0 0;
+        }
+
+        .flexrow {
+            gap: 8px;
+            margin-top: 8px;
+            
+            select {
+                width: 100%;
+            }
+
+            h3 {
+                margin: 0;
+            }
+        }
+
+        .input--title {
+            height: 32px;
+            line-height: 32px;
+        }
+    }
+}

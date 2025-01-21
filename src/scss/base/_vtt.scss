@@ -1,0 +1,30 @@
+.vtt .window-app {
+    &.dialog input[type=radio] {
+        margin: 0 8px;
+        flex: 0;
+        align-self: center;
+    }
+ 
+    .window-header .window-title {
+        margin: 0 0 0.5rem !important;
+    }
+}
+
+.application.dialog {
+    .fellowship-dialog {
+        h3 {
+            border: none;
+        }
+
+        .form-fields-stacked {
+            margin-top: 20px;
+
+            label.checkbox {
+                align-items: baseline;
+                font-size: larger;
+                height: unset;
+                margin-top: 8px;
+            }
+        }
+    }
+}

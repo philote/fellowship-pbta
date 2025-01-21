@@ -1,0 +1,89 @@
+<form class="{{cssClass}} plan-item item-form flexcol" autocomplete="off">
+	<header class="sheet-header flexrow">
+		<div class="cell--image">
+			<img class="profile-img" src="{{item.img}}" data-edit="img" />
+		</div>
+		<div class="header-fields">
+			<h1>{{localize "FELLOWSHIP.PlanSheet.label"}}</h1>
+			<h1 class="charname"><input
+					name="name"
+					type="text"
+					value="{{item.name}}"
+					placeholder="{{localize 'PBTA.Common.Name'}}"
+				/></h1>
+		</div>
+	</header>
+	{{! Sheet Body }}
+	<section class="sheet-body">
+		<div class="flexrow">
+			<input
+				type="checkbox"
+				name="system.create"
+				{{checked system.create}}
+			/>
+			<div class="flexcol">
+				<h3>{{localize "FELLOWSHIP.PlanSheet.stage.0.label"}}</h3>
+				{{localize "FELLOWSHIP.PlanSheet.stage.0.description"}}
+				<prose-mirror
+					name="system.toDestroy"
+					data-document-u-u-i-d="{{item.uuid}}"
+					value="{{system.toDestroy}}"
+					collaborate="true"
+					toggled="true"
+				>
+					{{{enriched.toDestroy}}}
+				</prose-mirror>
+			</div>
+		</div>
+		<div class="flexrow">
+			<input
+				type="checkbox"
+				name="system.begin"
+				{{checked system.begin}}
+			/>
+			<div class="flexcol">
+				<h3>{{localize "FELLOWSHIP.PlanSheet.stage.1.label"}}</h3>
+				{{localize "FELLOWSHIP.PlanSheet.stage.1.description"}}
+			</div>
+		</div>
+		<div class="flexrow">
+			<input
+				type="checkbox"
+				name="system.execute"
+				{{checked system.execute}}
+			/>
+			<div class="flexcol">
+				<h3>{{localize "FELLOWSHIP.PlanSheet.stage.2.label"}}</h3>
+				{{localize "FELLOWSHIP.PlanSheet.stage.2.description"}}
+			</div>
+		</div>
+		<div class="flexrow">
+			<input
+				type="checkbox"
+				name="system.victory"
+				{{checked system.victory}}
+			/>
+			<div class="flexcol">
+				<h3>{{localize "FELLOWSHIP.PlanSheet.stage.3.label"}}</h3>
+				{{localize "FELLOWSHIP.PlanSheet.stage.3.description"}}
+			</div>
+		</div>
+		
+		<div class="form-group-stacked notes">
+			<h3 class="cell__title">
+				<label class="item-group-label">
+					{{localize "FELLOWSHIP.PlanSheet.notes"}}
+				</label>
+			</h3>
+			<prose-mirror
+				name="system.notes"
+				data-document-u-u-i-d="{{item.uuid}}"
+				value="{{system.notes}}"
+				collaborate="true"
+				toggled="true"
+			>
+				{{{enriched.notes}}}
+			</prose-mirror>
+		</div>
+	</section>
+</form>

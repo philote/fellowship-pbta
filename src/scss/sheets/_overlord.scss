@@ -1,0 +1,110 @@
+@use '../base/colors' as *;
+
+.pbta.sheet.npc {
+    form.overlord {
+        .sheet-wrapper 
+        .sheet-top 
+        .sheet-attributes {
+            align-items: start;
+
+            .cell__title {
+                padding: 0;
+
+                .item-controls {
+                    top: unset;
+                }
+            }
+
+            .items-list {
+                margin-top: 10px;
+            }
+        }
+
+        .cell--aesthetics 
+        .cell--thirdAgenda
+        .input--thirdAgenda {
+            display: none;
+        }
+
+        .cell--f-item {
+            .cell__title.overlord-stat-label {
+                margin-top: 0;
+            }
+
+            .overlord-stats-list {
+                display: flex;
+                flex-direction: row;
+                gap: 5px;
+                flex-wrap: wrap;
+                justify-content: space-evenly;
+    
+                .item {
+                    border: 1px solid $c-dark-grey-50;
+                    border-radius: 4px;
+                    padding: 0 6px;
+                    margin: 0;
+                    background-color: $c-light-grey;
+                    width: 49%;
+                    align-self: flex-start;
+    
+                    &.disabled {
+                        background-color: $c-light-red;
+                        color: $c-light-grey;
+    
+                        .item-name {
+                            text-decoration: line-through;
+                        }
+                    }
+    
+                    input[type="checkbox"] {
+                        margin: 0;
+                    }
+    
+                    .flexcol p {
+                        margin: 2px 0;
+                    }
+    
+                    .flexrow {
+                        gap: 4px;
+                        align-items: center;
+                        justify-content: space-between;
+                        margin: 4px 0;
+                
+                        h2 {
+                            flex: 0 1 auto;
+                        }
+    
+                        .item-name {
+                            margin: 0;
+                            line-height: 1;
+                            width: fit-content;
+                        }
+                
+                        label {
+                            align-self: self-start;
+                        }
+                    }
+                }
+            }
+        }
+
+        .sheet-bottom {
+            .sheet-tab {
+                gap: 8px;
+                padding-top: 4px;
+
+                .add-secret {
+                    margin-bottom: 10px;
+                }
+
+                .column {
+                    flex: 1;
+                    display: flex;
+                    flex-direction: column;
+                    width: fit-content;
+                    gap: 8px;
+                }
+            }
+        }
+    }
+}

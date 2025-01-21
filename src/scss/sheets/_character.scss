@@ -1,0 +1,63 @@
+@use '../base/colors' as *;
+
+.pbta.sheet.character {
+    // stats
+    .sheet-attributes 
+    .cell--stats 
+    .stat {
+        background: $c-red;
+        color: $c-lighter-grey;
+
+        &:hover {
+            background: $c-bright-red;
+        }
+
+        .cell__title {
+            border-bottom: 1px solid $c-light-red;
+        }
+    }
+
+    // Destiny
+    .cell--destiny {
+        margin-bottom: 20px;
+
+        .flexrow{
+            gap: 5px;
+            align-items: center;
+        }
+
+        .view-destiny {
+            flex: 0;
+        }
+
+        .fa-eye-slash {
+            color: rgba(84, 84, 84, 0.424);
+        }
+    }
+
+    // Make the roll mode cell look better in one line
+    .sheet-resources {
+        .cell--roll-mode {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 10px;
+
+            .cell__title {
+                grid-column: span 3;
+                margin-top: 4px;
+            }
+        }
+
+        .cell {
+            text-align: center;
+
+            &>.cell__title {
+                justify-content: unset;
+                border-bottom: 0px;
+                margin: 0px;
+            }
+        }
+    }
+}
