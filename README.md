@@ -62,7 +62,6 @@ You can install the latest released version of the module by using this manifest
     - All of the NPC/Threats
 
 ## TODO
-- Overlord Moves
 - Limited permissions view for the Overlord Sheet
 
 # License & Acknowledgements

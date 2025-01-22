@@ -44,7 +44,7 @@ export function OverlordSheetMixin(Base) {
 			);
 			// Enrich Stat text fields.
 			for (let item of context.actor.stats) {
-				item.isExpanded = this._expanded.has(item.id);
+				item.isExpanded = this._expanded.has(item._id);
 				const sourceItem = this.actor.items.get(item._id) ?? {};
 				const enrichmentOptions = {
 					secrets: this.actor.isOwner,
@@ -175,7 +175,6 @@ export function OverlordSheetMixin(Base) {
 
 				context.actor.currentArmyDetail = currentArmy.description ?? "";
 			}
-			console.log(context.actor.items);
 			return context;
 		}
 
