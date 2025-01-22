@@ -37,6 +37,7 @@ If you’ve enjoyed my work and find value in what I create, please consider sup
 ## Screenshot
 ![Screenshot of the character sheet](assets/screenshot.webp)
 ![Screenshot of some of the items in the compendium](assets/screenshot2.webp)
+![Screenshot of the Overlord and NPC sheets](assets/screenshot3.webp)
 
 ## Dependencies
 The following Foundry VTT game system must be installed to use this module: [Powered by the Apocalypse](https://foundryvtt.com/packages/pbta).
