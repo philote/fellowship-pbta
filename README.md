@@ -51,6 +51,7 @@ You can install the latest released version of the module by using this manifest
     - Added Companion support
     - sheet designs
 - NPC/Threat Sheet 
+- Overlord Sheet
 - Item Compendiums
     - Playbooks
     - Destinies
@@ -60,8 +61,8 @@ You can install the latest released version of the module by using this manifest
     - All of the NPC/Threats
 
 ## TODO
-- Overlord Sheet [In-progress]
 - Overlord Moves
+- Limited permissions view for the Overlord Sheet
 
 # License & Acknowledgements
 ## Fellowship 2nd Edition

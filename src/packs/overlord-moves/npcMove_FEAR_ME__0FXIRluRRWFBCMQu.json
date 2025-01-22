@@ -1,0 +1,48 @@
+{
+  "folder": "4mW372fRlwUfflkS",
+  "name": "FEAR ME!",
+  "type": "npcMove",
+  "_id": "0FXIRluRRWFBCMQu",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>When you menace someone,</strong> they will always do as you say or run in terror, their choice. <strong>When you use this Move on someone in the fellowship,</strong> they may pay a price to prevent this Move from working on them for the rest of the scene.</p>",
+    "moveType": "custom",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1737520735360,
+    "modifiedTime": 1737520766167,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!0FXIRluRRWFBCMQu"
+}

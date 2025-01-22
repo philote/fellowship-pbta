@@ -1,0 +1,48 @@
+{
+  "folder": "4mW372fRlwUfflkS",
+  "name": "AND IN THE DARKNESS, BIND THEM",
+  "type": "npcMove",
+  "_id": "s7NLzAiichvrSx98",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>You have crafted an item of power. Choose one of your Overlord stats, then give this item of power to one of your Generals. Whoever holds this item of power also has that Overlord stat.</p><p><strong>If any of the fellowship gets their hands on it,</strong> they gain all the power that it brings, but it will also fill their mind with dark thoughts. They gain the <strong>Agenda:</strong></p>",
+    "moveType": "custom",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1737520582160,
+    "modifiedTime": 1737520644079,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!s7NLzAiichvrSx98"
+}

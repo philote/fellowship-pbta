@@ -353,13 +353,21 @@ export const configSheet = async () => {
                 },
                 moveTypes: {
                     basic: {
-                        label: game.i18n.localize("FELLOWSHIP.NPCSheets.moveTypes.basic"),
+                        label: game.i18n.localize("FELLOWSHIP.OverlordSheet.moveTypes.basic"),
                         moves: []
-                    }
+                    },
+                    core: {
+                        label: game.i18n.localize("FELLOWSHIP.OverlordSheet.moveTypes.core"),
+                        moves: []
+                    },
+                    custom: {
+                        label: game.i18n.localize("FELLOWSHIP.OverlordSheet.moveTypes.custom"),
+                        moves: []
+                    },
                 },
                 equipmentTypes: {
-                    loot: {
-                        label: game.i18n.localize('FELLOWSHIP.NPCSheets.equipmentTypes.loot'),
+                    gear: {
+                        label: game.i18n.localize('FELLOWSHIP.OverlordSheet.equipmentTypes.gear'),
                     },
                 },
             },
@@ -493,11 +501,13 @@ export const configSheet = async () => {
                 moveTypes: {
                     basic: {
                         label: game.i18n.localize("FELLOWSHIP.OverlordSheet.moveTypes.basic"),
-                        moves: []
+                        moves: [],
+                        creation: true
                     },
                     core: {
                         label: game.i18n.localize("FELLOWSHIP.OverlordSheet.moveTypes.core"),
-                        moves: []
+                        moves: [],
+                        creation: true
                     },
                     custom: {
                         label: game.i18n.localize("FELLOWSHIP.OverlordSheet.moveTypes.custom"),

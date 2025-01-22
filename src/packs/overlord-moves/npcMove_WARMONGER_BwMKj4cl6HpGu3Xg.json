@@ -1,0 +1,48 @@
+{
+  "folder": "4mW372fRlwUfflkS",
+  "name": "WARMONGER",
+  "type": "npcMove",
+  "_id": "BwMKj4cl6HpGu3Xg",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Choose another option from the Overlord's Armies list. You have acquired that army as well. </p>",
+    "moveType": "custom",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1737521015217,
+    "modifiedTime": 1737521142911,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!BwMKj4cl6HpGu3Xg"
+}

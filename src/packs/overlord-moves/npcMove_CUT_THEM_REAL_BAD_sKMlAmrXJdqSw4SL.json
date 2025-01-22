@@ -1,0 +1,48 @@
+{
+  "folder": "xVso9eHtXGnWs6od",
+  "name": "CUT THEM REAL BAD",
+  "type": "npcMove",
+  "_id": "sKMlAmrXJdqSw4SL",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>When you are physically present,</strong> your Cuts can be as hard as you like.</p>",
+    "moveType": "core",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1737520321911,
+    "modifiedTime": 1737520342786,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!sKMlAmrXJdqSw4SL"
+}

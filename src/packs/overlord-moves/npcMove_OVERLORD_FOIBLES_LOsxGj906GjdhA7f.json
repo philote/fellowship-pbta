@@ -1,0 +1,48 @@
+{
+  "folder": "xVso9eHtXGnWs6od",
+  "name": "OVERLORD FOIBLES",
+  "type": "npcMove",
+  "_id": "LOsxGj906GjdhA7f",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>There is always a catch, when it comes to having unstoppable power. You have some quirks that the fellowship can exploit. You have all of the following vulnerabilities:</p><ul><li><p><strong>You are arrogant:</strong> Every setback is minor and can be dealt with. Everything is fine and you know you cannot lose.</p></li><li><p><strong>You are busy:</strong> The fellowship's destruction is not your actual goal. You have soething you want, and your focus is on getting that. <strong>When you personally engage the fellowship,</strong> your goal is not to kill them all, but to get them out of your way while you do your thing.</p></li><li><p><strong>You are honor bound:</strong> When you make a promise, you will always keep it, even against your better interests. This weakness may seem silly, but it makes for a better game when you can negotiate or gamble with the heroes and they can trust you to keep your end of the deal.</p></li></ul>",
+    "moveType": "core",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1737519917694,
+    "modifiedTime": 1737520033611,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!LOsxGj906GjdhA7f"
+}

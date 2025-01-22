@@ -1,0 +1,35 @@
+{
+  "name": "A traitor",
+  "type": "equipment",
+  "_id": "hAKTUWFYmsX6dIVh",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Use this to make anyone in the scene who is not a part of the fellowship reveal their allegiance to you, complete with a dramatic moment</p>",
+    "uses": 1,
+    "quantity": 1,
+    "weight": 0,
+    "tags": "",
+    "itemType": "",
+    "equipmentType": "gear",
+    "actorType": "fellowship-pbta.overlord"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1737525196853,
+    "modifiedTime": 1737525214332,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!hAKTUWFYmsX6dIVh"
+}

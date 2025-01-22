@@ -1,0 +1,48 @@
+{
+  "folder": "4mW372fRlwUfflkS",
+  "name": "MASTERMIND",
+  "type": "npcMove",
+  "_id": "fj7wnb4pV1oxACUU",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>You now have three Master Plans at once instead of two. Write a new plan immediately, then advance all of your current plans one step.</p>",
+    "moveType": "custom",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1737520811328,
+    "modifiedTime": 1737520827278,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!fj7wnb4pV1oxACUU"
+}

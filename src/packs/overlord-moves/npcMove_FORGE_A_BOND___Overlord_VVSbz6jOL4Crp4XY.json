@@ -1,0 +1,48 @@
+{
+  "name": "FORGE A BOND - Overlord",
+  "type": "npcMove",
+  "_id": "VVSbz6jOL4Crp4XY",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>The Overlord does not make friends. <strong>When you cause great personal harm to someone or their people,</strong> <em>@UUID[Compendium.fellowship-pbta.bond-moves.Item.28gRsLA4GNORvwg6]{Forge a Bond}</em> with them. Your Bonds can only be erased by your own Moves, and you can hold any number of Bonds.</p><p><strong>When you reveal a side of yourself to someone you never intended to share it with,</strong> they may @UUID[Compendium.fellowship-pbta.bond-moves.Item.28gRsLA4GNORvwg6]{Forge a Bond} with you. You cannot erase the Bonds they hold with you, no matter how badly you might want to.</p>",
+    "moveType": "basic",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0
+  },
+  "effects": [],
+  "folder": "25MX1FeyBhRDQlEB",
+  "sort": 150000,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1737518176908,
+    "modifiedTime": 1737518600923,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!VVSbz6jOL4Crp4XY"
+}

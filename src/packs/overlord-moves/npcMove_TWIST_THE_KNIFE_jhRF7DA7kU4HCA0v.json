@@ -1,0 +1,48 @@
+{
+  "name": "TWIST THE KNIFE",
+  "type": "npcMove",
+  "_id": "jhRF7DA7kU4HCA0v",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>When you speak to someone you have a Bond with about your history with them,</strong> you may force them to relive their pain. They must either pay a price, stand down and get out of your way, or attack you, right now, their choice. No matter what they choose, you make a Hard Cut against them.</p>",
+    "moveType": "basic",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0
+  },
+  "effects": [],
+  "folder": "25MX1FeyBhRDQlEB",
+  "sort": 103125,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1737518564040,
+    "modifiedTime": 1737518607112,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!jhRF7DA7kU4HCA0v"
+}

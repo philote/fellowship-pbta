@@ -1,0 +1,48 @@
+{
+  "name": "AN OFFER YOU CAN'T REFUSE",
+  "type": "npcMove",
+  "_id": "BOBrp1ZWbYp6AMDN",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>When a player gets Taken Out in your presence,</strong> you may give them an offer, for their services, for something they hold, or for the end of their life. They may attempt to negotiate, but you do not need to listen. If they accept, you fulfill the deal and then leave the scene. If they refuse, they must roll +Courage.</p>",
+    "moveType": "basic",
+    "rollFormula": "2d6",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": "<p>You are too terrifying, and they take your offer, against their true desires.</p>"
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": "<p>They refuse, and they have one good chance to spite you. They will tell you how. Then, you will tell them what you do to them for it. You may kill them for this.</p>"
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": "<p>Not only do they spite you, but they manage to escape before you can properly punish them for it, ending the scene with you standing there, alone. Tell us of your rage.</p>"
+      }
+    },
+    "uses": 0
+  },
+  "effects": [],
+  "folder": "25MX1FeyBhRDQlEB",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1737517282666,
+    "modifiedTime": 1737518597979,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!BOBrp1ZWbYp6AMDN"
+}

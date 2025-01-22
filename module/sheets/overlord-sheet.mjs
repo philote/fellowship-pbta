@@ -175,7 +175,7 @@ export function OverlordSheetMixin(Base) {
 
 				context.actor.currentArmyDetail = currentArmy.description ?? "";
 			}
-
+			console.log(context.actor.items);
 			return context;
 		}
 

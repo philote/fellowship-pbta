@@ -1,0 +1,35 @@
+{
+  "name": "A clever plan",
+  "type": "equipment",
+  "_id": "NQUVPIcZ6O7dE6eG",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Use this to reveal a trap or escape route just as you make use of it.</p>",
+    "uses": 1,
+    "quantity": 1,
+    "weight": 0,
+    "tags": "",
+    "itemType": "",
+    "equipmentType": "gear",
+    "actorType": "fellowship-pbta.overlord"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1737525100356,
+    "modifiedTime": 1737525118326,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!NQUVPIcZ6O7dE6eG"
+}

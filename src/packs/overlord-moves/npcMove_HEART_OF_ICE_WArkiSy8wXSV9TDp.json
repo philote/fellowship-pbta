@@ -1,0 +1,48 @@
+{
+  "folder": "4mW372fRlwUfflkS",
+  "name": "HEART OF ICE",
+  "type": "npcMove",
+  "_id": "WArkiSy8wXSV9TDp",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>When you deal damage to someone you have a Bond with or who has a Bond with you,</strong> make another Hard Cut against them immediately. The extra Cut cannot be deal damage.</p>",
+    "moveType": "custom",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1737520777559,
+    "modifiedTime": 1737520798789,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!WArkiSy8wXSV9TDp"
+}

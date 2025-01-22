@@ -1,0 +1,48 @@
+{
+  "name": "HEART OF FIRE",
+  "type": "npcMove",
+  "_id": "z0bOds9OGiegaxTq",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>When a player has a Bond with your name in it,</strong> you do not become their Companion, but it still holds sway over you. They may erase that Bond with you at any time to buy themselves reprieve. </p><p><strong>They choose one:</strong> You will show them mercy, tell them something valuable, or ignore them for the time being.</p>",
+    "moveType": "basic",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0
+  },
+  "effects": [],
+  "folder": "25MX1FeyBhRDQlEB",
+  "sort": 125000,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1737518450748,
+    "modifiedTime": 1737518602455,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!z0bOds9OGiegaxTq"
+}

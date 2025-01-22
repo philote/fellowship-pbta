@@ -1,0 +1,48 @@
+{
+  "folder": "4mW372fRlwUfflkS",
+  "name": "NOW WHO TOLD YOU THAT?",
+  "type": "npcMove",
+  "_id": "42BCE4aRSg4Ddnt1",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>When the players use your Weakness against you,</strong> erase that Weakness and choose a new one. The old Weakness was either lies and misinformation, or you have grown past it and it no longer harms you as it once did.</p><p><strong>After you use this Move once,</strong> it is gone forever.</p>",
+    "moveType": "custom",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1737520886012,
+    "modifiedTime": 1737520927468,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!42BCE4aRSg4Ddnt1"
+}

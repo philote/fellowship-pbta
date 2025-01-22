@@ -1,0 +1,48 @@
+{
+  "folder": "xVso9eHtXGnWs6od",
+  "name": "OVERLORD STATS",
+  "type": "npcMove",
+  "_id": "3rK4jEFlCHnh9zkv",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Your stats are not quite the same as the stats of the fellowship. Your stats are statements of truth about you, which you write in yourself. While they are undamaged, they are true - you are Invincible, or you are Made of Fire. While they are damaged, they are not true - you can be harmed, or your touch does not burn them.</p><p>You begin the game with three stats of your own choosing. An Overlord Stat is a word or short phrase naming your advantage, with a short sentence explaining it.</p><p>You can write anything you like, but here's some examples:</p><ul><li><strong>Charming:</strong> No one but the fellowship believe you are evil.</li><li><strong>Flight:</strong> The ground cannot hold you.</li><li><strong>Invincible:</strong> You cannot be hurt.</li><li><strong>Juggernaut:</strong> You can throw and break anything you touch.</li><li><strong>Made Of Fire:</strong> Your touch burns and scars them.</li><li><strong>Mythical:</strong> No one but the fellowship believes you exist.</li><li><strong>Phantom:</strong> You can pass through walls, people, and attacks.</li><li><strong>Rich:</strong> You can buy anyone and anything that can be bought.</li><li><strong>Terrifying:</strong> Where you go, no one holds Hope.</li><li><strong>Unknowable:</strong> No one knows your plans or next actions.</li><li><strong>Untouchable:</strong> None can touch or hold you.</li><li><strong>Warrior:</strong> You are unbeatable in combat.</li></ul><p>The fellowship knows each of your stats, and they will need to form a counter-plan against every single one of them. Your undamaged stats are immutable truths that cannot be contradicted by any means.</p><p><strong>When you advance your plans,</strong> you may heal a stat instead.</p><p><strong>When you seize a new Source of Power,</strong> gain a new stat of your choice. <strong>When you gain or lose a Source of Power,</strong> write down which stat that Source of Power is tied to - if you lose or regain that Source of Power in the future, it takes the stat with it.</p>",
+    "moveType": "core",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1737519036161,
+    "modifiedTime": 1737519821799,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!3rK4jEFlCHnh9zkv"
+}

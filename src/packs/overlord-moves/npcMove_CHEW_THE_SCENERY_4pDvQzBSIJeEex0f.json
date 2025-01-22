@@ -1,0 +1,48 @@
+{
+  "name": "CHEW THE SCENERY",
+  "type": "npcMove",
+  "_id": "4pDvQzBSIJeEex0f",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>When you are physically present,</strong> you can have the Spotlight for as long as you like, when you get it.</p><p>You and your Generals can never be in Despair.</p>",
+    "moveType": "basic",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0
+  },
+  "effects": [],
+  "folder": "25MX1FeyBhRDQlEB",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1737518105605,
+    "modifiedTime": 1737518599431,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!4pDvQzBSIJeEex0f"
+}

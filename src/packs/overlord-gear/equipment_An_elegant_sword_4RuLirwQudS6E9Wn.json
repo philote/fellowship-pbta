@@ -1,0 +1,35 @@
+{
+  "name": "An elegant sword",
+  "type": "equipment",
+  "_id": "4RuLirwQudS6E9Wn",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>exotic in design</p>",
+    "uses": 0,
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"FELLOWSHIP.Tags.equipment.Melee.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Melee.description\"}]",
+    "itemType": "",
+    "equipmentType": "gear",
+    "actorType": "fellowship-pbta.overlord"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1737524945450,
+    "modifiedTime": 1737524966609,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!4RuLirwQudS6E9Wn"
+}

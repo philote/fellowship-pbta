@@ -1,0 +1,22 @@
+{
+  "name": "Core",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "xVso9eHtXGnWs6od",
+  "description": "",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1737518924129,
+    "modifiedTime": 1737518924129,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!folders!xVso9eHtXGnWs6od"
+}

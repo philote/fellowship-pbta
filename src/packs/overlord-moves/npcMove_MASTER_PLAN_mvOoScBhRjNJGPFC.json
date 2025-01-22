@@ -1,0 +1,48 @@
+{
+  "folder": "25MX1FeyBhRDQlEB",
+  "name": "MASTER PLAN",
+  "type": "npcMove",
+  "_id": "mvOoScBhRjNJGPFC",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>The Overlord has a basic plan for what to do with this world, but you do not need to know all of the details. The fellowship can attempt to learn your plans, but this should require them to capture a General, undertake a sneaking mission, or earn it through great peril.</p><p>You begin the game with two New Plans: write down a source of power you wish to seize, and a community you wish to destroy. All plans start at stage 0.</p><p><strong>Whenever the fellowship @UUID[Compendium.fellowship-pbta.basic-moves.Item.fiqSNfOzHK4j8Ral]{Recovers} or the Overlord </strong><em><strong>Levels Up</strong></em><strong>,</strong> you advance your plans. <strong>When the fellowship has A Little Downtime,</strong> you may advance your plans during your turn, but the fellowship will immediately hear about it if you do.</p><p><strong>When you Advance Your Plans,</strong> you choose one of them and move it one step forward. You will always have two plans going at once - whenever you have only one plan left, write a second new plan immediately.</p><p><strong>0) Create A New Plan:</strong> Name a Source of Power you wish to seize or a community you wish to destroy, and write it down.</p><p><strong>1) Begin The Plan:</strong> Your forces move into position to act upon your plan. At this point, the fellowship hears that you are up to something, but not what you are doing or where your forces are.</p><p><strong>2) Execute The Plan:</strong> Your forces take action. The fellowship hears about what you are up to, but stopping you now would be very difficult.</p><p><strong>3) Victory:</strong> You seize the source of power, or destroy the name community. A destroyed community no longer grants Fellowship.</p><p><strong>When you could Advance Your Plans,</strong> you may instead do one of the following: Heal a damaged Overlord stat, recruit a General, or swap an undamaged Overlord stat for a new Overlord stat. Write the new stat now.</p>",
+    "moveType": "basic",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1737518736618,
+    "modifiedTime": 1737518902569,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!mvOoScBhRjNJGPFC"
+}

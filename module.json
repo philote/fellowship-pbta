@@ -65,10 +65,32 @@
   ],
   "packs": [
     {
+      "name": "overlord-gear",
+      "label": "Overlord Gear",
+      "path": "packs/overlord-gear",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
       "name": "overlord",
       "label": "Overlord Info",
       "path": "packs/overlord",
       "type": "JournalEntry",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "overlord-moves",
+      "label": "Overlord Moves",
+      "path": "packs/overlord-moves",
+      "type": "Item",
       "system": "pbta",
       "ownership": {
         "PLAYER": "OBSERVER",
@@ -474,9 +496,11 @@
   ],
   "packFolders": [
     {
-      "name": "Documents",
+      "name": "The Overlord",
       "packs": [
-        "overlord"
+        "overlord",
+        "overlord-moves",
+        "overlord-gear"
       ],
       "folders": []
     },

@@ -1,0 +1,48 @@
+{
+  "folder": "xVso9eHtXGnWs6od",
+  "name": "OVERLORD DAMAGE",
+  "type": "npcMove",
+  "_id": "IH9RHmYPZG5nk2zl",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>You are difficult to harm, but it is not impossible. <strong>When you would take damage,</strong> they must first pay a price for each undamaged stat you have. If you would be destroyed, instead damage one of your stats at no cost to your attacker. <strong>If you take damage or are destroyed while none of your stats remain, you are finally defeated,</strong> once and for all. There is no coming back for you.</p><p>Your supreme power comes with some downsides. Most notably, they can harm you without ever being near you. <strong>If the fellowship seizes a Source of Power,</strong> they may use it to erase one of your stats forever. You can never get that stat back unless you can take control of that specific Source of Power.</p><p><strong>When the fellowship Recovers,</strong> heal one of your damaged stats.</p>",
+    "moveType": "core",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1737520147356,
+    "modifiedTime": 1737520294146,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!IH9RHmYPZG5nk2zl"
+}

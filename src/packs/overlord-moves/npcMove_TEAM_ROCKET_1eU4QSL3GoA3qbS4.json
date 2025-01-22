@@ -1,0 +1,48 @@
+{
+  "folder": "4mW372fRlwUfflkS",
+  "name": "TEAM ROCKET",
+  "type": "npcMove",
+  "_id": "1eU4QSL3GoA3qbS4",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Choose up to three minions from your Army and name them. <strong>When they work together,</strong> these minions cannot be damaged or destroyed - whenever one of them would be, they all retreat from the scene. This group will tenaciously follow the fellowship for the rest of the campaign, informing you of where they are and what they've done recently. <strong>If the fellowship recruits them as Companions,</strong> it is only temporary - you can erase all Bonds the fellowship holds with them at any time.</p>",
+    "moveType": "custom",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1737520941939,
+    "modifiedTime": 1737521000262,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!1eU4QSL3GoA3qbS4"
+}

@@ -1,0 +1,48 @@
+{
+  "folder": "4mW372fRlwUfflkS",
+  "name": "NO MORE GAMES",
+  "type": "npcMove",
+  "_id": "68APH2u9wVbfxQPL",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>When you next face off with the fellowship,</strong> as soon as the talking is done, one of them is immediately Taken Out (ask for a volunteer). They take damage to all of their stats and they are out for the rest of the scene. The rest of the fellowship cannot oppose you this scene, and you get away with what you want before taunting them and leaving.</p>",
+    "moveType": "custom",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1737520846562,
+    "modifiedTime": 1737520868909,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!68APH2u9wVbfxQPL"
+}

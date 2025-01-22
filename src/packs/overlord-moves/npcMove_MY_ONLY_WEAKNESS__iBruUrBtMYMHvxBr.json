@@ -1,0 +1,48 @@
+{
+  "folder": "xVso9eHtXGnWs6od",
+  "name": "MY ONLY WEAKNESS!",
+  "type": "npcMove",
+  "_id": "iBruUrBtMYMHvxBr",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>You have a Weakness.</strong> There is a single material, item, charm, ritual, or spell that you are vulnerable to. </p><p>The other players will know your Weakness, but the fellowship they are playing as does not. Unless they have something that tells them your Weakness, they will need to discover it through play.</p><p><strong>When you are exposed to your Weakness,</strong> one of your stats is immediately damaged, their choice. Your stats and your moves cannot protect you from your Weakness, but it can only hurt you once per scene.</p>",
+    "moveType": "core",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1737519846693,
+    "modifiedTime": 1737519902754,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!iBruUrBtMYMHvxBr"
+}

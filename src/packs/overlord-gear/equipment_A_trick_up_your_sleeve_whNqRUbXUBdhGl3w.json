@@ -1,0 +1,35 @@
+{
+  "name": "A trick up your sleeve",
+  "type": "equipment",
+  "_id": "whNqRUbXUBdhGl3w",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Use this to produce anything you could possibly need, right now.</p>",
+    "uses": 1,
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"FELLOWSHIP.Tags.equipment.Useful.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Useful.description\"}]",
+    "itemType": "",
+    "equipmentType": "gear",
+    "actorType": "fellowship-pbta.overlord"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1737525163182,
+    "modifiedTime": 1737525185084,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!items!whNqRUbXUBdhGl3w"
+}

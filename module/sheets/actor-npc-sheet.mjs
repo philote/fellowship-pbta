@@ -57,6 +57,8 @@ export function FellowshipActorNpcSheetMixin(Base) {
           }
         }
       }
+
+      console.log(context.actor.items);
 			return context;
 		}
 
