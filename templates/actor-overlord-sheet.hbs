@@ -78,7 +78,7 @@
 
 		<section class="sheet-bottom flexrow">
 			{{!-- Sidebar --}}
-			<section>
+			<section class="sidebar">
 				<div class="cell cell--aesthetics">
 					{{> "pbta.actor-attributes" attrs=system.attrLeft cssClass="cell--attributes-left" owner=owner editable=editable}}
 					{{{localize "FELLOWSHIP.OverlordSheet.attr.thirdAgenda.description"}}}
@@ -123,7 +123,7 @@
 					{{> "modules/fellowship-pbta/templates/parts/actor-overlord-inventory.hbs" }}
 
 					{{!-- Advancements Tab --}}
-					{{> "modules/fellowship-pbta/templates/parts/actor-advancements.hbs" }}
+					{{> "modules/fellowship-pbta/templates/parts/actor-overlord-advancements.hbs" }}
 				</section>
 			</section>
 		</section>

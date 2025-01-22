@@ -1,0 +1,25 @@
+<div class="tab advancements" data-group="primary" data-tab="advancements">
+	<div class="sheet-tab">
+		<div class="column">
+			<label class="cell__title">
+				{{system.attributes.level.label}}
+				<input type="number" name="system.attributes.level.value" value="{{system.attributes.level.value}}" data-dtype="Number"/>
+			</label>
+			<p>{{system.attributes.level.description}}</p>
+			{{{localize "FELLOWSHIP.OverlordSheet.attr.level.advancement"}}}
+		</div>
+		<div class="column">
+			<span class="cell__title">{{localize "FELLOWSHIP.OverlordSheet.attr.bonds.label"}}</span>
+			<p>{{localize "FELLOWSHIP.OverlordSheet.attr.bonds.description"}}</p>
+			{{editor
+				system.attrTop.bonds.enriched
+				target=system.attrTop.bonds.attrName
+				button=true
+				owner=@root.owner
+				editable=@root.editable
+				engine="prosemirror"
+				collaborate=false
+			}}
+		</div>
+	</div>
+</div>

@@ -1,9 +1,33 @@
 <div class="tab equipment" data-group="primary" data-tab="equipment">
-	<section class="sheet-notifications">
-		{{#if isToken}}
-		<div class="cell__title warning small-text">{{localize "PBTA.Warnings.UnlinkedToken.Equipment"}}</div>
-		{{/if}}
-	</section>
+	<div class="sheet-columns">
+		<div class="column">
+			<label class="cell__title">{{localize "FELLOWSHIP.OverlordSheet.attr.army.label"}}</label>
+			<select name="system.attributes.army.value">
+				{{selectOptions 
+					actor.armyOptions 
+					selected=system.attributes.army.value 
+					valueAttr="key" 
+					labelAttr="label"
+					blank="-"
+					sort=true
+				}}
+			</select>
+			<span>{{actor.currentArmyDetail}}</span>
+		</div>
+		<div class="column">
+			<label class="cell__title">{{localize "FELLOWSHIP.OverlordSheet.attr.generals.label"}}</label>
+			<span>{{localize "FELLOWSHIP.OverlordSheet.attr.generals.description"}}</span>
+			{{editor
+				system.attrTop.generals.enriched
+				target=system.attrTop.generals.attrName
+				button=true
+				owner=@root.owner
+				editable=@root.editable
+				engine="prosemirror"
+				collaborate=false
+			}}
+		</div>
+	</div>
 
 	{{#each equipment as |equipmentGroup equipmentKey|}}
 		<div class="cell cell--equipment cell--group cell--{{equipmentKey}}" data-key="{{equipmentKey}}">

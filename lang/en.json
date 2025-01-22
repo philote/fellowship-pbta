@@ -272,16 +272,38 @@
 				},
 				"army": {
 					"label": "THE OVERLORD'S ARMIES",
-					"description": "Choose the option that best represents your people. The option you choose gives you access to that category of enemies in the Overlord's Toolbox, to serve you and do your bidding in whatever ways you'd like. You may still use the options you do not choose to threaten the fellowship, but they do not serve the Overlord."
+					"description": "Choose the option that best represents your people. The option you choose gives you access to that category of enemies in the Overlord's Toolbox, to serve you and do your bidding in whatever ways you'd like. You may still use the options you do not choose to threaten the fellowship, but they do not serve the Overlord.",
+					"options": {
+						"horde": {
+							"label": "THE HORDE",
+							"description": "Your armies are endless, swarming wherever you need them. This army is simply massive, as each enemy is its own swarm or group of enemies, before you get into Groups or Gangs. Nothing can escape their swarming numbers."
+						},
+						"organization": {
+							"label": "THE ORGANIZATION",
+							"description": "You have an elite group whose membership mirrors that of the fellowship, but twisted. The Organization does not form a proper army, and your forces are basically a large group of mini-bosses. They will compete with the fellowship in a rivalry fashion, racing them to Sources of Power and trying to undermine their plans."
+						},
+						"scourge": {
+							"label": "THE SCOURGE",
+							"description": "You and your armies spread corruption and blight, and those tainted by it join you and your cause. Tell us how your blight spreads, and what it looks like. Your blight leaves corrupted zones, corrupted creatures, and undead warriors wherever it touches."
+						},
+						"titans": {
+							"label": "THE TITANS",
+							"description": "Your armies are small in number, but not in stature. Your forces are massive titans, nearly unbeatable without heavy firepower and teamwork. Your army is easily avoided and run away from, but only the heaviest of fortifications and the strongest of armies will slow them, and nothing can stop them."
+						}
+					}
+				},
+				"generals": {
+					"label": "YOUR GENERALS",
+					"description": "Record your Generals here."
 				},
 				"weakness": {
 					"label": "WEAKNESS",
 					"description": "There is a single material, item, charm, ritual, or spell that you are vulnerable to. This is your Weakness."
 				},
 				"bonds": {
-					"label": "OVERLORD BONDS",
+					"label": "BONDS",
 					"description": "You start with one Bond with each member of the fellowship. Each other player writes their name into one of these Bonds:",
-					"value": "<p>I destroyed<span style=\"text-decoration: underline;\"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>'s hometown.</p><p>I have caused great harm to<span style=\"text-decoration: underline;\"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>'s people.</p><p>I killed someone important to<span style=\"text-decoration: underline;\"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>.</p><p><span style=\"text-decoration: underline;\"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>killed someone important to me.</p><p><span style=\"text-decoration: underline;\"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>knows the details of my previous defeat.</p><p><span style=\"text-decoration: underline;\"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>'s people serve me now.</p><p>Only<span style=\"text-decoration: underline;\"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>knows my Weaknesses.</p><p>I have fought<span style=\"text-decoration: underline;\"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>before, and left a wound upon them. It burns in my presence.</p><p><span style=\"text-decoration: underline;\"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>was once my friend.</p><p><span style=\"text-decoration: underline;\"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>secretly admires me and the things I do.</p><p><b>Record your other bonds here:</b></p>"
+					"value": "<p>I destroyed<span style=\"text-decoration: underline;\"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>'s hometown.<br>I have caused great harm to<span style=\"text-decoration: underline;\"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>'s people.<br>I killed someone important to<span style=\"text-decoration: underline;\"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>.<br><span style=\"text-decoration: underline;\"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>killed someone important to me.<br><span style=\"text-decoration: underline;\"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>knows the details of my previous defeat.<br><span style=\"text-decoration: underline;\"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>'s people serve me now.<br>Only<span style=\"text-decoration: underline;\"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>knows my Weaknesses.<br>I have fought<span style=\"text-decoration: underline;\"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>before, and left a wound upon them. It burns in my presence.<br><span style=\"text-decoration: underline;\"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>was once my friend.<br><span style=\"text-decoration: underline;\"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>secretly admires me and the things I do.</p> <p><b>Record your other bonds here:</b></p>"
 				},
 				"secretReason": {
 					"label": "Secret Motivation",
@@ -297,7 +319,8 @@
 				},
 				"level": {
 					"label": "LEVEL",
-					"description": "When you Level Up, increase your level by 1, then do all of the following:"
+					"description": "When you Level Up, increase your level by 1, then do all of the following:",
+					"advancement": "<ul><li><b>Choose one:</b> Gain an Overlord Custom or recruit a General, gaining a Bond with them immediately.</li><li><b><i>Forge a Bond</i></b> with anyone, fellowship or otherwise. The Bond you write is an immutable truth about them, and you can <i>Command Lore</i> about anyone you have a Bond with who is not a part of the fellowship.</li><li><b>Advance your plans</b> (see the Overlord Basic Move <i>Master Plan</i>).</li></ul>"
 				}
 			},
 			"principles": {

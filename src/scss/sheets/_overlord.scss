@@ -1,7 +1,30 @@
 @use '../base/colors' as *;
 
 .pbta.sheet.npc {
+
     form.overlord {
+
+        select {
+            width: 100%;
+        }
+
+        .cell--image img {
+            max-height: 180px;
+        }
+
+        .cell--aesthetics {
+            width: 180px;
+        }
+
+        .sidebar {
+            flex: 0;
+        }
+
+        .sheet-wrapper 
+        .editor-container {
+            min-height: 300px;
+        }
+        
         .sheet-wrapper 
         .sheet-top 
         .sheet-attributes {
@@ -93,18 +116,57 @@
                 gap: 8px;
                 padding-top: 4px;
 
+                .cell__title {
+                    justify-content:flex-start;
+                    gap: 8px;
+
+                    input[type="number"] {
+                        max-width: 30px;   
+                    }
+                }
+
                 .add-secret {
                     margin-bottom: 10px;
                 }
+            }
 
-                .column {
-                    flex: 1;
-                    display: flex;
-                    flex-direction: column;
-                    width: fit-content;
-                    gap: 8px;
+            .sheet-columns {
+                display: flex;
+                flex-direction: row;
+                gap: 8px;
+                margin-bottom: 8px;
+            }
+
+            .column {
+                flex: 1;
+                display: flex;
+                flex-direction: column;
+                width: fit-content;
+                gap: 8px;
+                width: 100%;
+
+                .editor-content{
+                    min-height: 100px;
                 }
             }
+            // .advancements 
+            // .sheet-tab {
+            //     display: flex;
+            //     flex-flow: row wrap;
+            //     justify-content: space-between;
+            //     align-content: flex-start;
+
+            //     .cell--bio {
+            //         flex-basis: 100%;
+            //         margin-top: 10px;
+            //         .editor-content {
+            //             min-height: 100px;
+            //         }
+            //     }
+            //     &:first-child {
+            //         margin-top: 0px;
+            //     }
+            // }
         }
     }
 }

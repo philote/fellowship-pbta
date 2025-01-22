@@ -128,6 +128,54 @@ export function OverlordSheetMixin(Base) {
 				),
 			};
 
+			context.actor.armyOptions = [
+				{
+					key: "horde",
+					label: game.i18n.localize(
+						"FELLOWSHIP.OverlordSheet.attr.army.options.horde.label"
+					),
+					description: game.i18n.localize(
+						"FELLOWSHIP.OverlordSheet.attr.army.options.horde.description"
+					),
+				},
+				{
+					key: "organization",
+					label: game.i18n.localize(
+						"FELLOWSHIP.OverlordSheet.attr.army.options.organization.label"
+					),
+					description: game.i18n.localize(
+						"FELLOWSHIP.OverlordSheet.attr.army.options.organization.description"
+					),
+				},
+				{
+					key: "scourge",
+					label: game.i18n.localize(
+						"FELLOWSHIP.OverlordSheet.attr.army.options.scourge.label"
+					),
+					description: game.i18n.localize(
+						"FELLOWSHIP.OverlordSheet.attr.army.options.scourge.description"
+					),
+				},
+				{
+					key: "titans",
+					label: game.i18n.localize(
+						"FELLOWSHIP.OverlordSheet.attr.army.options.titans.label"
+					),
+					description: game.i18n.localize(
+						"FELLOWSHIP.OverlordSheet.attr.army.options.titans.description"
+					),
+				},
+			];
+			context.actor.currentArmyDetail = "";
+			if (context.actor.system.attributes.army.value) {
+				const currentArmy = context.actor.armyOptions.find(
+					(army) =>
+						army.key === context.actor.system.attributes.army.value
+				);
+
+				context.actor.currentArmyDetail = currentArmy.description ?? "";
+			}
+
 			return context;
 		}
 
@@ -178,10 +226,8 @@ export function OverlordSheetMixin(Base) {
 			event.preventDefault();
 			const journalUuid = event.target.dataset.journaluuid;
 			const pageId = event.target.dataset.pageid;
-			console.log(journalUuid);
 			try {
 				const journalEntry = await fromUuid(journalUuid);
-				console.log(journalEntry);
 				if (journalEntry) {
 					journalEntry.sheet.render(true, { pageId: pageId });
 				} else {
@@ -220,7 +266,7 @@ export function OverlordSheetMixin(Base) {
 			const item = this.actor.items.get(itemId);
 			switch (action) {
 				case "create": {
-					console.log(await item.update({ "system.create": !item.system.create }));
+					await item.update({ "system.create": !item.system.create });
 					break;
 				}
 				case "begin": {

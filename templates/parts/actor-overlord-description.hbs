@@ -5,13 +5,6 @@
 				type="button" 
 				class="open-journal" 
 				data-journaluuid="Compendium.fellowship-pbta.overlord.JournalEntry.Wspo5QWJyqQdielu" 
-				data-pageid="3BcoC6S5r2eEyt4P">
-				<i class="fa-solid fa-eye"></i>{{localize "FELLOWSHIP.OverlordSheet.principles.button"}}
-			</button>
-			<button 
-				type="button" 
-				class="open-journal" 
-				data-journaluuid="Compendium.fellowship-pbta.overlord.JournalEntry.Wspo5QWJyqQdielu" 
 				data-pageid="ij0dViFGsXmi0w57">
 				<i class="fa-solid fa-eye"></i>{{localize "FELLOWSHIP.OverlordSheet.masterPlan.button"}}
 			</button>
@@ -102,13 +95,22 @@
 			</div>
 		</div>
 		<div class="column">
-			<button 
-				type="button" 
-				class="open-journal" 
-				data-journaluuid="Compendium.fellowship-pbta.overlord.JournalEntry.Wspo5QWJyqQdielu" 
-				data-pageid="PBTrM0AWIri4ICZJ">
-				<i class="fa-solid fa-eye"></i>{{localize "FELLOWSHIP.OverlordSheet.cuts.button"}}
-			</button>
+			<div class="flexrow">
+				<button 
+					type="button" 
+					class="open-journal" 
+					data-journaluuid="Compendium.fellowship-pbta.overlord.JournalEntry.Wspo5QWJyqQdielu" 
+					data-pageid="3BcoC6S5r2eEyt4P">
+					<i class="fa-solid fa-eye"></i>{{localize "FELLOWSHIP.OverlordSheet.principles.button"}}
+				</button>
+				<button 
+					type="button" 
+					class="open-journal" 
+					data-journaluuid="Compendium.fellowship-pbta.overlord.JournalEntry.Wspo5QWJyqQdielu" 
+					data-pageid="PBTrM0AWIri4ICZJ">
+					<i class="fa-solid fa-eye"></i>{{localize "FELLOWSHIP.OverlordSheet.cuts.button"}}
+				</button>
+			</div>
 			<div>
 				<label class="cell__title">{{localize "FELLOWSHIP.OverlordSheet.attr.extraCut.label"}}</label>
 				{{#if actor.agenda.extraCut}}

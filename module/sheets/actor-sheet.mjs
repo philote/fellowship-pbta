@@ -2,6 +2,14 @@ import * as utils from "../helpers/utils.mjs";
 
 export function FellowshipActorSheetMixin(Base) {
     return class FellowshipActorSheet extends Base {
+        /** @override */
+		static get defaultOptions() {
+			return foundry.utils.mergeObject(super.defaultOptions, {
+				classes: ["pbta", "sheet", "actor", "character"],
+				width: 750,
+				height: 750,
+			});
+		}
 
         /** @override */
 		get template() {

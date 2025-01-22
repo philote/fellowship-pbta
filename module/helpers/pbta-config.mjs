@@ -447,6 +447,15 @@ export const configSheet = async () => {
                         position: 'Top',
                         value: ""
                     },
+                    generals: {
+                        type: "LongText",
+                        label: game.i18n.localize('FELLOWSHIP.OverlordSheet.attr.generals.label'),
+                        description: game.i18n.localize('FELLOWSHIP.OverlordSheet.attr.generals.description'),
+                        customLabel: false,
+                        userLabel: false,
+                        position: 'Top',
+                        value: ""
+                    },
                     bonds: {
                         type: "LongText",
                         label: game.i18n.localize('FELLOWSHIP.OverlordSheet.attr.bonds.label'),
@@ -467,8 +476,8 @@ export const configSheet = async () => {
                     },
                     level: {
                         type: "Number",
-                        label: game.i18n.localize('FELLOWSHIP.OverlordSheet.attr.weakness.label'),
-                        description: game.i18n.localize('FELLOWSHIP.OverlordSheet.attr.weakness.description'),
+                        label: game.i18n.localize('FELLOWSHIP.OverlordSheet.attr.level.label'),
+                        description: game.i18n.localize('FELLOWSHIP.OverlordSheet.attr.level.description'),
                         customLabel: false,
                         userLabel: false,
                         position: 'Top',

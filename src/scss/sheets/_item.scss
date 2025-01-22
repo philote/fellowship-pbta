@@ -61,6 +61,13 @@
         .sheet-body .flexrow {
             margin-top: 10px;
         }
+        
+        .stageZero {
+            display: flex;
+            flex-direction: column;
+            flex-wrap: nowrap;
+            justify-content: flex-start;
+        }
 
         .notes {
             margin-top: 20px;

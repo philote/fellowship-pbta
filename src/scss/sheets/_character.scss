@@ -1,6 +1,18 @@
 @use '../base/colors' as *;
 
 .pbta.sheet.character {
+    min-width: 700px;
+    .cell--image img {
+        max-height: 180px;
+    }
+
+    .cell--aesthetics {
+        width: 180px;
+    }
+
+    .sidebar {
+        flex: 0;
+    }
     // stats
     .sheet-attributes 
     .cell--stats 
