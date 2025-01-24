@@ -298,7 +298,7 @@
 				},
 				"weakness": {
 					"label": "WEAKNESS",
-					"description": "There is a single material, item, charm, ritual, or spell that you are vulnerable to. This is your Weakness."
+					"description": "There is a single material, item, charm, ritual, or spell that you are vulnerable to."
 				},
 				"bonds": {
 					"label": "BONDS",
