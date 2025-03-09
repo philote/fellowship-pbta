@@ -3,7 +3,7 @@
   "name": "Burglar's Gear",
   "type": "equipment",
   "_id": "jraDIPQknybnK1F2",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/containers/bags/satchel-leather-white-tan.webp",
   "system": {
     "description": "",
     "uses": 2,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155531211,
-    "modifiedTime": 1737158611864,
+    "modifiedTime": 1739052337317,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!jraDIPQknybnK1F2"

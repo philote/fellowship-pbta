@@ -2,7 +2,7 @@
   "name": "Taboo",
   "type": "npc",
   "_id": "f8js32XItpCOUDcR",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "icons/magic/symbols/runes-etched-steel-blade.webp",
   "system": {
     "stats": {},
     "attributes": {
@@ -95,7 +95,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "icons/svg/mystery-man.svg",
+      "src": "icons/magic/symbols/runes-etched-steel-blade.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -223,7 +223,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737172449001,
-    "modifiedTime": 1737172486564,
+    "modifiedTime": 1739057845451,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!actors!f8js32XItpCOUDcR"

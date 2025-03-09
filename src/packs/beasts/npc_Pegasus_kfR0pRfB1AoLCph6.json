@@ -2,7 +2,7 @@
   "name": "Pegasus",
   "type": "npc",
   "_id": "kfR0pRfB1AoLCph6",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "icons/environment/creatures/horse-white.webp",
   "system": {
     "stats": {},
     "attributes": {
@@ -95,7 +95,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "icons/svg/mystery-man.svg",
+      "src": "icons/environment/creatures/horse-white.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -223,7 +223,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737150574170,
-    "modifiedTime": 1737150627290,
+    "modifiedTime": 1739058399928,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!actors!kfR0pRfB1AoLCph6"

@@ -2,7 +2,7 @@
   "name": "Giant Spider",
   "type": "npc",
   "_id": "V7n7PpJLtDtJVejt",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "icons/creatures/invertebrates/spider-mandibles-brown.webp",
   "system": {
     "stats": {},
     "attributes": {
@@ -95,7 +95,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "icons/svg/mystery-man.svg",
+      "src": "icons/environment/creatures/bug-spider-blue.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -255,7 +255,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737146605151,
-    "modifiedTime": 1737146678371,
+    "modifiedTime": 1739058335680,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!actors!V7n7PpJLtDtJVejt"

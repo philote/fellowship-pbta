@@ -3,7 +3,7 @@
   "name": "The leylines of magic",
   "type": "equipment",
   "_id": "Ozt3cVLPs3YPEGDq",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/skills/trades/academics-astronomy-navigation-purple.webp",
   "system": {
     "description": "<p>The leylines of magic that hold reality together <em>(2 Uses). You can Use this connection to the leylines</em> to access a sealed location, or seal off an accessible location, bending space to accomodate your need.</p>",
     "uses": 2,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155522225,
-    "modifiedTime": 1737155522225,
+    "modifiedTime": 1739056835022,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!Ozt3cVLPs3YPEGDq"

@@ -3,7 +3,7 @@
   "name": "Purse full of foreign coins",
   "type": "equipment",
   "_id": "NY0JeD75FrwrgK8T",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/commodities/currency/coins-leather-pouch-stone.webp",
   "system": {
     "description": "",
     "uses": 2,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155531211,
-    "modifiedTime": 1737158835761,
+    "modifiedTime": 1739056072910,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!NY0JeD75FrwrgK8T"

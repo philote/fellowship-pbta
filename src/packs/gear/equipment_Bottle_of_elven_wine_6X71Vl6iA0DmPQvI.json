@@ -2,7 +2,7 @@
   "folder": null,
   "name": "Bottle of elven wine",
   "type": "equipment",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/consumables/drinks/wine-amphora-clay-gray.webp",
   "system": {
     "description": "",
     "uses": 2,
@@ -26,7 +26,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155531211,
-    "modifiedTime": 1737158556036,
+    "modifiedTime": 1739052119373,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_id": "6X71Vl6iA0DmPQvI",

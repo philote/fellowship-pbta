@@ -3,7 +3,7 @@
   "name": "Rifle",
   "type": "equipment",
   "_id": "0WW25Ew9cu7Q56Hu",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/weapons/guns/gun-purple.webp",
   "system": {
     "description": "",
     "uses": 0,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155446289,
-    "modifiedTime": 1737158288748,
+    "modifiedTime": 1739053830260,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!0WW25Ew9cu7Q56Hu"

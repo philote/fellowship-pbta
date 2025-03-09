@@ -3,7 +3,7 @@
   "name": "A friend in need",
   "type": "equipment",
   "_id": "QR7m7GywtyGzu6ZX",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/skills/social/diplomacy-handshake-yellow.webp",
   "system": {
     "description": "<p>A friend in need <em>(1 Use). </em>Use this to have someone helpful show up, right now.</p>",
     "uses": 1,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155467580,
-    "modifiedTime": 1737155467580,
+    "modifiedTime": 1739057229946,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!QR7m7GywtyGzu6ZX"

@@ -3,7 +3,7 @@
   "name": "Simple sword",
   "type": "equipment",
   "_id": "D07ZQa3oyKALS115",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/weapons/swords/greatsword-blue.webp",
   "system": {
     "description": "",
     "uses": 0,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155467580,
-    "modifiedTime": 1737155467580,
+    "modifiedTime": 1739053984378,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!D07ZQa3oyKALS115"

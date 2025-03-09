@@ -3,7 +3,7 @@
   "name": "Cunning as can be",
   "type": "equipment",
   "_id": "5ixe2xcN9w1DVx0u",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/magic/control/mouth-smile-deception-purple.webp",
   "system": {
     "description": "<p>Cunning as can be <em>(2 Uses). </em>Use this to <em>Look Closely</em> without rolling, asking one question from the list.</p>",
     "uses": 2,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155500213,
-    "modifiedTime": 1737155500213,
+    "modifiedTime": 1739054455642,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!5ixe2xcN9w1DVx0u"

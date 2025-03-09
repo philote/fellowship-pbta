@@ -3,7 +3,7 @@
   "name": "Beautiful blade",
   "type": "equipment",
   "_id": "8HIDw7I4vLw8hBqP",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/weapons/swords/sword-guard-engraved.webp",
   "system": {
     "description": "<p>A beautiful blade with a long and storied past</p>",
     "uses": 0,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155512400,
-    "modifiedTime": 1737155512400,
+    "modifiedTime": 1739052070530,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!8HIDw7I4vLw8hBqP"

@@ -3,7 +3,7 @@
   "name": "Wizardly baubles",
   "type": "equipment",
   "_id": "GWqZeFjx0hUwxduw",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/equipment/neck/pendant-faceted-silver-green.webp",
   "system": {
     "description": "",
     "uses": 2,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155522225,
-    "modifiedTime": 1737155522225,
+    "modifiedTime": 1739054872997,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!GWqZeFjx0hUwxduw"

@@ -3,7 +3,7 @@
   "name": "Some loot",
   "type": "equipment",
   "_id": "9vjqitGm8MnbQORx",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/containers/chest/chest-reinforced-steel-red.webp",
   "system": {
     "description": "",
     "uses": 1,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155500213,
-    "modifiedTime": 1737155500213,
+    "modifiedTime": 1739056154442,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!9vjqitGm8MnbQORx"

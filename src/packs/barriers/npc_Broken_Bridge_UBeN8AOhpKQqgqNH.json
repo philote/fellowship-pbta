@@ -2,7 +2,7 @@
   "name": "Broken Bridge",
   "type": "npc",
   "_id": "UBeN8AOhpKQqgqNH",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "icons/environment/settlement/building-rubble.webp",
   "system": {
     "stats": {},
     "attributes": {
@@ -95,7 +95,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "icons/svg/mystery-man.svg",
+      "src": "icons/environment/settlement/building-rubble.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -255,7 +255,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737171525885,
-    "modifiedTime": 1737171544628,
+    "modifiedTime": 1739057525352,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!actors!UBeN8AOhpKQqgqNH"

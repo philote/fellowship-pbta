@@ -3,7 +3,7 @@
   "name": "Bag of gems or gold",
   "type": "equipment",
   "_id": "n9YbY9Foa0wQU2nE",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/commodities/currency/coins-plain-pouch-gold.webp",
   "system": {
     "description": "",
     "uses": 2,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155446289,
-    "modifiedTime": 1737158277096,
+    "modifiedTime": 1739051797243,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!n9YbY9Foa0wQU2nE"

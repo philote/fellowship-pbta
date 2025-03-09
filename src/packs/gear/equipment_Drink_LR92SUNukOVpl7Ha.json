@@ -3,7 +3,7 @@
   "name": "Drink",
   "type": "equipment",
   "_id": "LR92SUNukOVpl7Ha",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/sundries/survival/wetskin-leather-red.webp",
   "system": {
     "description": "",
     "uses": 2,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155512400,
-    "modifiedTime": 1737158641446,
+    "modifiedTime": 1739052453167,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!LR92SUNukOVpl7Ha"

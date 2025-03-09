@@ -2,7 +2,7 @@
   "folder": null,
   "name": "2nd Orc-Made weapon",
   "type": "equipment",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/weapons/clubs/club-barbed-skull.webp",
   "system": {
     "description": "<p>Orc-Made weapons, as per the <em>Fires of Industry </em>move</p>",
     "uses": 0,
@@ -26,7 +26,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155500213,
-    "modifiedTime": 1737155500213,
+    "modifiedTime": 1739050524497,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_id": "UWhZCwattFV0aQgE",

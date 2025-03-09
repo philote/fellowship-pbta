@@ -3,7 +3,7 @@
   "name": "Dwarven hardtack",
   "type": "equipment",
   "_id": "94zS9UySeWBY8Kt0",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/consumables/grains/pastry-bread-brown.webp",
   "system": {
     "description": "",
     "uses": 5,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155446289,
-    "modifiedTime": 1737155446289,
+    "modifiedTime": 1739052546317,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!94zS9UySeWBY8Kt0"

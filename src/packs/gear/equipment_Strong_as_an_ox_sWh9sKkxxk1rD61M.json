@@ -3,7 +3,7 @@
   "name": "Strong as an ox",
   "type": "equipment",
   "_id": "sWh9sKkxxk1rD61M",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/magic/control/buff-strength-muscle-damage-orange.webp",
   "system": {
     "description": "<p>Strong as an ox <em>(2 Uses). </em>Use this to smash through a wall or door.</p>",
     "uses": 2,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155500213,
-    "modifiedTime": 1737155500213,
+    "modifiedTime": 1739056364470,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!sWh9sKkxxk1rD61M"

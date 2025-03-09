@@ -2,7 +2,7 @@
   "name": "Donkey",
   "type": "npc",
   "_id": "bA9JxpcySEHQMG7g",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "icons/environment/creatures/horse-brown.webp",
   "system": {
     "stats": {},
     "attributes": {
@@ -95,7 +95,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "icons/svg/mystery-man.svg",
+      "src": "icons/environment/creatures/horse-brown.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -223,7 +223,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737146447225,
-    "modifiedTime": 1737146517143,
+    "modifiedTime": 1739057914599,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!actors!bA9JxpcySEHQMG7g"

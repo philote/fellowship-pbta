@@ -3,7 +3,7 @@
   "name": "Hunter's bow",
   "type": "equipment",
   "_id": "MoaO3M3MjPEi7I4p",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/weapons/bows/shortbow-recurve-red.webp",
   "system": {
     "description": "",
     "uses": 3,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155455969,
-    "modifiedTime": 1737155455969,
+    "modifiedTime": 1739053656929,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!MoaO3M3MjPEi7I4p"

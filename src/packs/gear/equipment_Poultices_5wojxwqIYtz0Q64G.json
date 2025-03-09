@@ -3,7 +3,7 @@
   "name": "Poultices",
   "type": "equipment",
   "_id": "5wojxwqIYtz0Q64G",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/tools/laboratory/mortar-powder-green.webp",
   "system": {
     "description": "",
     "uses": 2,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155512400,
-    "modifiedTime": 1737155512400,
+    "modifiedTime": 1739056050103,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!5wojxwqIYtz0Q64G"

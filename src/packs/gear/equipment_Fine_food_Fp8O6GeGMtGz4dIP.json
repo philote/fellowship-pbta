@@ -3,7 +3,7 @@
   "name": "Fine food",
   "type": "equipment",
   "_id": "Fp8O6GeGMtGz4dIP",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/consumables/food/plate-fish-grilled-brown.webp",
   "system": {
     "description": "",
     "uses": 3,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155512400,
-    "modifiedTime": 1737155512400,
+    "modifiedTime": 1739052643385,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!Fp8O6GeGMtGz4dIP"

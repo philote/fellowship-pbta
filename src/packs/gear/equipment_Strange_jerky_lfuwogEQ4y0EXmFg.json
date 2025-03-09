@@ -3,7 +3,7 @@
   "name": "Strange jerky",
   "type": "equipment",
   "_id": "lfuwogEQ4y0EXmFg",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/consumables/food/steak-aged-brown.webp",
   "system": {
     "description": "",
     "uses": 3,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155500213,
-    "modifiedTime": 1737155500213,
+    "modifiedTime": 1739056327298,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!lfuwogEQ4y0EXmFg"

@@ -3,7 +3,7 @@
   "name": "Adventuring contract",
   "type": "equipment",
   "_id": "YJ1VOX2DQP8Knjk3",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/sundries/scrolls/scroll-bound-tan-leather.webp",
   "system": {
     "description": "<p>An adventuring contract, with all the terms and conditions in writing <em>(1 Use). </em>You can Use this item to win an argument with another player.</p>",
     "uses": 1,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155531211,
-    "modifiedTime": 1737155531211,
+    "modifiedTime": 1739051365795,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!YJ1VOX2DQP8Knjk3"

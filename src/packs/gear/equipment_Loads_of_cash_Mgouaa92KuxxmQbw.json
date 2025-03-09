@@ -3,7 +3,7 @@
   "name": "Loads of cash",
   "type": "equipment",
   "_id": "Mgouaa92KuxxmQbw",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/commodities/currency/coins-stitched-pouch-brown.webp",
   "system": {
     "description": "",
     "uses": 2,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155512400,
-    "modifiedTime": 1737158799984,
+    "modifiedTime": 1739055123250,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!Mgouaa92KuxxmQbw"

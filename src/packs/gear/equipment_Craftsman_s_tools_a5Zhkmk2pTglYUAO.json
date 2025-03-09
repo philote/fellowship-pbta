@@ -3,7 +3,7 @@
   "name": "Craftsman's tools",
   "type": "equipment",
   "_id": "a5Zhkmk2pTglYUAO",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/tools/hand/hammer-simple-stone.webp",
   "system": {
     "description": "",
     "uses": 2,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155446289,
-    "modifiedTime": 1737155446289,
+    "modifiedTime": 1739052381894,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!a5Zhkmk2pTglYUAO"

@@ -3,7 +3,7 @@
   "name": "A horse or donkey for everyone",
   "type": "equipment",
   "_id": "QunJrQJxotrAEiSb",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/environment/creatures/horse-brown.webp",
   "system": {
     "description": "<p>A horse or donkey for everyone in the fellowship. No one has any Bonds with them - if they are damaged, they are lost until you Recover.</p>",
     "uses": 0,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155512400,
-    "modifiedTime": 1737155512400,
+    "modifiedTime": 1739050927522,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!QunJrQJxotrAEiSb"

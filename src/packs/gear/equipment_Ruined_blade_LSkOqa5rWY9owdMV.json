@@ -3,7 +3,7 @@
   "name": "Ruined blade",
   "type": "equipment",
   "_id": "LSkOqa5rWY9owdMV",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/skills/melee/sword-damaged-broken-blue.webp",
   "system": {
     "description": "<h3>You carry a ruined blade <em>(Melee). </em><strong>Choose its enchantment:</strong></h3><ul><li>It cuts through anything <em>(Piercing).</em></li><li>Its wounds do not heal <em>(Necrotic).</em></li><li>It blazes with fire <em>(Burning).</em></li><li>It is incredibly powerful and unsafe to use <em>(Dangerous).</em></li></ul>",
     "uses": 0,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155522225,
-    "modifiedTime": 1737155522225,
+    "modifiedTime": 1739054126300,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!LSkOqa5rWY9owdMV"

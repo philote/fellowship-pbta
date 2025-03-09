@@ -3,7 +3,7 @@
   "name": "The Overlord's Weakness (known)",
   "type": "equipment",
   "_id": "IePgpd9N8VEUp9cg",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/magic/control/voodoo-doll-pain-damage-tan.webp",
   "system": {
     "description": "<p>The Overlord's Weakness, tucked away inside a bottle or box.</p>",
     "uses": 0,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155522225,
-    "modifiedTime": 1737155522225,
+    "modifiedTime": 1739057300187,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!IePgpd9N8VEUp9cg"

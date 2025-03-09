@@ -3,7 +3,7 @@
   "name": "Shield",
   "type": "equipment",
   "_id": "E0d12vSFl1wvNugY",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/skills/melee/shield-block-gray-orange.webp",
   "system": {
     "description": "",
     "uses": 2,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155446289,
-    "modifiedTime": 1737155446289,
+    "modifiedTime": 1739054140050,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!E0d12vSFl1wvNugY"

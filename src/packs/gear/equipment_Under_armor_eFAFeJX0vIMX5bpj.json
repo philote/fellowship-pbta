@@ -3,7 +3,7 @@
   "name": "Under-armor",
   "type": "equipment",
   "_id": "eFAFeJX0vIMX5bpj",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/equipment/chest/shirt-collared-yellow.webp",
   "system": {
     "description": "",
     "uses": 1,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155467580,
-    "modifiedTime": 1737155467580,
+    "modifiedTime": 1739054838851,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!eFAFeJX0vIMX5bpj"

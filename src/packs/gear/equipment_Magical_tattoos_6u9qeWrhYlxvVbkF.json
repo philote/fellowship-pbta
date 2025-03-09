@@ -3,7 +3,7 @@
   "name": "Magical tattoos",
   "type": "equipment",
   "_id": "6u9qeWrhYlxvVbkF",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/magic/symbols/runes-triangle-orange.webp",
   "system": {
     "description": "<p>Magical tattoos, etched into your skin, each with their own purpose <em>(2 Uses, Useful).</em></p>",
     "uses": 2,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155522225,
-    "modifiedTime": 1737155522225,
+    "modifiedTime": 1739053182651,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!6u9qeWrhYlxvVbkF"

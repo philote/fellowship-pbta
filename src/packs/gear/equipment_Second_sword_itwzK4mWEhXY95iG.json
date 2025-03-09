@@ -3,7 +3,7 @@
   "name": "Second sword",
   "type": "equipment",
   "_id": "itwzK4mWEhXY95iG",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/weapons/swords/sword-guard-worn-brown.webp",
   "system": {
     "description": "",
     "uses": 0,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155512400,
-    "modifiedTime": 1737155512400,
+    "modifiedTime": 1739053915026,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!itwzK4mWEhXY95iG"

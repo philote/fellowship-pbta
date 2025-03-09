@@ -3,7 +3,7 @@
   "name": "Powerful elixir",
   "type": "equipment",
   "_id": "1gAGYSGhWIQgcpeq",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/consumables/potions/bottle-round-corked-orante-red.webp",
   "system": {
     "description": "",
     "uses": 2,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155522225,
-    "modifiedTime": 1737155522225,
+    "modifiedTime": 1739052787034,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!1gAGYSGhWIQgcpeq"

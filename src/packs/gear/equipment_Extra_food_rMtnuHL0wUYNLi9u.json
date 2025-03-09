@@ -3,7 +3,7 @@
   "name": "Extra food",
   "type": "equipment",
   "_id": "rMtnuHL0wUYNLi9u",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/consumables/food/bowl-stew-brown.webp",
   "system": {
     "description": "",
     "uses": 4,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155467580,
-    "modifiedTime": 1737155467580,
+    "modifiedTime": 1739052623873,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!rMtnuHL0wUYNLi9u"

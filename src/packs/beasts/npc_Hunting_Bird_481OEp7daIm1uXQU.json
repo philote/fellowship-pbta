@@ -2,7 +2,7 @@
   "name": "Hunting Bird",
   "type": "npc",
   "_id": "481OEp7daIm1uXQU",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "icons/creatures/birds/raptor-owl-flying-moon.webp",
   "system": {
     "stats": {},
     "attributes": {
@@ -95,7 +95,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "icons/svg/mystery-man.svg",
+      "src": "icons/creatures/birds/raptor-owl-flying-moon.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -255,7 +255,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737146692712,
-    "modifiedTime": 1737146791939,
+    "modifiedTime": 1739057949439,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!actors!481OEp7daIm1uXQU"

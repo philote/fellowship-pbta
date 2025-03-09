@@ -3,7 +3,7 @@
   "name": "An elfstone brooch",
   "type": "equipment",
   "_id": "tp3PjVDhDge0BQHQ",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/commodities/treasure/broach-jeweled-pink.webp",
   "system": {
     "description": "<p>An elfstone brooch, connecting you to your homeland <em>(Elf-Made). </em>You can Use this item to remove a mark from one of your Elder Arts.</p>",
     "uses": 1,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155455969,
-    "modifiedTime": 1737155455969,
+    "modifiedTime": 1739051622560,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!tp3PjVDhDge0BQHQ"

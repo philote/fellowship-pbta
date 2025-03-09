@@ -3,7 +3,7 @@
   "name": "4th Orc-Made weapon",
   "type": "equipment",
   "_id": "76bS81G3YTpUt0pr",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/weapons/maces/mace-spiked-skull.webp",
   "system": {
     "description": "<p>Orc-Made weapons, as per the <em>Fires of Industry </em>move</p>",
     "uses": 0,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155500213,
-    "modifiedTime": 1737155500213,
+    "modifiedTime": 1739050557416,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!76bS81G3YTpUt0pr"

@@ -3,7 +3,7 @@
   "name": "Riding spear",
   "type": "equipment",
   "_id": "GOwwI48vTMWK75Up",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/weapons/polearms/spear-flared-wrapped.webp",
   "system": {
     "description": "",
     "uses": 0,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155531211,
-    "modifiedTime": 1737155531211,
+    "modifiedTime": 1739053800173,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!GOwwI48vTMWK75Up"

@@ -3,7 +3,7 @@
   "name": "Bow, rifle, or throwing knives",
   "type": "equipment",
   "_id": "6F3oLTVzHwpWSE91",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/weapons/bows/shortbow-leather.webp",
   "system": {
     "description": "",
     "uses": 2,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155512400,
-    "modifiedTime": 1737155512400,
+    "modifiedTime": 1739052166841,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!6F3oLTVzHwpWSE91"

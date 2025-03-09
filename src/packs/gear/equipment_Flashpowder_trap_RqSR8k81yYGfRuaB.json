@@ -3,7 +3,7 @@
   "name": "Flashpowder trap",
   "type": "equipment",
   "_id": "RqSR8k81yYGfRuaB",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/magic/fire/explosion-fireball-large-blue.webp",
   "system": {
     "description": "<p>It blinds everyone in the area for a short time.</p>",
     "uses": 2,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155522225,
-    "modifiedTime": 1737155522225,
+    "modifiedTime": 1739053104329,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!RqSR8k81yYGfRuaB"

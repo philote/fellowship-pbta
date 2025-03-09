@@ -3,7 +3,7 @@
   "name": "Luck of the devil",
   "type": "equipment",
   "_id": "grHPnueLX7naimhD",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/sundries/gaming/dice-runed-brown.webp",
   "system": {
     "description": "<p>Luck of the devil <em>(1 Use). </em>Use this to completely escape harm unscathed.</p>",
     "uses": 1,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155467580,
-    "modifiedTime": 1737155467580,
+    "modifiedTime": 1739055210253,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!grHPnueLX7naimhD"

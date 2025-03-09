@@ -3,7 +3,7 @@
   "name": "Heavy Crossbow",
   "type": "equipment",
   "_id": "ek7zXaVmcVflo4A9",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/weapons/crossbows/handcrossbow-black.webp",
   "system": {
     "description": "",
     "uses": 0,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155467580,
-    "modifiedTime": 1737158748011,
+    "modifiedTime": 1739053598266,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!ek7zXaVmcVflo4A9"

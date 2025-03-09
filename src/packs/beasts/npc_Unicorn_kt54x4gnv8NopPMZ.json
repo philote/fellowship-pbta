@@ -2,7 +2,7 @@
   "name": "Unicorn",
   "type": "npc",
   "_id": "kt54x4gnv8NopPMZ",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "icons/creatures/mammals/unicorn-horned-white.webp",
   "system": {
     "stats": {},
     "attributes": {
@@ -95,7 +95,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "icons/svg/mystery-man.svg",
+      "src": "icons/creatures/mammals/unicorn-horned-white.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -255,7 +255,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737150639495,
-    "modifiedTime": 1737150656053,
+    "modifiedTime": 1739058376675,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!actors!kt54x4gnv8NopPMZ"

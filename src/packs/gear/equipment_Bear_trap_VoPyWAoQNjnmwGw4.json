@@ -3,7 +3,7 @@
   "name": "Bear trap",
   "type": "equipment",
   "_id": "VoPyWAoQNjnmwGw4",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/environment/traps/trap-jaw-steel.webp",
   "system": {
     "description": "<p>A bear trap <em>(Trap, 3 Uses). </em>It immobilizes them until they pry free. It also causes distracting pain.</p>",
     "uses": 3,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155500213,
-    "modifiedTime": 1737155500213,
+    "modifiedTime": 1739052030377,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!VoPyWAoQNjnmwGw4"

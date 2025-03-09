@@ -3,7 +3,7 @@
   "name": "Food",
   "type": "equipment",
   "_id": "s34AnEZY8xKDF2uW",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/consumables/grains/sack-rice-flour-brown.webp",
   "system": {
     "description": "",
     "uses": 3,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155512400,
-    "modifiedTime": 1737155512400,
+    "modifiedTime": 1739052660393,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!s34AnEZY8xKDF2uW"

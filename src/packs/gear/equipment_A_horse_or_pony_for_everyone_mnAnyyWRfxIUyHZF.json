@@ -2,7 +2,7 @@
   "folder": null,
   "name": "A horse or pony for everyone",
   "type": "equipment",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/environment/creatures/horse-tan.webp",
   "system": {
     "description": "<p>A horse or pony for everyone. No one has any Bonds with them - if they are damaged, they are lost until your Recover.</p>",
     "uses": 0,
@@ -26,7 +26,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155467580,
-    "modifiedTime": 1737155467580,
+    "modifiedTime": 1739050941428,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_id": "mnAnyyWRfxIUyHZF",

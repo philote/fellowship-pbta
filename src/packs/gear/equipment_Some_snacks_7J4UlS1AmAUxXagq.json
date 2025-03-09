@@ -3,7 +3,7 @@
   "name": "Some snacks",
   "type": "equipment",
   "_id": "7J4UlS1AmAUxXagq",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/consumables/food/cheese-cube-orange.webp",
   "system": {
     "description": "",
     "uses": 2,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155531211,
-    "modifiedTime": 1737155531211,
+    "modifiedTime": 1739052882701,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!7J4UlS1AmAUxXagq"

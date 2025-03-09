@@ -3,7 +3,7 @@
   "name": "Symbol of royalty",
   "type": "equipment",
   "_id": "mlhFSvwi4KKGNGxG",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/equipment/neck/torc-striped-blue.webp",
   "system": {
     "description": "<p>You also carry a symbol of royalty, which will grant you an audience with anyone you show it to. This symbol is irreplaceable - do not lose it.</p>",
     "uses": 0,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155512400,
-    "modifiedTime": 1737155512400,
+    "modifiedTime": 1739056442122,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!mlhFSvwi4KKGNGxG"

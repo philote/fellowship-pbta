@@ -3,7 +3,7 @@
   "name": "Tough as nails",
   "type": "equipment",
   "_id": "6ffp0fdSgRAxawwK",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/magic/earth/strike-fist-stone.webp",
   "system": {
     "description": "",
     "uses": 2,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155500213,
-    "modifiedTime": 1737155500213,
+    "modifiedTime": 1739057127576,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!6ffp0fdSgRAxawwK"

@@ -3,7 +3,7 @@
   "name": "Ancient staff of old wood",
   "type": "equipment",
   "_id": "YbxSZBpkJN1SMHXg",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/weapons/staves/staff-simple-spiral.webp",
   "system": {
     "description": "<p>A spell of safe travels written upon it <em>(Armor, 2 Uses).</em></p>",
     "uses": 2,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155522225,
-    "modifiedTime": 1737155522225,
+    "modifiedTime": 1739051726655,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!YbxSZBpkJN1SMHXg"

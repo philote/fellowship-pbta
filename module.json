@@ -492,9 +492,29 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "rules",
+      "label": "Rules",
+      "path": "packs/rules",
+      "type": "JournalEntry",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     }
   ],
   "packFolders": [
+    {
+      "name": "General Moves",
+      "packs": [
+        "basic-moves",
+        "other-moves",
+        "bond-moves"
+      ],
+      "folders": []
+    },
     {
       "name": "The Overlord",
       "packs": [

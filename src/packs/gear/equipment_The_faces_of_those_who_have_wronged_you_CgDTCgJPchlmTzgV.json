@@ -3,7 +3,7 @@
   "name": "The faces of those who have wronged you",
   "type": "equipment",
   "_id": "CgDTCgJPchlmTzgV",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/magic/defensive/illusion-evasion-echo-purple.webp",
   "system": {
     "description": "<p>The faces of those who have wronged you, etched into your mind. You can Use this item to declare an enemy to be your Nemesis, giving you Hope to all rolls to <em>Finish Them </em>and <em>Overcome </em>them until they are dead. <br /><strong>Record your Nemesis' names here, and cross them off as they die:</strong></p>",
     "uses": 1,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155455969,
-    "modifiedTime": 1737155455969,
+    "modifiedTime": 1739057207375,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!CgDTCgJPchlmTzgV"

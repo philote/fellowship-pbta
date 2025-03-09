@@ -2,7 +2,7 @@
   "name": "Magic Barrier",
   "type": "npc",
   "_id": "2eQyMgULaXSWamOp",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "icons/magic/control/debuff-chains-ropes-net-purple-blue.webp",
   "system": {
     "stats": {},
     "attributes": {
@@ -95,7 +95,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "icons/svg/mystery-man.svg",
+      "src": "icons/magic/control/debuff-chains-ropes-net-purple-blue.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -255,7 +255,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737171920273,
-    "modifiedTime": 1737171984113,
+    "modifiedTime": 1739057616044,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!actors!2eQyMgULaXSWamOp"

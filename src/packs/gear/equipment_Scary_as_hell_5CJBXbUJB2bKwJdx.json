@@ -3,7 +3,7 @@
   "name": "Scary as hell",
   "type": "equipment",
   "_id": "5CJBXbUJB2bKwJdx",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/skills/social/intimidation-impressing.webp",
   "system": {
     "description": "<p>Scary as hell <em>(2 Uses). </em>Use this to <em>Talk Sense </em>whether they want to listen or not, and you can roll with +Blood instead of another stat</p>",
     "uses": 2,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155500213,
-    "modifiedTime": 1737155500213,
+    "modifiedTime": 1739054154167,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!5CJBXbUJB2bKwJdx"

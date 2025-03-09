@@ -3,7 +3,7 @@
   "name": "A mansion or castle to call home",
   "type": "equipment",
   "_id": "yo8SX9rl4wL59Y2A",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/environment/settlement/castle-tan.webp",
   "system": {
     "description": "",
     "uses": 0,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155512400,
-    "modifiedTime": 1737155512400,
+    "modifiedTime": 1739051168389,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!yo8SX9rl4wL59Y2A"

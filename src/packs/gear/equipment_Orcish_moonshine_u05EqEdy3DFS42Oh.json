@@ -3,7 +3,7 @@
   "name": "Orcish moonshine",
   "type": "equipment",
   "_id": "u05EqEdy3DFS42Oh",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/consumables/drinks/alcohol-jug-spirits-brown.webp",
   "system": {
     "description": "<p>Orcish moonshine <em>(Food for Orcs, Drunk then Vigor, 2 Uses). </em>You may replace its tags with <em>(Ranged, Thrown, Burning).</em></p>",
     "uses": 2,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155500213,
-    "modifiedTime": 1737155500213,
+    "modifiedTime": 1739052712611,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!u05EqEdy3DFS42Oh"

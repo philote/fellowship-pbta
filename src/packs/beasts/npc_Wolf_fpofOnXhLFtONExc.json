@@ -1,7 +1,7 @@
 {
   "name": "Wolf",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "icons/creatures/mammals/humanoid-wolf-dog-blue.webp",
   "system": {
     "stats": {},
     "attributes": {
@@ -97,7 +97,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "icons/svg/mystery-man.svg",
+      "src": "icons/creatures/mammals/humanoid-wolf-dog-blue.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -256,7 +256,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737146390538,
-    "modifiedTime": 1737146871745,
+    "modifiedTime": 1739058270712,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_id": "fpofOnXhLFtONExc",

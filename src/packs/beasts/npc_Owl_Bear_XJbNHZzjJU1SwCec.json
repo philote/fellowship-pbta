@@ -2,7 +2,7 @@
   "name": "Owl Bear",
   "type": "npc",
   "_id": "XJbNHZzjJU1SwCec",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "icons/creatures/claws/claw-bear-paw-swipe-brown.webp",
   "system": {
     "stats": {},
     "attributes": {
@@ -95,7 +95,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "icons/svg/mystery-man.svg",
+      "src": "icons/creatures/abilities/bear-roar-bite-brown-green.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -255,7 +255,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737150383175,
-    "modifiedTime": 1737150416664,
+    "modifiedTime": 1739058075441,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!actors!XJbNHZzjJU1SwCec"

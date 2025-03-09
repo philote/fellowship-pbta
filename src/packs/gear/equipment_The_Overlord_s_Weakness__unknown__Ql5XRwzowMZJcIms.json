@@ -3,7 +3,7 @@
   "name": "The Overlord's Weakness (unknown)",
   "type": "equipment",
   "_id": "Ql5XRwzowMZJcIms",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/magic/unholy/strike-body-life-soul-purple.webp",
   "system": {
     "description": "<p>The Overlord's Weakness, although you don't know you have it.</p>",
     "uses": 0,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155467580,
-    "modifiedTime": 1737155467580,
+    "modifiedTime": 1739057084114,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!Ql5XRwzowMZJcIms"

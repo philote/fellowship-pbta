@@ -3,7 +3,7 @@
   "name": "Your fists",
   "type": "equipment",
   "_id": "9RKJOWRJoKCtuPi6",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/skills/melee/unarmed-punch-fist-yellow-red.webp",
   "system": {
     "description": "<p>harder than any stone</p>",
     "uses": 0,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155446289,
-    "modifiedTime": 1737155446289,
+    "modifiedTime": 1739054899564,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!9RKJOWRJoKCtuPi6"

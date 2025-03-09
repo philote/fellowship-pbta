@@ -3,7 +3,7 @@
   "name": "Regal armor",
   "type": "equipment",
   "_id": "pjXo5o1NoxbivYpQ",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/equipment/chest/breastplate-layered-gilded-orange.webp",
   "system": {
     "description": "",
     "uses": 1,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155512400,
-    "modifiedTime": 1737155512400,
+    "modifiedTime": 1739054625699,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!pjXo5o1NoxbivYpQ"

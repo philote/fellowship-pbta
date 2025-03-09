@@ -3,7 +3,7 @@
   "name": "Sturdy spear",
   "type": "equipment",
   "_id": "Mv9lVAL5LN1O6BAU",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/weapons/polearms/spear-flared-green.webp",
   "system": {
     "description": "",
     "uses": 0,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155467580,
-    "modifiedTime": 1737155467580,
+    "modifiedTime": 1739055032065,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!Mv9lVAL5LN1O6BAU"

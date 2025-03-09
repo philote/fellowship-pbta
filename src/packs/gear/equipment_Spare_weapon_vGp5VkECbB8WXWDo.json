@@ -3,7 +3,7 @@
   "name": "Spare weapon",
   "type": "equipment",
   "_id": "vGp5VkECbB8WXWDo",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/weapons/swords/greatsword-blue.webp",
   "system": {
     "description": "<p>It has the same tags and features as a weapon someone else carries.</p>",
     "uses": 0,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155467580,
-    "modifiedTime": 1737155467580,
+    "modifiedTime": 1739055057660,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!vGp5VkECbB8WXWDo"

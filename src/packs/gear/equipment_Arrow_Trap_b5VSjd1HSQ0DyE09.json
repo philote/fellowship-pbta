@@ -3,7 +3,7 @@
   "name": "Arrow Trap",
   "type": "equipment",
   "_id": "b5VSjd1HSQ0DyE09",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/weapons/ammunition/arrows-war-red.webp",
   "system": {
     "description": "",
     "uses": 2,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155455969,
-    "modifiedTime": 1737158502228,
+    "modifiedTime": 1739051774515,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!b5VSjd1HSQ0DyE09"

@@ -3,7 +3,7 @@
   "name": "Tunneler's gear",
   "type": "equipment",
   "_id": "jXgxplJQnOJvzInu",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/skills/trades/mining-pickaxe-iron-blue.webp",
   "system": {
     "description": "",
     "uses": 2,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155446289,
-    "modifiedTime": 1737155446289,
+    "modifiedTime": 1739057268435,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!jXgxplJQnOJvzInu"

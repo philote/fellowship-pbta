@@ -3,7 +3,7 @@
   "name": "Trusty handheld weapon",
   "type": "equipment",
   "_id": "FqBWWG7osfyjWD91",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/weapons/daggers/dagger-double-red.webp",
   "system": {
     "description": "",
     "uses": 0,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155531211,
-    "modifiedTime": 1737158987752,
+    "modifiedTime": 1739054954467,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!FqBWWG7osfyjWD91"

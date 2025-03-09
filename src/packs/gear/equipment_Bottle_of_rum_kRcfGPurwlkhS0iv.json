@@ -3,7 +3,7 @@
   "name": "Bottle of rum",
   "type": "equipment",
   "_id": "kRcfGPurwlkhS0iv",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/consumables/drinks/tea-jug-gourd-brown.webp",
   "system": {
     "description": "<p>A bottle of rum <em>(2 Uses, Drunk then Vigor)</em></p>",
     "uses": 2,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155467580,
-    "modifiedTime": 1737158580982,
+    "modifiedTime": 1739052146519,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!kRcfGPurwlkhS0iv"

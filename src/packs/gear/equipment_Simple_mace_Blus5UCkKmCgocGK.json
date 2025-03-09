@@ -3,7 +3,7 @@
   "name": "Simple mace",
   "type": "equipment",
   "_id": "Blus5UCkKmCgocGK",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/weapons/maces/mace-flanged-steel-grey.webp",
   "system": {
     "description": "<p>plain but functional</p>",
     "uses": 0,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155446289,
-    "modifiedTime": 1737155446289,
+    "modifiedTime": 1739053953753,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!Blus5UCkKmCgocGK"

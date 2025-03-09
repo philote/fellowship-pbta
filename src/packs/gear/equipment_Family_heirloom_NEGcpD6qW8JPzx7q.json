@@ -3,7 +3,7 @@
   "name": "Family heirloom",
   "type": "equipment",
   "_id": "NEGcpD6qW8JPzx7q",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/equipment/finger/ring-cabochon-squared-gold-red.webp",
   "system": {
     "description": "<p>A family heirloom, none like it in the world <em>(1 Use)</em>. <strong>When you ask your ancestors for guidance on a topic </strong><em>(1 Use)</em><strong>, </strong>you may Command Lore about that topic of the rest of the scene as if it were part of your culture.</p>",
     "uses": 1,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155446289,
-    "modifiedTime": 1737158270835,
+    "modifiedTime": 1739054541714,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!NEGcpD6qW8JPzx7q"

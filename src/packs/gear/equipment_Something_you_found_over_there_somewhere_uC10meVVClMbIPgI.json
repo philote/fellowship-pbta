@@ -3,7 +3,7 @@
   "name": "Something you found over there somewhere",
   "type": "equipment",
   "_id": "uC10meVVClMbIPgI",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/skills/trades/gaming-gambling-dice-gray.webp",
   "system": {
     "description": "",
     "uses": 2,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155500213,
-    "modifiedTime": 1737158897520,
+    "modifiedTime": 1739056237598,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!uC10meVVClMbIPgI"

@@ -3,7 +3,7 @@
   "name": "A solid means of protection",
   "type": "equipment",
   "_id": "KPRpyiOp1HmcnZgR",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/equipment/chest/breastplate-scale-grey.webp",
   "system": {
     "description": "<p>A solid means of protection, describe it <em>(Armor, 1 Use).</em></p>",
     "uses": 1,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155446289,
-    "modifiedTime": 1737155446289,
+    "modifiedTime": 1739051081218,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!KPRpyiOp1HmcnZgR"

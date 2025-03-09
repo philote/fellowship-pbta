@@ -2,7 +2,7 @@
   "name": "Falling Block Trap",
   "type": "npc",
   "_id": "qGXP6blcjyyYTbop",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "icons/magic/earth/projectile-boulder-debris.webp",
   "system": {
     "stats": {},
     "attributes": {
@@ -95,7 +95,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "icons/svg/mystery-man.svg",
+      "src": "icons/magic/earth/projectile-boulder-debris.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -255,7 +255,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737171786823,
-    "modifiedTime": 1737171904173,
+    "modifiedTime": 1739057593522,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!actors!qGXP6blcjyyYTbop"

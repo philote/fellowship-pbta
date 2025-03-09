@@ -3,7 +3,7 @@
   "name": "Magical focus",
   "type": "equipment",
   "_id": "vSQX5SY5Nyklxsb8",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/equipment/neck/amulet-carved-stone-spiral-blue.webp",
   "system": {
     "description": "<p>A magical focus, such as a staff, crown, amulet, doll, or book. Whoever holds it has your <em>Wizardry </em>move. You can always call this focus back to you at any time - it knows who its master is. <strong>Describe or draw your focus here:</strong></p>",
     "uses": 0,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155522225,
-    "modifiedTime": 1737155522225,
+    "modifiedTime": 1739055384803,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!vSQX5SY5Nyklxsb8"

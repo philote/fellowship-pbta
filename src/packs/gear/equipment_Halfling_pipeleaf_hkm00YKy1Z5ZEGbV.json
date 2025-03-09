@@ -3,7 +3,7 @@
   "name": "Halfling pipeleaf",
   "type": "equipment",
   "_id": "hkm00YKy1Z5ZEGbV",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/sundries/misc/pipe-elegant.webp",
   "system": {
     "description": "<p>Halfling pipeleaf is a particularly popular kind of tobacco, especially among wizards. <strong>When you share your pipeleaf with another (1 Use), </strong><em>Speak Softly </em>with them as if you rolled a 7-9.</p>",
     "uses": 2,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155531211,
-    "modifiedTime": 1737158691617,
+    "modifiedTime": 1739053425040,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!hkm00YKy1Z5ZEGbV"

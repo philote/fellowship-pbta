@@ -2,7 +2,7 @@
   "name": "Burning Building",
   "type": "npc",
   "_id": "khDCNeeZh47QirOO",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "icons/magic/fire/flame-burning-building.webp",
   "system": {
     "stats": {},
     "attributes": {
@@ -95,7 +95,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "icons/svg/mystery-man.svg",
+      "src": "icons/magic/fire/flame-burning-building.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -255,7 +255,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737171617586,
-    "modifiedTime": 1737171643939,
+    "modifiedTime": 1739057553879,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!actors!khDCNeeZh47QirOO"

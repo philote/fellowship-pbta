@@ -2,7 +2,7 @@
   "name": "Poison Trap",
   "type": "npc",
   "_id": "UsKCPvgLmvLpl9pc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "icons/skills/toxins/symbol-poison-drop-skull-green.webp",
   "system": {
     "stats": {},
     "attributes": {
@@ -95,7 +95,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "icons/svg/mystery-man.svg",
+      "src": "icons/skills/toxins/symbol-poison-drop-skull-green.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -383,7 +383,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737172094517,
-    "modifiedTime": 1737172111597,
+    "modifiedTime": 1739057745079,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!actors!UsKCPvgLmvLpl9pc"

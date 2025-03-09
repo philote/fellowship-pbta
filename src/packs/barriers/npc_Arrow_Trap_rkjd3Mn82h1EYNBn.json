@@ -2,7 +2,7 @@
   "name": "Arrow Trap",
   "type": "npc",
   "_id": "rkjd3Mn82h1EYNBn",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "icons/skills/ranged/arrows-flying-salvo-purple.webp",
   "system": {
     "stats": {},
     "attributes": {
@@ -95,7 +95,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "icons/svg/mystery-man.svg",
+      "src": "icons/skills/ranged/arrows-flying-salvo-blue.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -223,7 +223,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737171419328,
-    "modifiedTime": 1737171508489,
+    "modifiedTime": 1739057484118,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!actors!rkjd3Mn82h1EYNBn"

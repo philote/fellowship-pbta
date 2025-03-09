@@ -3,7 +3,7 @@
   "name": "Halfling packed lunch",
   "type": "equipment",
   "_id": "3ld4lKM5gnd6CF3l",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/consumables/food/berries-ration-round-red.webp",
   "system": {
     "description": "<p>Each Use feeds three people</p>",
     "uses": 2,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155531211,
-    "modifiedTime": 1737155531211,
+    "modifiedTime": 1739052676354,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!3ld4lKM5gnd6CF3l"

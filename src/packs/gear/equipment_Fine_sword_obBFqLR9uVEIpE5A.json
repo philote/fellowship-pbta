@@ -3,7 +3,7 @@
   "name": "Fine sword",
   "type": "equipment",
   "_id": "obBFqLR9uVEIpE5A",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/weapons/swords/greatsword-crossguard-silver.webp",
   "system": {
     "description": "",
     "uses": 0,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155455969,
-    "modifiedTime": 1737158264199,
+    "modifiedTime": 1739053578516,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!obBFqLR9uVEIpE5A"

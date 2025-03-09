@@ -3,7 +3,7 @@
   "name": "Junk cannon",
   "type": "equipment",
   "_id": "gW5nF90rpKPxOQxH",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/weapons/artillery/cannon-engraved-gold.webp",
   "system": {
     "description": "<p>A junk cannon <em>(Ranged, Orc-Made, 0 Ammo)</em>. You use Orc-Made weapons as Ammo for the Junk Cannon.</p>",
     "uses": 0,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155500213,
-    "modifiedTime": 1737158770560,
+    "modifiedTime": 1739053846611,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!gW5nF90rpKPxOQxH"

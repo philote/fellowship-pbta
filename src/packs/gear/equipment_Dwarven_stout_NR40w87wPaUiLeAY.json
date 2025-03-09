@@ -3,7 +3,7 @@
   "name": "Dwarven stout",
   "type": "equipment",
   "_id": "NR40w87wPaUiLeAY",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/consumables/drinks/alcohol-beer-stein-wooden-metal-brown.webp",
   "system": {
     "description": "<p>Strong alcohol. You carry a small keg of dwarven stout <em>(4 Uses, Vigor, then Drunk).</em></p>",
     "uses": 4,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155446289,
-    "modifiedTime": 1737155446289,
+    "modifiedTime": 1739052560090,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!NR40w87wPaUiLeAY"

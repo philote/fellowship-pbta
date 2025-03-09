@@ -3,7 +3,7 @@
   "name": "Traveler's gear",
   "type": "equipment",
   "_id": "JjbNlxeRfxSZA21Q",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/containers/bags/pack-leather-white-tan.webp",
   "system": {
     "description": "",
     "uses": 2,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155467580,
-    "modifiedTime": 1737158974153,
+    "modifiedTime": 1739054754661,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!JjbNlxeRfxSZA21Q"

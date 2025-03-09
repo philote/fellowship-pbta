@@ -3,7 +3,7 @@
   "name": "Survival knife",
   "type": "equipment",
   "_id": "CJr33CYxHj8ryjc9",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/weapons/daggers/dagger-straight-blue.webp",
   "system": {
     "description": "",
     "uses": 0,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155455969,
-    "modifiedTime": 1737158460028,
+    "modifiedTime": 1739054992971,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!CJr33CYxHj8ryjc9"

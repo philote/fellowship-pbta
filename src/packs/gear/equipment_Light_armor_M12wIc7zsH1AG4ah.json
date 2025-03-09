@@ -3,7 +3,7 @@
   "name": "Light armor",
   "type": "equipment",
   "_id": "M12wIc7zsH1AG4ah",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/equipment/chest/vest-leather-brown.webp",
   "system": {
     "description": "",
     "uses": 1,
@@ -28,7 +28,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737155455969,
-    "modifiedTime": 1737155455969,
+    "modifiedTime": 1739054597230,
     "lastModifiedBy": "UuXSPD7DIN5UiO1L"
   },
   "_key": "!items!M12wIc7zsH1AG4ah"
