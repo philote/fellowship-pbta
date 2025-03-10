@@ -1,0 +1,320 @@
+{
+  "name": "Basic Rule 2e",
+  "_id": "O4SG2M4ToiIknAAp",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Fellowship Basic Rules",
+      "type": "text",
+      "_id": "WpTJVcezCFMSor2f",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Fellowship is a game about the journey. Several heroes will travel the world together, seeing a variety of interesting places on their journey to stop a great evil from destroying the land. There will be many threats and trials on their path.</p><p>Each trial they face is a single scene, and every scene has a flow to it. Fellowship is all about playing out those little scenes, stringing them together to create your adventure.</p><p>Those scenes are strung together into stories, collections of scenes that share a central goal. Different kinds of stories have different means of setting scenes and progression.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "UuXSPD7DIN5UiO1L": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pbta",
+        "systemVersion": "1.1.13",
+        "createdTime": 1741563028827,
+        "modifiedTime": 1741563101132,
+        "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+      },
+      "_key": "!journal.pages!O4SG2M4ToiIknAAp.WpTJVcezCFMSor2f"
+    },
+    {
+      "sort": 200000,
+      "name": "The Flow of Play",
+      "type": "text",
+      "_id": "8Xbbc7u7xB8w3bAU",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<ol><li><strong>Set the Scene, Set the Stakes:</strong> The Overlord will set the scene, telling everyone what is here and what is going on. The heroes will decide what they want to do next. Once you know what's here and what you're doing, the scene is set, and it's time to set the stakes.</li><li><strong>Swing the Spotlight:</strong> Once the stakes are set, it is time to take action, and the Spotlight swings around the table. The Spotlight is the turn order of Fellowship, but this turn order is not rigid or fixed. The Spotlight is flexible, and it goes where it needs to go.</li><li><strong>Quick Recap:</strong> Once a scene is done, tell us what happened, briefly, and check in on everyone. It can be hard to track everything while the Spotlight is swinging. Take a quick recap to catch up on what happened during the scene before moving on to the next.</li></ol>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "UuXSPD7DIN5UiO1L": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pbta",
+        "systemVersion": "1.1.13",
+        "createdTime": 1741563081689,
+        "modifiedTime": 1741563092206,
+        "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+      },
+      "_key": "!journal.pages!O4SG2M4ToiIknAAp.8Xbbc7u7xB8w3bAU"
+    },
+    {
+      "sort": 300000,
+      "name": "Fellowship Principles",
+      "type": "text",
+      "_id": "sKrhlRWqthsMvUU8",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<ul><li><strong>Be Heroic.</strong> You're here to save the day. Act like the heroes you are.</li><li><strong>Create solutions, not problems.</strong> Do not make the world worse.</li><li><strong>Address the characters, not the players.</strong> Call them by their character names.</li><li><strong>Embrace the fantastic.</strong> Make the world weird and fun.</li><li><strong>Make a move that follows.</strong> Only make moves that meet their triggers.</li><li><strong>Remind us of your moves.</strong> Clearly state which move you are using.</li><li><strong>Always ask questions. Always answer questions.</strong> Encourage communication.</li><li><strong>Begin and end with the fiction.</strong> Start and end moves with narrative.</li><li><strong>Don't steal the spotlight...</strong> Let others have their moments.</li><li><strong>...But shine on when you have it.</strong> Make the most of your turn.</li></ul>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "UuXSPD7DIN5UiO1L": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pbta",
+        "systemVersion": "1.1.13",
+        "createdTime": 1741563226290,
+        "modifiedTime": 1741563235159,
+        "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+      },
+      "_key": "!journal.pages!O4SG2M4ToiIknAAp.sKrhlRWqthsMvUU8"
+    },
+    {
+      "sort": 400000,
+      "name": "Telling Stories",
+      "type": "text",
+      "_id": "ZYkz3PrmJFwBXghx",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>Scenes are combined together to tell overarching Stories. The 4 kinds of Stories you will tell in Fellowship are:</p><h3>A Little Downtime</h3><p>Downtime is what it sounds like. When the fellowship spends some time in civilization (usually when they Recover), they tell everyone how they pass their time.</p><h3>A Long Journey</h3><p>A Journey is the story of point A to point B. During a Journey, each player tells us one event that happened along the way.</p><h3>A Proper Challenge</h3><p>Challenges are the story of earning something worthwhile. When the fellowship sets a short term goal, the story to achieve it is the Challenge.</p><h3>The Showdown</h3><p>The Showdown always begins with the new threat asserting itself. Once the show of force is over, the fellowship is placed in danger and must take action immediately.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "UuXSPD7DIN5UiO1L": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pbta",
+        "systemVersion": "1.1.13",
+        "createdTime": 1741563253533,
+        "modifiedTime": 1741563266639,
+        "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+      },
+      "_key": "!journal.pages!O4SG2M4ToiIknAAp.ZYkz3PrmJFwBXghx"
+    },
+    {
+      "sort": 500000,
+      "name": "Quick Start",
+      "type": "text",
+      "_id": "QrfnPne50tImGPj6",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p>First time playing Fellowship? Follow these steps:</p><ol><li><strong>Pick Your Playbook:</strong> Choose a unique playbook.</li><li><strong>Choose your Name, Look, and Agenda.</strong></li><li><strong>Assign your Stats.</strong></li><li><strong>Choose your Moves.</strong></li><li><strong>Choose your Gear.</strong></li><li><strong>Introduce your Hero:</strong> Describe your hero and their people.</li><li><strong>Group Questions:</strong> Answer questions about the Overlord's actions.</li><li><strong>Bonds:</strong> Establish connections with other players.</li><li><strong>Rumors:</strong> Share rumors about other players' people.</li><li><strong>Start playing!</strong></li></ol>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "UuXSPD7DIN5UiO1L": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pbta",
+        "systemVersion": "1.1.13",
+        "createdTime": 1741563277921,
+        "modifiedTime": 1741563288513,
+        "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+      },
+      "_key": "!journal.pages!O4SG2M4ToiIknAAp.QrfnPne50tImGPj6"
+    },
+    {
+      "sort": 600000,
+      "name": "Tags",
+      "type": "text",
+      "_id": "LKL65Ms8Bo1HlQGu",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h3>Range Tags</h3><p>Range tags tell you where you need to be to use a weapon or attack successfully.</p><ul><li><strong>Melee:</strong> You need to be up close to hit them.</li><li><strong>Ranged:</strong> You can hit them if you can see them.</li><li><strong>Area:</strong> Area attacks hit everyone in a group.</li><li><strong>Dangerous:</strong> Dangerous attacks are like Area attacks, but they always cause collateral damage.</li></ul><h3>Item Tags</h3><p>Item tags can go on anything, and describe the properties that a thing has.</p><ul><li><strong>Burning:</strong> Burning attacks start fires.</li><li><strong>Clumsy:</strong> Clumsy items have -1 to be used, and Clumsy armor gives -1 to Get Away.</li><li><strong>Dwarf-Made:</strong> This item is nearly indestructible.</li><li><strong>Elf-Made:</strong> This item does not age, and its touch burns non-elves.</li><li><strong>Necrotic:</strong> Necrotic attacks inflict wounds that do not heal naturally.</li><li><strong>Orc-Made:</strong> Orc-Made items are Clumsy in any hands but an Orc's.</li><li><strong>Piercing:</strong> The attacker always chooses which stat to damage.</li><li><strong>Reload:</strong> This weapon can only be used once per scene.</li><li><strong>Slow:</strong> This takes time and safety to use properly.</li><li><strong>Thrown:</strong> If you use this weapon as a Ranged weapon, you lose it until you can go and get it back.</li></ul><h3>Limited Tags</h3><p>Some items have a set number of Uses. These tags cost a Use to gain their benefits.</p><ul><li><strong>Ammo:</strong> Spend 1 Use to make a move with this weapon.</li><li><strong>Armor:</strong> Spend 1 Use to prevent 1 damage you would take.</li><li><strong>Drunk:</strong> When you Use this, you have Despair and cannot have Hope for your next roll.</li><li><strong>Food:</strong> You can spend it to Fill Your Belly.</li><li><strong>Healing:</strong> Spend 1 Use to heal a damaged stat.</li><li><strong>Precious:</strong> Spend 1 Use to Forge a Bond with someone, or to not have to do a favor for someone.</li><li><strong>Useful:</strong> Spend 1 Use to produce something helpful.</li><li><strong>Vigor:</strong> When you Use this, you have Hope and cannot have Despair for your next roll.</li><li><strong>Trap:</strong> Traps are items you need to place in advance.</li></ul>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "UuXSPD7DIN5UiO1L": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pbta",
+        "systemVersion": "1.1.13",
+        "createdTime": 1741563366393,
+        "modifiedTime": 1741563381595,
+        "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+      },
+      "_key": "!journal.pages!O4SG2M4ToiIknAAp.LKL65Ms8Bo1HlQGu"
+    },
+    {
+      "sort": 700000,
+      "name": "Basic Moves",
+      "type": "text",
+      "_id": "KTowFfvlUcBSW6CH",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h3>Finish Them</h3><p>When you attempt to defeat an enemy you hold an advantage over, roll the appropriate stat.</p><ul><li>If you do not have an advantage over them, you cannot attempt to Finish Them.</li><li><p>If you Finish Them by...</p><ul><li>...trying to kill them, roll +Blood. On a 10+, they die by your hand.</li><li>...forcing them to retreat, roll +Courage. On a 10+, they back off.</li><li>...outsmarting, terrifying, or overwhelming them, roll +Grace. On a 10+, they admit defeat.</li><li>...disabling them or knocking them out, roll +Sense. On a 10+, they are physically incapacitated.</li><li>...showing them the error of their ways, roll +Wisdom. On a 10+, you Forge a Bond with them.</li></ul></li><li>On a 7-9, you deal damage to them and lose your advantage over them.</li><li>On a 6-, you lose the advantage, and must face retaliation.</li></ul><h3>Overcome</h3><p>When you attempt to avoid, redirect, or prevent the harm something will cause, roll +Blood.</p><ul><li>On a 10+, you stop the obstacle, threat, Cut, or Move from causing harm.</li><li>On a 7-9, choose one: Pay a price to take the 10+ result, or create a temporary solution.</li></ul><h3>Keep Them Busy</h3><p>When you act as a distraction or buy some time, roll +Courage.</p><ul><li>On a 7+, you buy some time, and their attention is all on you, for now.</li><li>On a 6-, they will retaliate against you when time is up.</li></ul><h3>Get Away</h3><p>When you need to get somewhere out of reach or out of sight, roll +Grace.</p><ul><li><p>On a 10+, choose two. On a 7-9, choose one:</p><ul><li>You get there quickly, avoiding any harm along the way.</li><li>You get there quietly, drawing no attention.</li><li>You grab someone nearby and bring them with you.</li></ul></li></ul><h3>Talk Sense</h3><p>When you speak with conviction and ask someone for help, roll +Sense, +Wisdom, or +Grace depending on your approach.</p><ul><li>On a 7+, they do as you ask, to the best of their ability.</li><li>On a 9-, you owe them a favor.</li><li>On a 6-, they choose one: They cannot do as you ask and will tell you why, or the favor you must do them is expensive, difficult, or demeaning.</li></ul><h3>Look Closely</h3><p>When you closely examine a situation or a location, roll +Sense.</p><ul><li>On a 7+, ask three questions from the list.</li><li>On a 9-, you find one of those answers the hard way.</li><li>On a 6-, you may only ask one question.</li></ul><h3>Speak Softly</h3><p>When you have a quiet chat with someone, roll +Wisdom.</p><ul><li>On a 10+, they must answer each question honestly.</li><li>On a 9-, one of their answers is not helpful.</li><li>On a 6-, one of their other answers is false.</li></ul><h3>Pay the Price</h3><p>When a move tells you to pay a price, tell us what it costs you.</p><h3>Command Lore</h3><p>When someone asks something about your character or your people, tell them. When you ask about another character or their people, they will tell you.</p><h3>Fill Your Belly</h3><p>When you are between scenes, you may Use Food to heal one damage.</p><h3>Hope and Despair</h3><p>When you have Hope and make a move, roll three dice and keep the best two. When you are in Despair and make a move, roll three dice and keep the worst two.</p><h3>Damage</h3><p>When you take damage, choose a stat and mark it. While a stat is damaged, you are in Despair whenever you roll that stat. When an enemy’s stat or a Companion’s stat is damaged, they cannot use it.</p><h3>Recover</h3><p>When the fellowship rests in a place of safety for over a week, heal all of your stats and restock all of your Gear.</p><h3>Taken Out</h3><p>When all of your stats are damaged and you take further damage, you are Taken Out, and no longer able to help out for the rest of the scene.</p><h3>End of Session</h3><p>When you reach the end of a session, the fellowship answers these three questions:</p><ul><li>Did we save or protect a community in need?</li><li>Did we strike a blow against the Overlord and their minions?</li><li>Did we learn more about the world and its peoples?</li></ul>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "UuXSPD7DIN5UiO1L": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pbta",
+        "systemVersion": "1.1.13",
+        "createdTime": 1741563391607,
+        "modifiedTime": 1741563409096,
+        "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+      },
+      "_key": "!journal.pages!O4SG2M4ToiIknAAp.KTowFfvlUcBSW6CH"
+    },
+    {
+      "sort": 800000,
+      "name": "Bond Moves",
+      "type": "text",
+      "_id": "Blfgd7bmJpaCUcny",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h3>Forge a Bond</h3><p>When you bond with someone over something you did or shared together, record a new Bond with them on your sheet.</p><h3>The Bonds That Bind Us</h3><p>When two or more players who have Bonds with each other work together side by side, they roll with Hope.</p><h3>The Bonds That Break Us</h3><p>When your actions harm an ally, immediately erase one of your Bonds with them.</p><h3>Bound in Service</h3><p>When you call upon a Companion for help, you may damage one of their stats to create an advantage related to that stat.</p><h3>Heart of Fire</h3><p>When you hold a Bond with the Overlord, they do not become your Companion, but you still hold sway over them.</p><h3>Heart of Iron</h3><p>When you would make a move against the Overlord, you may automatically fail the roll to erase one of their Bonds with you.</p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "ownership": {
+        "default": -1,
+        "UuXSPD7DIN5UiO1L": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "pbta",
+        "systemVersion": "1.1.13",
+        "createdTime": 1741563420046,
+        "modifiedTime": 1741563431043,
+        "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+      },
+      "_key": "!journal.pages!O4SG2M4ToiIknAAp.Blfgd7bmJpaCUcny"
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.13",
+    "createdTime": 1741562923504,
+    "modifiedTime": 1741562923504,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+  },
+  "_key": "!journal!O4SG2M4ToiIknAAp"
+}
