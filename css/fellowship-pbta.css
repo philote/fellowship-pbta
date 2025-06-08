@@ -3,9 +3,6 @@
   flex: 0;
   align-self: center;
 }
-.vtt .window-app .window-header .window-title {
-  margin: 0 0 0.5rem !important;
-}
 
 .application.dialog .fellowship-dialog h3 {
   border: none;
@@ -32,6 +29,10 @@
 .pbta.sheet {
   /* ###################### */
   /* ###################### */
+}
+.pbta.sheet .sheet-header__fields {
+  padding: 8px;
+  background-color: #272c33;
 }
 .pbta.sheet .window-content {
   background-color: #ebeced;
@@ -135,15 +136,23 @@
 .pbta.sheet header.sheet-header h1 input {
   margin: 0;
 }
-.pbta.sheet.window-app input:disabled, .pbta.sheet.window-app select:disabled, .pbta.sheet.window-app textarea:disabled {
-  color: #ebeced;
-  background-color: #3f4652;
-  padding: 0 8px;
-}
 .pbta.sheet.window-app input, .pbta.sheet.window-app button, .pbta.sheet.window-app select, .pbta.sheet.window-app textarea {
   background-color: #dddedf;
   color: #272c33;
   padding: 0 8px;
+}
+.pbta.sheet.window-app input:disabled, .pbta.sheet.window-app button:disabled, .pbta.sheet.window-app select:disabled, .pbta.sheet.window-app textarea:disabled {
+  color: #3f4652;
+  background-color: #dddedf;
+  border: 1px solid rgba(84, 84, 84, 0.24);
+  padding: 0 8px;
+  cursor: default;
+}
+.pbta.sheet.window-app input:disabled:hover, .pbta.sheet.window-app button:disabled:hover, .pbta.sheet.window-app select:disabled:hover, .pbta.sheet.window-app textarea:disabled:hover {
+  color: #3f4652;
+  background-color: #dddedf;
+  border: 1px solid rgba(84, 84, 84, 0.224);
+  box-shadow: none;
 }
 .pbta.sheet .window-resizable-handle {
   background: #3f4652;
@@ -304,6 +313,10 @@
 }
 .pbta.sheet.character .sheet-attributes .cell--stats .stat .cell__title {
   border-bottom: 1px solid #b17772;
+}
+.pbta.sheet.character .sheet-attributes .cell--stats .stat .stat-value {
+  color: #ebeced;
+  background-color: rgba(49, 7, 3, 0.462745098);
 }
 .pbta.sheet.character .cell--destiny {
   margin-bottom: 20px;

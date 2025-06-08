@@ -3,6 +3,10 @@
 @use '../base/vars' as *;
 
 .pbta.sheet {
+    .sheet-header__fields{
+        padding: 8px;
+            background-color: $c-dark-grey;
+    }
     .window-content {
         background-color: $c-lighter-grey;
         background: url("#{$layout-path}background.webp");
@@ -132,14 +136,6 @@
         margin: 0;
     }
 
-    &.window-app input:disabled, 
-    &.window-app select:disabled, 
-    &.window-app textarea:disabled {
-        color: $c-lighter-grey;
-        background-color: $c-med-grey;
-        padding: 0 8px;
-    }
-
     &.window-app input, 
     &.window-app button, 
     &.window-app select, 
@@ -147,6 +143,21 @@
         background-color: $c-light-grey;
         color: $c-dark-grey;
         padding: 0 8px;
+
+        &:disabled {
+            color: $c-med-grey;
+            background-color: $c-light-grey;
+            border: 1px solid rgba(84, 84, 84, 0.24);
+            padding: 0 8px;
+            cursor: default;
+
+            &:hover {
+                color: $c-med-grey;
+                background-color: $c-light-grey;
+                border: 1px solid rgba(84, 84, 84, 0.224);
+                box-shadow: none;
+            }
+        }
     }
     
     .window-resizable-handle {

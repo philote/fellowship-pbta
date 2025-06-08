@@ -27,6 +27,11 @@
         .cell__title {
             border-bottom: 1px solid $c-light-red;
         }
+
+        .stat-value {
+            color: $c-lighter-grey;
+            background-color: $c-dark-red-trans;
+        }
     }
 
     // Destiny
