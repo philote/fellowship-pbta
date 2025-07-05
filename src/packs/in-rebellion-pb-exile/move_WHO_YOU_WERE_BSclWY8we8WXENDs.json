@@ -1,0 +1,51 @@
+{
+  "folder": "JCORBKYd4eDbHUrV",
+  "name": "WHO YOU WERE",
+  "type": "move",
+  "_id": "BSclWY8we8WXENDs",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Take one Core Move and one Custom Move from any basic playbook. You can take Moves that cannot be Shared. Both of these Moves must come from the same playbook.</p><p>That playbook is <em>Who You Were</em>. You cannot <em>Command Lore</em> about its people, only about the crimes you have committed and other exiles like you.</p><p>This Move cannot be Shared.</p><p>Record the moves from <em>Who You Were</em> here:</p>",
+    "moveType": "core",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!BSclWY8we8WXENDs"
+}

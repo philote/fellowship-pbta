@@ -1,0 +1,39 @@
+{
+  "folder": "A0aEVuqHQziWtShA",
+  "name": "BIRD",
+  "type": "fellowship-pbta.companion",
+  "_id": "DYgCktH37IiGOmV5",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "typeName": "BIRD",
+    "typeDescription": "A simple singing companion to lift your spirits. They like to collect small, shiny things, like metal coins or jail keys.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "lovely song",
+        "damaged": false
+      },
+      {
+        "name": "go get the shiny",
+        "damaged": false
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!DYgCktH37IiGOmV5"
+}

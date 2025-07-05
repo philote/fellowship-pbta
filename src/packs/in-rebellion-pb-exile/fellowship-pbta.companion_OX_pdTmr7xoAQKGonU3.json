@@ -1,0 +1,39 @@
+{
+  "folder": "A0aEVuqHQziWtShA",
+  "name": "OX",
+  "type": "fellowship-pbta.companion",
+  "_id": "pdTmr7xoAQKGonU3",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "typeName": "OX",
+    "typeDescription": "A large, powerful, usually gentle beast of burden.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "strong as an ox",
+        "damaged": false
+      },
+      {
+        "name": "seeing red",
+        "damaged": false
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!pdTmr7xoAQKGonU3"
+}

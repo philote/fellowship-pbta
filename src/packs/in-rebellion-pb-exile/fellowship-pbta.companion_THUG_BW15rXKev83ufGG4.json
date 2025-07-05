@@ -1,0 +1,39 @@
+{
+  "folder": "A0aEVuqHQziWtShA",
+  "name": "THUG",
+  "type": "fellowship-pbta.companion",
+  "_id": "BW15rXKev83ufGG4",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "typeName": "THUG",
+    "typeDescription": "They beat things up that need a beating.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "street tough",
+        "damaged": false
+      },
+      {
+        "name": "hard as nails",
+        "damaged": false
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!BW15rXKev83ufGG4"
+}

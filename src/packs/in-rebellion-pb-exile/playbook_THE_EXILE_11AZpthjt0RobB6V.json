@@ -1,0 +1,413 @@
+{
+  "name": "THE EXILE",
+  "type": "playbook",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": "<div class=\"playbook-details\"><h1>THE EXILE</h1><div class=\"flexrow\"><div class=\"flexcol\"><div><h2>BASIC PLAYBOOK</h2><p><em>I was once a part of the Empire. I know what cruelty they bring. I have seen it first hand. I have... I have done some of that cruelty myself. I have hurt you, or the people you care about. I don't blame you if you can't forgive me.</em></p><p><em>But please know that I am very sorry.</em></p><p><em>I am here to join your fellowship. I cannot work for them anymore. I cannot keep helping the Empire destroy everything in their path. They are monstrous, and I see that now. I can see what they have been doing, what I had been doing.</em></p><p><em>And I want no part of it. I want to stop them. I WILL stop them. And I'll do it with or without you. But I would really like to do it with you.</em></p><p><em>I am an Exile, and there's no one else I can turn to.</em></p></div><div><h2>NAME</h2><p><strong>Choose one or two from each, or make up your own:</strong></p><p><strong>Names:</strong> <em>Gigan, Goliath, Gwyn, Hurricane, Joy, Kroll, Kronos, Lambda, Leveticus, Meredith, Nor, Ocean, Rage, Shiva, Suika, Tarn, Thursday, Treble, Sigma, Yuga, Zorn</em></p><p><strong>Claims:</strong> <em>Castletopper, Craterstep, Darkwatcher, Lakebreaker, Oakmender, Oathspeaker, Ragnarok's Child, Skyeater, Songbringer, Three Hands, Titan, Truthteller</em></p></div><div><h2>LOOK</h2><p><strong>Circle one from each list, or make up your own:</strong></p><ul><li>Jolly Eyes, Vacant Eyes, or Wise Eyes</li><li>Massive Hair, Oily Hair, or Bald with a Big Beard</li><li>Fancy Robes, Simple Armor, or Just A Loincloth</li><li>Beautiful Body, Muscled Body, or Twisted Body</li></ul></div><div><h2>AGENDA</h2><p><strong>When you know not what to do, consult your Agendas.</strong></p><h3>You have these three Agendas:</h3><ul><li>Be Brave, Take Risks</li><li>Tell Us Of Your People</li><li>Improve The World Around You</li></ul><p><strong>And circle a fourth Agenda that only you follow:</strong></p><h3>Don't Stop Me Now</h3><p>Destroy anything that gets in the way of your good time.</p><h3>Gentle Giant</h3><p>Do not harm anyone who has not harmed you or your friends.</p><h3>World of Cardboard</h3><p>Make your enemies prove their worth to you.</p></div><div><h2>STATS</h2><p>Your <strong>Courage</strong> stat is +2. Assign +2, +1, +0, -1 to your other stats.</p><p><strong>When a stat is damaged,</strong> mark the small box. You are in <strong>Despair</strong> when you roll a damaged stat.</p><ul><li>Blood</li><li>Courage</li><li>Grace</li><li>Sense</li><li>Wisdom</li></ul></div><div><h2>WHY ARE YOU IN EXILE?</h2><p><strong>Choose the option that best represents your crime:</strong></p><h3>THIEF</h3><p>You carry a forbidden item, such as an enchanted sword, a magical crown, or a mighty suit of armor. A large portion of this artifact is made of your <em>Forbidden Element</em>. Give it any three tags you like, and it has 3 Uses.</p><p>You can spend those Uses for anything its tags would give it. You can also spend 1 Use to create something out of your <em>Forbidden Element</em>, such as a stone hut, a blast of lightning, or a blazing fire.</p><p>When you <em>Fill Your Belly</em>, you restore 1 Use to your artifact.</p><h3>TRAITOR</h3><p>You once worked for the Empire, and you have turned on them. You have an elemental monster form that you can take on when you must. Describe it for us, including what it is you must do to activate this form.</p><p>When you are in this form, you are never in Despair when rolling Blood or Grace, you have incredible strength, you are <em>Melee and Giant</em>, and you are immune to harm caused by your <em>Forbidden Element</em>.</p><p>When you wish to transform, you must damage your Blood stat. You cannot transform while your Blood is damaged. When the scene ends, your transformation also ends.</p><h3>VIGILANTE</h3><p>You punish those outside the law, and you must hide your identity. When you don your disguise themed after your element, you are <em>Melee and Piercing</em>, and you can conjure your <em>Forbidden Element</em> to attack or defend with as needed. Conjured bits of your <em>Forbidden Element</em> disappear shortly after you create them.</p><h3>WITCH</h3><p>You have practiced the forbidden arts. You have telekinetic control over your <em>Forbidden Element</em> in all its forms, and can reshape it at will, with some time and effort.</p><p>When you have access to a source of your <em>Forbidden Element</em>, you have the <em>Ranged</em> tag when attacking or defending, and the <em>Slow</em> tag when creating something useful out of your element, such as a tunnel or a bridge.</p></div><div><h2>CORE MOVES</h2><p><strong>All Exiles have these moves.</strong></p><h3>A LESSON LEARNED</h3><p>When you forgive someone who did you wrong and tell them so, heal them, heal yourself, and <em>Forge a Bond</em> with them.</p><h3>FORBIDDEN ELEMENT</h3><p>You have been exiled for a reason, even if that reason is not just. You have a gift, and this gift gives you power.</p><p>Choose a classical element, such as fire, ice, lightning, stone, wood, or some other basic component all your powers share. You can call upon your element to aid you, when you need it.</p><p>How you use your element to aid you depends upon your crime (see <em>Why Are You In Exile?</em>).</p><h3>WHO YOU WERE</h3><p>Take one Core Move and one Custom Move from any basic playbook. You can take Moves that cannot be Shared. Both of these Moves must come from the same playbook.</p><p>That playbook is <em>Who You Were</em>. You cannot <em>Command Lore</em> about its people, only about the crimes you have committed and other exiles like you.</p><p>This Move cannot be Shared.</p><p>Record the moves from <em>Who You Were</em> here:</p></div><div><h2>CUSTOM MOVES</h2><p><strong>Choose two of these moves to further define what it means to be an Exile.</strong></p><h3>BLEEDING HEART</h3><p>You are never in Despair when rolling Wisdom, even if it is damaged.</p><p>This Move cannot be Shared.</p><h3>CHASING SMOKE</h3><p>You can always attempt to <em>Get Away</em>, even while bound, trapped, pinned down, crippled, or imprisoned.</p><h3>ELEMENTAL MASTERY</h3><p>Choose a second <em>Forbidden Element</em>.</p><p>Give each of your <em>Forbidden Elements</em> one appropriate tag of your choice, such as <em>Armor</em>, <em>Burning</em>, or <em>Precious</em>.</p><p>If that tag is a Limited tag, it has 1 Use.</p><p>When you <em>Fill Your Belly</em>, restore one of those Uses.</p><p>This Move cannot be Shared.</p><h3>LOVE AND PEACE</h3><p>When you heal someone else, you may also heal.</p><h3>SAVIOR</h3><p>When someone within arm's reach would suffer harm, you may take that harm in their place.</p><h3>SPEAK TRUTH TO POWER (WISDOM)</h3><p>When you speak out against the status quo before a crowd, tell us what you want of them, then roll +Wisdom.</p><p>On a 7+, they will follow your lead, doing as you do.</p><p>On a 9-, you rile them up beyond your ability to control. They quickly take their own lead and follow their own desires.</p><h3>SURVIVOR</h3><p>When you <em>Overcome</em> harm directed at you, on a 7+, you also either heal or <em>Get Away</em> as if you rolled a 7-9, your choice.</p><h3>WHO YOU'VE BECOME</h3><p>Take a Custom Move from any basic playbook, other than the playbook <em>Who You Were</em>.</p><p>You may also take an Agenda from the chosen playbook.</p><p>This Move cannot be Shared.</p></div></div><div class=\"flexcol\"><div><h2>PLAYING AS THE EXILE</h2><p>The Exile is a traitor. They have lost their people, their past, and can only live for the future. So they will make their future as bright as possible. The Exile is determined to create a better world, no matter what gets in their way.</p><p>Play as The Exile if you want a prominent leadership role, if you like lots of freedom in your character's customization, if you want to explore your hero's dark past, or if you just want cool elemental powers.</p></div><div><h2>ADVANCEMENT</h2><p><strong>When you Level Up, increase your level by 1, then choose an option from the list and mark it. You may only choose each option once.</strong> <em>You begin the game at level 1.</em></p><ul><li>Increase your Blood or Courage by 1 (to a max of +3).</li><li>Increase one of your stats by 1 (to a maximum of +3).</li><li>Take a Custom move the playbook <em>Who You Were</em>.</li><li>Take another Exile's Custom.</li><li>Take another Exile's Custom, or ask another player to Share a Move with you.</li><li>Share your <em>Forbidden Element</em> and your crime with another player. They use your <em>Forbidden Element</em> in the same way you do, gaining your <em>Why Are You In Exile?</em> Move.</li><li><strong>You have Changed.</strong> You must be level 5 or higher to take this Advancement. <strong>When you Change,</strong> choose a Destiny you meet the requirements for and take its first Move.</li></ul></div><div><h2>BONDS</h2><p>You start with 4 bonds with the other members of the Fellowship. Use these, or make your own:</p><p>When I was on the run, <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> gave me shelter.</p><p>I kept <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> safe from the law.</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> is a part of my people.</p><p>I will never forget what <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> has done for me.</p><p>I grew up with <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>.</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> knows who I really am.</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> owes me a favor.</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> punched a cop for me.</p><p>I will keep <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> safe.</p><p>I feel responsible for <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>.</p><p><strong>Record your other bonds here:</strong></p></div><div><h2>GEAR</h2><p>You carry something made of or containing your <em>Forbidden Element</em>, describe it. Give it one appropriate tag and 2 Uses, if it needs them.</p><p>You also carry stolen food <em>(Food, 3 Uses)</em>, some bandages <em>(Healing, Slow, 2 Uses)</em>, and a simple weapon, choose one:</p><ul><li><em>(Melee)</em></li><li><em>(Ranged, 3 Ammo)</em></li></ul><p><strong>How do you protect yourself? Choose one:</strong></p><ul><li><strong>By hiding.</strong> You carry fake identification and a disguise kit <em>(2 Uses)</em>. You can spend 1 Use to appear as an average worker of any profession.</li><li><strong>By fighting.</strong> You carry a simple sword <em>(Melee)</em> and shield <em>(Armor, 1 Use)</em>.</li><li><strong>By running.</strong> You have an exploration kit <em>(Useful, 2 Uses)</em> and a map.</li><li><strong>By surviving.</strong> You have some extra food <em>(Food, 2 Uses)</em> and bandages <em>(Healing, Slow, 2 Uses)</em>.</li></ul><p><strong>Your path is a lonely one. Choose one to keep you company:</strong></p><ul><li>An animal (bird, cat, dog, lizard, or ox). You have one Bond with them.</li><li>A friend (assistant, burglar, sidekick, or thug). You have one Bond with them.</li><li>Fine wine <em>(Drunk, Healing, 2 Uses)</em>.</li><li>Paranoia <em>(2 Uses)</em>. Spend 1 Use to ask a question from the <em>Look Closely</em> list without rolling.</li></ul><p><strong>You have some means of controlling your <em>Forbidden Element</em>, beyond the nature of your crime. Choose your gift:</strong></p><ul><li>You can destroy your <em>Forbidden Element</em> with a touch.</li><li>You can walk along surfaces made of your <em>Forbidden Element</em>.</li><li>Your <em>Forbidden Element</em> cannot harm you, and you can breathe while encased in or surrounded by it.</li></ul></div><div><h2>COMPANIONS</h2><p>Exiled companions are those allies who are particularly likely to join arms with you. Many of them are available as Gear options - a Companion in your Gear will always return to you, heal, or be replaced by another when you <em>Recover</em>.</p><h3>BIRD</h3><p><em>A simple singing companion to lift your spirits. They like to collect small, shiny things, like metal coins or jail keys.</em></p><p class=\"tags\">lovely song | go get the shiny</p><h3>BURGLAR</h3><p><em>They steal what you cannot reach.</em></p><p class=\"tags\">thief | wall walker</p><h3>CAT</h3><p><em>A wily pet that does as it pleases.</em></p><p class=\"tags\">quiet as a cat | adorable distraction</p><h3>DOG</h3><p><em>A loyal companion who sticks by your side.</em></p><p class=\"tags\">loyal friend | fetch</p><h3>LIZARD</h3><p><em>A strange companion powered by instinct.</em></p><p class=\"tags\">sixth sense | strong bite</p><h3>OX</h3><p><em>A large, powerful, usually gentle beast of burden.</em></p><p class=\"tags\">strong as an ox | seeing red</p><h3>SERVANT</h3><p><em>They help you with your day to day affairs.</em></p><p class=\"tags\">I'll get that for you | food</p><h3>SIDEKICK</h3><p><em>They fight alongside you, through thick or thin.</em></p><p class=\"tags\">acrobatic fisticuffs | loyal friend</p><h3>THUG</h3><p><em>They beat things up that need a beating.</em></p><p class=\"tags\">street tough | hard as nails</p></div><div><h2>EARNED FELLOWSHIP</h2><p>When you gain Fellowship with a community, the Empire chooses three Fellowship moves from the book. Choose one of those moves and take it, writing it down here.</p></div><div><h2>EXILED NOTES</h2><p>Use this space to take notes. Write about your past, write about the people you've met, the places you've been, and the things you've found. If you think it's important to you, write it down.</p></div></div></div></div>",
+    "slug": "the-exile",
+    "actorType": "character",
+    "stats": {
+      "blood": {
+        "label": "Blood",
+        "value": 0
+      },
+      "courage": {
+        "label": "Courage",
+        "value": 2
+      },
+      "grace": {
+        "label": "Grace",
+        "value": 0
+      },
+      "sense": {
+        "label": "Sense",
+        "value": 0
+      },
+      "wisdom": {
+        "label": "Wisdom",
+        "value": 0
+      },
+      "doom": {
+        "label": "Doom",
+        "value": 0
+      }
+    },
+    "statsDetail": "Your Courage stat is +2. Assign +2, +1, +0, -1 to your other stats.",
+    "attributes": {
+      "statsVisibility": {
+        "label": "Stats Visibility",
+        "description": "Which stats are visible on the character sheet?",
+        "type": "ListMany",
+        "options": {
+          "0": {
+            "label": "blood",
+            "value": true
+          },
+          "1": {
+            "label": "courage",
+            "value": true
+          },
+          "2": {
+            "label": "grace",
+            "value": true
+          },
+          "3": {
+            "label": "sense",
+            "value": true
+          },
+          "4": {
+            "label": "wisdom",
+            "value": true
+          },
+          "5": {
+            "label": "doom",
+            "value": false
+          }
+        },
+        "choices": [
+          {
+            "options": {
+              "0": {
+                "value": true,
+                "label": "blood"
+              },
+              "1": {
+                "value": true,
+                "label": "courage"
+              },
+              "2": {
+                "value": true,
+                "label": "grace"
+              },
+              "3": {
+                "value": true,
+                "label": "sense"
+              },
+              "4": {
+                "value": true,
+                "label": "wisdom"
+              },
+              "5": {
+                "value": false,
+                "label": "doom"
+              }
+            },
+            "value": ""
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "value": "",
+        "max": null
+      },
+      "initialAgendas": {
+        "label": "Agendas",
+        "type": "LongText",
+        "value": "",
+        "choices": [
+          {
+            "value": "<ul><li>Be Brave, Take Risks</li><li>Tell Us Of Your People</li><li>Improve The World Around You</li></ul>",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "fourthAgenda": {
+        "label": "When you know not what to do, consult your Agendas.",
+        "type": "LongText",
+        "value": "",
+        "choices": [
+          {
+            "value": "<p><strong>Don't Stop Me Now</strong> Destroy anything that gets in the way of your good time.</p>",
+            "options": {}
+          },
+          {
+            "value": "<p><strong>Gentle Giant</strong> Do not harm anyone who has not harmed you or your friends.</p>",
+            "options": {}
+          },
+          {
+            "value": "<p><strong>World of Cardboard</strong> Make your enemies prove their worth to you.</p>",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "lookOne": {
+        "label": "Look",
+        "type": "Text",
+        "value": "",
+        "choices": [
+          {
+            "value": "Jolly Eyes",
+            "options": {}
+          },
+          {
+            "value": "Vacant Eyes",
+            "options": {}
+          },
+          {
+            "value": "Wise Eyes",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "lookTwo": {
+        "label": "LookTwo",
+        "type": "Text",
+        "value": "",
+        "choices": [
+          {
+            "value": "Massive Hair",
+            "options": {}
+          },
+          {
+            "value": "Oily Hair",
+            "options": {}
+          },
+          {
+            "value": "Bald with a Big Beard",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "lookThree": {
+        "label": "LookThree",
+        "type": "Text",
+        "value": "",
+        "choices": [
+          {
+            "value": "Fancy Robes",
+            "options": {}
+          },
+          {
+            "value": "Simple Armor",
+            "options": {}
+          },
+          {
+            "value": "Just A Loincloth",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "lookFour": {
+        "label": "LookFour",
+        "type": "Text",
+        "value": "",
+        "choices": [
+          {
+            "value": "Beautiful Body",
+            "options": {}
+          },
+          {
+            "value": "Muscled Body",
+            "options": {}
+          },
+          {
+            "value": "Twisted Body",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "advancements": {
+        "label": "Advancement",
+        "description": "When you Level Up, increase your level by 1, then choose an option from the list and mark it. You may only choose each option once.",
+        "type": "ListMany",
+        "options": {
+          "0": {
+            "label": "",
+            "value": false
+          },
+          "1": {
+            "label": "",
+            "value": false
+          },
+          "2": {
+            "label": "",
+            "value": false
+          },
+          "3": {
+            "label": "",
+            "value": false
+          },
+          "4": {
+            "label": "",
+            "value": false
+          },
+          "5": {
+            "label": "",
+            "value": false
+          }
+        },
+        "choices": [
+          {
+            "options": {
+              "0": {
+                "value": false,
+                "label": "Increase your Blood or Courage by 1 (to a max of +3)."
+              },
+              "1": {
+                "value": false,
+                "label": "Increase one of your stats by 1 (to a maximum of +3)."
+              },
+              "2": {
+                "value": false,
+                "label": "Take a Custom move the playbook Who You Were."
+              },
+              "3": {
+                "value": false,
+                "label": "Take another Exile's Custom."
+              },
+              "4": {
+                "value": false,
+                "label": "Take another Exile's Custom, or ask another player to Share a Move with you."
+              },
+              "5": {
+                "value": false,
+                "label": "Share your Forbidden Element and your crime with another player. They use your Forbidden Element in the same way you do, gaining your Why Are You In Exile? Move."
+              }
+            },
+            "value": ""
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "value": "",
+        "max": null
+      },
+      "unlockDestiny": {
+        "label": "Unlock your Destiny",
+        "description": "You must be level 5 or higher to take this Advancement. When you do, you unlock the ability to choose a Destiny.",
+        "type": "ListMany",
+        "options": {
+          "0": {
+            "label": "You have Changed. When you Change, choose a Destiny you meet the requirements for and take its first Move.",
+            "value": false
+          }
+        },
+        "choices": [
+          {
+            "options": {
+              "0": {
+                "label": "You have Changed. When you Change, choose a Destiny you meet the requirements for and take its first Move.",
+                "value": false
+              }
+            },
+            "value": ""
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "value": "",
+        "max": null
+      },
+      "playingAs": {
+        "label": "Playing as",
+        "value": "",
+        "type": "Details",
+        "choices": [
+          {
+            "value": "<p>The Exile is a traitor. They have lost their people, their past, and can only live for the future. So they will make their future as bright as possible. The Exile is determined to create a better world, no matter what gets in their way.</p><p>Play as The Exile if you want a prominent leadership role, if you like lots of freedom in your character's customization, if you want to explore your hero's dark past, or if you just want cool elemental powers.</p>",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "details",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "yourCrime": {
+        "label": "Your Crime",
+        "value": "",
+        "type": "Details",
+        "choices": [
+          {
+            "value": "<h3>THIEF</h3><p>You carry a forbidden item, such as an enchanted sword, a magical crown, or a mighty suit of armor. A large portion of this artifact is made of your <em>Forbidden Element</em>. Give it any three tags you like, and it has 3 Uses.</p><p>You can spend those Uses for anything its tags would give it. You can also spend 1 Use to create something out of your <em>Forbidden Element</em>, such as a stone hut, a blast of lightning, or a blazing fire.</p><p>When you <em>Fill Your Belly</em>, you restore 1 Use to your artifact.</p>",
+            "options": {}
+          },
+          {
+            "value": "<h3>TRAITOR</h3><p>You once worked for the Empire, and you have turned on them. You have an elemental monster form that you can take on when you must. Describe it for us, including what it is you must do to activate this form.</p><p>When you are in this form, you are never in Despair when rolling Blood or Grace, you have incredible strength, you are <em>Melee and Giant</em>, and you are immune to harm caused by your <em>Forbidden Element</em>.</p><p>When you wish to transform, you must damage your Blood stat. You cannot transform while your Blood is damaged. When the scene ends, your transformation also ends.</p>",
+            "options": {}
+          },
+          {
+            "value": "<h3>VIGILANTE</h3><p>You punish those outside the law, and you must hide your identity. When you don your disguise themed after your element, you are <em>Melee and Piercing</em>, and you can conjure your <em>Forbidden Element</em> to attack or defend with as needed. Conjured bits of your <em>Forbidden Element</em> disappear shortly after you create them.</p>",
+            "options": {}
+          },
+          {
+            "value": "<h3>WITCH</h3><p>You have practiced the forbidden arts. You have telekinetic control over your <em>Forbidden Element</em> in all its forms, and can reshape it at will, with some time and effort.</p><p>When you have access to a source of your <em>Forbidden Element</em>, you have the <em>Ranged</em> tag when attacking or defending, and the <em>Slow</em> tag when creating something useful out of your element, such as a tunnel or a bridge.</p>",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "details",
+        "max": null,
+        "options": {},
+        "description": "Choose the option that best represents your crime:"
+      },
+      "bonds": {
+        "label": "Bonds",
+        "value": "",
+        "type": "Details",
+        "choices": [
+          {
+            "value": "<p>You start with 4 bonds with the other members of the Fellowship. Use these, or make your own:</p><p>When I was on the run, <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> gave me shelter.</p><p>I kept <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> safe from the law.</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> is a part of my people.</p><p>I will never forget what <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> has done for me.</p><p>I grew up with <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>.</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> knows who I really am.</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> owes me a favor.</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> punched a cop for me.</p><p>I will keep <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> safe.</p><p>I feel responsible for <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>.</p><p><strong>Record your other bonds here:</strong></p>",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "details",
+        "max": null,
+        "options": {},
+        "description": ""
+      }
+    },
+    "choiceSets": []
+  },
+  "effects": [],
+  "folder": null,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_id": "11AZpthjt0RobB6V",
+  "sort": 0,
+  "_key": "!items!11AZpthjt0RobB6V"
+}

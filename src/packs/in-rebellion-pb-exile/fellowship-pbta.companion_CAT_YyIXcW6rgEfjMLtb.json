@@ -1,0 +1,39 @@
+{
+  "folder": "A0aEVuqHQziWtShA",
+  "name": "CAT",
+  "type": "fellowship-pbta.companion",
+  "_id": "YyIXcW6rgEfjMLtb",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "typeName": "CAT",
+    "typeDescription": "A wily pet that does as it pleases.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "quiet as a cat",
+        "damaged": false
+      },
+      {
+        "name": "adorable distraction",
+        "damaged": false
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!YyIXcW6rgEfjMLtb"
+}

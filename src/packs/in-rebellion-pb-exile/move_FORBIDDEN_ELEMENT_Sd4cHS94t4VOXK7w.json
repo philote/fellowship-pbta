@@ -1,0 +1,51 @@
+{
+  "folder": "JCORBKYd4eDbHUrV",
+  "name": "FORBIDDEN ELEMENT",
+  "type": "move",
+  "_id": "Sd4cHS94t4VOXK7w",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>You have been exiled for a reason, even if that reason is not just. You have a gift, and this gift gives you power.</p><p>Choose a classical element, such as fire, ice, lightning, stone, wood, or some other basic component all your powers share. You can call upon your element to aid you, when you need it.</p><p>How you use your element to aid you depends upon your crime (see <em>Why Are You In Exile?</em>).</p>",
+    "moveType": "core",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!Sd4cHS94t4VOXK7w"
+}

@@ -1,0 +1,51 @@
+{
+  "folder": "ttlqq5Q9AmgmLYIo",
+  "name": "SURVIVOR",
+  "type": "move",
+  "_id": "eqU7aMSXLyCyfdOk",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>When you <em>Overcome</em> harm directed at you, on a 7+, you also either heal or <em>Get Away</em> as if you rolled a 7-9, your choice.</p>",
+    "moveType": "custom",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!eqU7aMSXLyCyfdOk"
+}

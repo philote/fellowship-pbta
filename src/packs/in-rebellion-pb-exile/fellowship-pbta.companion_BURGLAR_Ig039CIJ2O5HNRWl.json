@@ -1,0 +1,39 @@
+{
+  "folder": "A0aEVuqHQziWtShA",
+  "name": "BURGLAR",
+  "type": "fellowship-pbta.companion",
+  "_id": "Ig039CIJ2O5HNRWl",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "typeName": "BURGLAR",
+    "typeDescription": "They steal what you cannot reach.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "thief",
+        "damaged": false
+      },
+      {
+        "name": "wall walker",
+        "damaged": false
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!Ig039CIJ2O5HNRWl"
+}

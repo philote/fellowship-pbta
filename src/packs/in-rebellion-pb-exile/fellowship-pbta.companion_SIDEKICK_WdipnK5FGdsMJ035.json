@@ -1,0 +1,39 @@
+{
+  "folder": "A0aEVuqHQziWtShA",
+  "name": "SIDEKICK",
+  "type": "fellowship-pbta.companion",
+  "_id": "WdipnK5FGdsMJ035",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "typeName": "SIDEKICK",
+    "typeDescription": "They fight alongside you, through thick or thin.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "acrobatic fisticuffs",
+        "damaged": false
+      },
+      {
+        "name": "loyal friend",
+        "damaged": false
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!WdipnK5FGdsMJ035"
+}

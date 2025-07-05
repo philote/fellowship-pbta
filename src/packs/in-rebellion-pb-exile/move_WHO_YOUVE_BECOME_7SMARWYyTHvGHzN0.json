@@ -1,0 +1,51 @@
+{
+  "folder": "ttlqq5Q9AmgmLYIo",
+  "name": "WHO YOU'VE BECOME",
+  "type": "move",
+  "_id": "7SMARWYyTHvGHzN0",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Take a Custom Move from any basic playbook, other than the playbook <em>Who You Were</em>.</p><p>You may also take an Agenda from the chosen playbook.</p><p>This Move cannot be Shared.</p>",
+    "moveType": "custom",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!7SMARWYyTHvGHzN0"
+}

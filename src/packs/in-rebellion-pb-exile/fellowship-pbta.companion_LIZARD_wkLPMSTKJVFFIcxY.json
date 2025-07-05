@@ -1,0 +1,39 @@
+{
+  "folder": "A0aEVuqHQziWtShA",
+  "name": "LIZARD",
+  "type": "fellowship-pbta.companion",
+  "_id": "wkLPMSTKJVFFIcxY",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "typeName": "LIZARD",
+    "typeDescription": "A strange companion powered by instinct.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "sixth sense",
+        "damaged": false
+      },
+      {
+        "name": "strong bite",
+        "damaged": false
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!wkLPMSTKJVFFIcxY"
+}

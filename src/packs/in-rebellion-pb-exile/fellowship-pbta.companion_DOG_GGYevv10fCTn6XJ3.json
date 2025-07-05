@@ -1,0 +1,39 @@
+{
+  "folder": "A0aEVuqHQziWtShA",
+  "name": "DOG",
+  "type": "fellowship-pbta.companion",
+  "_id": "GGYevv10fCTn6XJ3",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "typeName": "DOG",
+    "typeDescription": "A loyal companion who sticks by your side.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "loyal friend",
+        "damaged": false
+      },
+      {
+        "name": "fetch",
+        "damaged": false
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!GGYevv10fCTn6XJ3"
+}
