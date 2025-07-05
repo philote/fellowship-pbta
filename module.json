@@ -5,7 +5,7 @@
   "version": "#{VERSION}#",
   "compatibility": {
     "minimum": 12,
-    "verified": 13.345,
+    "verified": 13.346,
     "maximum": 13
   },
   "authors": [
@@ -572,6 +572,11 @@
         "titans",
         "elite"
       ],
+      "folders": []
+    },
+    {
+      "name": "A Fellowship In Rebellion",
+      "packs": [],
       "folders": []
     }
   ],
