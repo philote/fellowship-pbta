@@ -1,0 +1,51 @@
+{
+  "folder": "ngzrEEdP3AKz6xzn",
+  "name": "CHAMPION OF FIRE",
+  "type": "move",
+  "_id": "IFWZ6UWYlLOaKofh",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>You do not have your own People. You once did, but no longer. Instead, you can Command Lore about the glory of the dragons, their place in the world, and the magnificent feats they have performed throughout history.</p><p><strong>This Move cannot be Shared.</strong></p>",
+    "moveType": "core",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!IFWZ6UWYlLOaKofh"
+}

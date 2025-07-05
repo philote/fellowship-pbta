@@ -1,0 +1,413 @@
+{
+  "name": "THE DRAGON",
+  "type": "playbook",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": "<div class=\"playbook-details\"><h1>THE DRAGON</h1><div class=\"flexrow\"><div class=\"flexcol\"><div><h2>BASIC PLAYBOOK</h2><p><em>Dragons represent strength. They have the power to save the world. Dragons represent wisdom. They have the foresight to save the world. Dragons represent greed. They do not want to save the world if nothing is in it for them.</em></p><p><em>So they won't. Instead, I will. I have been gifted their power and named their champion. I am here to save the world on their behalf. I will do what they have decided is beneath them, and I will become glorious.</em></p><p><em>The Empire will be my stepping stone. Their plans amount to nothing before the fire of dragons. We will defeat them. We will destroy them. And I will take my place in history as the greatest champion this world has ever seen.</em></p><p><em>I am the Dragon, and my enemies will burn.</em></p></div><div><h2>NAME</h2><p><strong>Choose one or two from each, or make up your own:</strong></p><p><strong>Names:</strong> <em>Use the Names list from Who You Were.</em></p><p><strong>Titles:</strong> <em>Abandoned My Duties, Betrayed My Commander, Cat Burglary, Cavorted With Devils, Drug Smuggling, Framed By My Nemesis, Impersonation, Mugging, Mutiny, Necromancy, Vanished for 100 Years, Weapons Trafficking, Witchcraft (Advanced)</em></p></div><div><h2>LOOK</h2><p><strong>Circle one from each list, or make up your own:</strong></p><ul><li>Piercing Eyes, Sad Eyes, or Wise Eyes</li><li>Braided Hair, Long Hair, or Dark Hood</li><li>Concealing Cloak, Prison Garb, or Threadbare Clothes</li><li>Androgynous Bod, Muscled Figure, or Tiny Frame</li></ul></div><div><h2>AGENDA</h2><p><strong>When you know not what to do, consult your Agendas.</strong></p><h3>You have these three Agendas:</h3><ul><li>Be Brave, Take Risks</li><li>Improve The World Around You</li><li>Tell Us Of Your People</li></ul><p><strong>And circle a fourth Agenda that only you follow:</strong></p><h3>Learn The Truth</h3><p>Discover the world outside your sheltered past.</p><h3>My Own Justice</h3><p>Punish those who break your moral code.</p><h3>On The Run</h3><p>Keep a low profile, and avoid drawing attention to yourself.</p></div><div><h2>STATS</h2><p>Your <strong>Wisdom</strong> stat is +2. Assign +2, +1, +0, -1 to your other stats.</p><p><strong>When a stat is damaged,</strong> mark the small box. You are in <strong>Despair</strong> when you roll a damaged stat.</p><ul><li>Blood</li><li>Courage</li><li>Grace</li><li>Sense</li><li>Wisdom</li></ul></div><div><h2>WHAT IS A DRAGON?</h2><p><strong>Choose the option that best represents your people:</strong></p><h3>A CHAMPION, CHOSEN</h3><p>You were not related to the Dragons, until they chose you as their champion. Though you have changed, you still remember who you were.</p><p>Take a Core Move from any other basic playbook. That playbook's Core and Custom Moves count as Dragon Custom Moves for you, and you may take Moves from that playbook that cannot be Shared.</p><h3>A DRAGON, REBORN</h3><p>You used to be one of the true dragons, glorious and unstoppable, and for one reason or another, you have been reduced to this lesser form you now hold. Describe your form and how you were weakened.</p><p>Your Fire does not have the <em>Reload</em> tag, you may give yourself the <em>Burning</em> tag at any time, and you may choose one extra option from each of the Dragon's Gear lists.</p><h3>A HATCHLING, NEWBORN</h3><p>Your power is a simple one: you are a newborn, the child of at least one dragon. You have limited control over your great strength, but it exhausts you.</p><p><strong>When you wish to unleash your true strength,</strong> you must damage your Blood. For the rest of the scene, you gain the tags <em>Burning</em> and <em>Dangerous</em>, you do not roll with Despair when rolling Blood or Courage, and you can damage a stat to use a Dragon Magic spell without marking it.</p><p>You cannot transform while your Blood is damaged. When the scene ends, your transformation also ends.</p><h3>A KOBOLD, ASCENDED</h3><p>Your people are the lesser dragons, the servants of dragons, and you have stood above the crowd. Unlike the other Dragons, you have a people you can Command Lore about: the Kobolds and their culture.</p><p>Add a Group of Kobold Pokers to your Gear. You have one Bond with them. You also add explosives <em>(Dangerous, Trap, 2 Uses)</em> to your Gear. You can use them to cave in a small room or narrow tunnel, or to blast open a wall or door on cue.</p></div><div><h2>CORE MOVES</h2><p><strong>All Dragons have these moves.</strong></p><h3>CHAMPION OF FIRE</h3><p>You do not have your own People. You once did, but no longer. Instead, you can Command Lore about the glory of the dragons, their place in the world, and the magnificent feats they have performed throughout history.</p><p><strong>This Move cannot be Shared.</strong></p><h3>DRAGON MAGIC</h3><p><strong>When you draw upon the draconic power that only a fool would not call magic,</strong> choose a spell from below, then mark it. You cannot use a spell while it is marked.</p><p><strong>When you </strong><em><strong>Fill Your Belly</strong></em><strong>,</strong> remove a mark from one spell.</p><p><strong>When you </strong><em><strong>Recover</strong></em><strong>,</strong> remove all marks on your spells.</p><ul><li><strong>Blessing of Strength:</strong> Destroy a wall or door in your way.</li><li><strong>Blessing of Speed:</strong> Instantly appear somewhere close by that you can see. No one else will see you move there.</li><li><strong>Blessing of Glory:</strong> Force someone to listen to you when you <em>Talk Sense</em> to them.</li></ul><p><strong>When you Share this Move with another,</strong> they choose a single spell from the list. That spell is the only one they can use. You can Share this Move with someone multiple times. Each time you do, they learn another spell.</p><h3>THROUGH THE FIRE AND THE FLAMES</h3><p>You are Dragon-Made, and the elements cannot harm or change you.</p><p><strong>This Move cannot be Shared.</strong></p></div><div><h2>CUSTOM MOVES</h2><p><strong>Choose two of these moves to further define what it means to be a Dragon.</strong></p><h3>FIRE AND ICE</h3><p><strong>When you take this move,</strong> choose Lightning, Ice, or Poison. The chosen element works like your Fire, as a ranged weapon you use in the same manner. Add the element you chose to your Gear:</p><ul><li><strong>Lightning:</strong> Your Lightning is <em>(Ranged, Reload, Piercing)</em>.</li><li><strong>Ice:</strong> Your Ice slows those it hits, giving Hope to <em>Finish Them, Keep Them Busy</em>, or <em>Get Away</em> from them. It is also <em>(Ranged, Reload)</em>.</li><li><strong>Poison:</strong> Your Poison is <em>(Ranged, Reload, Necrotic)</em>.</li></ul><p>You may take this move multiple times, choosing a different element each time. Each of your elements reloads separately.</p><h3>EYES OF FIRE</h3><p>Your eyes are unnaturally good, and you can see fine detail even through the darkest night or densest fog. <strong>When you </strong><em><strong>Look Closely</strong></em><strong>,</strong> you may study any location you can see, no matter how distant, as if you were standing right there.</p><h3>FIRE EATER</h3><p>You may extinguish any flame within arm's reach by touching it, tell us what this looks like. Eating a fire instantly reloads your Fire. You may use this to <em>Overcome</em> attacks with the <em>Burning</em> tag as if you got a 10. If you also have <em>Fire and Ice</em>, you may apply this move to that element too, instantly absorbing electricity, clearing ice, or removing poison from something you touch to Reload your Lightning, your Ice, or your Poison.</p><h3>LISTEN HERE, YOU LITTLE PUNK</h3><p><strong>When you </strong><em><strong>Talk Sense</strong></em><strong> by telling them what will happen to them if they do not do as you ask,</strong> <em>Talk Sense</em> with +Blood. <strong>On a 7-9,</strong> they cannot ask their favor of you until they have done what you asked of them.</p><h3>STRENGTH OF A HUNDRED</h3><p>You can pick up anything and anyone you can firmly grasp with at least one hand. Objects and enemies you hold have the tags <em>Ranged</em> and <em>Thrown</em>.</p><h3>TREASURE HOARD</h3><p>You are rich and powerful. Choose an extra option from each of your Gear lists.</p><h3>UNIQUE UPBRINGING</h3><p>Take a Custom Move from any basic playbook.</p><p>You may also take an Agenda from the chosen playbook.</p><p><strong>This Move cannot be Shared.</strong></p><h3>WINGS OF A DRAGON</h3><p>You can fly. <strong>When you fly with a passenger or a heavy load,</strong> you have the <em>Clumsy</em> tag.</p><p>Clumsy gives a -1 penalty to <em>Get Away, Keep Them Busy</em>, and <em>Finish Them</em>.</p></div></div><div class=\"flexcol\"><div><h2>PLAYING AS THE DRAGON</h2><p>The Dragon is fire, and everything you could use to describe fire describes you, too. Glorious, brilliant, warm, comforting, bright, unstoppable, destructive, devastating, terrible, all-consuming: these are the things Dragons are.</p><p>Play as The Dragon if you want to be glorious and cool, if you like straightforward strength with cool abilities, if you want to be a real monster, or if you just want to burn everything that gets in your way.</p></div><div><h2>ADVANCEMENT</h2><p><strong>When you Level Up, increase your level by 1, then choose an option from the list and mark it. You may only choose each option once.</strong> <em>You begin the game at level 1.</em></p><ul><li>Increase your Courage or Sense by 1 (to a maximum of +3).</li><li>Increase one of your stats by 1 (to a maximum of +3).</li><li>Take another Dragon Custom.</li><li>Take another Dragon Custom.</li><li>Take another Dragon Custom, or ask another player to share a Move with you.</li><li>Share one of your Moves with another player.</li><li><strong>You have Changed.</strong> You must be level 5 or higher to take this Advancement. <strong>When you Change,</strong> choose a Destiny you meet the requirements for and take its first Move.</li></ul></div><div><h2>BONDS</h2><p>You start with 4 bonds with the other members of the Fellowship. Use these, or make your own:</p><p><span style=\"text-decoration:underline\">        </span> shares my burning passion!</p><p>I deeply admire <span style=\"text-decoration:underline\">        </span>'s power.</p><p><span style=\"text-decoration:underline\">        </span> has the respect of the old dragons.</p><p><span style=\"text-decoration:underline\">        </span> is my greatest rival.</p><p>I often bicker with <span style=\"text-decoration:underline\">        </span>, but we would not last long without each other.</p><p><span style=\"text-decoration:underline\">        </span> saw my strength from before I became what I am now.</p><p>I once saved <span style=\"text-decoration:underline\">        </span>'s life.</p><p>I would not be the person I am now without <span style=\"text-decoration:underline\">        </span>.</p><p><span style=\"text-decoration:underline\">        </span> and I have shared in glorious victory.</p><p>My treasures are <span style=\"text-decoration:underline\">        </span>'s treasures.</p><p><strong>Record your other bonds here:</strong></p></div><div><h2>GEAR</h2><p>You have extra spicy fruits <em>(Dragon-Made, Food, 3 Uses)</em>. Your armament also protects you <em>(Armor, Dragon-Made, 1 Use)</em>.</p><h3>Choose your armaments; all are Melee and Dragon-Made:</h3><ul><li>Your dragon-made spear and polished shield.</li><li>Your mighty claws and hardened scales.</li><li>Your supernatural strength and speed.</li><li>Your blazing soul, enveloping you in protective fire.</li></ul><h3>Choose your Fire; all are Ranged, Reload, and Burning:</h3><ul><li>You spit primal fireballs from your mouth.</li><li>You conjure rays of fire from your hands.</li><li>You throw firebombs of caustic oils and reactive powders.</li><li>You shoot fire from a flamethrower you made yourself.</li></ul><h3>Choose your follower:</h3><ul><li>A kobold underling (poker, slinger, or thinker). You have one Bond with them.</li><li>Your pet (komodo dragon or hell hound). You have one Bond with them.</li><li>A dragon spirit, advising you on how to best be their champion <em>(2 Uses)</em>. You may Use this to call your spirit to your side and roll to Speak Softly with them. They have great knowledge of many things.</li><li>Your minion. Choose another player, and add your armaments to their Gear: <em>(Melee, Dragon-Made)</em> and <em>(Armor, Dragon-Made, 1 Use)</em></li></ul><h3>Choose your treasure:</h3><ul><li>Yourself, and your overwhelming power <em>(2 Uses)</em>. When you use your Dragon Magic, you may spend 1 Use of your Power instead of marking a Dragon Magic spell.</li><li>Your lair, with unlimited Precious things within. When you visit your lair, you may take some treasures with you <em>(Precious, Useful, 3 Uses)</em>.</li><li>Your love, who you will keep safe. Choose a player: <span style=\"text-decoration:underline\">        </span> They gain <em>(Armor, Dragon-Made, 2 Uses)</em> while you are within arm's reach of them.</li></ul></div><div><h2>COMPANIONS</h2><p>Dragon companions are those allies who are particularly likely to join arms with you. Many of them are available as Gear options - a Companion in your Gear will always return to you, heal, or be replaced by another when you <em>Recover.</em></p><h3>HELL HOUND</h3><p><em>This reddish-brown dog can breathe fire.</em></p><p class=\"tags\">fire breathing | fireproof</p><h3>KOBOLD POKER</h3><p><em>This kobold warrior hides behind a shield and pokes their enemies with a well-used spear.</em></p><p class=\"tags\">use the pointy bit | big shield</p><h3>GROUP OF KOBOLD POKERS</h3><p><em>These kobolds form a phalanx, each shield protecting the warrior next to them. As a Group, each of their stats can be damaged twice.</em></p><p class=\"tags\">use the pointy bit | big shield</p><h3>KOBOLD SLINGER</h3><p><em>These kobolds are well-practiced with their powerful slingshots, firing rocks at their enemies from afar.</em></p><p class=\"tags\">rock to the head | scamper away</p><h3>KOBOLD THINKER</h3><p><em>They've got a plan, and you might be a part of it.</em></p><p class=\"tags\">master plan | back-up plan</p><h3>KOMODO DRAGON</h3><p><em>They aren't true dragons, but they're bigger than your dog and have a much deadlier, more venomous bite.</em></p><p class=\"tags\">necrotic bite | hardened scales</p></div></div></div></div>",
+    "slug": "the-dragon",
+    "actorType": "character",
+    "stats": {
+      "blood": {
+        "label": "Blood",
+        "value": 0
+      },
+      "courage": {
+        "label": "Courage",
+        "value": 0
+      },
+      "grace": {
+        "label": "Grace",
+        "value": 0
+      },
+      "sense": {
+        "label": "Sense",
+        "value": 0
+      },
+      "wisdom": {
+        "label": "Wisdom",
+        "value": 2
+      },
+      "doom": {
+        "label": "Doom",
+        "value": 0
+      }
+    },
+    "statsDetail": "Your Wisdom stat is +2. Assign +2, +1, +0, -1 to your other stats.",
+    "attributes": {
+      "statsVisibility": {
+        "label": "Stats Visibility",
+        "description": "Which stats are visible on the character sheet?",
+        "type": "ListMany",
+        "options": {
+          "0": {
+            "label": "blood",
+            "value": true
+          },
+          "1": {
+            "label": "courage",
+            "value": true
+          },
+          "2": {
+            "label": "grace",
+            "value": true
+          },
+          "3": {
+            "label": "sense",
+            "value": true
+          },
+          "4": {
+            "label": "wisdom",
+            "value": true
+          },
+          "5": {
+            "label": "doom",
+            "value": false
+          }
+        },
+        "choices": [
+          {
+            "options": {
+              "0": {
+                "value": true,
+                "label": "blood"
+              },
+              "1": {
+                "value": true,
+                "label": "courage"
+              },
+              "2": {
+                "value": true,
+                "label": "grace"
+              },
+              "3": {
+                "value": true,
+                "label": "sense"
+              },
+              "4": {
+                "value": true,
+                "label": "wisdom"
+              },
+              "5": {
+                "value": false,
+                "label": "doom"
+              }
+            },
+            "value": ""
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "value": "",
+        "max": null
+      },
+      "initialAgendas": {
+        "label": "Agendas",
+        "type": "LongText",
+        "value": "",
+        "choices": [
+          {
+            "value": "<ul><li>Be Brave, Take Risks</li><li>Improve The World Around You</li><li>Tell Us Of Your People</li></ul>",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "fourthAgenda": {
+        "label": "When you know not what to do, consult your Agendas.",
+        "type": "LongText",
+        "value": "",
+        "choices": [
+          {
+            "value": "<p><strong>Learn The Truth</strong> Discover the world outside your sheltered past.</p>",
+            "options": {}
+          },
+          {
+            "value": "<p><strong>My Own Justice</strong> Punish those who break your moral code.</p>",
+            "options": {}
+          },
+          {
+            "value": "<p><strong>On The Run</strong> Keep a low profile, and avoid drawing attention to yourself.</p>",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "lookOne": {
+        "label": "Look",
+        "type": "Text",
+        "value": "",
+        "choices": [
+          {
+            "value": "Piercing Eyes",
+            "options": {}
+          },
+          {
+            "value": "Sad Eyes",
+            "options": {}
+          },
+          {
+            "value": "Wise Eyes",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "lookTwo": {
+        "label": "LookTwo",
+        "type": "Text",
+        "value": "",
+        "choices": [
+          {
+            "value": "Braided Hair",
+            "options": {}
+          },
+          {
+            "value": "Long Hair",
+            "options": {}
+          },
+          {
+            "value": "Dark Hood",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "lookThree": {
+        "label": "LookThree",
+        "type": "Text",
+        "value": "",
+        "choices": [
+          {
+            "value": "Concealing Cloak",
+            "options": {}
+          },
+          {
+            "value": "Prison Garb",
+            "options": {}
+          },
+          {
+            "value": "Threadbare Clothes",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "lookFour": {
+        "label": "LookFour",
+        "type": "Text",
+        "value": "",
+        "choices": [
+          {
+            "value": "Androgynous Bod",
+            "options": {}
+          },
+          {
+            "value": "Muscled Figure",
+            "options": {}
+          },
+          {
+            "value": "Tiny Frame",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "advancements": {
+        "label": "Advancement",
+        "description": "When you Level Up, increase your level by 1, then choose an option from the list and mark it. You may only choose each option once.",
+        "type": "ListMany",
+        "options": {
+          "0": {
+            "label": "",
+            "value": false
+          },
+          "1": {
+            "label": "",
+            "value": false
+          },
+          "2": {
+            "label": "",
+            "value": false
+          },
+          "3": {
+            "label": "",
+            "value": false
+          },
+          "4": {
+            "label": "",
+            "value": false
+          },
+          "5": {
+            "label": "",
+            "value": false
+          }
+        },
+        "choices": [
+          {
+            "options": {
+              "0": {
+                "value": false,
+                "label": "Increase your Courage or Sense by 1 (to a maximum of +3)."
+              },
+              "1": {
+                "value": false,
+                "label": "Increase one of your stats by 1 (to a maximum of +3)."
+              },
+              "2": {
+                "value": false,
+                "label": "Take another Dragon Custom."
+              },
+              "3": {
+                "value": false,
+                "label": "Take another Dragon Custom."
+              },
+              "4": {
+                "value": false,
+                "label": "Take another Dragon Custom, or ask another player to share a Move with you."
+              },
+              "5": {
+                "value": false,
+                "label": "Share one of your Moves with another player."
+              }
+            },
+            "value": ""
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "value": "",
+        "max": null
+      },
+      "unlockDestiny": {
+        "label": "Unlock your Destiny",
+        "description": "You must be level 5 or higher to take this Advancement. When you do, you unlock the ability to choose a Destiny.",
+        "type": "ListMany",
+        "options": {
+          "0": {
+            "label": "You have Changed. When you Change, choose a Destiny you meet the requirements for and take its first Move.",
+            "value": false
+          }
+        },
+        "choices": [
+          {
+            "options": {
+              "0": {
+                "label": "You have Changed. When you Change, choose a Destiny you meet the requirements for and take its first Move.",
+                "value": false
+              }
+            },
+            "value": ""
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "value": "",
+        "max": null
+      },
+      "playingAs": {
+        "label": "Playing as",
+        "value": "",
+        "type": "Details",
+        "choices": [
+          {
+            "value": "<p>The Dragon is fire, and everything you could use to describe fire describes you, too. Glorious, brilliant, warm, comforting, bright, unstoppable, destructive, devastating, terrible, all-consuming: these are the things Dragons are.</p><p>Play as The Dragon if you want to be glorious and cool, if you like straightforward strength with cool abilities, if you want to be a real monster, or if you just want to burn everything that gets in your way.</p>",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "details",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "yourPeople": {
+        "label": "Your People",
+        "value": "",
+        "type": "Details",
+        "choices": [
+          {
+            "value": "<h3>A CHAMPION, CHOSEN</h3><p>You were not related to the Dragons, until they chose you as their champion. Though you have changed, you still remember who you were.</p><p>Take a Core Move from any other basic playbook. That playbook's Core and Custom Moves count as Dragon Custom Moves for you, and you may take Moves from that playbook that cannot be Shared.</p>",
+            "options": {}
+          },
+          {
+            "value": "<h3>A DRAGON, REBORN</h3><p>You used to be one of the true dragons, glorious and unstoppable, and for one reason or another, you have been reduced to this lesser form you now hold. Describe your form and how you were weakened.</p><p>Your Fire does not have the <em>Reload</em> tag, you may give yourself the <em>Burning</em> tag at any time, and you may choose one extra option from each of the Dragon's Gear lists.</p>",
+            "options": {}
+          },
+          {
+            "value": "<h3>A HATCHLING, NEWBORN</h3><p>Your power is a simple one: you are a newborn, the child of at least one dragon. You have limited control over your great strength, but it exhausts you.</p><p><strong>When you wish to unleash your true strength,</strong> you must damage your Blood. For the rest of the scene, you gain the tags <em>Burning</em> and <em>Dangerous</em>, you do not roll with Despair when rolling Blood or Courage, and you can damage a stat to use a Dragon Magic spell without marking it.</p><p>You cannot transform while your Blood is damaged. When the scene ends, your transformation also ends.</p>",
+            "options": {}
+          },
+          {
+            "value": "<h3>A KOBOLD, ASCENDED</h3><p>Your people are the lesser dragons, the servants of dragons, and you have stood above the crowd. Unlike the other Dragons, you have a people you can Command Lore about: the Kobolds and their culture.</p><p>Add a Group of Kobold Pokers to your Gear. You have one Bond with them. You also add explosives <em>(Dangerous, Trap, 2 Uses)</em> to your Gear. You can use them to cave in a small room or narrow tunnel, or to blast open a wall or door on cue.</p>",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "details",
+        "max": null,
+        "options": {},
+        "description": "Choose the option that best represents your people:"
+      },
+      "bonds": {
+        "label": "Bonds",
+        "value": "",
+        "type": "Details",
+        "choices": [
+          {
+            "value": "<p>You start with 4 bonds with the other members of the Fellowship. Use these, or make your own:</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> shares my burning passion!</p><p>I deeply admire <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>'s power.</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> has the respect of the old dragons.</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> is my greatest rival.</p><p>I often bicker with <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>, but we would not last long without each other.</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> saw my strength from before I became what I am now.</p><p>I once saved <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>'s life.</p><p>I would not be the person I am now without <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>.</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> and I have shared in glorious victory.</p><p>My treasures are <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>'s treasures.</p><p><strong>Record your other bonds here:</strong></p>",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "details",
+        "max": null,
+        "options": {},
+        "description": ""
+      }
+    },
+    "choiceSets": []
+  },
+  "effects": [],
+  "folder": null,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_id": "DCOXaWbuaVMseig5",
+  "sort": 0,
+  "_key": "!items!DCOXaWbuaVMseig5"
+}

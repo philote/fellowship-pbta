@@ -1,0 +1,51 @@
+{
+  "folder": "XJP07sudZf7BOjDX",
+  "name": "LISTEN HERE, YOU LITTLE PUNK",
+  "type": "move",
+  "_id": "SaxtLJzDRsFaQD5o",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>When you </strong><em><strong>Talk Sense</strong></em><strong> by telling them what will happen to them if they do not do as you ask,</strong> <em>Talk Sense</em> with +Blood. <strong>On a 7-9,</strong> they cannot ask their favor of you until they have done what you asked of them.</p>",
+    "moveType": "custom",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": "They cannot ask their favor of you until they have done what you asked of them."
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "blood",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!SaxtLJzDRsFaQD5o"
+}

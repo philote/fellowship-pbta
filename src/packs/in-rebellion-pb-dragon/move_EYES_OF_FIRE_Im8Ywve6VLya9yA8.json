@@ -1,0 +1,51 @@
+{
+  "folder": "XJP07sudZf7BOjDX",
+  "name": "EYES OF FIRE",
+  "type": "move",
+  "_id": "Im8Ywve6VLya9yA8",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Your eyes are unnaturally good, and you can see fine detail even through the darkest night or densest fog. <strong>When you </strong><em><strong>Look Closely</strong></em><strong>,</strong> you may study any location you can see, no matter how distant, as if you were standing right there.</p>",
+    "moveType": "custom",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!Im8Ywve6VLya9yA8"
+}

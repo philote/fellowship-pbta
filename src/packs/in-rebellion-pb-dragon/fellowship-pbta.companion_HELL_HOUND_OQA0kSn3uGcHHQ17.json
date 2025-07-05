@@ -1,0 +1,39 @@
+{
+  "folder": "PbvEWyNCw9rg6pRH",
+  "name": "HELL HOUND",
+  "type": "fellowship-pbta.companion",
+  "_id": "OQA0kSn3uGcHHQ17",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "typeName": "HELL HOUND",
+    "typeDescription": "This reddish-brown dog can breathe fire.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "fire breathing",
+        "damaged": false
+      },
+      {
+        "name": "fireproof",
+        "damaged": false
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!OQA0kSn3uGcHHQ17"
+}

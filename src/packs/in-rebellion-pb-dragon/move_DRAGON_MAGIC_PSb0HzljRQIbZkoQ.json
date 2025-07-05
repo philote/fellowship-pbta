@@ -1,0 +1,51 @@
+{
+  "folder": "ngzrEEdP3AKz6xzn",
+  "name": "DRAGON MAGIC",
+  "type": "move",
+  "_id": "PSb0HzljRQIbZkoQ",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>When you draw upon the draconic power that only a fool would not call magic,</strong> choose a spell from below, then mark it. You cannot use a spell while it is marked.</p><p><strong>When you </strong><em><strong>Fill Your Belly</strong></em><strong>,</strong> remove a mark from one spell.</p><p><strong>When you </strong><em><strong>Recover</strong></em><strong>,</strong> remove all marks on your spells.</p><p><strong>When you Share this Move with another,</strong> they choose a single spell from the list. That spell is the only one they can use. You can Share this Move with someone multiple times. Each time you do, they learn another spell.</p>",
+    "moveType": "core",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": "<ul><li><strong>Blessing of Strength:</strong> Destroy a wall or door in your way.</li><li><strong>Blessing of Speed:</strong> Instantly appear somewhere close by that you can see. No one else will see you move there.</li><li><strong>Blessing of Glory:</strong> Force someone to listen to you when you <em>Talk Sense</em> to them.</li></ul>"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!PSb0HzljRQIbZkoQ"
+}
