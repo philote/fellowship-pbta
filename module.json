@@ -503,6 +503,182 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "in-rebellion-basic-moves",
+      "label": "Basic Moves",
+      "path": "packs/in-rebellion-basic-moves",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "in-rebellion-pb-dragon",
+      "label": "The Dragon",
+      "path": "packs/in-rebellion-pb-dragon",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "in-rebellion-pb-exile",
+      "label": "The Exile",
+      "path": "packs/in-rebellion-pb-exile",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "in-rebellion-pb-ogre",
+      "label": "The Ogre",
+      "path": "packs/in-rebellion-pb-ogre",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "in-rebellion-pb-pair",
+      "label": "The Pair",
+      "path": "packs/in-rebellion-pb-pair",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "in-rebellion-pb-remnant",
+      "label": "The Remnant",
+      "path": "packs/in-rebellion-pb-remnant",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "in-rebellion-pb-spider",
+      "label": "The Spider",
+      "path": "packs/in-rebellion-pb-spider",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "in-rebellion-pb-nemesis",
+      "label": "The Nemesis",
+      "path": "packs/in-rebellion-pb-nemesis",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "in-rebellion-pb-redeemed",
+      "label": "The Redeemed",
+      "path": "packs/in-rebellion-pb-redeemed",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "in-rebellion-dpb-ancient-secret",
+      "label": "The Ancient Secret",
+      "path": "packs/in-rebellion-dpb-ancient-secret",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "in-rebellion-dpb-final-form",
+      "label": "The Final Form",
+      "path": "packs/in-rebellion-dpb-final-form",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "in-rebellion-dpb-hero",
+      "label": "The Hero",
+      "path": "packs/in-rebellion-dpb-hero",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "in-rebellion-dpb-mentor",
+      "label": "The Mentor",
+      "path": "packs/in-rebellion-dpb-mentor",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "in-rebellion-dpb-ogre-chieftain",
+      "label": "The Ogre Chieftain",
+      "path": "packs/in-rebellion-dpb-ogre-chieftain",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "in-rebellion-dpb-traitor",
+      "label": "The Traitor",
+      "path": "packs/in-rebellion-dpb-traitor",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "in-rebellion-dpb-world-weaver",
+      "label": "The World Weaver",
+      "path": "packs/in-rebellion-dpb-world-weaver",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     }
   ],
   "packFolders": [
@@ -575,9 +751,40 @@
       "folders": []
     },
     {
-      "name": "A Fellowship In Rebellion",
-      "packs": [],
-      "folders": []
+      "name": "In Rebellion",
+      "color": "#0e5115",
+      "packs": [
+        "in-rebellion-basic-moves"
+      ],
+      "folders": [
+        {
+          "name": "Playbooks",
+          "packs": [
+            "in-rebellion-pb-dragon",
+            "in-rebellion-pb-exile",
+            "in-rebellion-pb-ogre",
+            "in-rebellion-pb-pair",
+            "in-rebellion-pb-remnant",
+            "in-rebellion-pb-spider",
+            "in-rebellion-pb-nemesis",
+            "in-rebellion-pb-redeemed"
+          ],
+          "folders": []
+        },
+        {
+          "name": "Destiny Playbooks",
+          "packs": [
+            "in-rebellion-dpb-ancient-secret",
+            "in-rebellion-dpb-final-form",
+            "in-rebellion-dpb-hero",
+            "in-rebellion-dpb-mentor",
+            "in-rebellion-dpb-ogre-chieftain",
+            "in-rebellion-dpb-traitor",
+            "in-rebellion-dpb-world-weaver"
+          ],
+          "folders": []
+        }
+      ]
     }
   ],
   "url": "#{URL}#",
