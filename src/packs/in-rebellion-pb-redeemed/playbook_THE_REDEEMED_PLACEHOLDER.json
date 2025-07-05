@@ -1,0 +1,311 @@
+{
+  "name": "THE REDEEMED",
+  "type": "playbook",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": "<div class=\"playbook-details\"><h1>THE REDEEMED</h1><div class=\"flexrow\"><div class=\"flexcol\"><div><h2>POWERFUL PLAYBOOK</h2><p><em>This is just the beginning.</em></p><p><em>You think your fellowship is so impressive. You think a little teamwork can stop the full force of the Empire. You think playing hero means you will win in the end.</em></p><p><em>And maybe you're right. You're fools, the lot of you. But you have done more than I ever expected. Your fellowship is so weak and pitiful, while the Empire is so strong and unyielding. At this rate, you will be crushed... unless I help you.</em></p><p><em>I was your Nemesis. But I think... I think I was wrong. I was on the wrong side of all of this. The Empire isn't right. They can't be trusted. I've seen the truth.</em></p><p><em>Can you forgive me? Do you think I can be Redeemed?</em></p></div><div><h2>STATS</h2><p>You keep the same stats as when you were The Nemesis.</p><p><strong>When a stat is damaged,</strong> mark the small box. You are in <strong>Despair</strong> when you roll a damaged stat.</p><ul><li>Blood</li><li>Courage</li><li>Grace</li><li>Sense</li><li>Wisdom / Iron</li></ul></div><div><h2>WHAT IS THE REDEEMED?</h2><p><strong>Choose the option that best represents you:</strong></p><h3>DEDICATED ELITE</h3><p>You can't understand life without a goal to chase. Without your cruel master's guidance, you must set your own goals.</p><p>You can make Cuts against anything between you and your target. Between sessions, you may change your target.</p><p>Name your target: _____________________________________</p><h3>HONOR-BOUND FOOL</h3><p>You have a code of honor you must follow. Your code survives long after your cruel master's control over you.</p><p>When someone takes a hostile or deceitful action against you, you may immediately respond with a Cut.</p><p>If you break your code, you take damage and cannot make Cuts for the rest of this session.</p><p>When someone honors your code for the first time, you will honor a request they make of you.</p><p>Define your code:</p><h3>LOVELESS FAMILY</h3><p>You are finally united alongside your love. As long as you act on their behalf, nothing can get in your way.</p><p>When you act in their best interests (according to them), you can make Cuts.</p><p>Profess your love: ____________________________________</p><h3>BETRAYED HUNTER</h3><p>You are a powerful hunter, and nobody can safely dispute this. Wild, untamed, and reckless foes cannot stand up to you.</p><p>When you take action against a Beast, a mindless monster, or a reckless warrior, you can make Cuts against them.</p></div><div><h2>REDEEMED CORE</h2><p><strong>The Redeemed has these moves. None of them can be Shared.</strong></p><h3>SPEAK HARSHLY (IRON)</h3><p>When you demand answers from someone weaker than you, roll +Iron.</p><p>On a 7+, ask two questions from the list. They must answer honestly. On a 6-, you may only ask one question.</p><p>On a 9-, one of their answers may be a lie, if they want to lie to you. You will not be told which answer is the lie, or even if there is a lie at all.</p><ul><li>What can you tell me about ________?</li><li>What are you hiding?</li><li>Where is ________?</li><li>No more questions. Deal damage and end the interrogation.</li></ul><h3>THE BAD GUY (WISDOM)</h3><p>You are not part of the fellowship, no matter how much you may wish to be. You have a mission, and working alongside them goes against that mission.</p><p>When something reminds you of your purpose, roll +Wisdom.</p><p>On a 7+, you remain on their side, for now.</p><p>On a 9-, you must erase a Bond you hold with the fellowship. If you have no Bonds remaining, take the 6- result instead.</p><p>On a 6- or if you do not have a Wisdom stat, you will betray them at the earliest good opportunity for you to do so.</p><p>You do not need to roll this Move if you intend to betray them anyway.</p><p>Just before you betray the fellowship, temporarily or otherwise, replace this playbook with The Nemesis. Keep all the same options you picked, including your level and moves and stats, but use the text found on that playbook instead.</p><h3>DARK AUTHORITY</h3><p>You have pull with your cruel master's minions, and can make demands of them freely. They will listen to you even if your behavior is strange or clearly benefits the fellowship, but you can expect them to report continued strange behavior to your cruel master.</p><p>Your cruel master can take this Move away from you at any time. You do not get it back until you return to being The Nemesis.</p><h3>A MOMENT'S CLARITY</h3><p>When you make a move against the fellowship, they may erase one Bond they hold with you to make you hesitate. Choose one: You show them mercy, you tell them something important, or you act anyway, rolling with Despair.</p><h3>STEEL HEART</h3><p>You were raised to be cruel. Your Wisdom stat has been replaced by the Iron stat. Iron represents your competitive spirit and cruel heart.</p><p>You cannot <em>Speak Softly</em> without a Wisdom stat. You cannot choose to <em>Finish Them</em> or <em>Talk Sense</em> with +Wisdom without a Wisdom stat, either.</p><p>When you <em>Finish Them</em> by outlasting them in a contest of power or endurance, roll +Iron. On a 10+, they pass out.</p><h3>TENACITY INCARNATE</h3><p>When you roll a 6- or take damage, you gain Vigor. Your next roll is made with Hope and cannot have Despair.</p><h3>CUT THEM</h3><p>The Redeemed can make Cuts under specific situations. How and when you make your Cuts is determined by your <em>What Is The Redeemed?</em> choice.</p><p>When you Cut a Threat, it is always a Hard Cut. After you make a Cut against them, they can respond with a Cut. After they Cut you, you may Cut them back if you still meet the trigger for your cuts.</p><p>Battles between you and a Threat may happen entirely without Moves.</p><p>You cannot make Cuts against a Threat to the World.</p><p>You cannot make Cuts while you are in Despair.</p><p>The Cuts are as follows:</p><ul><li><strong>Reveal an unwelcome truth</strong> - <em>Tell them something they don't want to hear</em></li><li><strong>Show signs of an approaching threat</strong> - <em>Introduce a new danger or complication to the scene</em></li><li><strong>Deal damage</strong> - <em>Hurt them, physically or emotionally</em></li><li><strong>Use up or take away their resources</strong> - <em>Force them to spend their Gear or supplies</em></li><li><strong>Turn their move back on them</strong> - <em>Redirect or punish the move they just made</em></li><li><strong>Separate them</strong> - <em>Take them away from their allies</em></li><li><strong>Put someone on the spot</strong> - <em>Make a situation that needs their immediate attention or else</em></li><li><strong>Present an opportunity</strong> - <em>Give them a chance to succeed or beat you</em></li><li><strong>Show a downside</strong> - <em>Take advantage of a weak point in their actions or equipment</em></li><li><strong>Tell them the consequences or requirements</strong> - <em>Stop them from doing something they want until they go through you</em></li></ul></div></div><div class=\"flexcol\"><div><h2>PLAYING AS THE REDEEMED</h2><p>This playbook can't be taken normally. You must start as The Nemesis, and replace your playbook with this one when you are working alongside the fellowship.</p><p>You keep the same stats, Moves, and gear options as when you were The Nemesis, but you use the text found on this playbook instead of The Nemesis text.</p></div><div><h2>REDEEMED ADVANCEMENT</h2><p><strong>When you Level Up, increase your level by 1, then choose an option from the list and mark it. You may only choose each option once.</strong> <em>You begin the game at level 1.</em></p><ul><li>Increase one of your stats by +1, to a maximum of +3.</li><li>Increase one of your stats by +1, to a maximum of +2.</li><li>Gain the Wisdom stat at +1. <em>You must be using The Redeemed playbook to take this Advancement.</em></li><li>Take another Redeemed Custom.</li><li>Take another Redeemed Custom.</li><li>Take a Custom Move from any Basic or Powerful playbook.</li><li>Ask a player to Share a Move with you. If they refuse, take a Redeemed Custom.</li><li>Ask a player to Share a Move with you. If they refuse, take a Redeemed Custom. You must be level 5 or higher to take this Advancement.</li><li>Take a Custom move from any Destiny playbook.</li><li>Take a Custom move from any Destiny playbook. <em>You must be using The Redeemed playbook to take this Advancement.</em></li><li>Take a Custom Move from any Destiny Playbook. You must be level 5 or higher to take this Advancement.</li><li><strong>You have Changed.</strong> <em>You may only take this Advancement if the Fellowship has accepted you.</em> Permanently remove <em>The Bad Guy</em> and <em>Dark Authority</em> from this playbook. You are no longer Nemesis, and have been Redeemed.</li></ul><p>You cannot take a Destiny playbook, but Destiny Moves can be Shared with you.</p></div><div><h2>BONDS</h2><p>You start with 4 bonds with the other members of the fellowship. Use these, or make your own:</p><p>I will capture <span style=\"text-decoration:underline\">        </span> , no matter what the cost.</p><p><span style=\"text-decoration:underline\">        </span> has bested me in combat.</p><p>I have defeated <span style=\"text-decoration:underline\">        </span> before.</p><p><span style=\"text-decoration:underline\">        </span> betrayed me.</p><p>I don't understand why <span style=\"text-decoration:underline\">        </span> acts the way they do.</p><p>I trusted <span style=\"text-decoration:underline\">        </span> .</p><p>I will protect <span style=\"text-decoration:underline\">        </span> from my cruel master.</p><p>I will bring <span style=\"text-decoration:underline\">        </span> to my cruel master.</p><p>I need <span style=\"text-decoration:underline\">        </span> to understand.</p><p>My feelings for <span style=\"text-decoration:underline\">        </span> confuse me.</p><p><strong>Record your other bonds here:</strong></p></div><div><h2>REDEEMED GEAR</h2><p>You scrounged up some food <em>(Food, 3 Uses)</em>.</p><p>You are a Melee weapon. In addition, choose two:</p><ul><li>A deadly blade <em>(Melee, Piercing)</em></li><li>Fiery blasts <em>(Ranged, Burning)</em></li><li>Clever tricks <em>(Useful, 2 Uses)</em></li><li>Heavy armor <em>(Armor, 1 Use)</em></li><li>High mobility <em>(Armor, 1 Use)</em></li></ul></div></div></div></div>",
+    "slug": "the-redeemed",
+    "actorType": "character",
+    "stats": {
+      "blood": {
+        "label": "Blood",
+        "value": 0
+      },
+      "courage": {
+        "label": "Courage",
+        "value": 0
+      },
+      "grace": {
+        "label": "Grace",
+        "value": 0
+      },
+      "sense": {
+        "label": "Sense",
+        "value": 0
+      },
+      "wisdom": {
+        "label": "Wisdom",
+        "value": 0
+      },
+      "iron": {
+        "label": "Iron",
+        "value": 0
+      },
+      "doom": {
+        "label": "Doom",
+        "value": 0
+      }
+    },
+    "statsDetail": "You keep the same stats as when you were The Nemesis.",
+    "attributes": {
+      "statsVisibility": {
+        "label": "Stats Visibility",
+        "description": "Which stats are visible on the character sheet?",
+        "type": "ListMany",
+        "options": {
+          "0": {
+            "label": "blood",
+            "value": true
+          },
+          "1": {
+            "label": "courage",
+            "value": true
+          },
+          "2": {
+            "label": "grace",
+            "value": true
+          },
+          "3": {
+            "label": "sense",
+            "value": true
+          },
+          "4": {
+            "label": "wisdom",
+            "value": true
+          },
+          "5": {
+            "label": "iron",
+            "value": true
+          },
+          "6": {
+            "label": "doom",
+            "value": false
+          }
+        },
+        "choices": [
+          {
+            "options": {
+              "0": {
+                "value": true,
+                "label": "blood"
+              },
+              "1": {
+                "value": true,
+                "label": "courage"
+              },
+              "2": {
+                "value": true,
+                "label": "grace"
+              },
+              "3": {
+                "value": true,
+                "label": "sense"
+              },
+              "4": {
+                "value": true,
+                "label": "wisdom"
+              },
+              "5": {
+                "value": true,
+                "label": "iron"
+              },
+              "6": {
+                "value": false,
+                "label": "doom"
+              }
+            },
+            "value": ""
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "value": "",
+        "max": null
+      },
+      "advancements": {
+        "label": "Advancement",
+        "description": "When you Level Up, increase your level by 1, then choose an option from the list and mark it. You may only choose each option once.",
+        "type": "ListMany",
+        "options": {
+          "0": {
+            "label": "",
+            "value": false
+          },
+          "1": {
+            "label": "",
+            "value": false
+          },
+          "2": {
+            "label": "",
+            "value": false
+          },
+          "3": {
+            "label": "",
+            "value": false
+          },
+          "4": {
+            "label": "",
+            "value": false
+          },
+          "5": {
+            "label": "",
+            "value": false
+          },
+          "6": {
+            "label": "",
+            "value": false
+          },
+          "7": {
+            "label": "",
+            "value": false
+          },
+          "8": {
+            "label": "",
+            "value": false
+          },
+          "9": {
+            "label": "",
+            "value": false
+          },
+          "10": {
+            "label": "",
+            "value": false
+          },
+          "11": {
+            "label": "",
+            "value": false
+          }
+        },
+        "choices": [
+          {
+            "options": {
+              "0": {
+                "value": false,
+                "label": "Increase one of your stats by +1, to a maximum of +3."
+              },
+              "1": {
+                "value": false,
+                "label": "Increase one of your stats by +1, to a maximum of +2."
+              },
+              "2": {
+                "value": false,
+                "label": "Gain the Wisdom stat at +1. You must be using The Redeemed playbook to take this Advancement."
+              },
+              "3": {
+                "value": false,
+                "label": "Take another Redeemed Custom."
+              },
+              "4": {
+                "value": false,
+                "label": "Take another Redeemed Custom."
+              },
+              "5": {
+                "value": false,
+                "label": "Take a Custom Move from any Basic or Powerful playbook."
+              },
+              "6": {
+                "value": false,
+                "label": "Ask a player to Share a Move with you. If they refuse, take a Redeemed Custom."
+              },
+              "7": {
+                "value": false,
+                "label": "Ask a player to Share a Move with you. If they refuse, take a Redeemed Custom. You must be level 5 or higher to take this Advancement."
+              },
+              "8": {
+                "value": false,
+                "label": "Take a Custom move from any Destiny playbook."
+              },
+              "9": {
+                "value": false,
+                "label": "Take a Custom move from any Destiny playbook. You must be using The Redeemed playbook to take this Advancement."
+              },
+              "10": {
+                "value": false,
+                "label": "Take a Custom Move from any Destiny Playbook. You must be level 5 or higher to take this Advancement."
+              },
+              "11": {
+                "value": false,
+                "label": "You have Changed. You may only take this Advancement if the Fellowship has accepted you. Permanently remove The Bad Guy and Dark Authority from this playbook. You are no longer Nemesis, and have been Redeemed."
+              }
+            },
+            "value": ""
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "value": "",
+        "max": null
+      },
+      "playingAs": {
+        "label": "Playing as",
+        "value": "",
+        "type": "Details",
+        "choices": [
+          {
+            "value": "<p>This playbook can't be taken normally. You must start as The Nemesis, and replace your playbook with this one when you are working alongside the fellowship.</p><p>You keep the same stats, Moves, and gear options as when you were The Nemesis, but you use the text found on this playbook instead of The Nemesis text.</p>",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "details",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "whatIsRedeemed": {
+        "label": "What Is The Redeemed?",
+        "value": "",
+        "type": "Details",
+        "choices": [
+          {
+            "value": "<h3>DEDICATED ELITE</h3><p>You can't understand life without a goal to chase. Without your cruel master's guidance, you must set your own goals.</p><p>You can make Cuts against anything between you and your target. Between sessions, you may change your target.</p><p>Name your target: _____________________________________</p>",
+            "options": {}
+          },
+          {
+            "value": "<h3>HONOR-BOUND FOOL</h3><p>You have a code of honor you must follow. Your code survives long after your cruel master's control over you.</p><p>When someone takes a hostile or deceitful action against you, you may immediately respond with a Cut.</p><p>If you break your code, you take damage and cannot make Cuts for the rest of this session.</p><p>When someone honors your code for the first time, you will honor a request they make of you.</p><p>Define your code:</p>",
+            "options": {}
+          },
+          {
+            "value": "<h3>LOVELESS FAMILY</h3><p>You are finally united alongside your love. As long as you act on their behalf, nothing can get in your way.</p><p>When you act in their best interests (according to them), you can make Cuts.</p><p>Profess your love: ____________________________________</p>",
+            "options": {}
+          },
+          {
+            "value": "<h3>BETRAYED HUNTER</h3><p>You are a powerful hunter, and nobody can safely dispute this. Wild, untamed, and reckless foes cannot stand up to you.</p><p>When you take action against a Beast, a mindless monster, or a reckless warrior, you can make Cuts against them.</p>",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "details",
+        "max": null,
+        "options": {},
+        "description": "Choose the option that best represents you:"
+      },
+      "bonds": {
+        "label": "Bonds",
+        "value": "",
+        "type": "Details",
+        "choices": [
+          {
+            "value": "<p>You start with 4 bonds with the other members of the fellowship. Use these, or make your own:</p><p>I will capture <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> , no matter what the cost.</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> has bested me in combat.</p><p>I have defeated <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> before.</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> betrayed me.</p><p>I don't understand why <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> acts the way they do.</p><p>I trusted <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> .</p><p>I will protect <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> from my cruel master.</p><p>I will bring <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> to my cruel master.</p><p>I need <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> to understand.</p><p>My feelings for <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> confuse me.</p><p><strong>Record your other bonds here:</strong></p>",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "details",
+        "max": null,
+        "options": {},
+        "description": ""
+      }
+    },
+    "choiceSets": []
+  },
+  "effects": [],
+  "folder": null,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_id": "PLACEHOLDER",
+  "sort": 0,
+  "_key": "!items!PLACEHOLDER"
+}

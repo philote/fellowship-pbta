@@ -1,0 +1,51 @@
+{
+  "folder": "placeholder",
+  "name": "INNER DARKNESS",
+  "type": "move",
+  "_id": "placeholder",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>You cannot be Taken Out. While all of your stats are damaged, you lose all of your other Agendas, and gain the Agenda <em>Darkness Reigns</em>.</p><p><strong>Darkness Reigns</strong><br>Your curse consumes you. Act with vengeance and lash out in despair.</p><p>When Darkness Reigns within you, you are powerful but easily manipulated. You make all rolls by rolling three dice and taking the best two.</p><p>You cannot disobey an order given to you by the Nemesis or by a Threat to the World. The Overlord can make you <em>An Offer You Can't Refuse</em> as if you were Taken Out. Anyone trying to <em>Talk Sense</em> to you rolls with Hope to do so.</p>",
+    "moveType": "core",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!placeholder"
+}

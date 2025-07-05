@@ -1,0 +1,385 @@
+{
+  "name": "THE REMNANT",
+  "type": "playbook",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": "<div class=\"playbook-details\"><h1>THE REMNANT</h1><div class=\"flexrow\"><div class=\"flexcol\"><div><h2>BASIC PLAYBOOK</h2><p><em>My people are dead. Our cities are ruins. Our culture is lost.</em></p><p><em>But some small part of me can't let go. I can't watch it happen again, happen to more of you living folk. I can't let this pain I feel be felt again.</em></p><p><em>I have seen this Overlord you all fear. You have good reason to. It's happening all over again. More will be lost, more destroyed. The world is ending, you know? I can't help but despair. This is all so very hopeless. We'll never make it.</em></p><p><em>But I can't help but try. I can't let it happen again. I can't watch another become like us, so hollow, so hungry, so empty and angry and hurt and empty and hungry and hurt and... and...</em></p><p><em>Forgive me. I am but a Remnant of the past.</em></p><p><em>And I can't let go.</em></p></div><div><h2>NAME</h2><p><strong>Choose one or two from each, or make up your own:</strong></p><p><strong>Names:</strong> <em>Parker, Vero, Donut, Tarrana, Ta'Ch'Ch, Carris, Lyrac, Protil, Truespinner, Lightwalker, Heartthief, Redeye, Va'Roon</em></p><p><strong>Claims:</strong> <em>Stole the Moon's Heart, Wandered 4000 Days, Eaten Every Creature, Infiltrated Hound's Hall in Silence, Foiled Assassination, Loved by the Elf King Kal'Thul, Mother of Ten Spider's Grove, Destroyer of the Dusk Owls, Swallowed by the Dragon Demothaz and Crawled Back Out, Dueled King Alexandros and Won</em></p></div><div><h2>LOOK</h2><p><strong>Circle one from each list, or make up your own:</strong></p><ul><li>Hollow Eyes, Glowing Eyes, or Ancient Eyes</li><li>Tattered Cloak, Burial Shroud, or Weathered Armor</li><li>Gaunt Frame, Skeletal Limbs, or Spectral Form</li><li>Pale Skin, Ashen Complexion, or Translucent Flesh</li></ul></div><div><h2>AGENDA</h2><p><strong>When you know not what to do, consult your Agendas.</strong></p><h3>You have these three Agendas:</h3><ul><li>Be Brave, Take Risks</li><li>Improve The World Around You</li><li>Tell Us Of Your People</li></ul><p><strong>And circle a fourth Agenda that only you follow:</strong></p><h3>Protect The Living</h3><p>Prevent others from suffering your fate.</p><h3>Remember The Past</h3><p>Keep the memory of your people alive.</p><h3>Embrace The Darkness</h3><p>Accept what you have become and use it.</p></div><div><h2>STATS</h2><p>Your <strong>Blood</strong> stat is +2. Assign +2, +1, +0, -1 to your other stats.</p><p><strong>When a stat is damaged,</strong> mark the small box. You are in <strong>Despair</strong> when you roll a damaged stat.</p><ul><li>Blood</li><li>Courage</li><li>Grace</li><li>Sense</li><li>Wisdom</li></ul></div><div><h2>CORE MOVES</h2><p><strong>All Remnants have these moves.</strong></p><h3>UNENDING DESPAIR</h3><p>You can never have Hope. The dead simply don't feel things quite like the living do. Your positive emotions are very small, and pass quickly.</p><p>You can never have Despair. Injury and pain do not hold you back, and you cling to this world out of spite.</p><p><strong>This Move cannot be Shared with the Living.</strong></p><h3>FEED ON PAIN</h3><p>When you cause harm to another, you heal. The type of harm does not matter - emotional or physical, it all sustains you.</p><p>You no longer need to eat or breathe to survive. In fact, you cannot eat - you can never <em>Fill Your Belly</em>, and Food is worthless to you.</p><p><strong>This Move cannot be Shared with the Living.</strong></p><h3>THE LOST ONES</h3><p>Your people are gone, forgotten, but their legacy lives on. You can <em>Command Lore</em> about the curse that plagues you, the nature of undeath, the plight of your people, and the ruins they've scattered throughout this world.</p><p>When you arrive somewhere you've been before (your call), tell us what it was like back then, and tell us one thing that hasn't changed.</p><p><strong>This Move cannot be Shared.</strong></p><h3>INNER DARKNESS</h3><p>You cannot be Taken Out. While all of your stats are damaged, you lose all of your other Agendas, and gain the Agenda <em>Darkness Reigns</em>.</p><p><strong>Darkness Reigns</strong><br>Your curse consumes you. Act with vengeance and lash out in despair.</p><p>When Darkness Reigns within you, you are powerful but easily manipulated. You make all rolls by rolling three dice and taking the best two.</p><p>You cannot disobey an order given to you by the Nemesis or by a Threat to the World. The Overlord can make you <em>An Offer You Can't Refuse</em> as if you were Taken Out. Anyone trying to <em>Talk Sense</em> to you rolls with Hope to do so.</p></div><div><h2>CUSTOM MOVES</h2><p><strong>Choose two of these moves to further define what it means to be the Remnant.</strong></p><h3>ANCIENT HISTORY</h3><p>Take a Custom Move from any basic playbook. You may also take an Agenda from the chosen playbook.</p><p><strong>This Move cannot be Shared.</strong></p><h3>BOOGEYMAN</h3><p>When your enemies stand outside the light, you may <em>Keep Them Busy</em> no matter how many there are. When an enemy is alone with you in the darkness, you can maim or kill them at will.</p><p>This Move does not work against Threats to the World.</p><h3>CORNERED RAT</h3><p>While you are damaged, your attacks are <em>Dangerous</em>.</p><h3>LIFELIKE</h3><p>You blend in better than most. No one will immediately notice your curse, and most who see you find you forgettable.</p><p>When you <em>Get Away</em> into a crowd, you may roll with +Wisdom instead of +Grace. When you sit in a public place and listen a while, you may ask the locals a question from the <em>Speak Softly</em> list without rolling.</p><h3>LASH OUT (BLOOD)</h3><p>When you wildly strike out with intent to kill them, roll +Blood.</p><p>On a 7+, you may take damage to deal damage to them.</p><p>On a 10+, you deal damage to them, in addition to the 7+ result.</p><p>On a 6-, you may take 2 damage to deal damage anyway.</p><h3>REMEMBER ME?</h3><p>Those who you hurt do not forget. When you <em>Feed On Pain</em>, you may <em>Forge A Bond</em> with them. Bonds forged this way do not make them your Companion. When you taunt or terrorize someone you have a Bond with, you may erase all of your Bonds with them to make them run away from you.</p><h3>SPEAK WITH DEAD</h3><p>You can <em>Speak Softly</em> with corpses. When doing so, you may also ask, \"How did you die?\" and \"What do you regret most?\" regardless of the result of your roll.</p><h3>UNNATURAL TENACITY</h3><p>Pain means nothing to you. When you roll one of your damaged stats, you may take one damage to roll three dice and take the best two for your result. If this damage triggers your <em>Inner Darkness</em> or Takes You Out, roll five dice and take the best two instead.</p></div></div><div class=\"flexcol\"><div><h2>PLAYING AS THE REMNANT</h2><p>The Remnant is cursed. Your people are shattered shells of what they once were, living in the dark places outside civilization. The Remnant offers you the ability to ignore fear and pain, drain strength from your enemies' weaknesses, and play a hero enveloped in darkness and angst.</p><p>Play as The Remnant if you want to lament your cursed existence, if you are drawn to the glamour of the grave, if you want to play a dark and brooding hero, or if you just want to be a monster with cool, death themed superpowers.</p></div><div><h2>ADVANCEMENT</h2><p><strong>When you Level Up, increase your level by 1, then choose an option from the list and mark it. You may only choose each option once.</strong> <em>You begin the game at level 1.</em></p><ul><li>Increase your Blood or Grace by 1 (to a maximum of +3).</li><li>Increase one of your stats by 1 (to a maximum of +3).</li><li>Take another Remnant Custom.</li><li>Strengthen your curse. Choose another Gear option that your curse makes easy, or remove a Gear option that your curse makes difficult.</li><li>Take another Remnant Custom, ask someone to Share a Move with you, or strengthen your curse (as above).</li><li>Share one of your Moves with another player.</li><li><strong>You have Changed.</strong> You must be level 5 or higher to take this Advancement. <strong>When you Change,</strong> choose a Destiny you meet the requirements for and take its first Move.</li></ul></div><div><h2>BONDS</h2><p>You start with 4 bonds with the other members of the Fellowship. Use these, or make your own:</p><p>When <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> tells me they do not fear me, I believe them.</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>'s fate is bound to mine in ways we do not yet understand.</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> found me in the ruins.</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> understands the darkness inside me.</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> is a precious light I must protect.</p><p>I cannot let <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> fail in their quest.</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> gives me purpose when nothing else does.</p><p>I often go hunting alongside <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>.</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> has promised they won't forget me.</p><p>I've been haunting <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> for all their life.</p><p><strong>Record your other bonds here:</strong></p></div><div><h2>GEAR</h2><p>You carry your memories and little else, although you are naturally hard to wound <em>(Armor, 1 Use)</em>.</p><h3>Choose your weapon, all are Melee:</h3><ul><li>An ancient weapon, poorly maintained, but it will last a little longer.</li><li>A puppet you carry, ready to fight for you.</li><li>Dark shadowy magic, clinging to your soul.</li><li>Your frightening claws and mighty fangs.</li></ul><h3>Your Curse makes some things difficult. Choose one or two difficulties:</h3><ul><li><strong>Blessings.</strong> You cannot enter holy places, harm someone in holy clothes, or approach someone holding up a holy symbol.</li><li><strong>Daytime.</strong> Direct sunlight weakens you. You cannot make Moves other than Get Away while in direct sunlight.</li><li><strong>Doors.</strong> You cannot enter a room or building without an invitation.</li><li><strong>Water.</strong> You cannot swim, and rain makes travel difficult for you. Touching running water deals damage to you.</li><li><strong>_____________.</strong> Write something common, such as silver, wood, or birds. Touching this damages you, and you cannot Overcome attacks made using this thing.</li></ul><h3>Your Curse makes some things easy. If you chose one difficulty, choose one. If you chose two difficulties, choose two:</h3><ul><li><strong>Conversation.</strong> Your voice is strangely hypnotic, and people are always willing to listen to you when you Talk Sense.</li><li><strong>Nighttime.</strong> You can see perfectly in the dark, and anyone who meets you at night will fear and avoid you if they see you.</li><li><strong>Open Ground.</strong> You are very fast, and may even be able to teleport. You can travel across an entire room in an instant.</li><li><strong>Walls.</strong> You can climb along any surface with ease, even the ceiling, and you climb as quickly as you can run.</li><li><strong>Weaponry.</strong> Mundane swords and arrows cannot harm you. At best, they only slow you down. Weapons made of supernatural materials, such as silver, cold steel, or blessed wood, work normally on you.</li></ul></div><div><h2>COMPANIONS</h2><p>Remnant companions are those creatures in the night that can be reasoned with. Remnants do not keep much company.</p><h3>GHOUL</h3><p><em>This undead is endlessly hungry, and always looking for their next meal.</em></p><p class=\"tags\">hungry | tough as nails</p><h3>SKELETON</h3><p><em>These skeletal warriors use whatever weapons they used in life, and spend most of their time trying not to fall apart.</em></p><p class=\"tags\">just bones | weapons training</p><h3>SPECTER</h3><p><em>These ghostly spirits like to cause trouble, but they are mostly harmless. They'd rather scare you than kill you.</em></p><p class=\"tags\">spooky | poltergeist powers</p><h3>VAMPIRE</h3><p><em>These refined undead have more self control than most, but at the end of the day, they still just want to kill you and eat you.</em></p><p class=\"tags\">dangerously sexy | blood frenzy</p></div></div></div></div>",
+    "slug": "the-remnant",
+    "actorType": "character",
+    "stats": {
+      "blood": {
+        "label": "Blood",
+        "value": 2
+      },
+      "courage": {
+        "label": "Courage",
+        "value": 0
+      },
+      "grace": {
+        "label": "Grace",
+        "value": 0
+      },
+      "sense": {
+        "label": "Sense",
+        "value": 0
+      },
+      "wisdom": {
+        "label": "Wisdom",
+        "value": 0
+      },
+      "doom": {
+        "label": "Doom",
+        "value": 0
+      }
+    },
+    "statsDetail": "Your Blood stat is +2. Assign +2, +1, +0, -1 to your other stats.",
+    "attributes": {
+      "statsVisibility": {
+        "label": "Stats Visibility",
+        "description": "Which stats are visible on the character sheet?",
+        "type": "ListMany",
+        "options": {
+          "0": {
+            "label": "blood",
+            "value": true
+          },
+          "1": {
+            "label": "courage",
+            "value": true
+          },
+          "2": {
+            "label": "grace",
+            "value": true
+          },
+          "3": {
+            "label": "sense",
+            "value": true
+          },
+          "4": {
+            "label": "wisdom",
+            "value": true
+          },
+          "5": {
+            "label": "doom",
+            "value": false
+          }
+        },
+        "choices": [
+          {
+            "options": {
+              "0": {
+                "value": true,
+                "label": "blood"
+              },
+              "1": {
+                "value": true,
+                "label": "courage"
+              },
+              "2": {
+                "value": true,
+                "label": "grace"
+              },
+              "3": {
+                "value": true,
+                "label": "sense"
+              },
+              "4": {
+                "value": true,
+                "label": "wisdom"
+              },
+              "5": {
+                "value": false,
+                "label": "doom"
+              }
+            },
+            "value": ""
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "value": "",
+        "max": null
+      },
+      "initialAgendas": {
+        "label": "Agendas",
+        "type": "LongText",
+        "value": "",
+        "choices": [
+          {
+            "value": "<ul><li>Be Brave, Take Risks</li><li>Improve The World Around You</li><li>Tell Us Of Your People</li></ul>",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "fourthAgenda": {
+        "label": "When you know not what to do, consult your Agendas.",
+        "type": "LongText",
+        "value": "",
+        "choices": [
+          {
+            "value": "<p><strong>Protect The Living</strong> Prevent others from suffering your fate.</p>",
+            "options": {}
+          },
+          {
+            "value": "<p><strong>Remember The Past</strong> Keep the memory of your people alive.</p>",
+            "options": {}
+          },
+          {
+            "value": "<p><strong>Embrace The Darkness</strong> Accept what you have become and use it.</p>",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "lookOne": {
+        "label": "Look",
+        "type": "Text",
+        "value": "",
+        "choices": [
+          {
+            "value": "Hollow Eyes",
+            "options": {}
+          },
+          {
+            "value": "Glowing Eyes",
+            "options": {}
+          },
+          {
+            "value": "Ancient Eyes",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "lookTwo": {
+        "label": "LookTwo",
+        "type": "Text",
+        "value": "",
+        "choices": [
+          {
+            "value": "Tattered Cloak",
+            "options": {}
+          },
+          {
+            "value": "Burial Shroud",
+            "options": {}
+          },
+          {
+            "value": "Weathered Armor",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "lookThree": {
+        "label": "LookThree",
+        "type": "Text",
+        "value": "",
+        "choices": [
+          {
+            "value": "Gaunt Frame",
+            "options": {}
+          },
+          {
+            "value": "Skeletal Limbs",
+            "options": {}
+          },
+          {
+            "value": "Spectral Form",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "lookFour": {
+        "label": "LookFour",
+        "type": "Text",
+        "value": "",
+        "choices": [
+          {
+            "value": "Pale Skin",
+            "options": {}
+          },
+          {
+            "value": "Ashen Complexion",
+            "options": {}
+          },
+          {
+            "value": "Translucent Flesh",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "advancements": {
+        "label": "Advancement",
+        "description": "When you Level Up, increase your level by 1, then choose an option from the list and mark it. You may only choose each option once.",
+        "type": "ListMany",
+        "options": {
+          "0": {
+            "label": "",
+            "value": false
+          },
+          "1": {
+            "label": "",
+            "value": false
+          },
+          "2": {
+            "label": "",
+            "value": false
+          },
+          "3": {
+            "label": "",
+            "value": false
+          },
+          "4": {
+            "label": "",
+            "value": false
+          },
+          "5": {
+            "label": "",
+            "value": false
+          }
+        },
+        "choices": [
+          {
+            "options": {
+              "0": {
+                "value": false,
+                "label": "Increase your Blood or Grace by 1 (to a maximum of +3)."
+              },
+              "1": {
+                "value": false,
+                "label": "Increase one of your stats by 1 (to a maximum of +3)."
+              },
+              "2": {
+                "value": false,
+                "label": "Take another Remnant Custom."
+              },
+              "3": {
+                "value": false,
+                "label": "Strengthen your curse. Choose another Gear option that your curse makes easy, or remove a Gear option that your curse makes difficult."
+              },
+              "4": {
+                "value": false,
+                "label": "Take another Remnant Custom, ask someone to Share a Move with you, or strengthen your curse (as above)."
+              },
+              "5": {
+                "value": false,
+                "label": "Share one of your Moves with another player."
+              }
+            },
+            "value": ""
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "value": "",
+        "max": null
+      },
+      "unlockDestiny": {
+        "label": "Unlock your Destiny",
+        "description": "You must be level 5 or higher to take this Advancement. When you do, you unlock the ability to choose a Destiny.",
+        "type": "ListMany",
+        "options": {
+          "0": {
+            "label": "You have Changed. When you Change, choose a Destiny you meet the requirements for and take its first Move.",
+            "value": false
+          }
+        },
+        "choices": [
+          {
+            "options": {
+              "0": {
+                "label": "You have Changed. When you Change, choose a Destiny you meet the requirements for and take its first Move.",
+                "value": false
+              }
+            },
+            "value": ""
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "value": "",
+        "max": null
+      },
+      "playingAs": {
+        "label": "Playing as",
+        "value": "",
+        "type": "Details",
+        "choices": [
+          {
+            "value": "<p>The Remnant is cursed. Your people are shattered shells of what they once were, living in the dark places outside civilization. The Remnant offers you the ability to ignore fear and pain, drain strength from your enemies' weaknesses, and play a hero enveloped in darkness and angst.</p><p>Play as The Remnant if you want to lament your cursed existence, if you are drawn to the glamour of the grave, if you want to play a dark and brooding hero, or if you just want to be a monster with cool, death themed superpowers.</p>",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "details",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "bonds": {
+        "label": "Bonds",
+        "value": "",
+        "type": "Details",
+        "choices": [
+          {
+            "value": "<p>You start with 4 bonds with the other members of the Fellowship. Use these, or make your own:</p><p>When <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> tells me they do not fear me, I believe them.</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>'s fate is bound to mine in ways we do not yet understand.</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> found me in the ruins.</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> understands the darkness inside me.</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> is a precious light I must protect.</p><p>I cannot let <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> fail in their quest.</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> gives me purpose when nothing else does.</p><p>I often go hunting alongside <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>.</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> has promised they won't forget me.</p><p>I've been haunting <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> for all their life.</p><p><strong>Record your other bonds here:</strong></p>",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "details",
+        "max": null,
+        "options": {},
+        "description": ""
+      }
+    },
+    "choiceSets": []
+  },
+  "effects": [],
+  "folder": null,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_id": "placeholder",
+  "sort": 0,
+  "_key": "!items!placeholder"
+}

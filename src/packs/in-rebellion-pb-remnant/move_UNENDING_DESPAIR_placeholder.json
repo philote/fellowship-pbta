@@ -1,0 +1,51 @@
+{
+  "folder": "placeholder",
+  "name": "UNENDING DESPAIR",
+  "type": "move",
+  "_id": "placeholder",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>You can never have Hope. The dead simply don't feel things quite like the living do. Your positive emotions are very small, and pass quickly.</p><p>You can never have Despair. Injury and pain do not hold you back, and you cling to this world out of spite.</p><p><strong>This Move cannot be Shared with the Living.</strong></p>",
+    "moveType": "core",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!placeholder"
+}
