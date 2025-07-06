@@ -1,0 +1,51 @@
+{
+  "folder": "CORE_MOVES_PLACEHOLDER",
+  "name": "WORKING TOGETHER",
+  "type": "move",
+  "_id": "2W250DAyiovuFXmN",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>When The Pair is together, they act as a single unit in perfect harmony. They combine their stats when making a Move, and they share the Spotlight together. If either of you has Hope or Despair, you both do.</p><p>When you <em>Keep Them Busy</em> together, only one of you needs to stay to <em>Keep Them Busy</em>. The other may disengage and begin <em>Working Alone</em>.</p><p>When you <em>Get Away</em> or <em>Look Closely</em> together, you may split up. If you do, each of you may choose different options from that move's list, and you are now <em>Working Alone</em>.</p><p>When one of you takes damage while <em>Working Together</em>, the other takes damage to the same stat, if it is undamaged.</p>",
+    "moveType": "core",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!2W250DAyiovuFXmN"
+}

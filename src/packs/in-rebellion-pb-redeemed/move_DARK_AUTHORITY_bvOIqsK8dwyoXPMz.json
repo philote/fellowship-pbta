@@ -1,0 +1,51 @@
+{
+  "folder": "PLACEHOLDER",
+  "name": "DARK AUTHORITY",
+  "type": "move",
+  "_id": "bvOIqsK8dwyoXPMz",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>You have pull with your cruel master's minions, and can make demands of them freely. They will listen to you even if your behavior is strange or clearly benefits the fellowship, but you can expect them to report continued strange behavior to your cruel master.</p><p>Your cruel master can take this Move away from you at any time. You do not get it back until you return to being The Nemesis.</p><p><strong>This Move cannot be Shared.</strong></p>",
+    "moveType": "core",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "none",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!bvOIqsK8dwyoXPMz"
+}

@@ -1,0 +1,51 @@
+{
+  "folder": "3mVg9nrffeLpXmYq",
+  "name": "SUPERMAN",
+  "type": "move",
+  "_id": "xrLRj6bbKOHAHN56",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>When you <em>Protect The Little Ones</em>, you can erase a Bond with someone you protected to heal them.</p>",
+    "moveType": "custom",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!xrLRj6bbKOHAHN56"
+}

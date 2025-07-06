@@ -1,0 +1,51 @@
+{
+  "folder": "PLACEHOLDER",
+  "name": "A MOMENT'S CLARITY",
+  "type": "move",
+  "_id": "s8QFko94V5F4DQAV",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>When you make a move against the fellowship,</strong> they may erase one Bond they hold with you to make you hesitate. Choose one: You show them mercy, you tell them something important, or you act anyway, rolling with Despair.</p><p><strong>This Move cannot be Shared.</strong></p>",
+    "moveType": "core",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "none",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!s8QFko94V5F4DQAV"
+}

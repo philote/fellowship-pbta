@@ -1,0 +1,22 @@
+{
+  "name": "COMPANIONS",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "GxBaJpT7kMHU66DE",
+  "description": "",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!GxBaJpT7kMHU66DE"
+}

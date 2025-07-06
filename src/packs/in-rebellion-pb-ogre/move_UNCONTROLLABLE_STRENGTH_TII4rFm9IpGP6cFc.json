@@ -1,0 +1,51 @@
+{
+  "folder": "3mVg9nrffeLpXmYq",
+  "name": "UNCONTROLLABLE STRENGTH",
+  "type": "move",
+  "_id": "TII4rFm9IpGP6cFc",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>You are strong enough to uproot trees, smash doors off their hinges, break through wooden walls or supports, and lift just about anything.</p><p>You have trouble acting with finesse, and destroy things by accident all the time. You are Dangerous, and any uncontrolled action you take can cause collateral damage or destroy the world around you.</p><p>You may always choose to pay a price by causing collateral damage. If you do, the Framework will tell you what important nearby person or thing you damaged by mistake.</p>",
+    "moveType": "core",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!TII4rFm9IpGP6cFc"
+}

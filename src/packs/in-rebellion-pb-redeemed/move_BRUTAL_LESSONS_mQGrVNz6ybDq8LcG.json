@@ -1,0 +1,51 @@
+{
+  "folder": "PLACEHOLDER",
+  "name": "BRUTAL LESSONS",
+  "type": "move",
+  "_id": "mQGrVNz6ybDq8LcG",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>When you </strong><em><strong>Speak Harshly</strong></em><strong>,</strong> you may ask an additional question, even on a 6-. This extra question may come from the <em>Speak Softly</em> list instead of the <em>Speak Harshly</em> list.</p><p><strong>This Move cannot be Shared.</strong></p>",
+    "moveType": "custom",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "none",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!mQGrVNz6ybDq8LcG"
+}

@@ -1,0 +1,51 @@
+{
+  "folder": "8G3H6sKA2Vv7MHMa",
+  "name": "THE BAD GUY",
+  "type": "move",
+  "_id": "OiaLD65TtEXQPyon",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>You are not part of the fellowship. You are chasing them.</p><p>Every session, you are either hot on their trail, or lying in wait ahead of them. When there is a lull in the action, you may jump in to mess things up. Tell us where you're coming from, and take the Spotlight.</p><p>If you <em>Finish Them</em> or the fellowship <em>Finishes You</em> with Blood, on a 10+, the player who was Finished damages all their stats and becomes Taken Out. This happens instead of being killed. When rolling with other stats, apply the usual 10+ <em>Finish Them</em> results.</p><p>When you get Taken Out, you are out of play for the rest of the session, but you will <em>Recover</em> between session.</p><p>You do not <em>Recover</em> when the rest of the fellowship does.</p><p>When you join the fellowship, temporarily or otherwise, replace this playbook with <em>The Redeemed</em>. Keep all the same options you picked, including your level and Moves and stats, but use the text found on that playbook instead.</p>",
+    "moveType": "core",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!OiaLD65TtEXQPyon"
+}

@@ -1,0 +1,51 @@
+{
+  "folder": "3mVg9nrffeLpXmYq",
+  "name": "PROTECT THE LITTLE ONES",
+  "type": "move",
+  "_id": "v8mVZ4W7tXf1bjOH",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Your large size and reckless nature put you in harm's way easily, and both allies and enemies need to be careful or they'll hit you instead of their target.</p><p>When your body is between someone and incoming harm, you suffer that harm in their place. This happens whether you want it to or not.</p><p>When an ally within your reach would Overcome incoming harm, they may choose to have you take that harm instead of rolling.</p><p><em>Protect The Little Ones</em> does not trigger if you are the source of the incoming harm. For example, if an ally within your reach suffers from your collateral damage, they cannot make you take that harm instead.</p>",
+    "moveType": "core",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!v8mVZ4W7tXf1bjOH"
+}

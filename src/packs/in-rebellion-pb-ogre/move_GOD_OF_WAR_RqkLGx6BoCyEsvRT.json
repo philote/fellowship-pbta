@@ -1,0 +1,51 @@
+{
+  "folder": "3mVg9nrffeLpXmYq",
+  "name": "GOD OF WAR",
+  "type": "move",
+  "_id": "RqkLGx6BoCyEsvRT",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>When you fight against them by yourself, you can try to <em>Keep Them Busy</em> no matter who they are, how outnumbered you are, or how poor your position is, even if they are a Group, Gang, or Army.</p>",
+    "moveType": "custom",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!RqkLGx6BoCyEsvRT"
+}

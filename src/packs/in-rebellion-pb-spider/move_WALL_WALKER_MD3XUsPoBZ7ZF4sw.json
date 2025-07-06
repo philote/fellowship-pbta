@@ -1,0 +1,51 @@
+{
+  "folder": "PLACEHOLDER",
+  "name": "WALL WALKER",
+  "type": "move",
+  "_id": "MD3XUsPoBZ7ZF4sw",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>You can move along walls and ceilings of any solid material. So long as the surface can support your weight, you can run, walk, or cling to it without falling.</p><p><strong>When you go solo,</strong> you can act normally while <em>Wall Walking</em>.</p><p><strong>When you have a passenger,</strong> they must cling to you with both arms or they will fall, and you must keep all your limbs on the wall or you will fall.</p>",
+    "moveType": "core",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!MD3XUsPoBZ7ZF4sw"
+}

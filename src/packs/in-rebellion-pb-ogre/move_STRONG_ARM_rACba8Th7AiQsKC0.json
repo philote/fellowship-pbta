@@ -1,0 +1,51 @@
+{
+  "folder": "3mVg9nrffeLpXmYq",
+  "name": "STRONG ARM",
+  "type": "move",
+  "_id": "rACba8Th7AiQsKC0",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>When you <em>Toss Aside</em> your friends or enemies, you may throw a second enemy or ally with the same roll.</p><p><strong>On a 10+,</strong> you may choose different options for each thrown target. <strong>On a 9-,</strong> each target chooses separately from the list.</p>",
+    "moveType": "custom",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": "Each target chooses separately from the list."
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": "You may choose different options for each thrown target."
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!rACba8Th7AiQsKC0"
+}

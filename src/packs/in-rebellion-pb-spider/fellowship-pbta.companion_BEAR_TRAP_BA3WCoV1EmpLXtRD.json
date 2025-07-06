@@ -1,0 +1,39 @@
+{
+  "folder": "PLACEHOLDER",
+  "name": "BEAR TRAP",
+  "type": "fellowship-pbta.companion",
+  "_id": "BA3WCoV1EmpLXtRD",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "typeName": "BEAR TRAP",
+    "typeDescription": "Surprisingly, not actually a bear. 3 USES. IMMOBILIZES THEM UNTIL THEY PRY FREE. WHEN TRIGGERED, IT CAUSES IMMENSE, DISTRACTING PAIN.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "3 uses",
+        "damaged": false
+      },
+      {
+        "name": "immobilize",
+        "damaged": false
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!BA3WCoV1EmpLXtRD"
+}

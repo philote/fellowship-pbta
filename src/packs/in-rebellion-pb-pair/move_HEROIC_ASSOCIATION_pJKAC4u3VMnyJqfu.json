@@ -1,0 +1,51 @@
+{
+  "folder": "CORE_MOVES_PLACEHOLDER",
+  "name": "HEROIC ASSOCIATION",
+  "type": "move",
+  "_id": "pJKAC4u3VMnyJqfu",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>The Pair <em>Commands Lore</em> about an organization, instead of a society. You come from a company of mercenaries, bounty hunters, heroes, or some other such group. You <em>Command Lore</em> about who they are, what they want, their place in the world, their culture, their rivals, their enemies, and their laws, just as everyone else does.</p>",
+    "moveType": "core",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!pJKAC4u3VMnyJqfu"
+}

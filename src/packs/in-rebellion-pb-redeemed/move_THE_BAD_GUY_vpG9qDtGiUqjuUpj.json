@@ -1,0 +1,51 @@
+{
+  "folder": "PLACEHOLDER",
+  "name": "THE BAD GUY",
+  "type": "move",
+  "_id": "vpG9qDtGiUqjuUpj",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>You are not part of the fellowship, no matter how much you may wish to be. You have a mission, and working alongside them goes against that mission.</p><p><strong>When something reminds you of your purpose,</strong> roll +Wisdom.</p><p><strong>On a 7+,</strong> you remain on their side, for now.</p><p><strong>On a 9-,</strong> you must erase a Bond you hold with the fellowship. If you have no Bonds remaining, take the 6- result instead.</p><p><strong>On a 6-</strong> or if you do not have a Wisdom stat, you will betray them at the earliest good opportunity for you to do so.</p><p>You do not need to roll this Move if you intend to betray them anyway.</p><p>Just before you betray the fellowship, temporarily or otherwise, replace this playbook with The Nemesis. Keep all the same options you picked, including your level and moves and stats, but use the text found on that playbook instead.</p><p><strong>This Move cannot be Shared.</strong></p>",
+    "moveType": "core",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": "You will betray them at the earliest good opportunity for you to do so."
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": "You remain on their side, for now."
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": "You remain on their side, for now."
+      }
+    },
+    "uses": 0,
+    "rollType": "wisdom",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!vpG9qDtGiUqjuUpj"
+}

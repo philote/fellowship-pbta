@@ -1,0 +1,51 @@
+{
+  "folder": "placeholder",
+  "name": "THE LOST ONES",
+  "type": "move",
+  "_id": "LBjVARrdPkiZGpJa",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Your people are gone, forgotten, but their legacy lives on. You can <em>Command Lore</em> about the curse that plagues you, the nature of undeath, the plight of your people, and the ruins they've scattered throughout this world.</p><p>When you arrive somewhere you've been before (your call), tell us what it was like back then, and tell us one thing that hasn't changed.</p><p><strong>This Move cannot be Shared.</strong></p>",
+    "moveType": "core",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!LBjVARrdPkiZGpJa"
+}
