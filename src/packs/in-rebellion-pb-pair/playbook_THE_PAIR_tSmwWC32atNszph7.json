@@ -157,7 +157,7 @@
         "description": ""
       },
       "lookOne": {
-        "label": "Look (Member 1)",
+        "label": "Look",
         "type": "Text",
         "value": "",
         "choices": [
@@ -181,7 +181,7 @@
         "description": ""
       },
       "lookTwo": {
-        "label": "LookTwo (Member 1)",
+        "label": "LookTwo",
         "type": "Text",
         "value": "",
         "choices": [
@@ -205,7 +205,7 @@
         "description": ""
       },
       "lookThree": {
-        "label": "LookThree (Member 1)",
+        "label": "LookThree",
         "type": "Text",
         "value": "",
         "choices": [
@@ -229,7 +229,7 @@
         "description": ""
       },
       "lookFour": {
-        "label": "LookFour (Member 1)",
+        "label": "LookFour",
         "type": "Text",
         "value": "",
         "choices": [
@@ -243,102 +243,6 @@
           },
           {
             "value": "Watchful Bearing",
-            "options": {}
-          }
-        ],
-        "custom": false,
-        "path": "attributes",
-        "max": null,
-        "options": {},
-        "description": ""
-      },
-      "lookFive": {
-        "label": "Look (Member 2)",
-        "type": "Text",
-        "value": "",
-        "choices": [
-          {
-            "value": "Bright Eyes",
-            "options": {}
-          },
-          {
-            "value": "Serious Eyes",
-            "options": {}
-          },
-          {
-            "value": "Thoughtful Eyes",
-            "options": {}
-          }
-        ],
-        "custom": false,
-        "path": "attributes",
-        "max": null,
-        "options": {},
-        "description": ""
-      },
-      "lookSix": {
-        "label": "LookSix (Member 2)",
-        "type": "Text",
-        "value": "",
-        "choices": [
-          {
-            "value": "Cropped Hair",
-            "options": {}
-          },
-          {
-            "value": "Flowing Hair",
-            "options": {}
-          },
-          {
-            "value": "Hidden Hair",
-            "options": {}
-          }
-        ],
-        "custom": false,
-        "path": "attributes",
-        "max": null,
-        "options": {},
-        "description": ""
-      },
-      "lookSeven": {
-        "label": "LookSeven (Member 2)",
-        "type": "Text",
-        "value": "",
-        "choices": [
-          {
-            "value": "Casual Clothes",
-            "options": {}
-          },
-          {
-            "value": "Fine Garments",
-            "options": {}
-          },
-          {
-            "value": "Travel Gear",
-            "options": {}
-          }
-        ],
-        "custom": false,
-        "path": "attributes",
-        "max": null,
-        "options": {},
-        "description": ""
-      },
-      "lookEight": {
-        "label": "LookEight (Member 2)",
-        "type": "Text",
-        "value": "",
-        "choices": [
-          {
-            "value": "Graceful Form",
-            "options": {}
-          },
-          {
-            "value": "Sturdy Build",
-            "options": {}
-          },
-          {
-            "value": "Wiry Frame",
             "options": {}
           }
         ],
@@ -521,6 +425,30 @@
         "max": null,
         "options": {},
         "description": ""
+      },
+      "unlockDestiny": {
+        "label": "Unlock your Destiny",
+        "description": "You must be level 5 or higher to take this Advancement. When you do, you unlock the ability to choose a Destiny.",
+        "type": "ListMany",
+        "options": {
+          "0": {
+            "label": "You have Changed. When you Change, choose a Destiny you meet the requirements for and take its first Move.",
+            "value": false
+          }
+        },
+        "choices": [
+          {
+            "options": {
+              "0": {
+                "label": "You have Changed. When you Change, choose a Destiny you meet the requirements for and take its first Move.",
+                "value": false
+              }
+            },
+            "value": ""
+          }
+        ],
+        "custom": false,
+        "path": "attributes"
       }
     },
     "choiceSets": [
@@ -750,7 +678,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.21",
     "createdTime": null,
-    "modifiedTime": 1751844629073,
+    "modifiedTime": 1751846116335,
     "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
