@@ -371,24 +371,49 @@
         "max": null,
         "options": {},
         "description": ""
+      },
+      "yourPeople": {
+        "label": "Your People",
+        "value": "",
+        "type": "Details",
+        "choices": [
+          {
+            "value": "<p><strong>A CURSE OF BLOOD</strong></p><p>Your blood boils and writhes beneath your skin. You are constantly on edge, and you need your fix to calm down. Drinking blood gives you a blood-high, temporarily easing your discomfort. An ally may damage their Blood stat to trigger <em>Feed On Pain</em> for you.</p><p><strong>When you </strong><em><strong>Feed On Pain</strong></em><strong> by drinking their blood</strong>, on your next roll, you roll three dice and keep the best two.</p>",
+            "options": {}
+          },
+          {
+            "value": "<p><strong>A CURSE OF DUST</strong></p><p>You are cursed with eternity, and your body will live on even after being ground to dust.</p><p>Your natural armor has 2 Uses instead of 1 Use. You can spend 1 Use of your Armor to protect an ally within reach.</p><p><strong>When you </strong><em><strong>Feed On Pain</strong></em>, you may recover 1 Use of your Armor instead of healing.</p>",
+            "options": {}
+          },
+          {
+            "value": "<p><strong>A CURSE OF HUNGER</strong></p><p>You are cursed with an unending hunger, and an overwhelming desire to eat. You still cannot <em>Fill Your Belly</em>, because eating provides you no sustence, no fulfillment. Instead, you can eat anything. </p><p>Your bite is a <em>Melee, Necrotic</em> weapon, and anything you put in your mouth and eat is destroyed forever, unable to be retrieved by any means.</p>",
+            "options": {}
+          },
+          {
+            "value": "<p><strong>A CURSE OF SPIRIT</strong></p><p>You are cursed to exist only as a spirit, without the ability to touch, to feel, to eat, or to rest. Your body has long since disappeared, and only your spirit remainds. You can float through walls, disappear, and fly, but you also cannot touch anything or anyone. It all passes through you. </p><p>You do not choose a weapon when choosing your Gear, and you can't use violence to <em>Finish Them</em> or <em>Keep Them Busy</em>.</p>",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "details",
+        "description": "WHAT IS YOUR CURSE? Choose the option that best represents what's left of your people:"
       }
     },
     "choiceSets": [
       {
         "title": "REMNANT CORE",
         "desc": "All Remnants have these moves.",
-        "grantOn": 0,
-        "advancement": 0,
+        "type": "multi",
         "repeatable": true,
         "choices": [
           {
-            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-remnant.Item.2avYeGGFumwGuk51",
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-remnant.Item.OL9LNbzqaYjpiUEi",
             "img": "icons/svg/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-remnant.Item.esn19oLp6O3N84u0",
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-remnant.Item.0WjFrPOnmV9F36d5",
             "img": "icons/svg/aura.svg",
             "granted": false,
             "advancement": 0
@@ -398,16 +423,22 @@
             "img": "icons/svg/aura.svg",
             "granted": false,
             "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-remnant.Item.QTCrhadHREDM1g89",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 0,
+        "granted": false,
+        "advancement": 0
       },
       {
         "title": "REMNANT CUSTOM",
         "desc": "Choose two of these moves to further define what it means to be a Remnant.",
-        "grantOn": 1,
-        "advancement": 0,
+        "type": "multi",
         "repeatable": true,
         "choices": [
           {
@@ -423,13 +454,7 @@
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-remnant.Item.OL9LNbzqaYjpiUEi",
-            "img": "icons/svg/aura.svg",
-            "granted": false,
-            "advancement": 0
-          },
-          {
-            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-remnant.Item.0WjFrPOnmV9F36d5",
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-remnant.Item.2avYeGGFumwGuk51",
             "img": "icons/svg/aura.svg",
             "granted": false,
             "advancement": 0
@@ -459,20 +484,20 @@
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-remnant.Item.QTCrhadHREDM1g89",
             "img": "icons/svg/aura.svg",
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-remnant.Item.esn19oLp6O3N84u0",
             "granted": false,
             "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 1,
+        "granted": false,
+        "advancement": 0
       },
       {
         "title": "Starting Gear",
         "desc": "All Remnants start with memories and natural armor.",
-        "grantOn": 0,
-        "advancement": 0,
+        "type": "multi",
         "repeatable": true,
         "choices": [
           {
@@ -488,28 +513,16 @@
             "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 0,
+        "granted": false,
+        "advancement": 0
       },
       {
         "title": "Choose your weapon",
         "desc": "All are Melee.",
-        "grantOn": 1,
-        "advancement": 0,
+        "type": "multi",
         "repeatable": false,
         "choices": [
-          {
-            "uuid": "Compendium.fellowship-pbta.gear.Item.gr3pBF0YVxq18blc",
-            "img": "icons/svg/item-bag.svg",
-            "granted": false,
-            "advancement": 0
-          },
-          {
-            "uuid": "Compendium.fellowship-pbta.gear.Item.CWLIuWpgAZvrENhr",
-            "img": "icons/svg/item-bag.svg",
-            "granted": false,
-            "advancement": 0
-          },
           {
             "uuid": "Compendium.fellowship-pbta.gear.Item.28zRnaY2dL5bcPdV",
             "img": "icons/svg/item-bag.svg",
@@ -521,10 +534,23 @@
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.gear.Item.CWLIuWpgAZvrENhr",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.gear.Item.gr3pBF0YVxq18blc",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 1,
+        "granted": false,
+        "advancement": 0
       }
     ]
   },
@@ -539,10 +565,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.12",
+    "systemVersion": "1.1.21",
     "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null,
+    "modifiedTime": 1751845234444,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_id": "rjEUQPO0lXtbjazK",

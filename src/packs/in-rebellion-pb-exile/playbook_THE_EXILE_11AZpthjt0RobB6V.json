@@ -405,18 +405,17 @@
       {
         "title": "EXILE CORE",
         "desc": "All Exiles have these moves.",
-        "grantOn": 0,
-        "advancement": 0,
+        "type": "multi",
         "repeatable": true,
         "choices": [
           {
-            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-exile.Item.Sd4cHS94t4VOXK7w",
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-exile.Item.sfpxWcsZzws8VB12",
             "img": "icons/svg/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-exile.Item.eqU7aMSXLyCyfdOk",
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-exile.Item.Sd4cHS94t4VOXK7w",
             "img": "icons/svg/aura.svg",
             "granted": false,
             "advancement": 0
@@ -428,22 +427,16 @@
             "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 0,
+        "granted": false,
+        "advancement": 0
       },
       {
         "title": "EXILE CUSTOM",
         "desc": "Choose two of these moves to further define what it means to be an Exile.",
-        "grantOn": 1,
-        "advancement": 0,
+        "type": "multi",
         "repeatable": true,
         "choices": [
-          {
-            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-exile.Item.sfpxWcsZzws8VB12",
-            "img": "icons/svg/aura.svg",
-            "granted": false,
-            "advancement": 0
-          },
           {
             "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-exile.Item.49CxK0hnPwN32Aci",
             "img": "icons/svg/aura.svg",
@@ -481,22 +474,34 @@
             "advancement": 0
           },
           {
+            "img": "icons/svg/aura.svg",
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-exile.Item.eqU7aMSXLyCyfdOk",
+            "granted": false,
+            "advancement": 0
+          },
+          {
             "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-exile.Item.7SMARWYyTHvGHzN0",
             "img": "icons/svg/aura.svg",
             "granted": false,
             "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 1,
+        "granted": false,
+        "advancement": 0
       },
       {
         "title": "Starting Gear",
         "desc": "All Exiles start with these items.",
-        "grantOn": 0,
-        "advancement": 0,
+        "type": "multi",
         "repeatable": true,
         "choices": [
+          {
+            "uuid": "Compendium.fellowship-pbta.gear.Item.X644gZoHmFVqaMjw",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
           {
             "uuid": "Compendium.fellowship-pbta.gear.Item.IAHxkdRgmbslMvxG",
             "img": "icons/svg/item-bag.svg",
@@ -508,47 +513,59 @@
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
-          },
-          {
-            "uuid": "Compendium.fellowship-pbta.gear.Item.X644gZoHmFVqaMjw",
-            "img": "icons/svg/item-bag.svg",
-            "granted": false,
-            "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 0,
+        "granted": false,
+        "advancement": 0
       },
       {
         "title": "Simple weapon",
         "desc": "Choose one simple weapon.",
-        "grantOn": 1,
-        "advancement": 0,
+        "type": "multi",
         "repeatable": false,
         "choices": [
-          {
-            "uuid": "Compendium.fellowship-pbta.gear.Item.D07ZQa3oyKALS115",
-            "img": "icons/svg/item-bag.svg",
-            "granted": false,
-            "advancement": 0
-          },
           {
             "uuid": "Compendium.fellowship-pbta.gear.Item.6F3oLTVzHwpWSE91",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.gear.Item.D07ZQa3oyKALS115",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 1,
+        "granted": false,
+        "advancement": 0
       },
       {
         "title": "How do you protect yourself?",
         "desc": "Choose one protection strategy.",
-        "grantOn": 1,
-        "advancement": 0,
+        "type": "multi",
         "repeatable": false,
         "choices": [
+          {
+            "uuid": "Compendium.fellowship-pbta.gear.Item.UNVFuDmP6sY9w2kM",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.gear.Item.SQA9iY7DLopwTcgl",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.gear.Item.rMtnuHL0wUYNLi9u",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
           {
             "uuid": "Compendium.fellowship-pbta.gear.Item.MhLCLugFTLa1CWXC",
             "img": "icons/svg/item-bag.svg",
@@ -562,48 +579,36 @@
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.gear.Item.E0d12vSFl1wvNugY",
-            "img": "icons/svg/item-bag.svg",
-            "granted": false,
-            "advancement": 0
-          },
-          {
-            "uuid": "Compendium.fellowship-pbta.gear.Item.UNVFuDmP6sY9w2kM",
-            "img": "icons/svg/item-bag.svg",
-            "granted": false,
-            "advancement": 0
-          },
-          {
             "uuid": "Compendium.fellowship-pbta.gear.Item.b8cgkfhlK9u9emxp",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.gear.Item.rMtnuHL0wUYNLi9u",
-            "img": "icons/svg/item-bag.svg",
-            "granted": false,
-            "advancement": 0
-          },
-          {
-            "uuid": "Compendium.fellowship-pbta.gear.Item.SQA9iY7DLopwTcgl",
+            "uuid": "Compendium.fellowship-pbta.gear.Item.E0d12vSFl1wvNugY",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 1,
+        "granted": false,
+        "advancement": 0
       },
       {
         "title": "Your path is lonely",
         "desc": "Choose one to keep you company. Animal or friend: You have one Bond with them.",
-        "grantOn": 1,
-        "advancement": 0,
+        "type": "multi",
         "repeatable": false,
         "choices": [
           {
             "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-exile.Item.DYgCktH37IiGOmV5",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-exile.Item.Ig039CIJ2O5HNRWl",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
@@ -621,6 +626,12 @@
             "advancement": 0
           },
           {
+            "uuid": "Compendium.fellowship-pbta.gear.Item.SBbCXn5Wrcq7RHyZ",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
             "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-exile.Item.wkLPMSTKJVFFIcxY",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
@@ -633,7 +644,7 @@
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-exile.Item.Ig039CIJ2O5HNRWl",
+            "uuid": "Compendium.fellowship-pbta.gear.Item.w1wecZclEviqlRq6",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
@@ -655,22 +666,11 @@
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
-          },
-          {
-            "uuid": "Compendium.fellowship-pbta.gear.Item.SBbCXn5Wrcq7RHyZ",
-            "img": "icons/svg/item-bag.svg",
-            "granted": false,
-            "advancement": 0
-          },
-          {
-            "uuid": "Compendium.fellowship-pbta.gear.Item.w1wecZclEviqlRq6",
-            "img": "icons/svg/item-bag.svg",
-            "granted": false,
-            "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 1,
+        "granted": false,
+        "advancement": 0
       }
     ]
   },
@@ -685,10 +685,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.12",
+    "systemVersion": "1.1.21",
     "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null,
+    "modifiedTime": 1751845525360,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_id": "11AZpthjt0RobB6V",

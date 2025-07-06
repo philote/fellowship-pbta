@@ -413,6 +413,30 @@
         "max": null,
         "options": {},
         "description": ""
+      },
+      "unlockDestiny": {
+        "label": "Unlock your Destiny",
+        "description": "You must be level 5 or higher to take this Advancement. When you do, you unlock the ability to choose a Destiny.",
+        "type": "ListMany",
+        "options": {
+          "0": {
+            "label": "You have Changed. When you Change, choose a Destiny you meet the requirements for and take its first Move.",
+            "value": false
+          }
+        },
+        "choices": [
+          {
+            "options": {
+              "0": {
+                "label": "You have Changed. When you Change, choose a Destiny you meet the requirements for and take its first Move.",
+                "value": false
+              }
+            },
+            "value": ""
+          }
+        ],
+        "custom": false,
+        "path": "attributes"
       }
     },
     "choiceSets": [
@@ -584,7 +608,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.21",
     "createdTime": null,
-    "modifiedTime": 1751842465741,
+    "modifiedTime": 1751844339387,
     "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },

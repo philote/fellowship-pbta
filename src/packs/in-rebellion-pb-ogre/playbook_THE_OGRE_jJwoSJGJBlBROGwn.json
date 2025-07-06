@@ -405,8 +405,7 @@
       {
         "title": "OGRE CORE",
         "desc": "All Ogres have these moves.",
-        "grantOn": 0,
-        "advancement": 0,
+        "type": "multi",
         "repeatable": true,
         "choices": [
           {
@@ -416,26 +415,26 @@
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-ogre.Item.xrLRj6bbKOHAHN56",
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-ogre.Item.W0rJzScReDvLnwae",
             "img": "icons/svg/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-ogre.Item.9OSYekaxOq98wfri",
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-ogre.Item.TII4rFm9IpGP6cFc",
             "img": "icons/svg/aura.svg",
             "granted": false,
             "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 0,
+        "granted": false,
+        "advancement": 0
       },
       {
         "title": "OGRE CUSTOM",
         "desc": "Choose two of these moves to further define what it means to be an Ogre.",
-        "grantOn": 1,
-        "advancement": 0,
+        "type": "multi",
         "repeatable": true,
         "choices": [
           {
@@ -475,59 +474,53 @@
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-ogre.Item.W0rJzScReDvLnwae",
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-ogre.Item.xrLRj6bbKOHAHN56",
             "img": "icons/svg/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-ogre.Item.TII4rFm9IpGP6cFc",
             "img": "icons/svg/aura.svg",
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-ogre.Item.9OSYekaxOq98wfri",
             "granted": false,
             "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 1,
+        "granted": false,
+        "advancement": 0
       },
       {
         "title": "Starting Gear",
         "desc": "All Ogres start with these items.",
-        "grantOn": 0,
-        "advancement": 0,
+        "type": "multi",
         "repeatable": true,
         "choices": [
-          {
-            "uuid": "Compendium.fellowship-pbta.gear.Item.qfS4qyIAZIft3E8q",
-            "img": "icons/svg/item-bag.svg",
-            "granted": false,
-            "advancement": 0
-          },
           {
             "uuid": "Compendium.fellowship-pbta.gear.Item.DeuWYmskwxxJJsSo",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.gear.Item.qfS4qyIAZIft3E8q",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 0,
+        "granted": false,
+        "advancement": 0
       },
       {
         "title": "Choose two weapons",
         "desc": "Choose two weapons from the list.",
-        "grantOn": 1,
-        "advancement": 0,
+        "type": "multi",
         "repeatable": true,
         "choices": [
           {
-            "uuid": "Compendium.fellowship-pbta.gear.Item.3T6BffuECObl3ayY",
-            "img": "icons/svg/item-bag.svg",
-            "granted": false,
-            "advancement": 0
-          },
-          {
-            "uuid": "Compendium.fellowship-pbta.gear.Item.cYLSLcUwO86R2ovA",
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-ogre.Item.Z0vvZ8XFgK6NenkE",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
@@ -539,31 +532,13 @@
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-ogre.Item.Z0vvZ8XFgK6NenkE",
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-ogre.Item.IZoNsiDCnZcT8rAe",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-ogre.Item.eOrs6Vf8pyiIuwm7",
-            "img": "icons/svg/item-bag.svg",
-            "granted": false,
-            "advancement": 0
-          },
-          {
-            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-ogre.Item.L8WQozRLvbPezAOT",
-            "img": "icons/svg/item-bag.svg",
-            "granted": false,
-            "advancement": 0
-          },
-          {
-            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-ogre.Item.5frgykoxgh4zV1HJ",
-            "img": "icons/svg/item-bag.svg",
-            "granted": false,
-            "advancement": 0
-          },
-          {
-            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-ogre.Item.IZoNsiDCnZcT8rAe",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
@@ -581,20 +556,44 @@
             "advancement": 0
           },
           {
+            "uuid": "Compendium.fellowship-pbta.gear.Item.cYLSLcUwO86R2ovA",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.gear.Item.3T6BffuECObl3ayY",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-ogre.Item.L8WQozRLvbPezAOT",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
             "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-ogre.Item.oDV3QxKljEKXNiQf",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-ogre.Item.5frgykoxgh4zV1HJ",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 1,
+        "granted": false,
+        "advancement": 0
       },
       {
         "title": "Two things you love unreasonably",
         "desc": "Choose two things you love unreasonably.",
-        "grantOn": 1,
-        "advancement": 0,
+        "type": "multi",
         "repeatable": true,
         "choices": [
           {
@@ -604,7 +603,7 @@
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.gear.Item.gOMgyGUglmnjpGrL",
+            "uuid": "Compendium.fellowship-pbta.gear.Item.TDfzCB7EujIsHQI8",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
@@ -622,14 +621,15 @@
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.gear.Item.TDfzCB7EujIsHQI8",
+            "uuid": "Compendium.fellowship-pbta.gear.Item.gOMgyGUglmnjpGrL",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 1,
+        "granted": false,
+        "advancement": 0
       }
     ]
   },
@@ -644,10 +644,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.12",
+    "systemVersion": "1.1.21",
     "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null,
+    "modifiedTime": 1751845589735,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_id": "jJwoSJGJBlBROGwn",

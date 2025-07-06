@@ -527,12 +527,23 @@
       {
         "title": "PAIR CORE",
         "desc": "All Pairs have these moves.",
-        "grantOn": 0,
-        "advancement": 0,
+        "type": "multi",
         "repeatable": true,
         "choices": [
           {
-            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-pair.Item.2W250DAyiovuFXmN",
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-pair.Item.VAtoL9xrsUZoHmND",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-pair.Item.laOl6iIzwJ82ZIme",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-pair.Item.HlufJWIICpisvqta",
             "img": "icons/svg/aura.svg",
             "granted": false,
             "advancement": 0
@@ -544,20 +555,20 @@
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-pair.Item.HlufJWIICpisvqta",
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-pair.Item.2W250DAyiovuFXmN",
             "img": "icons/svg/aura.svg",
             "granted": false,
             "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 0,
+        "granted": false,
+        "advancement": 0
       },
       {
         "title": "PAIR CUSTOM",
         "desc": "Choose two of these moves to further define what it means to be a Pair.",
-        "grantOn": 1,
-        "advancement": 0,
+        "type": "multi",
         "repeatable": true,
         "choices": [
           {
@@ -567,19 +578,7 @@
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-pair.Item.VAtoL9xrsUZoHmND",
-            "img": "icons/svg/aura.svg",
-            "granted": false,
-            "advancement": 0
-          },
-          {
             "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-pair.Item.BRd6fAGLkWvhbHvu",
-            "img": "icons/svg/aura.svg",
-            "granted": false,
-            "advancement": 0
-          },
-          {
-            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-pair.Item.laOl6iIzwJ82ZIme",
             "img": "icons/svg/aura.svg",
             "granted": false,
             "advancement": 0
@@ -597,8 +596,8 @@
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-pair.Item.pJKAC4u3VMnyJqfu",
             "img": "icons/svg/aura.svg",
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-pair.Item.HlufJWIICpisvqta",
             "granted": false,
             "advancement": 0
           },
@@ -615,14 +614,14 @@
             "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 1,
+        "granted": false,
+        "advancement": 0
       },
       {
         "title": "Starting Gear",
         "desc": "Both members start with elegant bladed weapons.",
-        "grantOn": 0,
-        "advancement": 0,
+        "type": "multi",
         "repeatable": true,
         "choices": [
           {
@@ -632,18 +631,18 @@
             "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 0,
+        "granted": false,
+        "advancement": 0
       },
       {
         "title": "Supplies carrier gear",
         "desc": "One carries soup and chooses two additional items.",
-        "grantOn": 1,
-        "advancement": 0,
+        "type": "multi",
         "repeatable": true,
         "choices": [
           {
-            "uuid": "Compendium.fellowship-pbta.gear.Item.c9m73NX83IGKDKym",
+            "uuid": "Compendium.fellowship-pbta.gear.Item.UInY6dQ1E9fX98pZ",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
@@ -667,7 +666,7 @@
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.gear.Item.UInY6dQ1E9fX98pZ",
+            "uuid": "Compendium.fellowship-pbta.gear.Item.c9m73NX83IGKDKym",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
@@ -679,30 +678,18 @@
             "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 1,
+        "granted": false,
+        "advancement": 0
       },
       {
         "title": "Weapons carrier gear",
         "desc": "Other carries musket and chooses two additional items.",
-        "grantOn": 1,
-        "advancement": 0,
+        "type": "multi",
         "repeatable": true,
         "choices": [
           {
-            "uuid": "Compendium.fellowship-pbta.gear.Item.d2B0U5N6jvUV7R7c",
-            "img": "icons/svg/item-bag.svg",
-            "granted": false,
-            "advancement": 0
-          },
-          {
             "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-pair.Item.YW65hyEzZQzFxr3Z",
-            "img": "icons/svg/item-bag.svg",
-            "granted": false,
-            "advancement": 0
-          },
-          {
-            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-pair.Item.VIPIQU47NoJoNKEs",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
@@ -720,6 +707,12 @@
             "advancement": 0
           },
           {
+            "uuid": "Compendium.fellowship-pbta.gear.Item.d2B0U5N6jvUV7R7c",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
             "uuid": "Compendium.fellowship-pbta.gear.Item.0pYhA5PyT2DHzAbE",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
@@ -730,10 +723,17 @@
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-pair.Item.VIPIQU47NoJoNKEs",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 1,
+        "granted": false,
+        "advancement": 0
       }
     ]
   },
@@ -748,10 +748,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.12",
+    "systemVersion": "1.1.21",
     "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null,
+    "modifiedTime": 1751844629073,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_id": "tSmwWC32atNszph7",

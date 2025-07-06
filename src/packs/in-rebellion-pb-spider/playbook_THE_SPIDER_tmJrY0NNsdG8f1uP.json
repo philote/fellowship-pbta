@@ -405,90 +405,89 @@
       {
         "title": "SPIDER CORE",
         "desc": "All Spiders have these moves.",
-        "grantOn": 0,
-        "advancement": 0,
+        "type": "multi",
         "repeatable": true,
         "choices": [
           {
-            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-spider.Item.GZm43H1K9WPz2bOV",
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-spider.Item.MD3XUsPoBZ7ZF4sw",
             "img": "icons/svg/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-spider.Item.5nYuT8Qwb1Dh7XsV",
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-spider.Item.TTqsDtJwGyslqnrf",
             "img": "icons/svg/aura.svg",
             "granted": false,
             "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 0,
+        "granted": false,
+        "advancement": 0
       },
       {
         "title": "SPIDER CUSTOM",
         "desc": "Choose two of these moves to further define what it means to be a Spider.",
-        "grantOn": 1,
-        "advancement": 0,
+        "type": "multi",
         "repeatable": true,
         "choices": [
           {
-            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-spider.Item.vK8wR4Xj3Pm2QnTs",
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-spider.Item.TaIDfN2OaEEm7KvD",
             "img": "icons/svg/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-spider.Item.LbN9rQ5jK8Wd1VeY",
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-spider.Item.WXD42KjZspQqGYFv",
             "img": "icons/svg/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-spider.Item.FpT2mX6wN9Ky4qZr",
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-spider.Item.1dlSe1ZZzTB0eMsp",
             "img": "icons/svg/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-spider.Item.JhW8vU1pC5Rs7Gfn",
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-spider.Item.cO8xYe3Hj0zwGlMW",
             "img": "icons/svg/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-spider.Item.DqM3kE7tL9Xv2bPc",
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-spider.Item.9DtqygeMysUzbEOa",
             "img": "icons/svg/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-spider.Item.YrF6pK4zQ2Hn8WmD",
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-spider.Item.rNZFtPJMIigQ5YQ4",
             "img": "icons/svg/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-spider.Item.BvG9nH5uR3Jt6XeK",
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-spider.Item.OZ2Vh724hXD7g0le",
             "img": "icons/svg/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-spider.Item.NzA8cL4wS7Qu1VfM",
             "img": "icons/svg/aura.svg",
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-spider.Item.u6L2c8liXG7H6BFn",
             "granted": false,
             "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 1,
+        "granted": false,
+        "advancement": 0
       },
       {
         "title": "Starting Gear",
         "desc": "All Spiders carry strange food that only they enjoy.",
-        "grantOn": 0,
-        "advancement": 0,
+        "type": "multi",
         "repeatable": true,
         "choices": [
           {
@@ -498,30 +497,18 @@
             "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 0,
+        "granted": false,
+        "advancement": 0
       },
       {
         "title": "How do you fight?",
         "desc": "Choose two combat options.",
-        "grantOn": 1,
-        "advancement": 0,
+        "type": "multi",
         "repeatable": true,
         "choices": [
           {
-            "uuid": "Compendium.fellowship-pbta.gear.Item.O5Drjj1CvUfTI2et",
-            "img": "icons/svg/item-bag.svg",
-            "granted": false,
-            "advancement": 0
-          },
-          {
             "uuid": "Compendium.fellowship-pbta.gear.Item.cZuxDUCbKiCAp9Wj",
-            "img": "icons/svg/item-bag.svg",
-            "granted": false,
-            "advancement": 0
-          },
-          {
-            "uuid": "Compendium.fellowship-pbta.gear.Item.HYdEKAr3k141Glrs",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
@@ -533,24 +520,42 @@
             "advancement": 0
           },
           {
+            "uuid": "Compendium.fellowship-pbta.gear.Item.HYdEKAr3k141Glrs",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.gear.Item.O5Drjj1CvUfTI2et",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
             "uuid": "Compendium.fellowship-pbta.gear.Item.esGQtByfD8z5VxCL",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 1,
+        "granted": false,
+        "advancement": 0
       },
       {
         "title": "Spider Territory Items",
         "desc": "Choose two things rarely found outside of Spider territory.",
-        "grantOn": 1,
-        "advancement": 0,
+        "type": "multi",
         "repeatable": true,
         "choices": [
           {
             "uuid": "Compendium.fellowship-pbta.gear.Item.0EXLGarwEGsnd6Jl",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.gear.Item.ppK4ZDOURKHezjTY",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
@@ -568,20 +573,15 @@
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.gear.Item.ppK4ZDOURKHezjTY",
-            "img": "icons/svg/item-bag.svg",
-            "granted": false,
-            "advancement": 0
-          },
-          {
             "uuid": "Compendium.fellowship-pbta.gear.Item.70GtM5fA22geSxET",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 1,
+        "granted": false,
+        "advancement": 0
       }
     ]
   },
@@ -596,10 +596,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.12",
+    "systemVersion": "1.1.21",
     "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null,
+    "modifiedTime": 1751845373359,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_id": "tmJrY0NNsdG8f1uP",
