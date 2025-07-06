@@ -1,0 +1,31 @@
+{
+  "folder": "LPhGGRc7IkMrMMYm",
+  "name": "ATTACK DOG",
+  "type": "fellowship-pbta.companion",
+  "_id": "YW65hyEzZQzFxr3Z",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "description": "<p>A loyal and vicious guard dog trained for combat.</p><p><em>Danger 1, Health 1</em></p><p><strong>Look:</strong> Scarred, battle-worn, alert</p><p><strong>Cost:</strong> The dog needs regular feeding and care</p><p><strong>Abilities:</strong> Track by scent, guard, intimidate enemies</p>",
+    "compType": "Retainer",
+    "compMove": "",
+    "compEquipment": "",
+    "actorType": "character"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!YW65hyEzZQzFxr3Z"
+}

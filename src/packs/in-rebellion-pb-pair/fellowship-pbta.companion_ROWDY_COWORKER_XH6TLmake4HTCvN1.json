@@ -1,11 +1,11 @@
 {
   "folder": "LPhGGRc7IkMrMMYm",
-  "name": "ATTACK DOG",
-  "type": "companion",
-  "_id": "YW65hyEzZQzFxr3Z",
+  "name": "ROWDY COWORKER",
+  "type": "fellowship-pbta.companion",
+  "_id": "XH6TLmake4HTCvN1",
   "img": "icons/svg/mystery-man.svg",
   "system": {
-    "description": "<p>A loyal and vicious guard dog trained for combat.</p><p><em>Danger 1, Health 1</em></p><p><strong>Look:</strong> Scarred, battle-worn, alert</p><p><strong>Cost:</strong> The dog needs regular feeding and care</p><p><strong>Abilities:</strong> Track by scent, guard, intimidate enemies</p>",
+    "description": "<p>An energetic companion from your company who loves a good fight or party.</p><p><em>Danger 2, Health 1</em></p><p><strong>Look:</strong> Boisterous, aggressive, enthusiastic</p><p><strong>Cost:</strong> Causes trouble, attracts unwanted attention</p><p><strong>Abilities:</strong> Fight with passion, rally others, create distractions</p>",
     "compType": "Retainer",
     "compMove": "",
     "compEquipment": "",
@@ -27,5 +27,5 @@
     "modifiedTime": null,
     "lastModifiedBy": null
   },
-  "_key": "!items!YW65hyEzZQzFxr3Z"
+  "_key": "!items!XH6TLmake4HTCvN1"
 }
