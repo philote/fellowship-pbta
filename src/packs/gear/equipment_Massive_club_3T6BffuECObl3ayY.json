@@ -1,0 +1,36 @@
+{
+  "folder": "Os6PJSvQlU3hpjK1",
+  "name": "Massive club",
+  "type": "equipment",
+  "_id": "3T6BffuECObl3ayY",
+  "img": "icons/weapons/clubs/club-banded-barbed-black.webp",
+  "system": {
+    "description": "A huge club of wood, stone, or iron, massive even in an ogre's hands.",
+    "uses": 0,
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"FELLOWSHIP.Tags.equipment.Giant.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Giant.description\"},{\"value\":\"FELLOWSHIP.Tags.equipment.Melee.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Melee.description\"}]",
+    "itemType": "",
+    "equipmentType": "gear",
+    "actorType": "character"
+  },
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1757155467580,
+    "modifiedTime": 1751832204326,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
+    "exportSource": null
+  },
+  "_key": "!items!3T6BffuECObl3ayY"
+}

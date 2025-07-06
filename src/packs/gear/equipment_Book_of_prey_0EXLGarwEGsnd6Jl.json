@@ -1,0 +1,36 @@
+{
+  "folder": "Os6PJSvQlU3hpjK1",
+  "name": "Book of prey",
+  "type": "equipment",
+  "_id": "0EXLGarwEGsnd6Jl",
+  "img": "icons/sundries/books/book-embossed-bound-brown.webp",
+  "system": {
+    "description": "A leather and silk bound book containing the names and faces of prey, including their sins and their worth.",
+    "uses": 0,
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"FELLOWSHIP.Tags.equipment.Useful.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Useful.description\"}]",
+    "itemType": "",
+    "equipmentType": "gear",
+    "actorType": "character"
+  },
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1739155467580,
+    "modifiedTime": 1739155467580,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "exportSource": null
+  },
+  "_key": "!items!0EXLGarwEGsnd6Jl"
+}

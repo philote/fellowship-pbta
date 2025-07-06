@@ -1,0 +1,36 @@
+{
+  "folder": "Os6PJSvQlU3hpjK1",
+  "name": "Spider claws and teeth",
+  "type": "equipment",
+  "_id": "O5Drjj1CvUfTI2et",
+  "img": "icons/creatures/abilities/mouth-teeth-rows-red.webp",
+  "system": {
+    "description": "Natural weapons of the Spider - sharp claws and venomous teeth.",
+    "uses": 0,
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"FELLOWSHIP.Tags.equipment.Melee.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Melee.description\"}]",
+    "itemType": "",
+    "equipmentType": "gear",
+    "actorType": "character"
+  },
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1739155467580,
+    "modifiedTime": 1739155467580,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "exportSource": null
+  },
+  "_key": "!items!O5Drjj1CvUfTI2et"
+}

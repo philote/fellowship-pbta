@@ -1,0 +1,36 @@
+{
+  "folder": "Os6PJSvQlU3hpjK1",
+  "name": "Fancy mixed drinks",
+  "type": "equipment",
+  "_id": "UInY6dQ1E9fX98pZ",
+  "img": "icons/consumables/drinks/wine-bottle-glass-white.webp",
+  "system": {
+    "description": "Elaborate cocktails that provide temporary vigor but are slow to consume.",
+    "uses": 2,
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"FELLOWSHIP.Tags.equipment.Slow.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Slow.description\"},{\"value\":\"FELLOWSHIP.Tags.equipment.Vigor.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Vigor.description\"}]",
+    "itemType": "",
+    "equipmentType": "gear",
+    "actorType": "character"
+  },
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1739155467580,
+    "modifiedTime": 1751831772266,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
+    "exportSource": null
+  },
+  "_key": "!items!UInY6dQ1E9fX98pZ"
+}

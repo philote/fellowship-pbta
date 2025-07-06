@@ -1,0 +1,36 @@
+{
+  "folder": "Os6PJSvQlU3hpjK1",
+  "name": "Set of flintlock pistols",
+  "type": "equipment",
+  "_id": "R6TUJGvTH9irH0BI",
+  "img": "icons/weapons/guns/gun-pistol-flintlock.webp",
+  "system": {
+    "description": "A matched pair of flintlock pistols with limited ammunition.",
+    "uses": 3,
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"FELLOWSHIP.Tags.equipment.Ranged.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Ranged.description\"},{\"value\":\"FELLOWSHIP.Tags.equipment.Ammo.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Ammo.description\"}]",
+    "itemType": "",
+    "equipmentType": "gear",
+    "actorType": "character"
+  },
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1739155467580,
+    "modifiedTime": 1739155467580,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "exportSource": null
+  },
+  "_key": "!items!R6TUJGvTH9irH0BI"
+}

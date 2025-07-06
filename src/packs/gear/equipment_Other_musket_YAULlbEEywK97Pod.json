@@ -1,0 +1,36 @@
+{
+  "folder": "Os6PJSvQlU3hpjK1",
+  "name": "Other musket",
+  "type": "equipment",
+  "_id": "YAULlbEEywK97Pod",
+  "img": "icons/weapons/guns/gun-blunderbuss-bronze.webp",
+  "system": {
+    "description": "A secondary musket carried by the Pair for ranged combat.",
+    "uses": 0,
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"FELLOWSHIP.Tags.equipment.Ranged.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Ranged.description\"},{\"value\":\"FELLOWSHIP.Tags.equipment.Reload.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Reload.description\"},{\"value\":\"FELLOWSHIP.Tags.equipment.Piercing.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Piercing.description\"}]",
+    "itemType": "",
+    "equipmentType": "gear",
+    "actorType": "character"
+  },
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1739155467580,
+    "modifiedTime": 1751832360787,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
+    "exportSource": null
+  },
+  "_key": "!items!YAULlbEEywK97Pod"
+}

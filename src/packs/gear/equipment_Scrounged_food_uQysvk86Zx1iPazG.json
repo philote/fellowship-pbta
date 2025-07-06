@@ -1,0 +1,36 @@
+{
+  "folder": "Os6PJSvQlU3hpjK1",
+  "name": "Scrounged food",
+  "type": "equipment",
+  "_id": "uQysvk86Zx1iPazG",
+  "img": "icons/consumables/food/plate-fish-bowl-bones-brown.webp",
+  "system": {
+    "description": "Food that you scrounged up from various sources. Not the best quality, but it will sustain you.",
+    "uses": 3,
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"FELLOWSHIP.Tags.equipment.Food.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Food.description\"}]",
+    "itemType": "",
+    "equipmentType": "gear",
+    "actorType": "character"
+  },
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1757155467580,
+    "modifiedTime": 1751832400800,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
+    "exportSource": null
+  },
+  "_key": "!items!uQysvk86Zx1iPazG"
+}

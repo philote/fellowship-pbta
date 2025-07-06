@@ -1,0 +1,36 @@
+{
+  "folder": "Os6PJSvQlU3hpjK1",
+  "name": "Extra bandages",
+  "type": "equipment",
+  "_id": "SQA9iY7DLopwTcgl",
+  "img": "icons/commodities/cloth/cloth-roll-worn-green.webp",
+  "system": {
+    "description": "Additional medical supplies for treating wounds in the field.",
+    "uses": 2,
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"FELLOWSHIP.Tags.equipment.Healing.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Healing.description\"},{\"value\":\"FELLOWSHIP.Tags.equipment.Slow.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Slow.description\"}]",
+    "itemType": "",
+    "equipmentType": "gear",
+    "actorType": "character"
+  },
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1757155467580,
+    "modifiedTime": 1751831711029,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
+    "exportSource": null
+  },
+  "_key": "!items!SQA9iY7DLopwTcgl"
+}

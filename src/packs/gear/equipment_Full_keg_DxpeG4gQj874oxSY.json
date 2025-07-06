@@ -1,0 +1,36 @@
+{
+  "folder": "Os6PJSvQlU3hpjK1",
+  "name": "Full keg",
+  "type": "equipment",
+  "_id": "DxpeG4gQj874oxSY",
+  "img": "icons/containers/barrels/barrel-hogshead-cask-oak-brown.webp",
+  "system": {
+    "description": "A full keg of alcohol. Provides Vigor, then Drunk.",
+    "uses": 2,
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"FELLOWSHIP.Tags.equipment.Giant.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Giant.description\"},{\"value\":\"FELLOWSHIP.Tags.equipment.Vigor.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Vigor.description\"},{\"value\":\"FELLOWSHIP.Tags.equipment.Drunk.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Drunk.description\"}]",
+    "itemType": "",
+    "equipmentType": "gear",
+    "actorType": "character"
+  },
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1757155467580,
+    "modifiedTime": 1751832174130,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
+    "exportSource": null
+  },
+  "_key": "!items!DxpeG4gQj874oxSY"
+}

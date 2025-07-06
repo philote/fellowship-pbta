@@ -1,0 +1,36 @@
+{
+  "folder": "Os6PJSvQlU3hpjK1",
+  "name": "Needles or stones",
+  "type": "equipment",
+  "_id": "HYdEKAr3k141Glrs",
+  "img": "icons/weapons/thrown/dart-feathered.webp",
+  "system": {
+    "description": "Small projectiles that can be ejected from the Spider's body for ranged attacks.",
+    "uses": 0,
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"FELLOWSHIP.Tags.equipment.Ranged.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Ranged.description\"},{\"value\":\"FELLOWSHIP.Tags.equipment.Reload.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Reload.description\"}]",
+    "itemType": "",
+    "equipmentType": "gear",
+    "actorType": "character"
+  },
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1739155467580,
+    "modifiedTime": 1751832354782,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
+    "exportSource": null
+  },
+  "_key": "!items!HYdEKAr3k141Glrs"
+}

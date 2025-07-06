@@ -71,12 +71,19 @@ async function processFile(filePath) {
             // Replace old ID in filename
             newFilename = oldFilename.replace(oldId, newUUID);
         } else {
-            // Add UUID to filename if it doesn't contain any ID
+            // Check if filename has any 16-character pattern (including placeholders)
             const nameWithoutExt = oldFilename.replace('.json', '');
-            // Check if filename already has a UUID pattern to avoid duplicates
-            if (nameWithoutExt.match(/_[A-Za-z0-9]{16}$/)) {
-                newFilename = oldFilename; // Already has UUID, keep as is
+            const uuidPattern = /_[A-Za-z0-9]{16}$/;
+            const placeholderPattern = /_(AAAAAAAAAAAAAAAA|BBBBBBBBBBBBBBBB|CCCCCCCCCCCCCCCC|DDDDDDDDDDDDDDDD|EEEEEEEEEEEEEEEE|FFFFFFFFFFFFFFFF|GGGGGGGGGGGGGGGG|HHHHHHHHHHHHHHHH|IIIIIIIIIIIIIIII|JJJJJJJJJJJJJJJJ|KKKKKKKKKKKKKKKK|LLLLLLLLLLLLLLLL|MMMMMMMMMMMMMMMM|NNNNNNNNNNNNNNNN|OOOOOOOOOOOOOOOO|PPPPPPPPPPPPPPPP|QQQQQQQQQQQQQQQQ|RRRRRRRRRRRRRRRR|SSSSSSSSSSSSSSSS|TTTTTTTTTTTTTTTT|UUUUUUUUUUUUUUUU|VVVVVVVVVVVVVVVV|WWWWWWWWWWWWWWWW|XXXXXXXXXXXXXXXX|YYYYYYYYYYYYYYYY|ZZZZZZZZZZZZZZZZ|PLACEHOLDER_16_[A-Za-z0-9]{16})$/;
+            
+            if (placeholderPattern.test(nameWithoutExt)) {
+                // Replace placeholder UUID with proper UUID
+                newFilename = nameWithoutExt.replace(placeholderPattern, `_${newUUID}`) + '.json';
+            } else if (uuidPattern.test(nameWithoutExt)) {
+                // Replace existing UUID with new UUID
+                newFilename = nameWithoutExt.replace(uuidPattern, `_${newUUID}`) + '.json';
             } else {
+                // Add UUID to filename if it doesn't contain any ID
                 newFilename = `${nameWithoutExt}_${newUUID}.json`;
             }
         }

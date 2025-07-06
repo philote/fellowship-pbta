@@ -1,0 +1,36 @@
+{
+  "folder": "Os6PJSvQlU3hpjK1",
+  "name": "Powerful over-sized weapon",
+  "type": "equipment",
+  "_id": "0pYhA5PyT2DHzAbE",
+  "img": "icons/weapons/hammers/hammer-war-spiked.webp",
+  "system": {
+    "description": "A massive weapon that deals devastating damage but is unwieldy to use.",
+    "uses": 0,
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"FELLOWSHIP.Tags.equipment.Melee.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Melee.description\"},{\"value\":\"FELLOWSHIP.Tags.equipment.Clumsy.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Clumsy.description\"},{\"value\":\"FELLOWSHIP.Tags.equipment.Dangerous.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Dangerous.description\"}]",
+    "itemType": "",
+    "equipmentType": "gear",
+    "actorType": "character"
+  },
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1739155467580,
+    "modifiedTime": 1739155467580,
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "exportSource": null
+  },
+  "_key": "!items!0pYhA5PyT2DHzAbE"
+}

@@ -1,0 +1,36 @@
+{
+  "folder": "Os6PJSvQlU3hpjK1",
+  "name": "Healing herbs",
+  "type": "equipment",
+  "_id": "UBnb5ZJ3Kjveli7O",
+  "img": "icons/consumables/plants/herb-tied-bundle-yellow-green.webp",
+  "system": {
+    "description": "Potent healing herbs gathered from the wild.",
+    "uses": 1,
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"FELLOWSHIP.Tags.equipment.Giant.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Giant.description\"},{\"value\":\"FELLOWSHIP.Tags.equipment.Healing.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Healing.description\"}]",
+    "itemType": "",
+    "equipmentType": "gear",
+    "actorType": "character"
+  },
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1757155467580,
+    "modifiedTime": 1751832069542,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
+    "exportSource": null
+  },
+  "_key": "!items!UBnb5ZJ3Kjveli7O"
+}

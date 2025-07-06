@@ -1,0 +1,36 @@
+{
+  "folder": "Os6PJSvQlU3hpjK1",
+  "name": "Flamethrower",
+  "type": "equipment",
+  "_id": "r55A0wcFAQHS6CpJ",
+  "img": "icons/magic/fire/blast-jet-stream-embers-yellow.webp",
+  "system": {
+    "description": "A dragon-crafted flamethrower that shoots jets of fire.",
+    "uses": 0,
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"FELLOWSHIP.Tags.equipment.Ranged.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Ranged.description\"},{\"value\":\"FELLOWSHIP.Tags.equipment.Reload.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Reload.description\"},{\"value\":\"FELLOWSHIP.Tags.equipment.Burning.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Burning.description\"}]",
+    "itemType": "",
+    "equipmentType": "gear",
+    "actorType": "character"
+  },
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1757155467580,
+    "modifiedTime": 1751831941135,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
+    "exportSource": null
+  },
+  "_key": "!items!r55A0wcFAQHS6CpJ"
+}

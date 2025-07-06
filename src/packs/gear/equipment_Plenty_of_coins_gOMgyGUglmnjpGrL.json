@@ -1,0 +1,36 @@
+{
+  "folder": "Os6PJSvQlU3hpjK1",
+  "name": "Plenty of coins",
+  "type": "equipment",
+  "_id": "gOMgyGUglmnjpGrL",
+  "img": "icons/commodities/currency/coins-plain-pouch-gold.webp",
+  "system": {
+    "description": "A large amount of various coins and currency.",
+    "uses": 2,
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"FELLOWSHIP.Tags.equipment.Giant.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Giant.description\"},{\"value\":\"FELLOWSHIP.Tags.equipment.Precious.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Precious.description\"}]",
+    "itemType": "",
+    "equipmentType": "gear",
+    "actorType": "character"
+  },
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1757155467580,
+    "modifiedTime": 1751832378768,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
+    "exportSource": null
+  },
+  "_key": "!items!gOMgyGUglmnjpGrL"
+}

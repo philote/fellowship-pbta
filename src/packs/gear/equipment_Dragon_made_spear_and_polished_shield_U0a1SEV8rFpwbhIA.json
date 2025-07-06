@@ -1,0 +1,36 @@
+{
+  "folder": "Os6PJSvQlU3hpjK1",
+  "name": "Dragon-made spear and polished shield",
+  "type": "equipment",
+  "_id": "U0a1SEV8rFpwbhIA",
+  "img": "icons/weapons/polearms/spear-hooked-double-engraved.webp",
+  "system": {
+    "description": "A masterfully crafted spear and shield made by dragons.",
+    "uses": 0,
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"FELLOWSHIP.Tags.equipment.Melee.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Melee.description\"},{\"value\":\"FELLOWSHIP.Tags.equipment.Dragon-Made.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Dragon-Made.description\"}]",
+    "itemType": "",
+    "equipmentType": "gear",
+    "actorType": "character"
+  },
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1757155467580,
+    "modifiedTime": 1751831656331,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
+    "exportSource": null
+  },
+  "_key": "!items!U0a1SEV8rFpwbhIA"
+}

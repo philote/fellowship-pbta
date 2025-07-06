@@ -1,0 +1,36 @@
+{
+  "folder": "Os6PJSvQlU3hpjK1",
+  "name": "Fine wine",
+  "type": "equipment",
+  "_id": "SBbCXn5Wrcq7RHyZ",
+  "img": "icons/consumables/drinks/wine-amphora-clay-gray.webp",
+  "system": {
+    "description": "Quality wine that can dull pain and lift spirits when needed.",
+    "uses": 2,
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"FELLOWSHIP.Tags.equipment.Drunk.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Drunk.description\"},{\"value\":\"FELLOWSHIP.Tags.equipment.Healing.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Healing.description\"}]",
+    "itemType": "",
+    "equipmentType": "gear",
+    "actorType": "character"
+  },
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": 1757155467580,
+    "modifiedTime": 1751831821444,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
+    "exportSource": null
+  },
+  "_key": "!items!SBbCXn5Wrcq7RHyZ"
+}
