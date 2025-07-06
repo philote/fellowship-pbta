@@ -1,12 +1,12 @@
 {
-  "folder": "AAPmAABHyrlP81si",
-  "name": "A MOMENT'S CLARITY",
+  "folder": "UF0Okz1LGsIpscDA",
+  "name": "REMEMBER ME?",
   "type": "move",
-  "_id": "s8QFko94V5F4DQAV",
+  "_id": "o6GSX8B8O6BRdX2W",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p><strong>When you make a move against the fellowship,</strong> they may erase one Bond they hold with you to make you hesitate. Choose one: You show them mercy, you tell them something important, or you act anyway, rolling with Despair.</p><p><strong>This Move cannot be Shared.</strong></p>",
-    "moveType": "core",
+    "description": "<p>Those who you hurt do not forget. When you <em>Feed On Pain</em>, you may <em>Forge A Bond</em> with them. Bonds forged this way do not make them your Companion. When you taunt or terrorize someone you have a Bond with, you may erase all of your Bonds with them to make them run away from you.</p>",
+    "moveType": "custom",
     "rollFormula": "",
     "moveResults": {
       "failure": {
@@ -26,7 +26,7 @@
       }
     },
     "uses": 0,
-    "rollType": "none",
+    "rollType": "",
     "rollMod": 0,
     "actorType": "character",
     "choices": ""
@@ -40,12 +40,13 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.346",
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": null,
     "modifiedTime": null,
-    "lastModifiedBy": null
+    "lastModifiedBy": null,
+    "exportSource": null
   },
-  "_key": "!items!s8QFko94V5F4DQAV"
+  "_key": "!items!o6GSX8B8O6BRdX2W"
 }

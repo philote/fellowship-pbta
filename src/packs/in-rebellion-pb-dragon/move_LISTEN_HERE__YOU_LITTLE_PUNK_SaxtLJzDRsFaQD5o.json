@@ -1,11 +1,11 @@
 {
-  "folder": "C4V1BZyubrwDVoZI",
-  "name": "OUT OF MY WAY!",
+  "folder": "XJP07sudZf7BOjDX",
+  "name": "LISTEN HERE, YOU LITTLE PUNK",
   "type": "move",
-  "_id": "gt4SMpFWF0fs8Arl",
+  "_id": "SaxtLJzDRsFaQD5o",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>When a threat is standing in your way, you may knock it aside and stroll past it. Only the greatest of enemies can stop you. You cannot use this move against a Set Piece or a Threat to the World.</p>",
+    "description": "<p><strong>When you </strong><em><strong>Talk Sense</strong></em><strong> by telling them what will happen to them if they do not do as you ask,</strong> <em>Talk Sense</em> with +Blood. <strong>On a 7-9,</strong> they cannot ask their favor of you until they have done what you asked of them.</p>",
     "moveType": "custom",
     "rollFormula": "",
     "moveResults": {
@@ -17,7 +17,7 @@
       "partial": {
         "key": "system.moveResults.partial.value",
         "label": "Partial success.",
-        "value": ""
+        "value": "They cannot ask their favor of you until they have done what you asked of them."
       },
       "success": {
         "key": "system.moveResults.success.value",
@@ -26,7 +26,7 @@
       }
     },
     "uses": 0,
-    "rollType": "",
+    "rollType": "blood",
     "rollMod": 0,
     "actorType": "character",
     "choices": ""
@@ -40,12 +40,13 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.346",
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": null,
     "modifiedTime": null,
-    "lastModifiedBy": null
+    "lastModifiedBy": null,
+    "exportSource": null
   },
-  "_key": "!items!gt4SMpFWF0fs8Arl"
+  "_key": "!items!SaxtLJzDRsFaQD5o"
 }

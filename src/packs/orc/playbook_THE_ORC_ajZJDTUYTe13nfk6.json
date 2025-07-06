@@ -641,12 +641,13 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.346",
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1736283672066,
     "modifiedTime": 1737156421185,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "exportSource": null
   },
   "_id": "ajZJDTUYTe13nfk6",
   "sort": 0,

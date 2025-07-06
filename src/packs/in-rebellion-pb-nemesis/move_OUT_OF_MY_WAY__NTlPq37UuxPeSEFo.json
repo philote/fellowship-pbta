@@ -1,12 +1,12 @@
 {
-  "folder": "8G3H6sKA2Vv7MHMa",
-  "name": "A MOMENT'S HESITATION",
+  "folder": "3KUD5XbBIgTxDsdC",
+  "name": "OUT OF MY WAY!",
   "type": "move",
-  "_id": "msCKQLNvPG5Frba7",
+  "_id": "NTlPq37UuxPeSEFo",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p><strong>When you make a move against the fellowship,</strong> they may erase one Bond they hold with you to make you hesitate. Choose one: You show them mercy, you tell them something important, or you act anyway, rolling with Despair.</p>",
-    "moveType": "core",
+    "description": "<p>When a threat is between you and the fellowship, you may destroy it. Damage all of its stats and tell us what you did to them. You cannot use this move against a Set Piece or a Threat to the World.</p>",
+    "moveType": "custom",
     "rollFormula": "",
     "moveResults": {
       "failure": {
@@ -40,12 +40,13 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.346",
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": null,
     "modifiedTime": null,
-    "lastModifiedBy": null
+    "lastModifiedBy": null,
+    "exportSource": null
   },
-  "_key": "!items!msCKQLNvPG5Frba7"
+  "_key": "!items!NTlPq37UuxPeSEFo"
 }

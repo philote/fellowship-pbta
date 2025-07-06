@@ -1,13 +1,13 @@
 {
-  "folder": "UF0Okz1LGsIpscDA",
-  "name": "REMEMBER ME?",
+  "folder": "ttlqq5Q9AmgmLYIo",
+  "name": "SPEAK TRUTH TO POWER (WISDOM)",
   "type": "move",
-  "_id": "o6GSX8B8O6BRdX2W",
+  "_id": "nStrRxbIygE6KlYm",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>Those who you hurt do not forget. When you <em>Feed On Pain</em>, you may <em>Forge A Bond</em> with them. Bonds forged this way do not make them your Companion. When you taunt or terrorize someone you have a Bond with, you may erase all of your Bonds with them to make them run away from you.</p>",
+    "description": "<p>When you speak out against the status quo before a crowd, tell us what you want of them, then roll +Wisdom.</p><p>On a 7+, they will follow your lead, doing as you do.</p><p>On a 9-, you rile them up beyond your ability to control. They quickly take their own lead and follow their own desires.</p>",
     "moveType": "custom",
-    "rollFormula": "",
+    "rollFormula": "2d6+@wisdom",
     "moveResults": {
       "failure": {
         "key": "system.moveResults.failure.value",
@@ -17,12 +17,12 @@
       "partial": {
         "key": "system.moveResults.partial.value",
         "label": "Partial success.",
-        "value": ""
+        "value": "You rile them up beyond your ability to control. They quickly take their own lead and follow their own desires."
       },
       "success": {
         "key": "system.moveResults.success.value",
         "label": "Success!",
-        "value": ""
+        "value": "They will follow your lead, doing as you do."
       }
     },
     "uses": 0,
@@ -40,12 +40,13 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.346",
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": null,
     "modifiedTime": null,
-    "lastModifiedBy": null
+    "lastModifiedBy": null,
+    "exportSource": null
   },
-  "_key": "!items!o6GSX8B8O6BRdX2W"
+  "_key": "!items!nStrRxbIygE6KlYm"
 }

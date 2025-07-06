@@ -1,11 +1,11 @@
 {
-  "folder": "wdDLey4rcuGeADk8",
-  "name": "TASTE MY BLADE!",
+  "folder": "ttlqq5Q9AmgmLYIo",
+  "name": "WHO YOU'VE BECOME",
   "type": "move",
-  "_id": "X7Wqla1eQVMFnbOD",
+  "_id": "7SMARWYyTHvGHzN0",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>When you attack someone who has never seen you fight before, deal an additional Harm.</p>",
+    "description": "<p>Take a Custom Move from any basic playbook, other than the playbook <em>Who You Were</em>.</p><p>You may also take an Agenda from the chosen playbook.</p><p>This Move cannot be Shared.</p>",
     "moveType": "custom",
     "rollFormula": "",
     "moveResults": {
@@ -40,12 +40,13 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.346",
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": null,
     "modifiedTime": null,
-    "lastModifiedBy": null
+    "lastModifiedBy": null,
+    "exportSource": null
   },
-  "_key": "!items!X7Wqla1eQVMFnbOD"
+  "_key": "!items!7SMARWYyTHvGHzN0"
 }

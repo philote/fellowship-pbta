@@ -1,12 +1,12 @@
 {
-  "folder": "3KUD5XbBIgTxDsdC",
-  "name": "OUT OF MY WAY!",
+  "folder": "AAPmAABHyrlP81si",
+  "name": "A MOMENT'S CLARITY",
   "type": "move",
-  "_id": "NTlPq37UuxPeSEFo",
+  "_id": "s8QFko94V5F4DQAV",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>When a threat is between you and the fellowship, you may destroy it. Damage all of its stats and tell us what you did to them. You cannot use this move against a Set Piece or a Threat to the World.</p>",
-    "moveType": "custom",
+    "description": "<p><strong>When you make a move against the fellowship,</strong> they may erase one Bond they hold with you to make you hesitate. Choose one: You show them mercy, you tell them something important, or you act anyway, rolling with Despair.</p><p><strong>This Move cannot be Shared.</strong></p>",
+    "moveType": "core",
     "rollFormula": "",
     "moveResults": {
       "failure": {
@@ -26,13 +26,13 @@
       }
     },
     "uses": 0,
-    "rollType": "",
+    "rollType": "none",
     "rollMod": 0,
     "actorType": "character",
     "choices": ""
   },
   "effects": [],
-  "sort": 0,
+  "sort": 400000,
   "ownership": {
     "default": 0
   },
@@ -40,12 +40,13 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.346",
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null
+    "modifiedTime": 1751824771536,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
+    "exportSource": null
   },
-  "_key": "!items!NTlPq37UuxPeSEFo"
+  "_key": "!items!s8QFko94V5F4DQAV"
 }

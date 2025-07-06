@@ -107,7 +107,6 @@
       "tint": "#ffffff",
       "alphaThreshold": 0.75
     },
-    "hexagonalShape": 0,
     "lockRotation": false,
     "rotation": 0,
     "alpha": 1,
@@ -172,7 +171,14 @@
       }
     },
     "flags": {},
-    "randomImg": false
+    "randomImg": false,
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null
   },
   "items": [
     {
@@ -198,12 +204,13 @@
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
-        "coreVersion": "12.331",
+        "coreVersion": "13.346",
         "systemId": "pbta",
         "systemVersion": "1.1.12",
         "createdTime": 1737179436113,
         "modifiedTime": 1737179451829,
-        "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+        "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+        "exportSource": null
       },
       "_key": "!actors.items!w61xgCZFY8dC96Y2.CtXSGHLSmAj3byCe"
     },
@@ -230,12 +237,13 @@
       "_stats": {
         "compendiumSource": "Compendium.fellowship-pbta.titans.Actor.A3CqwIzGwlpX1Dza.Item.JvHOMpHD6zs6LZFe",
         "duplicateSource": null,
-        "coreVersion": "12.331",
+        "coreVersion": "13.346",
         "systemId": "pbta",
         "systemVersion": "1.1.12",
         "createdTime": 1737179454826,
         "modifiedTime": 1737179454826,
-        "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+        "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+        "exportSource": null
       },
       "_key": "!actors.items!w61xgCZFY8dC96Y2.VG3cwEdL7LRJU9QU"
     },
@@ -262,12 +270,13 @@
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
-        "coreVersion": "12.331",
+        "coreVersion": "13.346",
         "systemId": "pbta",
         "systemVersion": "1.1.12",
         "createdTime": 1737179479217,
         "modifiedTime": 1737179491717,
-        "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+        "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+        "exportSource": null
       },
       "_key": "!actors.items!w61xgCZFY8dC96Y2.TbJYzzrtVAaPPVOR"
     }
@@ -283,12 +292,13 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.346",
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737179418459,
     "modifiedTime": 1737179508754,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "exportSource": null
   },
   "_key": "!actors!w61xgCZFY8dC96Y2"
 }

@@ -30,13 +30,15 @@
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
-        "coreVersion": "12.331",
+        "coreVersion": "13.346",
         "systemId": "pbta",
         "systemVersion": "1.1.12",
         "createdTime": 1737333091197,
         "modifiedTime": 1737333675767,
-        "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+        "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+        "exportSource": null
       },
+      "category": null,
       "_key": "!journal.pages!Wspo5QWJyqQdielu.3BcoC6S5r2eEyt4P"
     },
     {
@@ -67,13 +69,15 @@
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
-        "coreVersion": "12.331",
+        "coreVersion": "13.346",
         "systemId": "pbta",
         "systemVersion": "1.1.12",
         "createdTime": 1737333837821,
         "modifiedTime": 1737334218225,
-        "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+        "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+        "exportSource": null
       },
+      "category": null,
       "_key": "!journal.pages!Wspo5QWJyqQdielu.PBTrM0AWIri4ICZJ"
     },
     {
@@ -104,13 +108,15 @@
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
-        "coreVersion": "12.331",
+        "coreVersion": "13.346",
         "systemId": "pbta",
         "systemVersion": "1.1.12",
         "createdTime": 1737334558193,
         "modifiedTime": 1737334701351,
-        "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+        "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+        "exportSource": null
       },
+      "category": null,
       "_key": "!journal.pages!Wspo5QWJyqQdielu.ij0dViFGsXmi0w57"
     }
   ],
@@ -124,12 +130,14 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.346",
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737333081647,
     "modifiedTime": 1737333799683,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L"
+    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "exportSource": null
   },
+  "categories": [],
   "_key": "!journal!Wspo5QWJyqQdielu"
 }

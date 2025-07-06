@@ -1,5 +1,5 @@
 {
-  "folder": "UF0Okz1LGsIpscDA",
+  "folder": "JBHXerYx1Etr6Ggv",
   "name": "INNER DARKNESS",
   "type": "move",
   "_id": "0WjFrPOnmV9F36d5",
@@ -32,7 +32,7 @@
     "choices": ""
   },
   "effects": [],
-  "sort": 0,
+  "sort": 25000,
   "ownership": {
     "default": 0
   },
@@ -40,12 +40,13 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.346",
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null
+    "modifiedTime": 1751824580387,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
+    "exportSource": null
   },
   "_key": "!items!0WjFrPOnmV9F36d5"
 }

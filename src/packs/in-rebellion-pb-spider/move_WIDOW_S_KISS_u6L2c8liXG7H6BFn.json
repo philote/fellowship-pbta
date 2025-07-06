@@ -1,11 +1,11 @@
 {
-  "folder": "ttlqq5Q9AmgmLYIo",
-  "name": "WHO YOU'VE BECOME",
+  "folder": "NviiSnN90aEXtcHf",
+  "name": "WIDOW'S KISS",
   "type": "move",
-  "_id": "7SMARWYyTHvGHzN0",
+  "_id": "u6L2c8liXG7H6BFn",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>Take a Custom Move from any basic playbook, other than the playbook <em>Who You Were</em>.</p><p>You may also take an Agenda from the chosen playbook.</p><p>This Move cannot be Shared.</p>",
+    "description": "<p>The weapons in your Gear secrete a paralyzing toxin. <strong>When you deal damage,</strong> they become sluggish, giving you and your allies Hope to <em>Overcome</em> their attacks, to <em>Get Away</em> from them, or to <em>Finish Them</em> with +Sense or +Grace.</p>",
     "moveType": "custom",
     "rollFormula": "",
     "moveResults": {
@@ -40,12 +40,13 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.346",
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": null,
     "modifiedTime": null,
-    "lastModifiedBy": null
+    "lastModifiedBy": null,
+    "exportSource": null
   },
-  "_key": "!items!7SMARWYyTHvGHzN0"
+  "_key": "!items!u6L2c8liXG7H6BFn"
 }

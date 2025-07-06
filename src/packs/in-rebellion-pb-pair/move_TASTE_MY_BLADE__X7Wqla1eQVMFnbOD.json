@@ -1,11 +1,11 @@
 {
-  "folder": "NviiSnN90aEXtcHf",
-  "name": "WIDOW'S KISS",
+  "folder": "wdDLey4rcuGeADk8",
+  "name": "TASTE MY BLADE!",
   "type": "move",
-  "_id": "u6L2c8liXG7H6BFn",
+  "_id": "X7Wqla1eQVMFnbOD",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>The weapons in your Gear secrete a paralyzing toxin. <strong>When you deal damage,</strong> they become sluggish, giving you and your allies Hope to <em>Overcome</em> their attacks, to <em>Get Away</em> from them, or to <em>Finish Them</em> with +Sense or +Grace.</p>",
+    "description": "<p>When you attack someone who has never seen you fight before, deal an additional Harm.</p>",
     "moveType": "custom",
     "rollFormula": "",
     "moveResults": {
@@ -40,12 +40,13 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.346",
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": null,
     "modifiedTime": null,
-    "lastModifiedBy": null
+    "lastModifiedBy": null,
+    "exportSource": null
   },
-  "_key": "!items!u6L2c8liXG7H6BFn"
+  "_key": "!items!X7Wqla1eQVMFnbOD"
 }

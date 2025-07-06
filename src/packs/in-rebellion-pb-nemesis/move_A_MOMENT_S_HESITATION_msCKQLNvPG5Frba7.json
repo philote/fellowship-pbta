@@ -1,12 +1,12 @@
 {
-  "folder": "XJP07sudZf7BOjDX",
-  "name": "LISTEN HERE, YOU LITTLE PUNK",
+  "folder": "8G3H6sKA2Vv7MHMa",
+  "name": "A MOMENT'S HESITATION",
   "type": "move",
-  "_id": "SaxtLJzDRsFaQD5o",
+  "_id": "msCKQLNvPG5Frba7",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p><strong>When you </strong><em><strong>Talk Sense</strong></em><strong> by telling them what will happen to them if they do not do as you ask,</strong> <em>Talk Sense</em> with +Blood. <strong>On a 7-9,</strong> they cannot ask their favor of you until they have done what you asked of them.</p>",
-    "moveType": "custom",
+    "description": "<p><strong>When you make a move against the fellowship,</strong> they may erase one Bond they hold with you to make you hesitate. Choose one: You show them mercy, you tell them something important, or you act anyway, rolling with Despair.</p>",
+    "moveType": "core",
     "rollFormula": "",
     "moveResults": {
       "failure": {
@@ -17,7 +17,7 @@
       "partial": {
         "key": "system.moveResults.partial.value",
         "label": "Partial success.",
-        "value": "They cannot ask their favor of you until they have done what you asked of them."
+        "value": ""
       },
       "success": {
         "key": "system.moveResults.success.value",
@@ -26,7 +26,7 @@
       }
     },
     "uses": 0,
-    "rollType": "blood",
+    "rollType": "",
     "rollMod": 0,
     "actorType": "character",
     "choices": ""
@@ -40,12 +40,13 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.346",
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": null,
     "modifiedTime": null,
-    "lastModifiedBy": null
+    "lastModifiedBy": null,
+    "exportSource": null
   },
-  "_key": "!items!SaxtLJzDRsFaQD5o"
+  "_key": "!items!msCKQLNvPG5Frba7"
 }

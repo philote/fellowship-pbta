@@ -1,13 +1,13 @@
 {
-  "folder": "ttlqq5Q9AmgmLYIo",
-  "name": "SPEAK TRUTH TO POWER (WISDOM)",
+  "folder": "C4V1BZyubrwDVoZI",
+  "name": "OUT OF MY WAY!",
   "type": "move",
-  "_id": "nStrRxbIygE6KlYm",
+  "_id": "gt4SMpFWF0fs8Arl",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>When you speak out against the status quo before a crowd, tell us what you want of them, then roll +Wisdom.</p><p>On a 7+, they will follow your lead, doing as you do.</p><p>On a 9-, you rile them up beyond your ability to control. They quickly take their own lead and follow their own desires.</p>",
+    "description": "<p>When a threat is standing in your way, you may knock it aside and stroll past it. Only the greatest of enemies can stop you. You cannot use this move against a Set Piece or a Threat to the World.</p>",
     "moveType": "custom",
-    "rollFormula": "2d6+@wisdom",
+    "rollFormula": "",
     "moveResults": {
       "failure": {
         "key": "system.moveResults.failure.value",
@@ -17,12 +17,12 @@
       "partial": {
         "key": "system.moveResults.partial.value",
         "label": "Partial success.",
-        "value": "You rile them up beyond your ability to control. They quickly take their own lead and follow their own desires."
+        "value": ""
       },
       "success": {
         "key": "system.moveResults.success.value",
         "label": "Success!",
-        "value": "They will follow your lead, doing as you do."
+        "value": ""
       }
     },
     "uses": 0,
@@ -40,12 +40,13 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.346",
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": null,
     "modifiedTime": null,
-    "lastModifiedBy": null
+    "lastModifiedBy": null,
+    "exportSource": null
   },
-  "_key": "!items!nStrRxbIygE6KlYm"
+  "_key": "!items!gt4SMpFWF0fs8Arl"
 }

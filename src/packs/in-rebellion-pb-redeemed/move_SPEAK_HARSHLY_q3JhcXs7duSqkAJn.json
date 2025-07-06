@@ -1,5 +1,5 @@
 {
-  "folder": "PLACEHOLDER",
+  "folder": "AAPmAABHyrlP81si",
   "name": "SPEAK HARSHLY",
   "type": "move",
   "_id": "q3JhcXs7duSqkAJn",
@@ -32,7 +32,7 @@
     "choices": ""
   },
   "effects": [],
-  "sort": 0,
+  "sort": 200000,
   "ownership": {
     "default": 0
   },
@@ -40,12 +40,13 @@
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
-    "coreVersion": "12.331",
+    "coreVersion": "13.346",
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null
+    "modifiedTime": 1751824771536,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
+    "exportSource": null
   },
   "_key": "!items!q3JhcXs7duSqkAJn"
 }
