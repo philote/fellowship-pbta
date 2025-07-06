@@ -6,7 +6,7 @@
   "img": "icons/svg/aura.svg",
   "system": {
     "description": "<p>When you jump with all your might, you can land anywhere you can see, no matter how far it is.</p>",
-    "moveType": "custom",
+    "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
       "failure": {

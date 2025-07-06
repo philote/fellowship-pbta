@@ -6,7 +6,7 @@
   "img": "icons/svg/aura.svg",
   "system": {
     "description": "<p>When you hurt someone who did you wrong, you heal.</p>",
-    "moveType": "custom",
+    "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
       "failure": {

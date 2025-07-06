@@ -6,7 +6,7 @@
   "img": "icons/svg/aura.svg",
   "system": {
     "description": "<p>You can produce infinite silk rope. You can use it for anything sticky, durable, flexible rope is good for. Your <em>Web Spinning</em> traps and Traps in your Gear gain the <em>Giant</em> tag, letting them affect up to three targets in the area.</p>",
-    "moveType": "custom",
+    "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
       "failure": {

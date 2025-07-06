@@ -6,7 +6,7 @@
   "img": "icons/svg/aura.svg",
   "system": {
     "description": "<p>You can jump to anywhere you can see, and land there near-instantly. You still need to roll to <em>Get Away</em>, if it applies. You also gain this <em>Web Spinning</em> trap:</p><ul><li><strong>Pounce:</strong> You leap on top of them. If they are smaller than you, they fall. If they are bigger, you are now riding them.</li></ul>",
-    "moveType": "custom",
+    "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
       "failure": {

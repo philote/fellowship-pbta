@@ -6,7 +6,7 @@
   "img": "icons/svg/aura.svg",
   "system": {
     "description": "<p>Choose a second <em>Forbidden Element</em>.</p><p>Give each of your <em>Forbidden Elements</em> one appropriate tag of your choice, such as <em>Armor</em>, <em>Burning</em>, or <em>Precious</em>.</p><p>If that tag is a Limited tag, it has 1 Use.</p><p>When you <em>Fill Your Belly</em>, restore one of those Uses.</p><p>This Move cannot be Shared.</p>",
-    "moveType": "custom",
+    "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
       "failure": {

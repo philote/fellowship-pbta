@@ -6,7 +6,7 @@
   "img": "icons/svg/aura.svg",
   "system": {
     "description": "<p>When you speak out against the status quo before a crowd, tell us what you want of them, then roll +Wisdom.</p><p>On a 7+, they will follow your lead, doing as you do.</p><p>On a 9-, you rile them up beyond your ability to control. They quickly take their own lead and follow their own desires.</p>",
-    "moveType": "custom",
+    "moveType": "customs",
     "rollFormula": "2d6+@wisdom",
     "moveResults": {
       "failure": {

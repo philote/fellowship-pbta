@@ -6,7 +6,7 @@
   "img": "icons/svg/aura.svg",
   "system": {
     "description": "<p>When you <em>Pay a Price</em> to avoid trouble, instead of paying for real, describe how you give the impression of paying. Mark Stress to use this move. You do not actually have to pay anything.</p>",
-    "moveType": "custom",
+    "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
       "failure": {

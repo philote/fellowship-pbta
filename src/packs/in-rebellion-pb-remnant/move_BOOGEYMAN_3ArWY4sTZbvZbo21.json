@@ -6,7 +6,7 @@
   "img": "icons/svg/aura.svg",
   "system": {
     "description": "<p>When your enemies stand outside the light, you may <em>Keep Them Busy</em> no matter how many there are.</p><p>When an enemy is alone with you in the darkness, you can maim or kill them at will.</p><p>This Move does not work against Threats to the World.</p>",
-    "moveType": "custom",
+    "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
       "failure": {

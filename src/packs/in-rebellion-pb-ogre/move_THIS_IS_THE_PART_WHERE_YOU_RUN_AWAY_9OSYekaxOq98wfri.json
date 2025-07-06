@@ -6,7 +6,7 @@
   "img": "icons/svg/aura.svg",
   "system": {
     "description": "<p>When you make a show of force to scare them, you may take damage to send them running. Lesser foes will flee immediately, running for help. Greater foes will rise to your challenge, and make a show of force back against you.</p>",
-    "moveType": "custom",
+    "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
       "failure": {

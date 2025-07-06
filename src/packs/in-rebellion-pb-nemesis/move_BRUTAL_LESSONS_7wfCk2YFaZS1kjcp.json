@@ -6,7 +6,7 @@
   "img": "icons/svg/aura.svg",
   "system": {
     "description": "<p><strong>When you </strong><em><strong>Speak Harshly</strong></em><strong>,</strong> you may ask an additional question, even on a 6-. If you spend this extra question to deal damage, you may make another Cut against them, other than deal damage.</p>",
-    "moveType": "custom",
+    "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
       "failure": {

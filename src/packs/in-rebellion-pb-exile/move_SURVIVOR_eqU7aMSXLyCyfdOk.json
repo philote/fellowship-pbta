@@ -6,7 +6,7 @@
   "img": "icons/svg/aura.svg",
   "system": {
     "description": "<p>When you <em>Overcome</em> harm directed at you, on a 7+, you also either heal or <em>Get Away</em> as if you rolled a 7-9, your choice.</p>",
-    "moveType": "custom",
+    "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
       "failure": {

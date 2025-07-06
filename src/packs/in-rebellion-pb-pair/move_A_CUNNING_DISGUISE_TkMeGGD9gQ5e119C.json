@@ -6,7 +6,7 @@
   "img": "icons/svg/aura.svg",
   "system": {
     "description": "<p>If you have time and safety, you may disguise yourselves or any member of the fellowship as a common member of any profession, allowing them to infiltrate any location unnoticed so long as they maintain their duties.</p>",
-    "moveType": "custom",
+    "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
       "failure": {

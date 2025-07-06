@@ -6,7 +6,7 @@
   "img": "icons/svg/aura.svg",
   "system": {
     "description": "<p><strong>When you take this move,</strong> choose Lightning, Ice, or Poison. The chosen element works like your Fire, as a ranged weapon you use in the same manner. Add the element you chose to your Gear:</p><p>You may take this move multiple times, choosing a different element each time. Each of your elements reloads separately.</p>",
-    "moveType": "custom",
+    "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
       "failure": {

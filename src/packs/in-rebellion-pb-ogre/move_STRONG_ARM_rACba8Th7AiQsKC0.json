@@ -6,7 +6,7 @@
   "img": "icons/svg/aura.svg",
   "system": {
     "description": "<p>When you <em>Toss Aside</em> your friends or enemies, you may throw a second enemy or ally with the same roll.</p><p><strong>On a 10+,</strong> you may choose different options for each thrown target. <strong>On a 9-,</strong> each target chooses separately from the list.</p>",
-    "moveType": "custom",
+    "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
       "failure": {

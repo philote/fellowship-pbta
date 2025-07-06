@@ -6,7 +6,7 @@
   "img": "icons/svg/aura.svg",
   "system": {
     "description": "<p>You can carry all of the fellowship with you at once, carrying them on your back or under your arms or some such. When you <em>Get Away</em> and choose to bring someone with you, you may bring along as many folks as you can reach.</p>",
-    "moveType": "custom",
+    "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
       "failure": {

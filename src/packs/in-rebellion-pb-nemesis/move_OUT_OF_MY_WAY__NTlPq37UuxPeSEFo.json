@@ -6,7 +6,7 @@
   "img": "icons/svg/aura.svg",
   "system": {
     "description": "<p>When a threat is between you and the fellowship, you may destroy it. Damage all of its stats and tell us what you did to them. You cannot use this move against a Set Piece or a Threat to the World.</p>",
-    "moveType": "custom",
+    "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
       "failure": {

@@ -6,7 +6,7 @@
   "img": "icons/svg/aura.svg",
   "system": {
     "description": "<p><strong>When you </strong><em><strong>Talk Sense</strong></em><strong> by telling them what will happen to them if they do not do as you ask,</strong> <em>Talk Sense</em> with +Blood. <strong>On a 7-9,</strong> they cannot ask their favor of you until they have done what you asked of them.</p>",
-    "moveType": "custom",
+    "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
       "failure": {

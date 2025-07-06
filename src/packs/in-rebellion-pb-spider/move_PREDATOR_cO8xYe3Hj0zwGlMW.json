@@ -6,7 +6,7 @@
   "img": "icons/svg/aura.svg",
   "system": {
     "description": "<p><strong>When you </strong><em><strong>Keep Them Busy</strong></em><strong> or </strong><em><strong>Overcome</strong></em><strong> harm,</strong> you gain 1 Web after the roll, regardless of its result.</p><p><strong>This Move cannot be Shared.</strong></p>",
-    "moveType": "custom",
+    "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
       "failure": {

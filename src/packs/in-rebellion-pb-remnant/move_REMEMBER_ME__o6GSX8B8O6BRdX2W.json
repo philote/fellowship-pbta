@@ -6,7 +6,7 @@
   "img": "icons/svg/aura.svg",
   "system": {
     "description": "<p>Those who you hurt do not forget. When you <em>Feed On Pain</em>, you may <em>Forge A Bond</em> with them. Bonds forged this way do not make them your Companion. When you taunt or terrorize someone you have a Bond with, you may erase all of your Bonds with them to make them run away from you.</p>",
-    "moveType": "custom",
+    "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
       "failure": {

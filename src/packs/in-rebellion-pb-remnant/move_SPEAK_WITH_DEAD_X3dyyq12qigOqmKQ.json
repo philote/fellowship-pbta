@@ -6,7 +6,7 @@
   "img": "icons/svg/aura.svg",
   "system": {
     "description": "<p>You can <em>Speak Softly</em> with corpses. When doing so, you may also ask, \"How did you die?\" and \"What do you regret most?\" regardless of the result of your roll.</p>",
-    "moveType": "custom",
+    "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
       "failure": {

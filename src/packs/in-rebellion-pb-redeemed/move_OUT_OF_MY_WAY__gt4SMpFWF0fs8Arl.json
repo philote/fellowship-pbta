@@ -6,7 +6,7 @@
   "img": "icons/svg/aura.svg",
   "system": {
     "description": "<p>When a threat is standing in your way, you may knock it aside and stroll past it. Only the greatest of enemies can stop you. You cannot use this move against a Set Piece or a Threat to the World.</p>",
-    "moveType": "custom",
+    "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
       "failure": {

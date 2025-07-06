@@ -6,7 +6,7 @@
   "img": "icons/svg/aura.svg",
   "system": {
     "description": "<p>The weapons in your Gear secrete a paralyzing toxin. <strong>When you deal damage,</strong> they become sluggish, giving you and your allies Hope to <em>Overcome</em> their attacks, to <em>Get Away</em> from them, or to <em>Finish Them</em> with +Sense or +Grace.</p>",
-    "moveType": "custom",
+    "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
       "failure": {

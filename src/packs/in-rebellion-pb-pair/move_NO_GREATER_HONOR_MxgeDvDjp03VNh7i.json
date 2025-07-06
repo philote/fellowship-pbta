@@ -6,7 +6,7 @@
   "img": "icons/svg/aura.svg",
   "system": {
     "description": "<p>When you fail a roll to protect another member of the fellowship, describe how you face the consequences in their place and mark Stress. They do not face any consequences from their failure.</p>",
-    "moveType": "custom",
+    "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
       "failure": {

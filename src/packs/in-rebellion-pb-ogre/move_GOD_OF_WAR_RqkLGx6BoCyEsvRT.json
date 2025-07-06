@@ -6,7 +6,7 @@
   "img": "icons/svg/aura.svg",
   "system": {
     "description": "<p>When you fight against them by yourself, you can try to <em>Keep Them Busy</em> no matter who they are, how outnumbered you are, or how poor your position is, even if they are a Group, Gang, or Army.</p>",
-    "moveType": "custom",
+    "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
       "failure": {

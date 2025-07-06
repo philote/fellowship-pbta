@@ -6,7 +6,7 @@
   "img": "icons/svg/aura.svg",
   "system": {
     "description": "<p>You are a Threat to the World. <strong>When the fellowship makes a Move against you,</strong> they must pay a price first. You do not need to pay a price against other Threats to the World.</p>",
-    "moveType": "custom",
+    "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
       "failure": {

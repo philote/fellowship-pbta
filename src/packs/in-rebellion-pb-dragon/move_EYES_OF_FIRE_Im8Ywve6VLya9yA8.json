@@ -6,7 +6,7 @@
   "img": "icons/svg/aura.svg",
   "system": {
     "description": "<p>Your eyes are unnaturally good, and you can see fine detail even through the darkest night or densest fog. <strong>When you </strong><em><strong>Look Closely</strong></em><strong>,</strong> you may study any location you can see, no matter how distant, as if you were standing right there.</p>",
-    "moveType": "custom",
+    "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
       "failure": {

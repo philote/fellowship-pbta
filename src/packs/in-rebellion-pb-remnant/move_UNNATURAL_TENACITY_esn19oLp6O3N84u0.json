@@ -6,7 +6,7 @@
   "img": "icons/svg/aura.svg",
   "system": {
     "description": "<p>Pain means nothing to you. When you roll one of your damaged stats, you may take one damage to roll three dice and take the best two for your result. If this damage triggers your <em>Inner Darkness</em> or Takes You Out, roll five dice and take the best two instead.</p>",
-    "moveType": "custom",
+    "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
       "failure": {

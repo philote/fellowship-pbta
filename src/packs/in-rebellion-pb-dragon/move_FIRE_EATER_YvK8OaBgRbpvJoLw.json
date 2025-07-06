@@ -6,7 +6,7 @@
   "img": "icons/svg/aura.svg",
   "system": {
     "description": "<p>You may extinguish any flame within arm's reach by touching it, tell us what this looks like. Eating a fire instantly reloads your Fire. You may use this to <em>Overcome</em> attacks with the <em>Burning</em> tag as if you got a 10. If you also have <em>Fire and Ice</em>, you may apply this move to that element too, instantly absorbing electricity, clearing ice, or removing poison from something you touch to Reload your Lightning, your Ice, or your Poison.</p>",
-    "moveType": "custom",
+    "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
       "failure": {

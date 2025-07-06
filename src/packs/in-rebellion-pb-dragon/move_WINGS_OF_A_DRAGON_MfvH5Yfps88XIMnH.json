@@ -6,7 +6,7 @@
   "img": "icons/svg/aura.svg",
   "system": {
     "description": "<p>You can fly. When you fly with a passenger or a heavy load, you have the <em>Clumsy</em> tag.</p><p>Clumsy gives a -1 penalty to <em>Get Away</em>, <em>Keep Them Busy</em>, and <em>Finish Them</em>.</p>",
-    "moveType": "custom",
+    "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
       "failure": {

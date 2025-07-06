@@ -6,7 +6,7 @@
   "img": "icons/svg/aura.svg",
   "system": {
     "description": "<p>Add your Exoskeleton (Armor, 2 Uses) to your Gear. You also gain this <em>Web Spinning</em> trap:</p><ul><li><strong>Armor:</strong> Their attack does nothing to you.</li></ul>",
-    "moveType": "custom",
+    "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
       "failure": {

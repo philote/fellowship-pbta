@@ -6,7 +6,7 @@
   "img": "icons/svg/aura.svg",
   "system": {
     "description": "<p>You blend in better than most. No one will immediately notice your curse, and most who see you find you forgettable.</p><p>When you <em>Get Away</em> into a crowd, you may roll with +Wisdom instead of +Grace.</p><p>When you sit in a public place and listen a while, you may ask the locals a question from the <em>Speak Softly</em> list without rolling.</p>",
-    "moveType": "custom",
+    "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
       "failure": {

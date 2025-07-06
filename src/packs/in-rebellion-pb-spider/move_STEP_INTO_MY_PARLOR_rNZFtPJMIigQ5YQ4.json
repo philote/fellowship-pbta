@@ -6,7 +6,7 @@
   "img": "icons/svg/aura.svg",
   "system": {
     "description": "<p><strong>When an enemy wanders into your hiding place,</strong> you may attempt to <em>Finish Them</em> with +Sense. <strong>On a 10+,</strong> no one hears them, and you remain hidden.</p>",
-    "moveType": "custom",
+    "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
       "failure": {

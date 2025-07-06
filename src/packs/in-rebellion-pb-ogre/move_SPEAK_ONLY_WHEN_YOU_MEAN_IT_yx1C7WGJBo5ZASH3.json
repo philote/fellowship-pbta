@@ -6,7 +6,7 @@
   "img": "icons/svg/aura.svg",
   "system": {
     "description": "<p>When you <em>Speak Softly</em> while saying little, you may ask an additional question. When you <em>Talk Sense</em> using +Wisdom, they will always be willing to listen to you.</p>",
-    "moveType": "custom",
+    "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
       "failure": {

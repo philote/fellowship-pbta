@@ -6,7 +6,7 @@
   "img": "icons/svg/aura.svg",
   "system": {
     "description": "<p>Choose another Move from the <em>What Is The Redeemed?</em> list.</p><p><strong>This Move cannot be Shared.</strong></p>",
-    "moveType": "custom",
+    "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
       "failure": {
