@@ -1,0 +1,35 @@
+{
+  "folder": "Os6PJSvQlU3hpjK1",
+  "name": "Dragon spirit advising champion",
+  "type": "equipment",
+  "_id": "mK9vXzR2NpQ8wTgL",
+  "img": "icons/magic/fire/elemental-fire-ghost.webp",
+  "system": {
+    "description": "A dragon spirit, advising you on how to best be their champion. You may Use this to call your spirit to your side and roll to Speak Softly with them. They have great knowledge of many things.",
+    "uses": 2,
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"FELLOWSHIP.Tags.equipment.Dragon-Made.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Dragon-Made.description\"}]",
+    "itemType": "",
+    "equipmentType": "gear",
+    "actorType": "character"
+  },
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "exportSource": null
+  },
+  "_key": "!items!mK9vXzR2NpQ8wTgL"
+}

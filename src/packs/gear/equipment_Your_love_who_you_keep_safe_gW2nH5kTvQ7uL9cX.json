@@ -1,0 +1,35 @@
+{
+  "folder": "Os6PJSvQlU3hpjK1",
+  "name": "Your love who you keep safe",
+  "type": "equipment",
+  "_id": "gW2nH5kTvQ7uL9cX",
+  "img": "icons/magic/defensive/shield-barrier-deflect-gold.webp",
+  "system": {
+    "description": "Your love, who you will keep safe. Choose a player and write their name. They gain (Armor, Dragon-Made, 2 Uses) while you are within arm's reach of them.",
+    "uses": 0,
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"FELLOWSHIP.Tags.equipment.Dragon-Made.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Dragon-Made.description\"},{\"value\":\"FELLOWSHIP.Tags.equipment.Armor.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Armor.description\"}]",
+    "itemType": "",
+    "equipmentType": "gear",
+    "actorType": "character"
+  },
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "exportSource": null
+  },
+  "_key": "!items!gW2nH5kTvQ7uL9cX"
+}

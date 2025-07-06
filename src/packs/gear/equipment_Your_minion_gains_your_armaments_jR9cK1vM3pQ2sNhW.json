@@ -1,0 +1,35 @@
+{
+  "folder": "Os6PJSvQlU3hpjK1",
+  "name": "Your minion gains your armaments",
+  "type": "equipment",
+  "_id": "jR9cK1vM3pQ2sNhW",
+  "img": "icons/equipment/shield/buckler-wooden-boss-brown.webp",
+  "system": {
+    "description": "Your minion. Choose another player, and add your armaments to their Gear: (Melee, Dragon-Made) and (Armor, Dragon-Made, 1 Use). Write the chosen player's name here.",
+    "uses": 0,
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"FELLOWSHIP.Tags.equipment.Dragon-Made.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Dragon-Made.description\"},{\"value\":\"FELLOWSHIP.Tags.equipment.Melee.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Melee.description\"},{\"value\":\"FELLOWSHIP.Tags.equipment.Armor.value\",\"editable\":false,\"description\":\"FELLOWSHIP.Tags.equipment.Armor.description\"}]",
+    "itemType": "",
+    "equipmentType": "gear",
+    "actorType": "character"
+  },
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null,
+    "exportSource": null
+  },
+  "_key": "!items!jR9cK1vM3pQ2sNhW"
+}
