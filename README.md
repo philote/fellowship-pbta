@@ -61,10 +61,28 @@ You can install the latest released version of the module by using this manifest
     - Gear
     - All of the Basic, Bond, Playbook Moves
     - All of the NPC/Threats
-- Added a Journal for the Basic Rules 2e
+- A Journal for the Basic Rules 2e
+- Book 2: Inverse Fellowship content
+    - Playbooks and Moves
+    - Gear
 
 ## TODO
-- Limited permissions view for the Overlord Sheet
+- Add Book 2: Inverse Fellowship content
+    - Destinies
+    - hooking up playbooks grants
+    - Sheets for the new Framework
+- Add Book 3: In Rebellion content
+    - Playbooks and Moves
+    - Gear
+    - Destinies
+    - hooking up playbooks grants
+    - Sheets for the new Framework
+- Add Book 4: A Generous Fellowship content
+    - Playbooks and Moves
+    - Gear
+    - Destinies
+    - hooking up playbooks grants
+    - Sheets for the new Framework
 
 # License & Acknowledgements
 ## Fellowship 2nd Edition
