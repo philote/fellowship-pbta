@@ -1,0 +1,31 @@
+{
+  "folder": "3mVg9nrffeLpXmYq",
+  "name": "QUIET COWORKER",
+  "type": "companion",
+  "_id": "Si4hvL7QFY0TLfu0",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "description": "<p>A reserved companion from your company who observes everything but says little.</p><p><em>Danger 1, Health 1</em></p><p><strong>Look:</strong> Observant, careful, methodical</p><p><strong>Cost:</strong> Slow to act, requires clear instructions</p><p><strong>Abilities:</strong> Notice details, work precisely, follow orders exactly</p>",
+    "compType": "Retainer",
+    "compMove": "",
+    "compEquipment": "",
+    "actorType": "character"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!Si4hvL7QFY0TLfu0"
+}

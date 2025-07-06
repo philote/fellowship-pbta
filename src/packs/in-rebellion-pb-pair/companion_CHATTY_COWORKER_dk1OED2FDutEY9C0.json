@@ -1,0 +1,31 @@
+{
+  "folder": "3mVg9nrffeLpXmYq",
+  "name": "CHATTY COWORKER",
+  "type": "companion",
+  "_id": "dk1OED2FDutEY9C0",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "description": "<p>A talkative companion from your company who knows everyone's business.</p><p><em>Danger 0, Health 1</em></p><p><strong>Look:</strong> Friendly, gossipy, well-connected</p><p><strong>Cost:</strong> Cannot keep secrets, talks too much</p><p><strong>Abilities:</strong> Gather information, know local rumors, make connections</p>",
+    "compType": "Retainer",
+    "compMove": "",
+    "compEquipment": "",
+    "actorType": "character"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!dk1OED2FDutEY9C0"
+}

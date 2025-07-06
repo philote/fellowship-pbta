@@ -1,0 +1,51 @@
+{
+  "folder": "wdDLey4rcuGeADk8",
+  "name": "NO GREATER HONOR",
+  "type": "move",
+  "_id": "MxgeDvDjp03VNh7i",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>When you fail a roll to protect another member of the fellowship, describe how you face the consequences in their place and mark Stress. They do not face any consequences from their failure.</p>",
+    "moveType": "custom",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!MxgeDvDjp03VNh7i"
+}

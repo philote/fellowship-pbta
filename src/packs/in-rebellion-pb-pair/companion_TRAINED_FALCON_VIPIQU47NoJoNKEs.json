@@ -1,0 +1,31 @@
+{
+  "folder": "3mVg9nrffeLpXmYq",
+  "name": "TRAINED FALCON",
+  "type": "companion",
+  "_id": "VIPIQU47NoJoNKEs",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "description": "<p>A hunting falcon trained to scout and deliver messages across great distances.</p><p><em>Danger 0, Health 1</em></p><p><strong>Look:</strong> Swift, keen-eyed, majestic</p><p><strong>Cost:</strong> Requires specialized care and training</p><p><strong>Abilities:</strong> Scout from above, carry messages, hunt small prey</p>",
+    "compType": "Retainer",
+    "compMove": "",
+    "compEquipment": "",
+    "actorType": "character"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!VIPIQU47NoJoNKEs"
+}

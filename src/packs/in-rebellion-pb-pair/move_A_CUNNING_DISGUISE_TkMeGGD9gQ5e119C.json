@@ -1,0 +1,51 @@
+{
+  "folder": "wdDLey4rcuGeADk8",
+  "name": "A CUNNING DISGUISE",
+  "type": "move",
+  "_id": "TkMeGGD9gQ5e119C",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>If you have time and safety, you may disguise yourselves or any member of the fellowship as a common member of any profession, allowing them to infiltrate any location unnoticed so long as they maintain their duties.</p>",
+    "moveType": "custom",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!TkMeGGD9gQ5e119C"
+}

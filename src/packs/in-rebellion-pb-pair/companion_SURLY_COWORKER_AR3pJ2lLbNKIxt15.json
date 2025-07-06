@@ -1,0 +1,31 @@
+{
+  "folder": "3mVg9nrffeLpXmYq",
+  "name": "SURLY COWORKER",
+  "type": "companion",
+  "_id": "AR3pJ2lLbNKIxt15",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "description": "<p>A grumpy companion from your company who complains but gets the job done.</p><p><em>Danger 1, Health 2</em></p><p><strong>Look:</strong> Gruff, reliable, pessimistic</p><p><strong>Cost:</strong> Low morale, complains constantly</p><p><strong>Abilities:</strong> Endure hardship, work steadily, spot problems</p>",
+    "compType": "Retainer",
+    "compMove": "",
+    "compEquipment": "",
+    "actorType": "character"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!AR3pJ2lLbNKIxt15"
+}
