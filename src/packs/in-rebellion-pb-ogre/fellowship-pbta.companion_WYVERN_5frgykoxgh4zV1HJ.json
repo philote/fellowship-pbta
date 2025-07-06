@@ -1,0 +1,39 @@
+{
+  "folder": "jJr38ujhstLcyWFE",
+  "name": "WYVERN",
+  "type": "fellowship-pbta.companion",
+  "_id": "5frgykoxgh4zV1HJ",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "typeName": "WYVERN",
+    "typeDescription": "These winged lizards are aggressive, territorial predators. They normally have poisonous stingers, but that's too dangerous even for an ogre to handle, and the stinger has been removed.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "dive bomb",
+        "damaged": false
+      },
+      {
+        "name": "get carried away",
+        "damaged": false
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!5frgykoxgh4zV1HJ"
+}

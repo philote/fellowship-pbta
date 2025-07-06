@@ -1,0 +1,39 @@
+{
+  "folder": "GxBaJpT7kMHU66DE",
+  "name": "SKELETON",
+  "type": "fellowship-pbta.companion",
+  "_id": "MvAsdd3Cj0GPCu6U",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "typeName": "SKELETON",
+    "typeDescription": "These skeletal warriors use whatever weapons they used in life, and spend most of their time trying not to fall apart.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "just bones",
+        "damaged": false
+      },
+      {
+        "name": "weapons training",
+        "damaged": false
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!MvAsdd3Cj0GPCu6U"
+}

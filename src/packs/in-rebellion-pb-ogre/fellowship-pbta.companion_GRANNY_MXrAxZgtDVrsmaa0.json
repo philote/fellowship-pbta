@@ -1,0 +1,39 @@
+{
+  "folder": "jJr38ujhstLcyWFE",
+  "name": "GRANNY",
+  "type": "fellowship-pbta.companion",
+  "_id": "MXrAxZgtDVrsmaa0",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "typeName": "GRANNY",
+    "typeDescription": "A kind old lady to bake you cookies.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "doting caretaker",
+        "damaged": false
+      },
+      {
+        "name": "wise advice",
+        "damaged": false
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!MXrAxZgtDVrsmaa0"
+}

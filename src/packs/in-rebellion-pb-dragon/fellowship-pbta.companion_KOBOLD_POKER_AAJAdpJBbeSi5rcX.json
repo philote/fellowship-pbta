@@ -1,0 +1,39 @@
+{
+  "folder": "PbvEWyNCw9rg6pRH",
+  "name": "KOBOLD POKER",
+  "type": "fellowship-pbta.companion",
+  "_id": "AAJAdpJBbeSi5rcX",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "typeName": "KOBOLD POKER",
+    "typeDescription": "This kobold warrior hides behind a shield and pokes their enemies with a well-used spear.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "use the pointy bit",
+        "damaged": false
+      },
+      {
+        "name": "big shield",
+        "damaged": false
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!AAJAdpJBbeSi5rcX"
+}

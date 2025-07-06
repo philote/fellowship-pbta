@@ -1,0 +1,39 @@
+{
+  "folder": "PbvEWyNCw9rg6pRH",
+  "name": "KOBOLD THINKER",
+  "type": "fellowship-pbta.companion",
+  "_id": "slUp3wfDIiNzOea1",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "typeName": "KOBOLD THINKER",
+    "typeDescription": "They've got a plan, and you might be a part of it.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "master plan",
+        "damaged": false
+      },
+      {
+        "name": "back-up plan",
+        "damaged": false
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!slUp3wfDIiNzOea1"
+}

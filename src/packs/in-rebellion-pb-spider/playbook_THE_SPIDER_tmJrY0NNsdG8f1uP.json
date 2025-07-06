@@ -1,0 +1,413 @@
+{
+  "name": "THE SPIDER",
+  "type": "playbook",
+  "img": "icons/svg/book.svg",
+  "system": {
+    "description": "<div class=\"playbook-details\"><h1>THE SPIDER</h1><div class=\"flexrow\"><div class=\"flexcol\"><div><h2>BASIC PLAYBOOK</h2><p><em>I am here to help. You do not believe me yet. But you will, in time.</em></p><p><em>We have common cause. We are very different. We are all the same.</em></p><p><em>Death lies before us. An Empire's cruel iron fist. Soon, devastation.</em></p><p><em>But not yet, not now. We can be more cunning still. A chance lies with us.</em></p><p><em>New hope blossoms here. This fellowship needs many. We have but a few.</em></p><p><em>I am here to help. Spiders know much and see more. My webs keep you safe.</em></p><p><em>I am the Spider. I await our victory. I await our prey.</em></p></div><div><h2>NAME</h2><p><strong>Choose one or two from each, or make up your own:</strong></p><p><strong>Names:</strong> <em>Parker, Vero, Donut, Tarrana, Ta'Ch'Ch, Carris, Lyrac, Protil, Truespinner, Lightwalker, Heartthief, Redeye, Va'Roon</em></p><p><strong>Claims:</strong> <em>Stole the Moon's Heart, Wandered 4000 Days, Eaten Every Creature, Infiltrated Hound's Hall in Silence, Foiled Assassination, Loved by the Elf King Kal'Thul, Mother of Ten Spider's Grove, Destroyer of the Dusk Owls, Swallowed by the Dragon Demothaz and Crawled Back Out, Dueled King Alexandros and Won</em></p></div><div><h2>LOOK</h2><p><strong>Circle one from each list, or make up your own:</strong></p><ul><li>Beautiful Eyes, Hard Eyes, or Hungry Eyes</li><li>Dull Coloration, Shimmering Patterns, or Vibrant Tattoos</li><li>Simple Clothes, Unusual Armor, or No Clothes At All</li><li>Armored Body, Fuzzy Body, or Segmented Body</li></ul></div><div><h2>AGENDA</h2><p><strong>When you know not what to do, consult your Agendas.</strong></p><h3>You have these three Agendas:</h3><ul><li>Be Brave, Take Risks</li><li>Improve The World Around You</li><li>Tell Us Of Your People</li></ul><p><strong>And circle a fourth Agenda that only you follow:</strong></p><h3>Alien Mindset</h3><p>Disregard the value of art, law, and social customs.</p><h3>I Hunger</h3><p>You want food, you want love, you want to lash out.</p><h3>The Waiting Game</h3><p>Make plans, set ambushes, take your time.</p></div><div><h2>STATS</h2><p>Your <strong>Sense</strong> stat is +2. Assign +2, +1, +0, -1 to your other stats.</p><p><strong>When a stat is damaged,</strong> mark the small box. You are in <strong>Despair</strong> when you roll a damaged stat.</p><ul><li>Blood</li><li>Courage</li><li>Grace</li><li>Sense</li><li>Wisdom</li></ul></div><div><h2>WHAT IS A SPIDER?</h2><p><strong>Choose the option that best represents your people:</strong></p><h3>EXTRA-DIMENSIONAL</h3><p>You are a being from outside the world we know, which means you're a big weird bug nobody understands. When someone asks you a question, whether to Speak Softly with you, Look Closely at you, or ask you to Command Lore about your people, you may tell them lies. They will believe these lies to be true until evidence contradicts them directly.</p><p>You should still tell the truth to us, the players, but to everyone in the world of the game, they will only know you by the lies you tell.</p><h3>HUMAN-LIKE</h3><p>You are mostly human shaped, but being human shaped is not the same as being human. You are immune to normal poisons and diseases, and the Piercing tag does not work on you.</p><h3>TAURIC</h3><p>Your lower body is all bug, your upper half is human. When you are Wall Walking with a passenger, your hands remain free.</p><p>When you Get Away, you can always take someone with you, regardless of your roll. If you also choose to \"take someone with you\" from the Get Away list, you can take up to three people with you instead.</p><h3>WELL ARMED</h3><p>You walk on two legs, and the rest of your many limbs are arms. You are multidextrous and can use any hand as well as any other, for any purpose. You always have a hand free to do something with, even when Wall Walking with a passenger.</p><p>Your many limbs make you a master puppeteer. While you have any Webs, it does not cost a Web to Manipulate your surroundings.</p></div><div><h2>CORE MOVES</h2><p><strong>All Spiders have these moves.</strong></p><h3>WALL WALKER</h3><p>You can move along walls and ceilings of any solid material. So long as the surface can support your weight, you can run, walk, or cling to it without falling.</p><p>When you go solo, you can act normally while <em>Wall Walking</em>.</p><p>When you have a passenger, they must cling to you with both arms or they will fall, and you must keep all your limbs on the wall or you will fall.</p><h3>WEB SPINNING</h3><p>When you <em>Look Closely</em> or <em>Get Away</em>, on a 7+, you gain 1 Web.</p><p>When you travel to a new location, you lose 1 Web. You can never hold more than 3 Webs at a time.</p><p>When an enemy makes a move against you, you may spend 1 Web to trigger a trap before they make that move. Choose one:</p><ul><li><strong>Escape Route:</strong> You <em>Get Away</em>, rolling with Hope.</li><li><strong>Manipulate:</strong> Throw, drop, or break a nearby object. You can use this to collapse a doorway, spread a camp fire, drop a chandelier, cause a rock slide, and other such tricks.</li><li><strong>The Catch:</strong> Their leg or arm becomes caught and immobilized. Next time they try something, you can <em>Manipulate</em> them as if they were an object.</li><li><strong>Trapped:</strong> Use a Trap from your Gear against them.</li></ul><p>This Move cannot be Shared.</p><p>Many of the Spider's Custom Moves give them new traps to use with <em>Web Spinning</em>. When you Share one of those Moves with someone, they add the trap to their Gear as an item with the tags (Trap, 2 Uses) instead.</p></div><div><h2>CUSTOM MOVES</h2><p><strong>Choose two of these moves to further define what it means to be a Spider.</strong></p><h3>APPROXIMATE KNOWLEDGE OF MANY THINGS</h3><p>Take a Custom Move from any basic playbook. You may also take an Agenda from the chosen playbook. This Move cannot be Shared.</p><h3>CARAPACE</h3><p>Add your Exoskeleton (Armor, 2 Uses) to your Gear. You also gain this <em>Web Spinning</em> trap:</p><ul><li><strong>Armor:</strong> Their attack does nothing to you.</li></ul><h3>GRASSHOPPER</h3><p>You can jump to anywhere you can see, and land there near-instantly. You still need to roll to <em>Get Away</em>, if it applies. You also gain this <em>Web Spinning</em> trap:</p><ul><li><strong>Pounce:</strong> You leap on top of them. If they are smaller than you, they fall. If they are bigger, you are now riding them.</li></ul><h3>PREDATOR</h3><p>When you <em>Keep Them Busy</em> or <em>Overcome</em> harm, you gain 1 Web after the roll, regardless of its result. This Move cannot be Shared.</p><h3>SILVER TONGUE</h3><p>When you <em>Speak Softly</em>, in place of one of your questions you ask them, you may tell them a lie. They will earnestly believe this lie to be true until overwhelming or undeniable evidence contradicts them.</p><h3>STEP INTO MY PARLOR</h3><p>When an enemy wanders into your hiding place, you may attempt to <em>Finish Them</em> with +Sense. On a 10+, no one hears them, and you remain hidden.</p><h3>WEAVER</h3><p>You can produce infinite silk rope. You can use it for anything sticky, durable, flexible rope is good for. Your <em>Web Spinning</em> traps and Traps in your Gear gain the <em>Giant</em> tag, letting them affect up to three targets in the area.</p><h3>WIDOW'S KISS</h3><p>The weapons in your Gear secrete a paralyzing toxin. When you deal damage, they become sluggish, giving you and your allies Hope to <em>Overcome</em> their attacks, to <em>Get Away</em> from them, or to <em>Finish Them</em> with +Sense or +Grace.</p></div></div><div class=\"flexcol\"><div><h2>PLAYING AS THE SPIDER</h2><p>The Spider is patient, sneaky, and clever. They take their time. They play tricks. They do their own thing. They use every advantage they can get. A spider is a weird and unpredictable monster, and they like it that way.</p><p>Play as The Spider if you like planning and traps, if you want to be strange and weird, if you like to tell lies and play tricks, or if you just think spiders and bugs are super cool.</p></div><div><h2>ADVANCEMENT</h2><p><strong>When you Level Up, increase your level by 1, then choose an option from the list and mark it. You may only choose each option once.</strong> <em>You begin the game at level 1.</em></p><ul><li>Increase your Grace or Wisdom by 1 (to a maximum of +3).</li><li>Increase one of your stats by 1 (to a maximum of +3).</li><li>Take another Spider's Custom.</li><li>Take another Spider's Custom.</li><li>Take another Spider's Custom, OR choose another move from the <em>What Is A Spider?</em> list.</li><li>Share one of your Moves with another player.</li><li><strong>You have Changed.</strong> You must be level 5 or higher to take this Advancement. <strong>When you Change,</strong> choose a Destiny you meet the requirements for and take its first Move.</li></ul></div><div><h2>WEBS</h2><p><strong>Mark your webs with a coin or other marker:</strong></p><p>0 1 2 3</p></div><div><h2>BONDS</h2><p>You start with 4 bonds with the other members of the Fellowship. Use these, or make your own:</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> is my partner in crime.</p><p>I like to wait and see what <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> does.</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> wants what's best for me.</p><p>I will never catch <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> in my web.</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> understands me like no one else does.</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> brought me out of my home, and here we are now.</p><p>I can rely on <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>.</p><p>When the world was cruel, <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> was kind.</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> believes in me, even when I lie.</p><p>I have shown <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> my greatest secret.</p><p><strong>Record your other bonds here:</strong></p></div><div><h2>GEAR</h2><p>You carry strange food that only you enjoy <em>(Food for Spiders, 3 Uses)</em>.</p><h3>How do you fight? Choose two:</h3><ul><li>With your claws and teeth (Melee).</li><li>With a bladed weapon in each hand (Melee).</li><li>With needles or stones you can eject from your body (Ranged, Reload).</li><li>With confidence and fast healing (Healing, 2 Uses, self only).</li><li>With a strangely shaped bow or rifle (Ranged, 3 Ammo).</li></ul><h3>Spiders never carry more than they need, but you carry some things rarely found outside of Spider territory. Choose two:</h3><ul><li>The names and faces of your prey, including their sins and their worth, bound in a book of leather and silk.</li><li>Fine silks and strange artifacts for trade (2 Uses, Precious).</li><li>Various poisons and oils with overly-specific effects (2 Uses, Useful).</li><li>A swarm of bugs that does your bidding. You have one Bond with them.</li><li>A variety of special traps (2 Uses, Trap). When you Use this, choose one of the traps (Arrow, Bear, Exploding, Flashpowder, or Pit Trap) and place it as normal, following the rules of that trap.</li></ul></div><div><h2>COMPANIONS</h2><p>The main Companion to The Spider are baby spiders, and traps. The traps listed here can be purchased for a single Precious item in any marketplace.</p><h3>BUG SWARM</h3><p><em>Many tiny monsters who will crawl all over someone you don't like.</em></p><p class=\"tags\">swarm | consume</p><h3>ARROW TRAP</h3><p><em>A sudden shot fires from a hidden crossbow.</em></p><p class=\"tags\">2 uses. deal 1 damage to an undamaged enemy.</p><h3>BEAR TRAP</h3><p><em>Surprisingly, not actually a bear.</em></p><p class=\"tags\">3 uses. immobilizes them until they pry free. when triggered, it causes immense, distracting pain.</p><h3>EXPLODING TRAP</h3><p><em>Nothing better than a bomb to open a path.</em></p><p class=\"tags\">dangerous, 2 uses. cave in a small room or narrow tunnel on cue, or blast open a wall or door on cue.</p><h3>FLASHPOWDER TRAP</h3><p><em>This mystical powder causes temporary blindness.</em></p><p class=\"tags\">2 uses. blind everyone in the area for a short time.</p><h3>PIT TRAP</h3><p><em>The classic. Nobody gets out of one of these quickly.</em></p><p class=\"tags\">2 uses. they fall into a hole.</p></div></div></div></div>",
+    "slug": "the-spider",
+    "actorType": "character",
+    "stats": {
+      "blood": {
+        "label": "Blood",
+        "value": 0
+      },
+      "courage": {
+        "label": "Courage",
+        "value": 0
+      },
+      "grace": {
+        "label": "Grace",
+        "value": 0
+      },
+      "sense": {
+        "label": "Sense",
+        "value": 2
+      },
+      "wisdom": {
+        "label": "Wisdom",
+        "value": 0
+      },
+      "doom": {
+        "label": "Doom",
+        "value": 0
+      }
+    },
+    "statsDetail": "Your Sense stat is +2. Assign +2, +1, +0, -1 to your other stats.",
+    "attributes": {
+      "statsVisibility": {
+        "label": "Stats Visibility",
+        "description": "Which stats are visible on the character sheet?",
+        "type": "ListMany",
+        "options": {
+          "0": {
+            "label": "blood",
+            "value": true
+          },
+          "1": {
+            "label": "courage",
+            "value": true
+          },
+          "2": {
+            "label": "grace",
+            "value": true
+          },
+          "3": {
+            "label": "sense",
+            "value": true
+          },
+          "4": {
+            "label": "wisdom",
+            "value": true
+          },
+          "5": {
+            "label": "doom",
+            "value": false
+          }
+        },
+        "choices": [
+          {
+            "options": {
+              "0": {
+                "value": true,
+                "label": "blood"
+              },
+              "1": {
+                "value": true,
+                "label": "courage"
+              },
+              "2": {
+                "value": true,
+                "label": "grace"
+              },
+              "3": {
+                "value": true,
+                "label": "sense"
+              },
+              "4": {
+                "value": true,
+                "label": "wisdom"
+              },
+              "5": {
+                "value": false,
+                "label": "doom"
+              }
+            },
+            "value": ""
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "value": "",
+        "max": null
+      },
+      "initialAgendas": {
+        "label": "Agendas",
+        "type": "LongText",
+        "value": "",
+        "choices": [
+          {
+            "value": "<ul><li>Be Brave, Take Risks</li><li>Improve The World Around You</li><li>Tell Us Of Your People</li></ul>",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "fourthAgenda": {
+        "label": "When you know not what to do, consult your Agendas.",
+        "type": "LongText",
+        "value": "",
+        "choices": [
+          {
+            "value": "<p><strong>Alien Mindset</strong> Disregard the value of art, law, and social customs.</p>",
+            "options": {}
+          },
+          {
+            "value": "<p><strong>I Hunger</strong> You want food, you want love, you want to lash out.</p>",
+            "options": {}
+          },
+          {
+            "value": "<p><strong>The Waiting Game</strong> Make plans, set ambushes, take your time.</p>",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "lookOne": {
+        "label": "Look",
+        "type": "Text",
+        "value": "",
+        "choices": [
+          {
+            "value": "Beautiful Eyes",
+            "options": {}
+          },
+          {
+            "value": "Hard Eyes",
+            "options": {}
+          },
+          {
+            "value": "Hungry Eyes",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "lookTwo": {
+        "label": "LookTwo",
+        "type": "Text",
+        "value": "",
+        "choices": [
+          {
+            "value": "Dull Coloration",
+            "options": {}
+          },
+          {
+            "value": "Shimmering Patterns",
+            "options": {}
+          },
+          {
+            "value": "Vibrant Tattoos",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "lookThree": {
+        "label": "LookThree",
+        "type": "Text",
+        "value": "",
+        "choices": [
+          {
+            "value": "Simple Clothes",
+            "options": {}
+          },
+          {
+            "value": "Unusual Armor",
+            "options": {}
+          },
+          {
+            "value": "No Clothes At All",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "lookFour": {
+        "label": "LookFour",
+        "type": "Text",
+        "value": "",
+        "choices": [
+          {
+            "value": "Armored Body",
+            "options": {}
+          },
+          {
+            "value": "Fuzzy Body",
+            "options": {}
+          },
+          {
+            "value": "Segmented Body",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "whatIsASpider": {
+        "label": "What Is A Spider?",
+        "type": "LongText",
+        "value": "",
+        "choices": [
+          {
+            "value": "<p><strong>EXTRA-DIMENSIONAL</strong> You are a being from outside the world we know, which means you're a big weird bug nobody understands. When someone asks you a question, whether to Speak Softly with you, Look Closely at you, or ask you to Command Lore about your people, you may tell them lies. They will believe these lies to be true until evidence contradicts them directly.</p>",
+            "options": {}
+          },
+          {
+            "value": "<p><strong>HUMAN-LIKE</strong> You are mostly human shaped, but being human shaped is not the same as being human. You are immune to normal poisons and diseases, and the Piercing tag does not work on you.</p>",
+            "options": {}
+          },
+          {
+            "value": "<p><strong>TAURIC</strong> Your lower body is all bug, your upper half is human. When you are Wall Walking with a passenger, your hands remain free. When you Get Away, you can always take someone with you, regardless of your roll.</p>",
+            "options": {}
+          },
+          {
+            "value": "<p><strong>WELL ARMED</strong> You walk on two legs, and the rest of your many limbs are arms. You are multidextrous and can use any hand as well as any other, for any purpose. You always have a hand free to do something with, even when Wall Walking with a passenger.</p>",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "advancements": {
+        "label": "Advancement",
+        "description": "When you Level Up, increase your level by 1, then choose an option from the list and mark it. You may only choose each option once.",
+        "type": "ListMany",
+        "options": {
+          "0": {
+            "label": "",
+            "value": false
+          },
+          "1": {
+            "label": "",
+            "value": false
+          },
+          "2": {
+            "label": "",
+            "value": false
+          },
+          "3": {
+            "label": "",
+            "value": false
+          },
+          "4": {
+            "label": "",
+            "value": false
+          },
+          "5": {
+            "label": "",
+            "value": false
+          }
+        },
+        "choices": [
+          {
+            "options": {
+              "0": {
+                "value": false,
+                "label": "Increase your Grace or Wisdom by 1 (to a maximum of +3)."
+              },
+              "1": {
+                "value": false,
+                "label": "Increase one of your stats by 1 (to a maximum of +3)."
+              },
+              "2": {
+                "value": false,
+                "label": "Take another Spider's Custom."
+              },
+              "3": {
+                "value": false,
+                "label": "Take another Spider's Custom."
+              },
+              "4": {
+                "value": false,
+                "label": "Take another Spider's Custom, OR choose another move from the What Is A Spider? list."
+              },
+              "5": {
+                "value": false,
+                "label": "Share one of your Moves with another player."
+              }
+            },
+            "value": ""
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "value": "",
+        "max": null
+      },
+      "unlockDestiny": {
+        "label": "Unlock your Destiny",
+        "description": "You must be level 5 or higher to take this Advancement. When you do, you unlock the ability to choose a Destiny.",
+        "type": "ListMany",
+        "options": {
+          "0": {
+            "label": "You have Changed. When you Change, choose a Destiny you meet the requirements for and take its first Move.",
+            "value": false
+          }
+        },
+        "choices": [
+          {
+            "options": {
+              "0": {
+                "label": "You have Changed. When you Change, choose a Destiny you meet the requirements for and take its first Move.",
+                "value": false
+              }
+            },
+            "value": ""
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "value": "",
+        "max": null
+      },
+      "playingAs": {
+        "label": "Playing as",
+        "value": "",
+        "type": "Details",
+        "choices": [
+          {
+            "value": "<p>The Spider is patient, sneaky, and clever. They take their time. They play tricks. They do their own thing. They use every advantage they can get. A spider is a weird and unpredictable monster, and they like it that way.</p><p>Play as The Spider if you like planning and traps, if you want to be strange and weird, if you like to tell lies and play tricks, or if you just think spiders and bugs are super cool.</p>",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "details",
+        "max": null,
+        "options": {},
+        "description": ""
+      },
+      "bonds": {
+        "label": "Bonds",
+        "value": "",
+        "type": "Details",
+        "choices": [
+          {
+            "value": "<p>You start with 4 bonds with the other members of the Fellowship. Use these, or make your own:</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> is my partner in crime.</p><p>I like to wait and see what <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> does.</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> wants what's best for me.</p><p>I will never catch <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> in my web.</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> understands me like no one else does.</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> brought me out of my home, and here we are now.</p><p>I can rely on <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>.</p><p>When the world was cruel, <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> was kind.</p><p><span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> believes in me, even when I lie.</p><p>I have shown <span style=\"text-decoration: underline;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span> my greatest secret.</p><p><strong>Record your other bonds here:</strong></p>",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "details",
+        "max": null,
+        "options": {},
+        "description": ""
+      }
+    },
+    "choiceSets": []
+  },
+  "effects": [],
+  "folder": null,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_id": "tmJrY0NNsdG8f1uP",
+  "sort": 0,
+  "_key": "!items!tmJrY0NNsdG8f1uP"
+}

@@ -1,0 +1,39 @@
+{
+  "folder": "jJr38ujhstLcyWFE",
+  "name": "WIZARD",
+  "type": "fellowship-pbta.companion",
+  "_id": "oDV3QxKljEKXNiQf",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "typeName": "WIZARD",
+    "typeDescription": "Wizards are powerful, destroy everything, and cannot be trusted. Of course ogres naturally work alongside them.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "overwhelming power",
+        "damaged": false
+      },
+      {
+        "name": "no sense of right and wrong",
+        "damaged": false
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!oDV3QxKljEKXNiQf"
+}

@@ -1,0 +1,39 @@
+{
+  "folder": "PbvEWyNCw9rg6pRH",
+  "name": "KOBOLD SLINGER",
+  "type": "fellowship-pbta.companion",
+  "_id": "guIixFt4fCG00hP7",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "typeName": "KOBOLD SLINGER",
+    "typeDescription": "These kobolds are well-practiced with their powerful slingshots, firing rocks at their enemies from afar.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "rock to the head",
+        "damaged": false
+      },
+      {
+        "name": "scamper away",
+        "damaged": false
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!guIixFt4fCG00hP7"
+}

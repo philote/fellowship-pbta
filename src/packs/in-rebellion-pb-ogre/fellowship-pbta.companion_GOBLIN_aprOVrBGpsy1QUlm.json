@@ -1,0 +1,39 @@
+{
+  "folder": "jJr38ujhstLcyWFE",
+  "name": "GOBLIN",
+  "type": "fellowship-pbta.companion",
+  "_id": "aprOVrBGpsy1QUlm",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "typeName": "GOBLIN",
+    "typeDescription": "A simple creature, an ogre is easily confused. That's where their goblin comes in - a tiny, smart helper that will direct the ogre and help it make decisions, in exchange for its protection.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "good ideas",
+        "damaged": false
+      },
+      {
+        "name": "clever plans",
+        "damaged": false
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!aprOVrBGpsy1QUlm"
+}

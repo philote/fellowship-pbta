@@ -1,0 +1,39 @@
+{
+  "folder": "jJr38ujhstLcyWFE",
+  "name": "CHILD",
+  "type": "fellowship-pbta.companion",
+  "_id": "IZoNsiDCnZcT8rAe",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "typeName": "CHILD",
+    "typeDescription": "An innocent child who the ogre has sworn to protect.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "innocent charm",
+        "damaged": false
+      },
+      {
+        "name": "troublemaker",
+        "damaged": false
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!IZoNsiDCnZcT8rAe"
+}

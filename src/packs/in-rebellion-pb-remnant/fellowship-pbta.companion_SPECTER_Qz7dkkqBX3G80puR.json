@@ -1,0 +1,39 @@
+{
+  "folder": "GxBaJpT7kMHU66DE",
+  "name": "SPECTER",
+  "type": "fellowship-pbta.companion",
+  "_id": "Qz7dkkqBX3G80puR",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "typeName": "SPECTER",
+    "typeDescription": "These ghostly spirits like to cause trouble, but they are mostly harmless. They'd rather scare you than kill you.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "spooky",
+        "damaged": false
+      },
+      {
+        "name": "poltergeist powers",
+        "damaged": false
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!Qz7dkkqBX3G80puR"
+}

@@ -1,12 +1,12 @@
 {
-  "folder": "1VKBfVM6FBrGwtUR",
-  "name": "PROTECT THE LITTLE ONES",
+  "folder": "XJP07sudZf7BOjDX",
+  "name": "FIRE EATER",
   "type": "move",
-  "_id": "v8mVZ4W7tXf1bjOH",
+  "_id": "YvK8OaBgRbpvJoLw",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>Your large size and reckless nature put you in harm's way easily, and both allies and enemies need to be careful or they'll hit you instead of their target.</p><p>When your body is between someone and incoming harm, you suffer that harm in their place. This happens whether you want it to or not.</p><p>When an ally within your reach would Overcome incoming harm, they may choose to have you take that harm instead of rolling.</p><p><em>Protect The Little Ones</em> does not trigger if you are the source of the incoming harm. For example, if an ally within your reach suffers from your collateral damage, they cannot make you take that harm instead.</p>",
-    "moveType": "core",
+    "description": "<p>You may extinguish any flame within arm's reach by touching it, tell us what this looks like. Eating a fire instantly reloads your Fire. You may use this to <em>Overcome</em> attacks with the <em>Burning</em> tag as if you got a 10. If you also have <em>Fire and Ice</em>, you may apply this move to that element too, instantly absorbing electricity, clearing ice, or removing poison from something you touch to Reload your Lightning, your Ice, or your Poison.</p>",
+    "moveType": "custom",
     "rollFormula": "",
     "moveResults": {
       "failure": {
@@ -47,5 +47,5 @@
     "modifiedTime": null,
     "lastModifiedBy": null
   },
-  "_key": "!items!v8mVZ4W7tXf1bjOH"
+  "_key": "!items!YvK8OaBgRbpvJoLw"
 }

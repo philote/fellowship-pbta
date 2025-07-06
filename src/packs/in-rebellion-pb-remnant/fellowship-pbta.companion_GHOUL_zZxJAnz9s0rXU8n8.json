@@ -1,0 +1,39 @@
+{
+  "folder": "GxBaJpT7kMHU66DE",
+  "name": "GHOUL",
+  "type": "fellowship-pbta.companion",
+  "_id": "zZxJAnz9s0rXU8n8",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "typeName": "GHOUL",
+    "typeDescription": "This undead is endlessly hungry, and always looking for their next meal.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "hungry",
+        "damaged": false
+      },
+      {
+        "name": "tough as nails",
+        "damaged": false
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!zZxJAnz9s0rXU8n8"
+}

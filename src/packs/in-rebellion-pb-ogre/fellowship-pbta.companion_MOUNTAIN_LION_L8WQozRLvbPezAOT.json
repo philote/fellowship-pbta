@@ -1,0 +1,39 @@
+{
+  "folder": "jJr38ujhstLcyWFE",
+  "name": "MOUNTAIN LION",
+  "type": "fellowship-pbta.companion",
+  "_id": "L8WQozRLvbPezAOT",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "typeName": "MOUNTAIN LION",
+    "typeDescription": "A big cat, big as a person, and ready to hunt.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "pounce",
+        "damaged": false
+      },
+      {
+        "name": "stalk from the shadows",
+        "damaged": false
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!L8WQozRLvbPezAOT"
+}

@@ -1,0 +1,39 @@
+{
+  "folder": "jJr38ujhstLcyWFE",
+  "name": "BEAR",
+  "type": "fellowship-pbta.companion",
+  "_id": "Z0vvZ8XFgK6NenkE",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "typeName": "BEAR",
+    "typeDescription": "Deadly and strong, only an ogre could domesticate a beast so wild.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "bear hug",
+        "damaged": false
+      },
+      {
+        "name": "deadly claws",
+        "damaged": false
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!Z0vvZ8XFgK6NenkE"
+}

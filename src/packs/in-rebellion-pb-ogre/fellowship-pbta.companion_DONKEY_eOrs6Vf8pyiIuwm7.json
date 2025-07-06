@@ -1,0 +1,39 @@
+{
+  "folder": "jJr38ujhstLcyWFE",
+  "name": "DONKEY",
+  "type": "fellowship-pbta.companion",
+  "_id": "eOrs6Vf8pyiIuwm7",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "typeName": "DONKEY",
+    "typeDescription": "A stubborn but useful animal, they make good companions for stubborn but useful ogres.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "pack animal",
+        "damaged": false
+      },
+      {
+        "name": "donkey kick",
+        "damaged": false
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!eOrs6Vf8pyiIuwm7"
+}

@@ -1,0 +1,39 @@
+{
+  "folder": "PbvEWyNCw9rg6pRH",
+  "name": "KOMODO DRAGON",
+  "type": "fellowship-pbta.companion",
+  "_id": "ns2xvtGuZnU9A6do",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "typeName": "KOMODO DRAGON",
+    "typeDescription": "They aren't true dragons, but they're bigger than your dog and have a much deadlier, more venomous bite.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "necrotic bite",
+        "damaged": false
+      },
+      {
+        "name": "hardened scales",
+        "damaged": false
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pbta",
+    "systemVersion": "1.1.12",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!ns2xvtGuZnU9A6do"
+}
