@@ -5,11 +5,19 @@
   "_id": "Si4hvL7QFY0TLfu0",
   "img": "icons/svg/mystery-man.svg",
   "system": {
-    "description": "<p>A reserved companion from your company who observes everything but says little.</p><p><em>Danger 1, Health 1</em></p><p><strong>Look:</strong> Observant, careful, methodical</p><p><strong>Cost:</strong> Slow to act, requires clear instructions</p><p><strong>Abilities:</strong> Notice details, work precisely, follow orders exactly</p>",
-    "compType": "Retainer",
-    "compMove": "",
-    "compEquipment": "",
-    "actorType": "character"
+    "typeName": "QUIET COWORKER",
+    "typeDescription": "You met them undercover, and they mind their own business. You can count on them to do what they were going to do anyway.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "i saw nothin'",
+        "damaged": false
+      },
+      {
+        "name": "gets the job done",
+        "damaged": false
+      }
+    ]
   },
   "effects": [],
   "sort": 0,

@@ -5,11 +5,19 @@
   "_id": "AR3pJ2lLbNKIxt15",
   "img": "icons/svg/mystery-man.svg",
   "system": {
-    "description": "<p>A grumpy companion from your company who complains but gets the job done.</p><p><em>Danger 1, Health 2</em></p><p><strong>Look:</strong> Gruff, reliable, pessimistic</p><p><strong>Cost:</strong> Low morale, complains constantly</p><p><strong>Abilities:</strong> Endure hardship, work steadily, spot problems</p>",
-    "compType": "Retainer",
-    "compMove": "",
-    "compEquipment": "",
-    "actorType": "character"
+    "typeName": "SURLY COWORKER",
+    "typeDescription": "You met them undercover, and they really don't want to be here. They hate this place, and will bug off if you need them to.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "biting sarcasm",
+        "damaged": false
+      },
+      {
+        "name": "conveniently off-duty",
+        "damaged": false
+      }
+    ]
   },
   "effects": [],
   "sort": 0,

@@ -5,11 +5,19 @@
   "_id": "XH6TLmake4HTCvN1",
   "img": "icons/svg/mystery-man.svg",
   "system": {
-    "description": "<p>An energetic companion from your company who loves a good fight or party.</p><p><em>Danger 2, Health 1</em></p><p><strong>Look:</strong> Boisterous, aggressive, enthusiastic</p><p><strong>Cost:</strong> Causes trouble, attracts unwanted attention</p><p><strong>Abilities:</strong> Fight with passion, rally others, create distractions</p>",
-    "compType": "Retainer",
-    "compMove": "",
-    "compEquipment": "",
-    "actorType": "character"
+    "typeName": "ROWDY COWORKER",
+    "typeDescription": "You met them undercover, and they're really on edge. They're just waiting for an excuse, you just need to give them one.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "in your face",
+        "damaged": false
+      },
+      {
+        "name": "willing to punch a cop",
+        "damaged": false
+      }
+    ]
   },
   "effects": [],
   "sort": 0,

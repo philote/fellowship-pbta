@@ -5,11 +5,19 @@
   "_id": "VIPIQU47NoJoNKEs",
   "img": "icons/svg/mystery-man.svg",
   "system": {
-    "description": "<p>A hunting falcon trained to scout and deliver messages across great distances.</p><p><em>Danger 0, Health 1</em></p><p><strong>Look:</strong> Swift, keen-eyed, majestic</p><p><strong>Cost:</strong> Requires specialized care and training</p><p><strong>Abilities:</strong> Scout from above, carry messages, hunt small prey</p>",
-    "compType": "Retainer",
-    "compMove": "",
-    "compEquipment": "",
-    "actorType": "character"
+    "typeName": "TRAINED FALCON",
+    "typeDescription": "A deadly bird of prey, domesticated just enough to follow orders",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "eagle eyes",
+        "damaged": false
+      },
+      {
+        "name": "raptor claws",
+        "damaged": false
+      }
+    ]
   },
   "effects": [],
   "sort": 0,

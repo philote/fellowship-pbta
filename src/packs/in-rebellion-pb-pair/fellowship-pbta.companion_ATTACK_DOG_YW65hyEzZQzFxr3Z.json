@@ -5,11 +5,19 @@
   "_id": "YW65hyEzZQzFxr3Z",
   "img": "icons/svg/mystery-man.svg",
   "system": {
-    "description": "<p>A loyal and vicious guard dog trained for combat.</p><p><em>Danger 1, Health 1</em></p><p><strong>Look:</strong> Scarred, battle-worn, alert</p><p><strong>Cost:</strong> The dog needs regular feeding and care</p><p><strong>Abilities:</strong> Track by scent, guard, intimidate enemies</p>",
-    "compType": "Retainer",
-    "compMove": "",
-    "compEquipment": "",
-    "actorType": "character"
+    "typeName": "ATTACK DOG",
+    "typeDescription": "A smart, strong, possibly cute dog that likes you and is trained to bite people for you and bring you their things.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "go get 'em",
+        "damaged": false
+      },
+      {
+        "name": "fetch",
+        "damaged": false
+      }
+    ]
   },
   "effects": [],
   "sort": 0,

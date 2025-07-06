@@ -5,11 +5,19 @@
   "_id": "dk1OED2FDutEY9C0",
   "img": "icons/svg/mystery-man.svg",
   "system": {
-    "description": "<p>A talkative companion from your company who knows everyone's business.</p><p><em>Danger 0, Health 1</em></p><p><strong>Look:</strong> Friendly, gossipy, well-connected</p><p><strong>Cost:</strong> Cannot keep secrets, talks too much</p><p><strong>Abilities:</strong> Gather information, know local rumors, make connections</p>",
-    "compType": "Retainer",
-    "compMove": "",
-    "compEquipment": "",
-    "actorType": "character"
+    "typeName": "CHATTY COWORKER",
+    "typeDescription": "You met them undercover, and they love to talk. Makes the day go quicker, they say! They can make a great distraction, and are an excellent source of up-to-date gossip.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "talk for days",
+        "damaged": false
+      },
+      {
+        "name": "loose lips",
+        "damaged": false
+      }
+    ]
   },
   "effects": [],
   "sort": 0,
