@@ -401,7 +401,189 @@
         "description": ""
       }
     },
-    "choiceSets": []
+    "choiceSets": [
+      {
+        "title": "SPIDER CORE",
+        "desc": "All Spiders have these moves.",
+        "grantOn": 0,
+        "advancement": 0,
+        "repeatable": true,
+        "choices": [
+          {
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-spider.Item.GZm43H1K9WPz2bOV",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-spider.Item.5nYuT8Qwb1Dh7XsV",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          }
+        ],
+        "type": "multi",
+        "granted": false
+      },
+      {
+        "title": "SPIDER CUSTOM",
+        "desc": "Choose two of these moves to further define what it means to be a Spider.",
+        "grantOn": 1,
+        "advancement": 0,
+        "repeatable": true,
+        "choices": [
+          {
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-spider.Item.vK8wR4Xj3Pm2QnTs",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-spider.Item.LbN9rQ5jK8Wd1VeY",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-spider.Item.FpT2mX6wN9Ky4qZr",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-spider.Item.JhW8vU1pC5Rs7Gfn",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-spider.Item.DqM3kE7tL9Xv2bPc",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-spider.Item.YrF6pK4zQ2Hn8WmD",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-spider.Item.BvG9nH5uR3Jt6XeK",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-spider.Item.NzA8cL4wS7Qu1VfM",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          }
+        ],
+        "type": "multi",
+        "granted": false
+      },
+      {
+        "title": "Starting Gear",
+        "desc": "All Spiders carry strange food that only they enjoy.",
+        "grantOn": 0,
+        "advancement": 0,
+        "repeatable": true,
+        "choices": [
+          {
+            "uuid": "Compendium.fellowship-pbta.gear.Item.6A4B1ztPOdo0HLjk",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          }
+        ],
+        "type": "multi",
+        "granted": false
+      },
+      {
+        "title": "How do you fight?",
+        "desc": "Choose two combat options.",
+        "grantOn": 1,
+        "advancement": 0,
+        "repeatable": true,
+        "choices": [
+          {
+            "uuid": "Compendium.fellowship-pbta.gear.Item.O5Drjj1CvUfTI2et",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.gear.Item.cZuxDUCbKiCAp9Wj",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.gear.Item.HYdEKAr3k141Glrs",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.gear.Item.CF6MWJyTklCCXllx",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.gear.Item.esGQtByfD8z5VxCL",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          }
+        ],
+        "type": "multi",
+        "granted": false
+      },
+      {
+        "title": "Spider Territory Items",
+        "desc": "Choose two things rarely found outside of Spider territory.",
+        "grantOn": 1,
+        "advancement": 0,
+        "repeatable": true,
+        "choices": [
+          {
+            "uuid": "Compendium.fellowship-pbta.gear.Item.0EXLGarwEGsnd6Jl",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.gear.Item.BTqp4pBT30dSURf6",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.gear.Item.2F6nMKQTxgRCnx6A",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.gear.Item.ppK4ZDOURKHezjTY",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.gear.Item.70GtM5fA22geSxET",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          }
+        ],
+        "type": "multi",
+        "granted": false
+      }
+    ]
   },
   "effects": [],
   "folder": null,

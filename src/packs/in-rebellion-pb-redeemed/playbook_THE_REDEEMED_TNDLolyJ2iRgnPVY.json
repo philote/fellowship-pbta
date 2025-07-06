@@ -287,7 +287,119 @@
         "description": ""
       }
     },
-    "choiceSets": []
+    "choiceSets": [
+      {
+        "title": "REDEEMED CORE",
+        "desc": "All Redeemed have these moves. None can be shared.",
+        "grantOn": 0,
+        "advancement": 0,
+        "repeatable": true,
+        "choices": [
+          {
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-redeemed.Item.R7nK3mP9wL2XvBgF",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-redeemed.Item.S8oL4nQ0xM3YwChG",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-redeemed.Item.T9pM5oR1yN4ZxDiH",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-redeemed.Item.U0qN6pS2zO5AyEjI",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-redeemed.Item.V1rO7qT3AP6BzFkJ",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-redeemed.Item.W2sP8rU4BQ7C0GlK",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-redeemed.Item.X3tQ9sV5CR8D1HmL",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          }
+        ],
+        "type": "multi",
+        "granted": false
+      },
+      {
+        "title": "Starting Gear",
+        "desc": "You scrounged up some food (Food, 3 Uses).",
+        "grantOn": 0,
+        "advancement": 0,
+        "repeatable": true,
+        "choices": [
+          {
+            "uuid": "Compendium.fellowship-pbta.gear.Item.uQysvk86Zx1iPazG",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          }
+        ],
+        "type": "multi",
+        "granted": false
+      },
+      {
+        "title": "Redeemed Fighting Style",
+        "desc": "You are a Melee weapon. In addition, choose two.",
+        "grantOn": 1,
+        "advancement": 0,
+        "repeatable": true,
+        "choices": [
+          {
+            "uuid": "Compendium.fellowship-pbta.gear.Item.B71RDBcAHxHQ3cJq",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.gear.Item.f03Iul4yaOeF5Ooe",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.gear.Item.vxw5QxALpkFPlXqN",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.gear.Item.QhGzLDGIX05erSWf",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.gear.Item.laviZGM3RYpaPCqG",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          }
+        ],
+        "type": "multi",
+        "granted": false
+      }
+    ]
   },
   "effects": [],
   "folder": null,

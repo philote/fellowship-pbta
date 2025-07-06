@@ -415,7 +415,143 @@
         "description": ""
       }
     },
-    "choiceSets": []
+    "choiceSets": [
+      {
+        "title": "NEMESIS CORE",
+        "desc": "All Nemeses have these moves.",
+        "grantOn": 0,
+        "advancement": 0,
+        "repeatable": true,
+        "choices": [
+          {
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-nemesis.Item.K4pW7qR9sL3XbVfN",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-nemesis.Item.M6tY8eD2vU9CgJhK",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-nemesis.Item.T5nZ9fH3wQ7RxPmL",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          }
+        ],
+        "type": "multi",
+        "granted": false
+      },
+      {
+        "title": "NEMESIS CUSTOM",
+        "desc": "Choose two of these moves to further define what it means to be a Nemesis.",
+        "grantOn": 1,
+        "advancement": 0,
+        "repeatable": true,
+        "choices": [
+          {
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-nemesis.Item.FqB8rK5nW2Yx4TmG",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-nemesis.Item.GvC9sL6oX3Zq5UnH",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-nemesis.Item.HwD0tM7pY4Ar6VoI",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-nemesis.Item.IxE1uN8qZ5Bs7WpJ",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-nemesis.Item.JyF2vO9rA6Ct8XqK",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-nemesis.Item.KzG3wP0sB7Du9YrL",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-nemesis.Item.L0H4xQ1tC8Ev0ZsM",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-nemesis.Item.M1I5yR2uD9Fw1AtN",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          }
+        ],
+        "type": "multi",
+        "granted": false
+      },
+      {
+        "title": "Nemesis Fighting Style",
+        "desc": "You are a Melee weapon. In addition, choose two.",
+        "grantOn": 1,
+        "advancement": 0,
+        "repeatable": true,
+        "choices": [
+          {
+            "uuid": "Compendium.fellowship-pbta.gear.Item.B71RDBcAHxHQ3cJq",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.gear.Item.f03Iul4yaOeF5Ooe",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.gear.Item.vxw5QxALpkFPlXqN",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.gear.Item.QhGzLDGIX05erSWf",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.gear.Item.laviZGM3RYpaPCqG",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.gear.Item.mCoVx6Ha9Bi4GpE",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          }
+        ],
+        "type": "multi",
+        "granted": false
+      }
+    ]
   },
   "effects": [],
   "folder": null,
