@@ -1,0 +1,53 @@
+{
+  "folder": "AAPmAABHyrlP81si",
+  "name": "CUT THEM",
+  "type": "move",
+  "_id": "nFseyMXcpHRYORPb",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>The Redeemed can make Cuts under specific situations. How and when you make your Cuts is determined by your <em>What Is The Redeemed?</em> choice. </p><p><strong>When you Cut a Threat</strong>, it is always a Hard Cut. <strong>After you make a Cut against them</strong>, they can respond with a Cut. <strong>After they Cut you</strong>, you may Cut them back if you still meet the trigger for your cuts. Battles between you and a Threat may happen entirely without Moves.</p><p>You cannot make Cuts against a <strong>Threat to the World</strong>. <br />You cannot make Cuts while you are in Despair.</p><p><strong>The Cuts are as follows:</strong></p><p style=\"text-align:center\"><strong>Reveal an unwelcome truth</strong> <br /><em>Tell them something they don't want to hear</em></p><p style=\"text-align:center\"><strong>Show signs of an approaching threat</strong><br /><em>Introduce a new danger or complication to the scene</em></p><p style=\"text-align:center\"><strong>Deal damage</strong><br /><em>Hurt them, physically or emotionally</em></p><p style=\"text-align:center\"><strong>Use up or take away their resources</strong><br /><em>Force them to spend their Gear or supplies</em></p><p style=\"text-align:center\"><strong>Turn their move back on them</strong><br /><em>Redirect or punish the move they just made</em></p><p style=\"text-align:center\"><strong>Separate them</strong><br /><em>Take them away from their allies</em></p><p style=\"text-align:center\"><strong>Put someone on the spot</strong><br /><em>Make a situation that needs their immediate attention or else</em></p><p style=\"text-align:center\"><strong>Present an opportunity</strong><br /><em>Give them a chance to succeed or beat you</em></p><p style=\"text-align:center\"><strong>Show a downside</strong><br /><em>Take advantage of a weak point in their actions or equipment</em></p><p style=\"text-align:center\"><strong>Tell them the consequences or requirements</strong><br /><em>Stop them from doing something they want until they go through you</em></p>",
+    "moveType": "core",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSvWyw8NYcFGMf4t": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.21",
+    "createdTime": 1751843207466,
+    "modifiedTime": 1751843464058,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t"
+  },
+  "_key": "!items!nFseyMXcpHRYORPb"
+}

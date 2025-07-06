@@ -26,7 +26,7 @@
       }
     },
     "uses": 0,
-    "rollType": "none",
+    "rollType": "",
     "rollMod": 0,
     "actorType": "character",
     "choices": ""
@@ -42,9 +42,9 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.12",
+    "systemVersion": "1.1.21",
     "createdTime": null,
-    "modifiedTime": 1751824771536,
+    "modifiedTime": 1751843174379,
     "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },

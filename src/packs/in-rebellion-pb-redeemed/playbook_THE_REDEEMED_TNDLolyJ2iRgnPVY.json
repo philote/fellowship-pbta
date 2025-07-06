@@ -285,67 +285,188 @@
         "max": null,
         "options": {},
         "description": ""
+      },
+      "lookOne": {
+        "label": "Look",
+        "type": "Text",
+        "value": "",
+        "choices": [
+          {
+            "value": "",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "description": ""
+      },
+      "lookTwo": {
+        "label": "LookTwo",
+        "type": "Text",
+        "value": "",
+        "choices": [
+          {
+            "value": "",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "description": ""
+      },
+      "lookThree": {
+        "label": "LookThree",
+        "type": "Text",
+        "value": "",
+        "choices": [
+          {
+            "value": "",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "description": ""
+      },
+      "lookFour": {
+        "label": "LookFour",
+        "type": "Text",
+        "value": "",
+        "choices": [
+          {
+            "value": "",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "description": ""
+      },
+      "initialAgendas": {
+        "label": "Agendas",
+        "type": "LongText",
+        "value": "",
+        "choices": [
+          {
+            "value": "",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "description": ""
+      },
+      "fourthAgenda": {
+        "label": "Last Agenda",
+        "type": "LongText",
+        "value": "",
+        "choices": [
+          {
+            "value": "",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "attributes",
+        "description": ""
+      },
+      "unlockDestiny": {
+        "label": "Unlock your Destiny",
+        "description": "You must be level 5 or higher to take this Advancement. When you do, you unlock the ability to choose a Destiny.",
+        "type": "ListMany",
+        "options": {
+          "0": {
+            "label": "You have Changed. When you Change, choose a Destiny you meet the requirements for and take its first Move.",
+            "value": false
+          }
+        },
+        "choices": [
+          {
+            "options": {
+              "0": {
+                "label": "You have Changed. When you Change, choose a Destiny you meet the requirements for and take its first Move.",
+                "value": false
+              }
+            },
+            "value": ""
+          }
+        ],
+        "custom": false,
+        "path": "attributes"
+      },
+      "yourPeople": {
+        "label": "Your People",
+        "value": "",
+        "type": "Details",
+        "choices": [
+          {
+            "value": "",
+            "options": {}
+          }
+        ],
+        "custom": false,
+        "path": "details",
+        "description": ""
       }
     },
     "choiceSets": [
       {
         "title": "REDEEMED CORE",
         "desc": "All Redeemed have these moves. None can be shared.",
-        "grantOn": 0,
-        "advancement": 0,
+        "type": "multi",
         "repeatable": true,
         "choices": [
           {
-            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-redeemed.Item.R7nK3mP9wL2XvBgF",
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-redeemed.Item.s8QFko94V5F4DQAV",
             "img": "icons/svg/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-redeemed.Item.S8oL4nQ0xM3YwChG",
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-redeemed.Item.nFseyMXcpHRYORPb",
             "img": "icons/svg/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-redeemed.Item.T9pM5oR1yN4ZxDiH",
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-redeemed.Item.bvOIqsK8dwyoXPMz",
             "img": "icons/svg/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-redeemed.Item.U0qN6pS2zO5AyEjI",
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-redeemed.Item.q3JhcXs7duSqkAJn",
             "img": "icons/svg/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-redeemed.Item.V1rO7qT3AP6BzFkJ",
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-redeemed.Item.JnMhdC5L5Kxcvbao",
             "img": "icons/svg/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-redeemed.Item.W2sP8rU4BQ7C0GlK",
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-redeemed.Item.sHLZf1aUR6YqKNUs",
             "img": "icons/svg/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-redeemed.Item.X3tQ9sV5CR8D1HmL",
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-redeemed.Item.vpG9qDtGiUqjuUpj",
             "img": "icons/svg/aura.svg",
             "granted": false,
             "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 0,
+        "granted": false,
+        "advancement": 0
       },
       {
         "title": "Starting Gear",
         "desc": "You scrounged up some food (Food, 3 Uses).",
-        "grantOn": 0,
-        "advancement": 0,
+        "type": "multi",
         "repeatable": true,
         "choices": [
           {
@@ -355,16 +476,22 @@
             "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 0,
+        "granted": false,
+        "advancement": 0
       },
       {
         "title": "Redeemed Fighting Style",
         "desc": "You are a Melee weapon. In addition, choose two.",
-        "grantOn": 1,
-        "advancement": 0,
+        "type": "multi",
         "repeatable": true,
         "choices": [
+          {
+            "uuid": "Compendium.fellowship-pbta.gear.Item.vxw5QxALpkFPlXqN",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
           {
             "uuid": "Compendium.fellowship-pbta.gear.Item.B71RDBcAHxHQ3cJq",
             "img": "icons/svg/item-bag.svg",
@@ -373,12 +500,6 @@
           },
           {
             "uuid": "Compendium.fellowship-pbta.gear.Item.f03Iul4yaOeF5Ooe",
-            "img": "icons/svg/item-bag.svg",
-            "granted": false,
-            "advancement": 0
-          },
-          {
-            "uuid": "Compendium.fellowship-pbta.gear.Item.vxw5QxALpkFPlXqN",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
@@ -396,8 +517,62 @@
             "advancement": 0
           }
         ],
+        "grantOn": 1,
+        "granted": false,
+        "advancement": 0
+      },
+      {
+        "title": "REDEEMED CUSTOM",
+        "desc": "Take the same Customs you had as the Nemesis. These Moves cannot be Shared.",
         "type": "multi",
-        "granted": false
+        "repeatable": true,
+        "choices": [
+          {
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-redeemed.Item.901TDMgdtlkNwpuz",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-redeemed.Item.mQGrVNz6ybDq8LcG",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-redeemed.Item.HZKh15Ea0wJ9RBeN",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-redeemed.Item.wUpeTZ6lD8PpO7XX",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-redeemed.Item.gt4SMpFWF0fs8Arl",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-redeemed.Item.Uo30YWK6vWmk6lCg",
+            "img": "icons/svg/aura.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "img": "icons/svg/aura.svg",
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-redeemed.Item.OOyuACEQwuoEcrDt",
+            "granted": false,
+            "advancement": 0
+          }
+        ],
+        "grantOn": 1,
+        "granted": false,
+        "advancement": 0
       }
     ]
   },
@@ -412,10 +587,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.12",
+    "systemVersion": "1.1.21",
     "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null,
+    "modifiedTime": 1751843906353,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_id": "TNDLolyJ2iRgnPVY",

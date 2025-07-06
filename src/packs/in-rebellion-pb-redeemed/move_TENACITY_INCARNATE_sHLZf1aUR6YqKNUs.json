@@ -1,11 +1,11 @@
 {
-  "folder": "C4V1BZyubrwDVoZI",
+  "folder": "AAPmAABHyrlP81si",
   "name": "TENACITY INCARNATE",
   "type": "move",
-  "_id": "DGceyvkSW3owT22w",
+  "_id": "sHLZf1aUR6YqKNUs",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p><strong>When you roll a 6- or take damage,</strong> you gain Vigor. Your next roll is made with Hope and cannot have Despair.</p><p><strong>This Move cannot be Shared.</strong></p>",
+    "description": "<p><strong>When you roll a 6- or take damage</strong>, you gain Vigor. Your next roll is made with Hope and cannot have Despair.</p><p><strong>This Move cannot be Shared.</strong></p>",
     "moveType": "core",
     "rollFormula": "",
     "moveResults": {
@@ -26,7 +26,7 @@
       }
     },
     "uses": 0,
-    "rollType": "none",
+    "rollType": "",
     "rollMod": 0,
     "actorType": "character",
     "choices": ""
@@ -34,19 +34,20 @@
   "effects": [],
   "sort": 0,
   "ownership": {
-    "default": 0
+    "default": 0,
+    "JSvWyw8NYcFGMf4t": 3
   },
   "flags": {},
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
+    "exportSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.12",
-    "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null,
-    "exportSource": null
+    "systemVersion": "1.1.21",
+    "createdTime": 1751843140304,
+    "modifiedTime": 1751843607077,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t"
   },
-  "_key": "!items!DGceyvkSW3owT22w"
+  "_key": "!items!sHLZf1aUR6YqKNUs"
 }
