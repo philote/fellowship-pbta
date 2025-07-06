@@ -85,9 +85,13 @@
               },
               "4": {
                 "value": true,
-                "label": "iron"
+                "label": "wisdom"
               },
               "5": {
+                "value": true,
+                "label": "iron"
+              },
+              "6": {
                 "value": false,
                 "label": "doom"
               }

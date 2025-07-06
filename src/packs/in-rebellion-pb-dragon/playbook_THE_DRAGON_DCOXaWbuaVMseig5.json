@@ -27,6 +27,10 @@
         "label": "Wisdom",
         "value": 2
       },
+      "iron": {
+        "label": "Iron",
+        "value": 0
+      },
       "doom": {
         "label": "Doom",
         "value": 0
@@ -60,6 +64,10 @@
             "value": true
           },
           "5": {
+            "label": "iron",
+            "value": false
+          },
+          "6": {
             "label": "doom",
             "value": false
           }
@@ -68,28 +76,32 @@
           {
             "options": {
               "0": {
-                "value": true,
-                "label": "blood"
+                "label": "blood",
+                "value": true
               },
               "1": {
-                "value": true,
-                "label": "courage"
+                "label": "courage",
+                "value": true
               },
               "2": {
-                "value": true,
-                "label": "grace"
+                "label": "grace",
+                "value": true
               },
               "3": {
-                "value": true,
-                "label": "sense"
+                "label": "sense",
+                "value": true
               },
               "4": {
-                "value": true,
-                "label": "wisdom"
+                "label": "wisdom",
+                "value": true
               },
               "5": {
-                "value": false,
-                "label": "doom"
+                "label": "iron",
+                "value": false
+              },
+              "6": {
+                "label": "doom",
+                "value": false
               }
             },
             "value": ""

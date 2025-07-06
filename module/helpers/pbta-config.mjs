@@ -565,6 +565,8 @@ export const tagConfig = {
             '{"value":"FELLOWSHIP.Tags.equipment.Precious.value", "editable":false, "description":"FELLOWSHIP.Tags.equipment.Precious.description"}, ' +
             '{"value":"FELLOWSHIP.Tags.equipment.Useful.value", "editable":false, "description":"FELLOWSHIP.Tags.equipment.Useful.description"}, ' +
             '{"value":"FELLOWSHIP.Tags.equipment.Vigor.value", "editable":false, "description":"FELLOWSHIP.Tags.equipment.Vigor.description"}, ' +
-            '{"value":"FELLOWSHIP.Tags.equipment.Trap.value", "editable":false, "description":"FELLOWSHIP.Tags.equipment.Trap.description"}]',
+            '{"value":"FELLOWSHIP.Tags.equipment.Trap.value", "editable":false, "description":"FELLOWSHIP.Tags.equipment.Trap.description"}, ' +
+            '{"value":"FELLOWSHIP.Tags.equipment.Dragon-Made.value", "editable":false, "description":"FELLOWSHIP.Tags.equipment.Dragon-Made.description"}, ' +
+            '{"value":"FELLOWSHIP.Tags.equipment.Giant.value", "editable":false, "description":"FELLOWSHIP.Tags.equipment.Giant.description"}]',
     },
 };

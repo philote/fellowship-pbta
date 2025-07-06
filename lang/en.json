@@ -435,6 +435,14 @@
 				"Trap": {
 					"value": "Trap",
 					"description": "Traps are items you need to place in advance."
+				},
+				"Dragon-Made": {
+					"value": "Dragon-Made",
+					"description": "This is immune to magic and elements."
+				},
+				"Giant": {
+					"value": "Giant",
+					"description": "This can be used on up to three targets at once."
 				}
 			}
 		},
