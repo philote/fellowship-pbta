@@ -1,0 +1,51 @@
+{
+  "folder": "liwjaTFOZgdEbB0C",
+  "name": "LIVING SHIELD",
+  "type": "move",
+  "_id": "sHlozk6VeekiMow3",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>You are Protection for your allies. At any time, you may choose one Location Stat, one Overlord stat, or one Power Move. It does not apply to those who you protect. You can protect one or two allies at a time, and all you need to do so is to stay within arm's reach of them.</p>",
+    "moveType": "destiny",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.11",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!sHlozk6VeekiMow3"
+}

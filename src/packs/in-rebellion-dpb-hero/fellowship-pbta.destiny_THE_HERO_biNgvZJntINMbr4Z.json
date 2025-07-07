@@ -1,0 +1,53 @@
+{
+  "name": "THE HERO",
+  "type": "fellowship-pbta.destiny",
+  "_id": "biNgvZJntINMbr4Z",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "htmlFields": [
+      "description"
+    ],
+    "description": "<div class=\"destiny-details\"><p><em>You have more power than even you know.</em></p><h2>REQUIREMENTS</h2><p><strong>To become The Hero,</strong> you have defied all expectations that someone had for you. What this means is up to you.</p><p>The Hero starts with the Move <em>Unbroken</em>.</p><p>@UUID[Compendium.fellowship-pbta.in-rebellion-dpb-hero.Item.EX1RfSUuQ7j4Nwo6]{UNBROKEN}</p><h2>CUSTOM MOVES</h2><p>@UUID[Compendium.fellowship-pbta.in-rebellion-dpb-hero.Item.JJNcMOcvlGDVbNcV]{CERTAIN VICTORY}</p><p>@UUID[Compendium.fellowship-pbta.in-rebellion-dpb-hero.Item.VVC0KbFwp2NpYPcd]{COMMONER KING}</p><p>@UUID[Compendium.fellowship-pbta.in-rebellion-dpb-hero.Item.otxvyAc8jKmKj2F0]{ENDLESS DETERMINATION}</p><p>@UUID[Compendium.fellowship-pbta.in-rebellion-dpb-hero.Item.sHlozk6VeekiMow3]{LIVING SHIELD}</p><p>@UUID[Compendium.fellowship-pbta.in-rebellion-dpb-hero.Item.rnFGIdMByvXPr81P]{SMITE EVIL}</p></div>",
+    "advancements": [
+      {
+        "used": false,
+        "name": "Take the Exile's Core Moves Lesson Learned and Forbidden Element, and take one Move from the What Is The Exile? list. If you already were The Exile, instead increase one of your stats by +1, to a maximum of +3."
+      },
+      {
+        "used": false,
+        "name": "Take an Exiled Custom."
+      },
+      {
+        "used": false,
+        "name": "Take a Hero Custom."
+      },
+      {
+        "used": false,
+        "name": "Take a Hero Custom."
+      },
+      {
+        "used": false,
+        "name": "Take a Hero Custom."
+      }
+    ],
+    "moves": []
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.11",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!biNgvZJntINMbr4Z"
+}

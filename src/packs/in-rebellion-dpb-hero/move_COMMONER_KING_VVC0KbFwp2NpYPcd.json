@@ -1,0 +1,51 @@
+{
+  "folder": "liwjaTFOZgdEbB0C",
+  "name": "COMMONER KING",
+  "type": "move",
+  "_id": "VVC0KbFwp2NpYPcd",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>When you make a display of charisma, a show of strength, or speak words of wisdom, all who witness this display come to respect you. You may <em>Forge A Bond</em> with one witness of your choice.</p><p>When you call upon someone for aid, you may erase a Bond with them to force them to assist you in any way they possibly can.</p>",
+    "moveType": "destiny",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.11",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!VVC0KbFwp2NpYPcd"
+}
