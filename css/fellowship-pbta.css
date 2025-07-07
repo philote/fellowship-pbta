@@ -351,6 +351,10 @@
   margin: 0px;
 }
 
+.pbta.sheet.item .destiny-item .form-group .editor,
+.pbta.sheet.item .destiny-item .form-group-stacked .editor {
+  min-height: 180px;
+}
 .pbta.sheet.item .sheet-body {
   padding: 8px;
 }

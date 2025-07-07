@@ -1,0 +1,51 @@
+{
+  "folder": "KRFVUsxljOppAurS",
+  "name": "WHAT WAS ONCE LOST",
+  "type": "move",
+  "_id": "NKe6RfVbnE12VcKs",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>You have remembered everything - the pain, the joy, the fear, the power, the rage, the despair, all of it. And that memory fuels you, empowers you, strengthens you. <strong>When you roll with either Hope or Despair</strong>, roll three dice and take the best two. If you have both Hope and Despair, they cancel out, as per the usual rules.</p><p>This replaces the Remnant Core Move <em>Unending Despair</em>. If you had that Move, erase it when you gain <em>What Was Once Lost</em>.</p>",
+    "moveType": "destiny",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.11",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!NKe6RfVbnE12VcKs"
+}

@@ -1,0 +1,51 @@
+{
+  "folder": "KRFVUsxljOppAurS",
+  "name": "TO STARE INTO THE ABYSS",
+  "type": "move",
+  "_id": "x4cdCaJGcBJ1Yw8S",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>You have gained a glimpse of true power, and become monstrous. You gain any two <em>What Is Your People?</em> Moves from any Basic playbooks. You cannot choose an option that someone else is currently using, because you've become something unlike anything found in this world. Tell us how you've changed, and rewrite your Look to fit the new you.</p>",
+    "moveType": "destiny",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.11",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!x4cdCaJGcBJ1Yw8S"
+}

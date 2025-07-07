@@ -1,4 +1,10 @@
 .pbta.sheet.item {
+
+    .destiny-item .form-group .editor, 
+    .destiny-item .form-group-stacked .editor {
+        min-height: 180px;
+    }
+
     .sheet-body {
         padding: 8px;
     }

@@ -1,0 +1,51 @@
+{
+  "folder": "KRFVUsxljOppAurS",
+  "name": "HIDE IN PLAIN SIGHT",
+  "type": "move",
+  "_id": "tJFDc2eM0o1Y1qlx",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>When you will yourself to become secret while no one is currently paying attention to you</strong>, no one can see you, acknowledge you, or notice you. So long as it doesn't harm someone or draw attention, you can do anything you like and remain secret, unnoticeable, forgotten. <strong>If you do anything that gets you acknowledged by anyone else</strong>, the secret is broken, and everyone can see you and react to you normally again.</p>",
+    "moveType": "destiny",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.11",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!tJFDc2eM0o1Y1qlx"
+}
