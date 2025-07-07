@@ -29,7 +29,7 @@
       },
       "iron": {
         "label": "Iron",
-        "value": 0
+        "value": 2
       },
       "doom": {
         "label": "Doom",
@@ -76,32 +76,32 @@
           {
             "options": {
               "0": {
-                "value": true,
-                "label": "blood"
+                "label": "blood",
+                "value": true
               },
               "1": {
-                "value": true,
-                "label": "courage"
+                "label": "courage",
+                "value": true
               },
               "2": {
-                "value": true,
-                "label": "grace"
+                "label": "grace",
+                "value": true
               },
               "3": {
-                "value": true,
-                "label": "sense"
+                "label": "sense",
+                "value": true
               },
               "4": {
-                "value": true,
-                "label": "wisdom"
+                "label": "wisdom",
+                "value": true
               },
               "5": {
-                "value": true,
-                "label": "iron"
+                "label": "iron",
+                "value": true
               },
               "6": {
-                "value": false,
-                "label": "doom"
+                "label": "doom",
+                "value": false
               }
             },
             "value": ""
@@ -232,7 +232,7 @@
         "type": "Details",
         "choices": [
           {
-            "value": "<p>This playbook can't be taken normally. You must start as The Nemesis, and replace your playbook with this one when you are working alongside the fellowship.</p><p>You keep the same stats, Moves, and gear options as when you were The Nemesis, but you use the text found on this playbook instead of The Nemesis text.</p>",
+            "value": "<p>This playbook can't be taken normally. You must start as <b>The Nemesis</b>, and replace your playbook with this one when you are working alongside the fellowship.</p><p><b>You keep the same stats, Moves, and gear options as when you were The Nemesis,</b> but you use the text found on this playbook instead of <b>The Nemesis</b> text.</p>",
             "options": {}
           }
         ],
@@ -292,7 +292,15 @@
         "value": "",
         "choices": [
           {
-            "value": "",
+            "value": "Dark Eyes",
+            "options": {}
+          },
+          {
+            "value": "Hard Eyes",
+            "options": {}
+          },
+          {
+            "value": "Mischievous Eyes",
             "options": {}
           }
         ],
@@ -306,7 +314,15 @@
         "value": "",
         "choices": [
           {
-            "value": "",
+            "value": "Beautiful Hair",
+            "options": {}
+          },
+          {
+            "value": "Cool Undercut",
+            "options": {}
+          },
+          {
+            "value": "Protective Helmet",
             "options": {}
           }
         ],
@@ -320,7 +336,15 @@
         "value": "",
         "choices": [
           {
-            "value": "",
+            "value": "Imposing Figure",
+            "options": {}
+          },
+          {
+            "value": "Lithe Figure",
+            "options": {}
+          },
+          {
+            "value": "Tough and Bulky Figure",
             "options": {}
           }
         ],
@@ -334,7 +358,15 @@
         "value": "",
         "choices": [
           {
-            "value": "",
+            "value": "Commander's Uniform",
+            "options": {}
+          },
+          {
+            "value": "Royal Clothes",
+            "options": {}
+          },
+          {
+            "value": "Shining Armor",
             "options": {}
           }
         ],
@@ -348,7 +380,7 @@
         "value": "",
         "choices": [
           {
-            "value": "",
+            "value": "<p>When you know not what to do, consult your Agendas.</p> <p>You have these three Agendas:</p> <ul> <li>Be Brave, Take Risks</li> <li>Tell Us Of Your People</li> <li>Improve The World Around You</li> </ul>",
             "options": {}
           }
         ],
@@ -362,13 +394,21 @@
         "value": "",
         "choices": [
           {
-            "value": "",
+            "value": "<p><b>Inferiority Complex</b> Prove your worth, at all costs, and at every opportunity.</p>",
+            "options": {}
+          },
+          {
+            "value": "<p><b>Pursue Justice</b> The law is wrong. Fix it.</p>",
+            "options": {}
+          },
+          {
+            "value": "<p><b>Seek Retribution</b> Hurt those truly responsible for your pain.</p>",
             "options": {}
           }
         ],
         "custom": false,
         "path": "attributes",
-        "description": ""
+        "description": "Pick an extra Agenda that only you follow"
       },
       "unlockDestiny": {
         "label": "Unlock your Destiny",
@@ -395,18 +435,30 @@
         "path": "attributes"
       },
       "yourPeople": {
-        "label": "Your People",
+        "label": "WHAT IS THE REDEEMED?",
         "value": "",
         "type": "Details",
         "choices": [
           {
-            "value": "",
+            "value": "<h3>DEDICATED ELITE</h3><p>You can&#39;t understand life without a goal to chase. Without your cruel master&#39;s guidance, you must set your own goals. You can make Cuts against anything between you and your target. Between sessions, you may change your target. Name your target:</p>",
+            "options": {}
+          },
+          {
+            "value": "<h3>HONOR-BOUND FOOL</h3><p>You have a code of honor you must follow. Your code survives long after your cruel master&#39;s control over you. When someone takes a hostile or deceitful action against you, you may immediately respond with a Cut. If you break your code, you take damage and cannot make Cuts for the rest of this session. When someone honors your code for the first time, you will honor a request they make of you. Define your code:</p>",
+            "options": {}
+          },
+          {
+            "value": "<h3>LOVELESS FAMILY</h3><p>You are finally united alongside your love. As long as you act on their behalf, nothing can get in your way. When you act in their best interests (according to them), you can make Cuts. Profess your love:</p>",
+            "options": {}
+          },
+          {
+            "value": "<h3>BETRAYED HUNTER</h3><p>You are a powerful hunter, and nobody can safely dispute this. Wild, untamed, and reckless foes cannot stand up to you. When you take action against a Beast, a mindless monster, or a reckless warrior, you can make Cuts against them.</p>",
             "options": {}
           }
         ],
         "custom": false,
         "path": "details",
-        "description": ""
+        "description": "Choose the option that best represents you:"
       }
     },
     "choiceSets": [
