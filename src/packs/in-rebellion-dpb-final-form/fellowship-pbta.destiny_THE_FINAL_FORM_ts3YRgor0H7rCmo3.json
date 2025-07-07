@@ -1,0 +1,53 @@
+{
+  "name": "THE FINAL FORM",
+  "type": "fellowship-pbta.destiny",
+  "_id": "ts3YRgor0H7rCmo3",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "htmlFields": [
+      "description"
+    ],
+    "description": "<div class=\"destiny-details\"><p><em>You have unleashed your true potential and become that which you always dreamed of. You have unlocked your Final Form.</em></p><h2>REQUIREMENTS</h2><p><strong>To become The Final Form,</strong> you have earned the Fellowship of a Dragon.</p><p>The Final Form starts with the Move <em>A Level Beyond</em>.</p><p>@UUID[Compendium.fellowship-pbta.in-rebellion-dpb-final-form.Item.zeKfDWChz13N7zD5]{A LEVEL BEYOND}</p><h2>CUSTOM MOVES</h2><p>@UUID[Compendium.fellowship-pbta.in-rebellion-dpb-final-form.Item.C4a8WDcE1YtJUgPa]{DRAGONFIRE}</p><p>@UUID[Compendium.fellowship-pbta.in-rebellion-dpb-final-form.Item.Gp7yCXfmfT7LKDYH]{DOMINANCE}</p><p>@UUID[Compendium.fellowship-pbta.in-rebellion-dpb-final-form.Item.J2aJihSrD6HHf4uE]{PYROMANIA}</p><p>@UUID[Compendium.fellowship-pbta.in-rebellion-dpb-final-form.Item.uFAa0WZdBVlV0EWH]{THAT WASN'T EVEN MY FINAL FORM}</p><p>@UUID[Compendium.fellowship-pbta.in-rebellion-dpb-final-form.Item.bAogniBiJ75wdfid]{TRUE POWER}</p></div>",
+    "advancements": [
+      {
+        "used": false,
+        "name": "Take the Dragon's Core Moves (Champion of Fire, Dragon Magic, and Through The Fire And The Flames). If you already have them, instead increase one of your stats by +1, to a maximum of +3."
+      },
+      {
+        "used": false,
+        "name": "Take a Dragon Custom."
+      },
+      {
+        "used": false,
+        "name": "Take a Final Form Custom."
+      },
+      {
+        "used": false,
+        "name": "Take a Final Form Custom."
+      },
+      {
+        "used": false,
+        "name": "Take a Final Form Custom."
+      }
+    ],
+    "moves": []
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.11",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!ts3YRgor0H7rCmo3"
+}

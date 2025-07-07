@@ -1,0 +1,51 @@
+{
+  "folder": "O8LWOzbXYMqyysM3",
+  "name": "THAT WASN'T EVEN MY FINAL FORM",
+  "type": "move",
+  "_id": "uFAa0WZdBVlV0EWH",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>When transformed, take 2 damage to reach Final Form.</strong></p><p><strong>First time:</strong> Take Spotlight, describe transformation.</p><p>Write new Look for Final Form.</p><p><strong>Benefits:</strong> Use spells without marking, gain tags <em>Melee, Ranged, Area, Piercing, and Burning</em>, damaged stat rolls don't cause Despair.</p><p><strong>After using:</strong> Damage all stats, become Taken Out, spend next scene unconscious.</p>",
+    "moveType": "destiny",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.11",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!uFAa0WZdBVlV0EWH"
+}

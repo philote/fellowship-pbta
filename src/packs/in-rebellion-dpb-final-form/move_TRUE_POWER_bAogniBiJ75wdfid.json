@@ -1,0 +1,51 @@
+{
+  "folder": "O8LWOzbXYMqyysM3",
+  "name": "TRUE POWER",
+  "type": "move",
+  "_id": "bAogniBiJ75wdfid",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Draw on draconic power to choose and mark a spell. Marked spells can't be used.</p><ul><li><strong>Fill Your Belly:</strong> Unmark one spell</li><li><strong>Recover:</strong> Unmark all spells</li></ul><p>Spell options:</p><ul><li><strong>Blessing of Claws:</strong> Destroy smaller objects</li><li><strong>Blessing of Scales:</strong> Immune to attack effects</li><li><strong>Blessing of Wings:</strong> Send someone flying away at high speed</li></ul>",
+    "moveType": "destiny",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.11",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!bAogniBiJ75wdfid"
+}

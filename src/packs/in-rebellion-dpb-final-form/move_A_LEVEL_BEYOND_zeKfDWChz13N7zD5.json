@@ -1,0 +1,51 @@
+{
+  "folder": "O8LWOzbXYMqyysM3",
+  "name": "A LEVEL BEYOND",
+  "type": "move",
+  "_id": "zeKfDWChz13N7zD5",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>You have obtained your true form, and can transform into it when you need to. <strong>When you transform for the first time</strong>, take the Spotlight for as long as you need it, and tell us what your transformation looks like, how it happens, and what you look like afterwards. Write an entirely new Look describing how you appear in your transformed state.</p><p><strong>While you are transformed</strong>, you are a <strong>Threat to the World</strong>, and you have access to a great power. Your transformation is an Advantage, allowing you to <em>Finish Them</em> with any stat. You do not lose this Advantage from rolling poorly to <em>Finish Them</em>. In addition, this transformation grants you a unique ability or power of your choice, such as flight or gravity control. Describe it.</p><p><strong>At the end of a scene where you transformed</strong>, you take 2 damage, and you start the next scene back in your normal form.</p>",
+    "moveType": "destiny",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.11",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!zeKfDWChz13N7zD5"
+}
