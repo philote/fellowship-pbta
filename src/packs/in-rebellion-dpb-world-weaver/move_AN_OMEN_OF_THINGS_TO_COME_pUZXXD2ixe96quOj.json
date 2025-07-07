@@ -1,0 +1,51 @@
+{
+  "folder": "PDVPPCEGam6hWq8f",
+  "name": "AN OMEN OF THINGS TO COME",
+  "type": "move",
+  "_id": "pUZXXD2ixe96quOj",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>You are a Threat to the World. You also gain this Web Spinning trap: A Dark Portent: You terrify them, and they flee the scene. Threats to the World merely hesitate a moment, instead of fleeing.</p>",
+    "moveType": "destiny",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.11",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!pUZXXD2ixe96quOj"
+}

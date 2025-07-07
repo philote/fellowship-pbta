@@ -1,0 +1,51 @@
+{
+  "folder": "iZ1dXGRI2zbJYmoj",
+  "name": "MIGHTY GIANT",
+  "type": "move",
+  "_id": "8hOusdWVEXYHCFrB",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Nothing can stop you from doing as you please. No chains or rope are strong enough to bind you, no wall or door is sturdy enough to deny you, no monster or Titan or Overlord is mighty enough to stop you from going where you please and doing as you like. You can go anywhere you can physically fit, and only time can stand between you and your destination.</p><p>This does not stop any consequences you may suffer for ignoring whatever is stopping you from getting somewhere or doing something, but it does prevent these consequences from stopping your actions. You will succeed (or at least make a roll) in spite of any actions that are taken against you.</p>",
+    "moveType": "destiny",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.11",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!8hOusdWVEXYHCFrB"
+}

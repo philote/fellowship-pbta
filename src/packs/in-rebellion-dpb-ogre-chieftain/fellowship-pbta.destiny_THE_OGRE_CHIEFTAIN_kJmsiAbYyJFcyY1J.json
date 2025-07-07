@@ -1,0 +1,53 @@
+{
+  "name": "THE OGRE CHIEFTAIN",
+  "type": "fellowship-pbta.destiny",
+  "_id": "kJmsiAbYyJFcyY1J",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "htmlFields": [
+      "description"
+    ],
+    "description": "<div class=\"destiny-details\"><p><em>You have earned a position of power and authority over a people who commonly don't gather together or acknowledge authority. This respect is not to be taken lightly.</em></p><h2>REQUIREMENTS</h2><p><strong>To become The Ogre Chieftain,</strong> you have earned the Fellowship of the Ogres or a Giant.</p><p>The Ogre Chieftain starts with the Move <em>Mighty Giant</em>.</p><p>@UUID[Compendium.fellowship-pbta.in-rebellion-dpb-ogre-chieftain.Item.8hOusdWVEXYHCFrB]{MIGHTY GIANT}</p><h2>CUSTOM MOVES</h2><p>@UUID[Compendium.fellowship-pbta.in-rebellion-dpb-ogre-chieftain.Item.jJFVOV8wutXUSMKI]{CROSS-COUNTER}</p><p>@UUID[Compendium.fellowship-pbta.in-rebellion-dpb-ogre-chieftain.Item.MIbW2SKG6xxzrjNt]{FEATS OF LEGEND}</p><p>@UUID[Compendium.fellowship-pbta.in-rebellion-dpb-ogre-chieftain.Item.YpLVvYc2juJR7yEa]{GOD OF THUNDER}</p><p>@UUID[Compendium.fellowship-pbta.in-rebellion-dpb-ogre-chieftain.Item.RDpDCGg2YSOUhkuZ]{I CAN BE STRONG FOR YOU}</p><p>@UUID[Compendium.fellowship-pbta.in-rebellion-dpb-ogre-chieftain.Item.VsHKQBDjD9HgesFg]{STAND ASIDE}</p></div>",
+    "advancements": [
+      {
+        "used": false,
+        "name": "Take the Ogre's Core Moves (Protect The Little Ones, Uncontrollable Strength, and Toss Aside). If you already have them, instead increase one of your stats by +1, to a maximum of +3."
+      },
+      {
+        "used": false,
+        "name": "Take an Ogre's Custom."
+      },
+      {
+        "used": false,
+        "name": "Take an Ogre Chieftain Custom."
+      },
+      {
+        "used": false,
+        "name": "Take an Ogre Chieftain Custom."
+      },
+      {
+        "used": false,
+        "name": "Take an Ogre Chieftain Custom."
+      }
+    ],
+    "moves": []
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.11",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!kJmsiAbYyJFcyY1J"
+}

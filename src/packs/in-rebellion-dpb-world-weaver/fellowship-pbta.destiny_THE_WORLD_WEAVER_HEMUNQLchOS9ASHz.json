@@ -1,0 +1,53 @@
+{
+  "name": "THE WORLD WEAVER",
+  "type": "fellowship-pbta.destiny",
+  "_id": "HEMUNQLchOS9ASHz",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "htmlFields": [
+      "description"
+    ],
+    "description": "<div class=\"destiny-details\"><p><em>Nothing can escape your web, when the whole world is already entangled.</em></p><h2>REQUIREMENTS</h2><p><strong>To become The World Weaver,</strong> you have earned the Fellowship of Spiders.</p><p>The World Weaver starts with the Move <em>Pull The Strings</em>.</p><p>@UUID[Compendium.fellowship-pbta.in-rebellion-dpb-world-weaver.Item.wjnqherR0LdSAAaD]{PULL THE STRINGS}</p><h2>CUSTOM MOVES</h2><p>@UUID[Compendium.fellowship-pbta.in-rebellion-dpb-world-weaver.Item.pUZXXD2ixe96quOj]{AN OMEN OF THINGS TO COME}</p><p>@UUID[Compendium.fellowship-pbta.in-rebellion-dpb-world-weaver.Item.53y7hbRGtHxiMLx7]{A WHISPER IN THE EAR}</p><p>@UUID[Compendium.fellowship-pbta.in-rebellion-dpb-world-weaver.Item.WKnaKtCBPidK0nrc]{DEADLY TRAPS}</p><p>@UUID[Compendium.fellowship-pbta.in-rebellion-dpb-world-weaver.Item.5asikQfB6FjXZIN9]{FROM THE SHADOWS}</p><p>@UUID[Compendium.fellowship-pbta.in-rebellion-dpb-world-weaver.Item.4eUcvFB47TPQEORq]{WATCH YOUR STEP}</p></div>",
+    "advancements": [
+      {
+        "used": false,
+        "name": "Take the Spider's Core Moves (Wall Walker and Web Spinning). If you already have them, instead increase one of your stats by +1, to a maximum of +3."
+      },
+      {
+        "used": false,
+        "name": "Take a Spider Custom."
+      },
+      {
+        "used": false,
+        "name": "Take a World Weaver Custom."
+      },
+      {
+        "used": false,
+        "name": "Take a World Weaver Custom."
+      },
+      {
+        "used": false,
+        "name": "Take a World Weaver Custom."
+      }
+    ],
+    "moves": []
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.11",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!HEMUNQLchOS9ASHz"
+}

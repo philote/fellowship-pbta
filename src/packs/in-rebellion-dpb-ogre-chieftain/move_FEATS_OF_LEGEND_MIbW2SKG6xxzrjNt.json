@@ -1,0 +1,51 @@
+{
+  "folder": "iZ1dXGRI2zbJYmoj",
+  "name": "FEATS OF LEGEND",
+  "type": "move",
+  "_id": "MIbW2SKG6xxzrjNt",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>You are capable of pulling off truly mythical feats of strength, endurance, or prowess. This could mean taking 100 punches to the jaw in a row without falling, or drinking an entire lake dry to get at what's below it, or pushing the sun out of the sky to make the night come sooner.</p><p><strong>When you perform such a feat</strong>, describe it for us, then choose two costs. <strong>If you pay the costs</strong>, you succeed at your feat:</p><ul><li>Damage three of your stats, after finishing your feat.</li><li>You must remain still and maintain constant vigil to keep your feat active (like Atlas holding up the sky, or being unable to move after drinking an entire lake until you spit it back up).</li><li>You are burned or weakened. You take Necrotic damage to a stat of your choice and you become Drunk for your next roll.</li><li>You need help from an ally, who will also pay the other cost with you.</li></ul>",
+    "moveType": "destiny",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.11",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!MIbW2SKG6xxzrjNt"
+}

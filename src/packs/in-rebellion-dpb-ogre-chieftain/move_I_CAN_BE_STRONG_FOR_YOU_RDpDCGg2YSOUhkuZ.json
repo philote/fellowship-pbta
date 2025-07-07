@@ -1,0 +1,51 @@
+{
+  "folder": "iZ1dXGRI2zbJYmoj",
+  "name": "I CAN BE STRONG FOR YOU",
+  "type": "move",
+  "_id": "RDpDCGg2YSOUhkuZ",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>When you roll a stat</strong>, if an ally of yours within arm's reach has that stat damaged, you roll with Vigor. <strong>When an ally within arm's reach makes a roll with a damaged stat</strong>, you may pay a price to roll for them.</p>",
+    "moveType": "destiny",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.11",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!RDpDCGg2YSOUhkuZ"
+}

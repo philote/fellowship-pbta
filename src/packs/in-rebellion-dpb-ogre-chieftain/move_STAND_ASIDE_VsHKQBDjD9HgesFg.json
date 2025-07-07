@@ -1,0 +1,51 @@
+{
+  "folder": "iZ1dXGRI2zbJYmoj",
+  "name": "STAND ASIDE",
+  "type": "move",
+  "_id": "VsHKQBDjD9HgesFg",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>When you tell someone they are in your way</strong>, they get out of your way, quickly and without question. <strong>If they were a Threat to the World</strong>, they have a choice in the matter. They must either get out of your way, or let you deal damage to them to stay in your way.</p>",
+    "moveType": "destiny",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.11",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!VsHKQBDjD9HgesFg"
+}

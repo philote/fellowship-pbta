@@ -1,0 +1,51 @@
+{
+  "folder": "iZ1dXGRI2zbJYmoj",
+  "name": "GOD OF THUNDER",
+  "type": "move",
+  "_id": "YpLVvYc2juJR7yEa",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>You are immune to damage from electricity and thunder, and storms do not bother you or slow you down, no matter how mighty. Add Lightning Bolts <em>(Ranged, Giant, Piercing, Reload)</em> to your Gear. Your Lightning Bolts lose the <em>Reload</em> tag while you fight within a thunderstorm.</p>",
+    "moveType": "destiny",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.11",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!YpLVvYc2juJR7yEa"
+}
