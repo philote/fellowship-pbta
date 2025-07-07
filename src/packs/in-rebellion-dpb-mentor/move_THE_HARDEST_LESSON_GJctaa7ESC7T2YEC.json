@@ -1,0 +1,51 @@
+{
+  "folder": "O2cAdMiO2bjrfssc",
+  "name": "THE HARDEST LESSON",
+  "type": "move",
+  "_id": "GJctaa7ESC7T2YEC",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>When the Apprentice would take damage, if the Mentor is within reach of them, the Mentor may take that damage for them. When the Apprentice would be Taken Out, captured, killed, or suffer some other terrible fate, the Mentor may die instead to save them from this fate. If they do, heal all of the Apprentice's stats, take <em>Become The Master</em>, and give the Apprentice <strong>Vigor</strong> for the rest of the scene.</p>",
+    "moveType": "destiny",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.11",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!GJctaa7ESC7T2YEC"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "THE MENTOR",
+  "type": "fellowship-pbta.destiny",
+  "_id": "5IjbwvrwEZPuSUyE",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "htmlFields": [
+      "description"
+    ],
+    "description": "<div class=\"destiny-details\"><p><em>You have grown wise, and with wisdom comes a need to pass it on.</em></p><h2>REQUIREMENTS</h2><p><strong>To become The Mentor,</strong> you have found an apprentice worth teaching.</p><p>The Mentor starts with the Move <em>New Apprentice</em>.</p><p><strong>Important:</strong> Mentor Moves cannot be taken by Powerful Playbooks, even ones that can take any Destiny Move.</p><p>@UUID[Compendium.fellowship-pbta.in-rebellion-dpb-mentor.Item.AFXCbHQaThNC9GvL]{NEW APPRENTICE}</p><h2>MENTOR MOVES</h2><p>@UUID[Compendium.fellowship-pbta.in-rebellion-dpb-mentor.Item.PR2viIBIVgki0axL]{LISTEN WITH YOUR EARS}</p><p>@UUID[Compendium.fellowship-pbta.in-rebellion-dpb-mentor.Item.GJctaa7ESC7T2YEC]{THE HARDEST LESSON}</p><p>@UUID[Compendium.fellowship-pbta.in-rebellion-dpb-mentor.Item.2HAgoKN9MYO54vkM]{THIS BELONGED TO YOUR FATHER}</p><p>@UUID[Compendium.fellowship-pbta.in-rebellion-dpb-mentor.Item.7kQGRPrnbTMn7gwe]{BECOME THE MASTER}</p></div>",
+    "advancements": [
+      {
+        "used": false,
+        "name": "Increase one of the Apprentice's stats by +1, to a maximum of +3."
+      },
+      {
+        "used": false,
+        "name": "Take Listen With Your Ears."
+      },
+      {
+        "used": false,
+        "name": "Take The Hardest Lesson."
+      },
+      {
+        "used": false,
+        "name": "Take This Belonged To Your Father."
+      },
+      {
+        "used": false,
+        "name": "Take Become The Master. You can no longer Level Up or heal."
+      }
+    ],
+    "moves": []
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.11",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!5IjbwvrwEZPuSUyE"
+}
