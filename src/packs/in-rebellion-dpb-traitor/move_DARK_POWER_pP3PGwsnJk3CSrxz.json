@@ -1,0 +1,51 @@
+{
+  "folder": "pDFWGjCRvunS4imq",
+  "name": "DARK POWER",
+  "type": "move",
+  "_id": "pP3PGwsnJk3CSrxz",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>You are a <strong>Threat to the World</strong>. When the fellowship makes a Move against you, they must pay a price first. You do not need to pay a price against other <strong>Threats to the World</strong>.</p>",
+    "moveType": "destiny",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.11",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!pP3PGwsnJk3CSrxz"
+}

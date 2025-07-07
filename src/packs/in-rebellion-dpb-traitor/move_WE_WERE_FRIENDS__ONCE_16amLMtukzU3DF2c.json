@@ -1,0 +1,51 @@
+{
+  "folder": "pDFWGjCRvunS4imq",
+  "name": "WE WERE FRIENDS, ONCE",
+  "type": "move",
+  "_id": "16amLMtukzU3DF2c",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>When the fellowship makes a roll and you are there to oppose it, give them Despair. You must be directly getting in the way of what they want to do to give them this Despair. This includes any rolls made against you while you are aware of them and able to defend yourself. They can erase one Bond with you to negate this Despair for one roll.</p>",
+    "moveType": "destiny",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.11",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!16amLMtukzU3DF2c"
+}

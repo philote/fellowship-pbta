@@ -1,0 +1,53 @@
+{
+  "name": "THE TRAITOR",
+  "type": "fellowship-pbta.destiny",
+  "_id": "dwuva8OGheKJA75g",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "htmlFields": [
+      "description"
+    ],
+    "description": "<div class=\"destiny-details\"><p><em>You never really were on the fellowship's side.</em></p><h2>REQUIREMENTS</h2><p><strong>To become The Traitor,</strong> you have joined the Empire, or perhaps you were working for them all along. You cannot be The Traitor in a game without the Empire.</p><p>The Traitor starts with the Move <em>The Bad Guy</em>.</p><p><strong>Important:</strong> Traitor Moves cannot be taken by Powerful Playbooks, even ones that can take any Destiny Move.</p><p>@UUID[Compendium.fellowship-pbta.in-rebellion-dpb-traitor.Item.uxcLF0JWOSRNHTBn]{THE BAD GUY}</p><h2>TRAITOR'S CUSTOM MOVES</h2><p>@UUID[Compendium.fellowship-pbta.in-rebellion-dpb-traitor.Item.pP3PGwsnJk3CSrxz]{DARK POWER}</p><p>@UUID[Compendium.fellowship-pbta.in-rebellion-dpb-traitor.Item.KtshqPs625DotCc8]{DOES THIS LOOK FAMILIAR?}</p><p>@UUID[Compendium.fellowship-pbta.in-rebellion-dpb-traitor.Item.wPjEBletN4M6HJ4z]{MERCILESS}</p><p>@UUID[Compendium.fellowship-pbta.in-rebellion-dpb-traitor.Item.WuTBjgMs0qYoOCD4]{SINISTER OPPORTUNITY}</p><p>@UUID[Compendium.fellowship-pbta.in-rebellion-dpb-traitor.Item.16amLMtukzU3DF2c]{WE WERE FRIENDS, ONCE}</p></div>",
+    "advancements": [
+      {
+        "used": false,
+        "name": "Increase a stat by +1, to a maximum of +3."
+      },
+      {
+        "used": false,
+        "name": "Take a Nemesis Custom."
+      },
+      {
+        "used": false,
+        "name": "Take a Traitor's Custom."
+      },
+      {
+        "used": false,
+        "name": "Take a Traitor's Custom."
+      },
+      {
+        "used": false,
+        "name": "Take a Traitor's Custom."
+      }
+    ],
+    "moves": []
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.11",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  },
+  "_key": "!items!dwuva8OGheKJA75g"
+}
