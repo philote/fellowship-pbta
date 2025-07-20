@@ -697,6 +697,7 @@
       "name": "General Moves",
       "packs": [
         "basic-moves",
+        "special-moves",
         "other-moves",
         "bond-moves"
       ],

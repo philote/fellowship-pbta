@@ -1,11 +1,10 @@
 {
-  "name": "Damage",
+  "name": "Damage and Healing",
   "type": "move",
-  "_id": "GeVhF9uXL3KVGYCt",
   "img": "icons/svg/aura.svg",
   "system": {
     "description": "<p><strong>When you take damage,</strong> choose a stat and mark it. Sometimes you will not get a choice, and a stat will be damaged for you. <strong>While a stat is damaged, </strong>you are in Despair whenever you roll that stat. <strong>When an enemy's stat or a Companion's stat is damaged, </strong>they cannot use it.</p><p>You cannot mark a stat that has already been marked. <strong>When you heal,</strong> remove a mark from one of your stats.</p><p><strong>When you take damage while all of your stats are already marked,</strong> you get Taken Out.</p>",
-    "moveType": "basic",
+    "moveType": "special",
     "rollFormula": "",
     "moveResults": {
       "failure": {
@@ -32,22 +31,24 @@
   },
   "effects": [],
   "folder": null,
-  "sort": 0,
   "ownership": {
     "default": 0,
-    "UuXSPD7DIN5UiO1L": 3
+    "UuXSPD7DIN5UiO1L": 3,
+    "JSvWyw8NYcFGMf4t": 3
   },
   "flags": {},
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
+    "exportSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
-    "createdTime": 1736309304144,
-    "modifiedTime": 1736309317600,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
-    "exportSource": null
+    "systemVersion": "1.1.21",
+    "createdTime": 1752972231452,
+    "modifiedTime": 1752972663501,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t"
   },
-  "_key": "!items!GeVhF9uXL3KVGYCt"
+  "_id": "WwCNyjCGmywjD40h",
+  "sort": 500000,
+  "_key": "!items!WwCNyjCGmywjD40h"
 }

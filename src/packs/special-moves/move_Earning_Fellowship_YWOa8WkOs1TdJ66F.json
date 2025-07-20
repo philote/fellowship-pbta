@@ -1,0 +1,53 @@
+{
+  "name": "Earning Fellowship",
+  "type": "move",
+  "_id": "YWOa8WkOs1TdJ66F",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Fellowship is earned through action. <strong>When you have spent some time getting a feel for a community and speaking with the people in it</strong>, the <strong>Overlord</strong> will tell you what this community needs, what they are lacking, or how the Overlord has harmed them. <strong>If you can solve this problem,</strong> you will earn their respect, their admiration, and their Fellowship.</p><p><strong>When you have earned Fellowship with a community, no matter how you earned it</strong>, the Overlord will ask you to pick one of a Fellowship Moves. The player who picks the Move is either the one most aligned to the community or the one who played the largest role in earning their Fellowship. The Move you pick applies so long as you keep Fellowship with that community. Fellowship is lost if you betray them, or if you revoke their Fellowship for some reason, or if the Overlord destroys the community.</p>",
+    "moveType": "special",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSvWyw8NYcFGMf4t": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.21",
+    "createdTime": 1752972395300,
+    "modifiedTime": 1752972619063,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t"
+  },
+  "_key": "!items!YWOa8WkOs1TdJ66F"
+}

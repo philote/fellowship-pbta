@@ -1,11 +1,10 @@
 {
-  "name": "Fill Your Belly",
+  "name": "Pay the Price",
   "type": "move",
-  "_id": "0oHROtaRLXG2bV1G",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p><strong>When you are between scenes,</strong> you may Use Food to heal one damage. <strong>When you share a meal with friends,</strong> one person may heal an extra point of damage.</p>",
-    "moveType": "basic",
+    "description": "<p><strong>When a move tells you to pay a price,</strong> tell us what it costs you. A price can be taking damage, losing or using equipment, suffering a setback, or losing an advantage. Whatever the cost, you must pay that price immediately before, during, or after the move you paid for.</p>",
+    "moveType": "special",
     "rollFormula": "",
     "moveResults": {
       "failure": {
@@ -32,22 +31,24 @@
   },
   "effects": [],
   "folder": null,
-  "sort": 0,
   "ownership": {
     "default": 0,
-    "UuXSPD7DIN5UiO1L": 3
+    "UuXSPD7DIN5UiO1L": 3,
+    "JSvWyw8NYcFGMf4t": 3
   },
   "flags": {},
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
+    "exportSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
-    "createdTime": 1736309238107,
-    "modifiedTime": 1736309253870,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
-    "exportSource": null
+    "systemVersion": "1.1.21",
+    "createdTime": 1752972267767,
+    "modifiedTime": 1752972649450,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t"
   },
-  "_key": "!items!0oHROtaRLXG2bV1G"
+  "_id": "ZrHnVfT943zF7FnE",
+  "sort": 300000,
+  "_key": "!items!ZrHnVfT943zF7FnE"
 }

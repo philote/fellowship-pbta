@@ -1,11 +1,10 @@
 {
-  "name": "Recover",
+  "name": "Fill Your Belly",
   "type": "move",
-  "_id": "fiqSNfOzHK4j8Ral",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p><strong>When the fellowship rests in a place of safety for over a week,</strong> heal all of your stats and restock all of your Gear. The Overlord then advances their plans and heals one damage.</p><p>Check to see if have zero bonds with any of your <strong>Companions</strong>. If you do, remove them from your sheet. During this <em>Recovery,</em> you may gain a new Companion with the same abilities, OR get a new Companion from the same Gear option <em>(See your Playbook)</em>.</p>",
-    "moveType": "basic",
+    "description": "<p><strong>When you are between scenes,</strong> you may Use Food to heal one damage. <strong>When you share a meal with friends,</strong> one person may heal an extra point of damage.</p>",
+    "moveType": "special",
     "rollFormula": "",
     "moveResults": {
       "failure": {
@@ -32,22 +31,24 @@
   },
   "effects": [],
   "folder": null,
-  "sort": 0,
   "ownership": {
     "default": 0,
-    "UuXSPD7DIN5UiO1L": 3
+    "UuXSPD7DIN5UiO1L": 3,
+    "JSvWyw8NYcFGMf4t": 3
   },
   "flags": {},
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
+    "exportSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.12",
-    "createdTime": 1736309328088,
-    "modifiedTime": 1737097458901,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
-    "exportSource": null
+    "systemVersion": "1.1.21",
+    "createdTime": 1752972239652,
+    "modifiedTime": 1752972653737,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t"
   },
-  "_key": "!items!fiqSNfOzHK4j8Ral"
+  "_id": "I18nTKFofUw4ewsT",
+  "sort": 100000,
+  "_key": "!items!I18nTKFofUw4ewsT"
 }

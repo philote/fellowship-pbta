@@ -1,11 +1,12 @@
 {
-  "name": "Command Lore",
+  "folder": "pDFWGjCRvunS4imq",
+  "name": "DOES THIS LOOK FAMILIAR?",
   "type": "move",
-  "_id": "XhBrDVD3pf3Yorz1",
+  "_id": "KtshqPs625DotCc8",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p><strong>When someone asks something about your character or your people,</strong> tell them. <strong>When you ask about another character or their people,</strong> they will tell you. <strong>When you ask about the Overlord,</strong> they alone may choose not to answer.</p>",
-    "moveType": "special",
+    "description": "<p>When you take this Move, for each member of the Fellowship, choose one Move that character knows. You gain all of those Moves. You cannot choose Peoples Moves or Moves that cannot be Shared.</p>",
+    "moveType": "destiny",
     "rollFormula": "",
     "moveResults": {
       "failure": {
@@ -31,11 +32,9 @@
     "choices": ""
   },
   "effects": [],
-  "folder": null,
   "sort": 0,
   "ownership": {
-    "default": 0,
-    "UuXSPD7DIN5UiO1L": 3
+    "default": 0
   },
   "flags": {},
   "_stats": {
@@ -43,11 +42,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
-    "createdTime": 1736309202794,
-    "modifiedTime": 1736309218861,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
-    "exportSource": null
+    "systemVersion": "1.1.11",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
   },
-  "_key": "!items!XhBrDVD3pf3Yorz1"
+  "_key": "!items!KtshqPs625DotCc8"
 }

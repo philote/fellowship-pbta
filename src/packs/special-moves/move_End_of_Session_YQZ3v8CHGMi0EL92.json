@@ -1,11 +1,10 @@
 {
   "name": "End of Session",
   "type": "move",
-  "_id": "wsTBZ4P5N2C3rMF5",
   "img": "icons/svg/aura.svg",
   "system": {
     "description": "<p><strong>When you reach the end of a session,</strong> the fellowship answers these three questions:</p><ul><li>Did we save or protect a community in need?</li><li>Did we strike a blow against the Overlord and their minions?</li><li>Did we learn more about the world and its peoples?</li></ul><p><strong>For each \"yes\" answer,</strong> the group chooses one. You may choose an option more than once.</p><ul><li>Each fellowship player refreshes one piece of their Gear to its full value.</li><li>Each fellowship player chooses one stat to heal. It doesn't have to be theirs.</li><li>The fellowship and the Overlord each choose one player to Level Up. You cannot be chosen to Level Up if you are the highest level player or you have already been chosen to level up this session.</li></ul>",
-    "moveType": "basic",
+    "moveType": "special",
     "rollFormula": "",
     "moveResults": {
       "failure": {
@@ -32,22 +31,24 @@
   },
   "effects": [],
   "folder": null,
-  "sort": 0,
   "ownership": {
     "default": 0,
-    "UuXSPD7DIN5UiO1L": 3
+    "UuXSPD7DIN5UiO1L": 3,
+    "JSvWyw8NYcFGMf4t": 3
   },
   "flags": {},
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
+    "exportSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
-    "createdTime": 1736309388818,
-    "modifiedTime": 1736309405597,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
-    "exportSource": null
+    "systemVersion": "1.1.21",
+    "createdTime": 1752972209255,
+    "modifiedTime": 1752972657459,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t"
   },
-  "_key": "!items!wsTBZ4P5N2C3rMF5"
+  "_id": "YQZ3v8CHGMi0EL92",
+  "sort": 600000,
+  "_key": "!items!YQZ3v8CHGMi0EL92"
 }

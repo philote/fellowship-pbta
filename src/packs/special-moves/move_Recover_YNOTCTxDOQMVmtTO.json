@@ -1,0 +1,54 @@
+{
+  "name": "Recover",
+  "type": "move",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>When the fellowship rests in a place of safety for over a week,</strong> heal all of your stats and restock all of your Gear. The Overlord then advances their plans and heals one damage.</p><p>Check to see if have zero bonds with any of your <strong>Companions</strong>. If you do, remove them from your sheet. During this <em>Recovery,</em> you may gain a new Companion with the same abilities, OR get a new Companion from the same Gear option <em>(See your Playbook)</em>.</p>",
+    "moveType": "special",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "UuXSPD7DIN5UiO1L": 3,
+    "JSvWyw8NYcFGMf4t": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.21",
+    "createdTime": 1752972285796,
+    "modifiedTime": 1752972644805,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t"
+  },
+  "_id": "YNOTCTxDOQMVmtTO",
+  "sort": 200000,
+  "_key": "!items!YNOTCTxDOQMVmtTO"
+}
