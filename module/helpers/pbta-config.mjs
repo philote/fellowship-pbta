@@ -232,10 +232,6 @@ export const configSheet = async () => {
                         playbook: true,
                         value: ""
                     },
-                    earnedFellowship: {
-                        label: game.i18n.localize("FELLOWSHIP.CharacterSheets.details.earnedFellowshipLabel"),
-                        value: ""
-                    },
                     notes: {
                         label: game.i18n.localize("FELLOWSHIP.CharacterSheets.details.notesLabel"),
                         value: ""

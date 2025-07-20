@@ -46,7 +46,7 @@
 				"specialLabel": "Special Moves",
 				"coreLabel": "Core Moves",
 				"customsLabel": "Custom Moves",
-				"fellowshipLabel": "Fellowship Moves",
+				"fellowshipLabel": "Earned Fellowship Moves",
 				"destinyLabel": "Destiny Moves",
 				"bondsLabel": "Bonds Moves"
 			},
@@ -94,8 +94,7 @@
 				"notesLabel": "Notes",
 				"bondsLabel": "Bonds",
 				"agendasLabel": "Agendas",
-				"lastAgendasLabel": "Last Agenda",
-				"earnedFellowshipLabel": "Earned Fellowship"
+				"lastAgendasLabel": "Last Agenda"
 			},
 			"equipmentTypes": {
 				"gear": "Gear"
