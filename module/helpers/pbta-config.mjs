@@ -266,6 +266,11 @@ export const configSheet = async () => {
                         moves: [],
                         creation: true
                     },
+                    special: {
+                        label: game.i18n.localize("FELLOWSHIP.CharacterSheets.moveTypes.specialLabel"),
+                        moves: [],
+                        creation: true
+                    },
                     fellowship: {
                         label: game.i18n.localize("FELLOWSHIP.CharacterSheets.moveTypes.fellowshipLabel"),
                         moves: []

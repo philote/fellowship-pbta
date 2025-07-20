@@ -5,7 +5,7 @@
   "img": "icons/svg/aura.svg",
   "system": {
     "description": "<p><strong>When someone asks something about your character or your people,</strong> tell them. <strong>When you ask about another character or their people,</strong> they will tell you. <strong>When you ask about the Overlord,</strong> they alone may choose not to answer.</p>",
-    "moveType": "basic",
+    "moveType": "special",
     "rollFormula": "",
     "moveResults": {
       "failure": {

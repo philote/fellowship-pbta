@@ -219,6 +219,17 @@
       }
     },
     {
+      "name": "special-moves",
+      "label": "Special Moves",
+      "path": "packs/special-moves",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
       "name": "other-moves",
       "label": "Other Moves",
       "path": "packs/other-moves",

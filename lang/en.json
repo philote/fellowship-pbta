@@ -4,6 +4,10 @@
 	"TYPES.Item.fellowship-pbta.stat": "Stat",
 	"TYPES.Item.fellowship-pbta.plan": "Overlord Plan",
 	"TYPES.fellowship-pbta.overlord": "Overlord",
+	"PBTA": {
+		"Disadvantage": "Despair",
+		"Advantage": "Hope"
+	},
 	"FELLOWSHIP": {
 		"placeholder": {
 			"name": "Name",
@@ -39,6 +43,7 @@
 			},
 			"moveTypes": {
 				"basicLabel": "Basic Moves",
+				"specialLabel": "Special Moves",
 				"coreLabel": "Core Moves",
 				"customsLabel": "Custom Moves",
 				"fellowshipLabel": "Fellowship Moves",
