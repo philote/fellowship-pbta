@@ -230,6 +230,17 @@
       }
     },
     {
+      "name": "fellowship-moves",
+      "label": "Fellowship Moves",
+      "path": "packs/fellowship-moves",
+      "type": "Item",
+      "system": "pbta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
       "name": "other-moves",
       "label": "Other Moves",
       "path": "packs/other-moves",
@@ -699,7 +710,8 @@
         "basic-moves",
         "special-moves",
         "other-moves",
-        "bond-moves"
+        "bond-moves",
+        "fellowship-moves"
       ],
       "folders": []
     },
