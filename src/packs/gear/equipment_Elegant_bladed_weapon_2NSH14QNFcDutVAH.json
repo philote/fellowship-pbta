@@ -1,6 +1,6 @@
 {
   "folder": "Os6PJSvQlU3hpjK1",
-  "name": "Elegant bladed weapons",
+  "name": "Elegant bladed weapon",
   "type": "equipment",
   "_id": "2NSH14QNFcDutVAH",
   "img": "icons/weapons/swords/sword-guard-purple.webp",
@@ -28,8 +28,8 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1739155467580,
-    "modifiedTime": 1739155467580,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753133647466,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!2NSH14QNFcDutVAH"

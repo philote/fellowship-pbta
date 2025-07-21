@@ -5,7 +5,7 @@
   "_id": "9OSYekaxOq98wfri",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>When you make a show of force to scare them, you may take damage to send them running. Lesser foes will flee immediately, running for help. Greater foes will rise to your challenge, and make a show of force back against you.</p>",
+    "description": "<p><strong>When you make a show of force to scare them,</strong> you may take damage to send them running. Lesser foes will flee immediately, running for help. Greater foes will rise to your challenge, and make a show of force back against you.</p>",
     "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
@@ -42,10 +42,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.12",
+    "systemVersion": "1.1.21",
     "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null,
+    "modifiedTime": 1753134968771,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!9OSYekaxOq98wfri"

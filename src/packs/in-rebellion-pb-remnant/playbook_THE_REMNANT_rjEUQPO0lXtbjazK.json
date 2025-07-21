@@ -403,7 +403,8 @@
       {
         "title": "REMNANT CORE",
         "desc": "All Remnants have these moves.",
-        "type": "multi",
+        "grantOn": 0,
+        "advancement": 0,
         "repeatable": true,
         "choices": [
           {
@@ -431,15 +432,15 @@
             "advancement": 0
           }
         ],
-        "grantOn": 0,
-        "granted": false,
-        "advancement": 0
+        "type": "multi",
+        "granted": false
       },
       {
         "title": "REMNANT CUSTOM",
         "desc": "Choose two of these moves to further define what it means to be a Remnant.",
-        "type": "multi",
-        "repeatable": true,
+        "grantOn": 1,
+        "advancement": 0,
+        "repeatable": false,
         "choices": [
           {
             "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-remnant.Item.j3zZi58CeQScjgFW",
@@ -484,20 +485,20 @@
             "advancement": 0
           },
           {
-            "img": "icons/svg/aura.svg",
             "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-remnant.Item.esn19oLp6O3N84u0",
+            "img": "icons/svg/aura.svg",
             "granted": false,
             "advancement": 0
           }
         ],
-        "grantOn": 1,
-        "granted": false,
-        "advancement": 0
+        "type": "multi",
+        "granted": false
       },
       {
         "title": "Starting Gear",
         "desc": "All Remnants start with memories and natural armor.",
-        "type": "multi",
+        "grantOn": 0,
+        "advancement": 0,
         "repeatable": true,
         "choices": [
           {
@@ -513,14 +514,14 @@
             "advancement": 0
           }
         ],
-        "grantOn": 0,
-        "granted": false,
-        "advancement": 0
+        "type": "multi",
+        "granted": false
       },
       {
         "title": "Choose your weapon",
         "desc": "All are Melee.",
-        "type": "multi",
+        "grantOn": 1,
+        "advancement": 0,
         "repeatable": false,
         "choices": [
           {
@@ -548,9 +549,8 @@
             "advancement": 0
           }
         ],
-        "grantOn": 1,
-        "granted": false,
-        "advancement": 0
+        "type": "multi",
+        "granted": false
       }
     ]
   },
@@ -567,7 +567,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.21",
     "createdTime": null,
-    "modifiedTime": 1751845234444,
+    "modifiedTime": 1753131985904,
     "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },

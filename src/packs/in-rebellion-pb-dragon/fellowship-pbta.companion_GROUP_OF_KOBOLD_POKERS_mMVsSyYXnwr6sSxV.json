@@ -3,7 +3,7 @@
   "name": "GROUP OF KOBOLD POKERS",
   "type": "fellowship-pbta.companion",
   "_id": "mMVsSyYXnwr6sSxV",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/fellowship-pbta/assets/icons/dark-squad.svg",
   "system": {
     "typeName": "GROUP OF KOBOLD POKERS",
     "typeDescription": "These kobolds form a phalanx, each shield protecting the warrior next to them. As a Group, each of their stats can be damaged twice.",
@@ -32,8 +32,8 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null,
+    "modifiedTime": 1753136837414,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!mMVsSyYXnwr6sSxV"

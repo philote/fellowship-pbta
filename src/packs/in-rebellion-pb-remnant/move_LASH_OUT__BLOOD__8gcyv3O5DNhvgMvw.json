@@ -5,7 +5,7 @@
   "_id": "8gcyv3O5DNhvgMvw",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>When you wildly strike out with intent to kill them, roll +Blood.</p><p>On a 7+, you may take damage to deal damage to them.</p><p>On a 10+, you deal damage to them, in addition to the 7+ result.</p><p>On a 6-, you may take 2 damage to deal damage anyway.</p>",
+    "description": "<p><strong>When you wildly strike out with intent to kill them,</strong> roll +Blood.</p>",
     "moveType": "customs",
     "rollFormula": "2d6",
     "moveResults": {
@@ -17,16 +17,16 @@
       "partial": {
         "key": "system.moveResults.partial.value",
         "label": "7-9",
-        "value": "You may take damage to deal damage to them."
+        "value": "<p>You may take damage to deal damage to them.</p>"
       },
       "success": {
         "key": "system.moveResults.success.value",
         "label": "10+",
-        "value": "You deal damage to them, in addition to the 7+ result."
+        "value": "<p>You may take damage to deal damage to them.<br>You deal damage to them.</p>"
       }
     },
     "uses": 0,
-    "rollType": "stat",
+    "rollType": "",
     "rollMod": 0,
     "actorType": "character",
     "choices": ""
@@ -42,10 +42,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.12",
+    "systemVersion": "1.1.21",
     "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null,
+    "modifiedTime": 1753132460119,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!8gcyv3O5DNhvgMvw"

@@ -3,7 +3,7 @@
   "name": "DONKEY",
   "type": "fellowship-pbta.companion",
   "_id": "eOrs6Vf8pyiIuwm7",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/fellowship-pbta/assets/icons/donkey.svg",
   "system": {
     "typeName": "DONKEY",
     "typeDescription": "A stubborn but useful animal, they make good companions for stubborn but useful ogres.",
@@ -32,8 +32,8 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null,
+    "modifiedTime": 1753135265337,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!eOrs6Vf8pyiIuwm7"

@@ -5,7 +5,7 @@
   "_id": "mQGrVNz6ybDq8LcG",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p><strong>When you </strong><em><strong>Speak Harshly</strong></em><strong>,</strong> you may ask an additional question, even on a 6-. This extra question may come from the <em>Speak Softly</em> list instead of the <em>Speak Harshly</em> list.</p><p><strong>This Move cannot be Shared.</strong></p>",
+    "description": "<p><strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.in-rebellion-pb-redeemed.Item.q3JhcXs7duSqkAJn]{Speak Harshly}</strong></em><strong>,</strong> you may ask an additional question, even on a 6-. This extra question may come from the <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.Ml6muq1ZjhkuT7FF]{Speak Softly}</em> list instead of the <em>Speak Harshly</em> list.</p><p><strong>This Move cannot be Shared.</strong></p>",
     "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
@@ -26,7 +26,7 @@
       }
     },
     "uses": 0,
-    "rollType": "none",
+    "rollType": "",
     "rollMod": 0,
     "actorType": "character",
     "choices": ""
@@ -42,10 +42,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.12",
+    "systemVersion": "1.1.21",
     "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null,
+    "modifiedTime": 1753133337447,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!mQGrVNz6ybDq8LcG"

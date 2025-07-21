@@ -3,7 +3,7 @@
   "name": "Dragon spirit advising champion",
   "type": "equipment",
   "_id": "mK9vXzR2NpQ8wTgL",
-  "img": "icons/magic/fire/elemental-fire-ghost.webp",
+  "img": "modules/fellowship-pbta/assets/icons/griffin-symbol.svg",
   "system": {
     "description": "A dragon spirit, advising you on how to best be their champion. You may Use this to call your spirit to your side and roll to Speak Softly with them. They have great knowledge of many things.",
     "uses": 2,
@@ -27,8 +27,8 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null,
+    "modifiedTime": 1753131847048,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!mK9vXzR2NpQ8wTgL"

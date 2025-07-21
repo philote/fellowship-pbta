@@ -5,7 +5,7 @@
   "_id": "QMyn1ZIrjPxoolnG",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>When you heal someone else, you may also heal.</p>",
+    "description": "<p><strong>When you heal someone else,</strong> you may also heal.</p>",
     "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
@@ -42,10 +42,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.12",
+    "systemVersion": "1.1.21",
     "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null,
+    "modifiedTime": 1753136575391,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!QMyn1ZIrjPxoolnG"

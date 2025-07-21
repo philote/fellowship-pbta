@@ -5,7 +5,7 @@
   "_id": "wUpeTZ6lD8PpO7XX",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>When you hurt someone who did you wrong, you heal.</p>",
+    "description": "<p><strong>When you hurt someone who did you wrong,</strong> you heal.</p><p><strong>This Move cannot be Shared.</strong></p>",
     "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
@@ -42,10 +42,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.12",
+    "systemVersion": "1.1.21",
     "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null,
+    "modifiedTime": 1753133379919,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!wUpeTZ6lD8PpO7XX"

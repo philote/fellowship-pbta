@@ -5,7 +5,7 @@
   "_id": "bvOIqsK8dwyoXPMz",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>You have pull with your cruel master's minions, and can make demands of them freely. They will listen to you even if your behavior is strange or clearly benefits the fellowship, but you can expect them to report continued strange behavior to your cruel master.</p><p>Your cruel master can take this Move away from you at any time. You do not get it back until you return to being The Nemesis.</p><p><strong>This Move cannot be Shared.</strong></p>",
+    "description": "<p>You have pull with your cruel master's minions, and can make demands of them freely. They will listen to you even if your behavior is strange or clearly benefits the fellowship, but you can expect them to report continued strange behavior to your cruel master.</p><p>Your cruel master can take this Move away from you at any time. You do not get it back until you return to being @UUID[Compendium.fellowship-pbta.in-rebellion-pb-nemesis.ODyO6u8Nzep81JNv]{THE NEMESIS}.</p><p><strong>This Move cannot be Shared.</strong></p>",
     "moveType": "core",
     "rollFormula": "",
     "moveResults": {
@@ -44,7 +44,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.21",
     "createdTime": null,
-    "modifiedTime": 1751843174379,
+    "modifiedTime": 1753133123536,
     "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },

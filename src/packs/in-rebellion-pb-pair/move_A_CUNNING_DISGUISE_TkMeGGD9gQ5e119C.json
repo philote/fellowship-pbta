@@ -5,7 +5,7 @@
   "_id": "TkMeGGD9gQ5e119C",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>If you have time and safety, you may disguise yourselves or any member of the fellowship as a common member of any profession, allowing them to infiltrate any location unnoticed so long as they maintain their duties.</p>",
+    "description": "<p><strong>If you have time and safety,</strong> you may disguise yourselves or any member of the fellowship as a common member of any profession, allowing them to infiltrate any location unnoticed so long as they maintain their duties.</p>",
     "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
@@ -42,10 +42,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.12",
+    "systemVersion": "1.1.21",
     "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null,
+    "modifiedTime": 1753134592654,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!TkMeGGD9gQ5e119C"

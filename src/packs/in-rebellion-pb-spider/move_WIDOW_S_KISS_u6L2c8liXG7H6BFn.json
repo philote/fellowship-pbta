@@ -5,7 +5,7 @@
   "_id": "u6L2c8liXG7H6BFn",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>The weapons in your Gear secrete a paralyzing toxin. <strong>When you deal damage,</strong> they become sluggish, giving you and your allies Hope to <em>Overcome</em> their attacks, to <em>Get Away</em> from them, or to <em>Finish Them</em> with +Sense or +Grace.</p>",
+    "description": "<p>The weapons in your Gear secrete a paralyzing toxin. <strong>When you deal damage,</strong> they become sluggish, giving you and your allies Hope to <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.h7JpSHtXSQYIjsWA]{Overcome}</em> their attacks, to <em>@UUID[Compendium.fellowship-pbta.basic-moves.gvcPbIgaPctbaOCa]{Get Away}</em> from them, or to <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.cnXubqxIogR16JMj]{Finish Them}</em> with +Sense or +Grace.</p>",
     "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
@@ -42,10 +42,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.12",
+    "systemVersion": "1.1.21",
     "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null,
+    "modifiedTime": 1753131053115,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!u6L2c8liXG7H6BFn"

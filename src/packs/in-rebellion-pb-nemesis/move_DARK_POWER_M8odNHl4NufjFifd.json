@@ -5,7 +5,7 @@
   "_id": "M8odNHl4NufjFifd",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>You are a Threat to the World. <strong>When the fellowship makes a Move against you,</strong> they must pay a price first. You do not need to pay a price against other Threats to the World.</p>",
+    "description": "<p>You are a <strong>Threat to the World</strong>. <strong>When the fellowship makes a Move against you,</strong> they must @UUID[Compendium.fellowship-pbta.special-moves.Item.ZrHnVfT943zF7FnE]{pay a price} first. You do not need to @UUID[Compendium.fellowship-pbta.special-moves.Item.ZrHnVfT943zF7FnE]{pay a price} against other <strong>Threats to the World.</strong></p><p><span style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:rgb(120, 46, 34) rgba(0, 0, 0, 0);color:rgb(39, 44, 51);font-family:Roboto, sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;letter-spacing:normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgb(221, 222, 223);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\"><strong>This Move cannot be Shared.</strong></span></p>",
     "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
@@ -42,10 +42,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.12",
+    "systemVersion": "1.1.21",
     "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null,
+    "modifiedTime": 1753136158797,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!M8odNHl4NufjFifd"

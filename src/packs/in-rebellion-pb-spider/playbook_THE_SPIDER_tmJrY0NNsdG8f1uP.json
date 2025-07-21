@@ -429,7 +429,7 @@
         "title": "SPIDER CUSTOM",
         "desc": "Choose two of these moves to further define what it means to be a Spider.",
         "type": "multi",
-        "repeatable": true,
+        "repeatable": false,
         "choices": [
           {
             "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-spider.Item.TaIDfN2OaEEm7KvD",
@@ -474,8 +474,8 @@
             "advancement": 0
           },
           {
-            "img": "icons/svg/aura.svg",
             "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-spider.Item.u6L2c8liXG7H6BFn",
+            "img": "icons/svg/aura.svg",
             "granted": false,
             "advancement": 0
           }
@@ -505,7 +505,7 @@
         "title": "How do you fight?",
         "desc": "Choose two combat options.",
         "type": "multi",
-        "repeatable": true,
+        "repeatable": false,
         "choices": [
           {
             "uuid": "Compendium.fellowship-pbta.gear.Item.cZuxDUCbKiCAp9Wj",
@@ -546,8 +546,20 @@
         "title": "Spider Territory Items",
         "desc": "Choose two things rarely found outside of Spider territory.",
         "type": "multi",
-        "repeatable": true,
+        "repeatable": false,
         "choices": [
+          {
+            "uuid": "Compendium.fellowship-pbta.gear.Item.b5VSjd1HSQ0DyE09",
+            "img": "icons/weapons/ammunition/arrows-war-red.webp",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.gear.Item.VoPyWAoQNjnmwGw4",
+            "img": "icons/environment/traps/trap-jaw-steel.webp",
+            "granted": false,
+            "advancement": 0
+          },
           {
             "uuid": "Compendium.fellowship-pbta.gear.Item.0EXLGarwEGsnd6Jl",
             "img": "icons/svg/item-bag.svg",
@@ -555,8 +567,14 @@
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.gear.Item.ppK4ZDOURKHezjTY",
-            "img": "icons/svg/item-bag.svg",
+            "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-spider.Item.2wmDon8Xq6NtbRz6",
+            "img": "modules/fellowship-pbta/assets/icons/spider-alt.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.gear.Item.MZFFIZhZdyhLXGuQ",
+            "img": "icons/magic/fire/explosion-mushroom-nuke-orange.webp",
             "granted": false,
             "advancement": 0
           },
@@ -567,13 +585,19 @@
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.gear.Item.2F6nMKQTxgRCnx6A",
-            "img": "icons/svg/item-bag.svg",
+            "uuid": "Compendium.fellowship-pbta.gear.Item.RqSR8k81yYGfRuaB",
+            "img": "icons/magic/fire/explosion-fireball-large-blue.webp",
             "granted": false,
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.gear.Item.70GtM5fA22geSxET",
+            "uuid": "Compendium.fellowship-pbta.gear.Item.wS7CZ8KSZtJ2mF6t",
+            "img": "icons/commodities/wood/fence-posts-brown.webp",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.gear.Item.2F6nMKQTxgRCnx6A",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
@@ -598,7 +622,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.21",
     "createdTime": null,
-    "modifiedTime": 1751845373359,
+    "modifiedTime": 1753131794033,
     "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },

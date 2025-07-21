@@ -5,31 +5,31 @@
   "_id": "W0rJzScReDvLnwae",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>You are strong enough to lift anyone, and an ally can ride on top of you if you let them. When you pick someone up and throw them, roll +Courage.</p><p>On a 7+, they go roughly where you wanted them to.</p><p>On a 6-, they go where they wanted to.</p><p>On a 10+, you choose one. On a 9-, they choose one:</p><ul><li>They land safely on their feet, avoiding harm.</li><li>They crash into someone, dealing damage to whoever they hit.</li><li>They crash through something, taking damage and destroying it.</li></ul>",
+    "description": "<p>You are strong enough to lift anyone, and an ally can ride on top of you if you let them. <strong>When you pick someone up and throw them,</strong> roll +Courage.</p>",
     "moveType": "core",
     "rollFormula": "2d6+@courage",
     "moveResults": {
       "failure": {
         "key": "system.moveResults.failure.value",
         "label": "Complications...",
-        "value": "They go where they wanted to."
+        "value": "<p>They go where they wanted to.</p><p>They choose one:</p>"
       },
       "partial": {
         "key": "system.moveResults.partial.value",
         "label": "Partial success.",
-        "value": "They go roughly where you wanted them to. They choose one: land safely on their feet, avoiding harm; crash into someone, dealing damage to whoever they hit; or crash through something, taking damage and destroying it."
+        "value": "<p>They go roughly where you wanted them to.</p><p>They choose one:</p>"
       },
       "success": {
         "key": "system.moveResults.success.value",
         "label": "Success!",
-        "value": "They go roughly where you wanted them to. You choose one: they land safely on their feet, avoiding harm; they crash into someone, dealing damage to whoever they hit; or they crash through something, taking damage and destroying it."
+        "value": "<p>They go roughly where you wanted them to.</p><p>You choose one: </p>"
       }
     },
     "uses": 0,
-    "rollType": "stat",
+    "rollType": "courage",
     "rollMod": 0,
     "actorType": "character",
-    "choices": ""
+    "choices": "<ul><li>They land safely on their feet, avoiding harm.</li><li>They crash into someone, dealing damage to whoever they hit.</li><li>They crash through something, taking damage and destroying it.</li></ul>"
   },
   "effects": [],
   "sort": 0,
@@ -42,10 +42,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.12",
+    "systemVersion": "1.1.21",
     "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null,
+    "modifiedTime": 1753134801693,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!W0rJzScReDvLnwae"

@@ -5,7 +5,7 @@
   "_id": "OL9LNbzqaYjpiUEi",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>When you cause harm to another, you heal. The type of harm does not matter - emotional or physical, it all sustains you.</p><p>You no longer need to eat or breathe to survive. In fact, you cannot eat - you can never <em>Fill Your Belly</em>, and Food is worthless to you.</p><p><strong>This Move cannot be Shared with the Living.</strong></p>",
+    "description": "<p>When you cause harm to another, you heal. The type of harm does not matter - emotional or physical, it all sustains you.</p><p>You no longer need to eat or breathe to survive. In fact, you cannot eat - you can never <em>@UUID[Compendium.fellowship-pbta.special-moves.Item.I18nTKFofUw4ewsT]{Fill Your Belly}</em>, and Food is worthless to you.</p><p><strong>This Move cannot be Shared with the Living.</strong></p>",
     "moveType": "core",
     "rollFormula": "",
     "moveResults": {
@@ -42,9 +42,9 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.12",
+    "systemVersion": "1.1.21",
     "createdTime": null,
-    "modifiedTime": 1751824571104,
+    "modifiedTime": 1753132279940,
     "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },

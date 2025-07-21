@@ -3,7 +3,7 @@
   "name": "GHOUL",
   "type": "fellowship-pbta.companion",
   "_id": "zZxJAnz9s0rXU8n8",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/fellowship-pbta/assets/icons/character.svg",
   "system": {
     "typeName": "GHOUL",
     "typeDescription": "This undead is endlessly hungry, and always looking for their next meal.",
@@ -32,8 +32,8 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null,
+    "modifiedTime": 1753132111453,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!zZxJAnz9s0rXU8n8"

@@ -3,7 +3,7 @@
   "name": "SERVANT",
   "type": "fellowship-pbta.companion",
   "_id": "ekvh25VuZ2eyXpoO",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/fellowship-pbta/assets/icons/character.svg",
   "system": {
     "typeName": "SERVANT",
     "typeDescription": "They help you with your day to day affairs.",
@@ -32,8 +32,8 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null,
+    "modifiedTime": 1753136321734,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!ekvh25VuZ2eyXpoO"

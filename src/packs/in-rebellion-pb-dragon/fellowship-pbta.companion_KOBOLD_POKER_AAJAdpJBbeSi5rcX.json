@@ -3,7 +3,7 @@
   "name": "KOBOLD POKER",
   "type": "fellowship-pbta.companion",
   "_id": "AAJAdpJBbeSi5rcX",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/fellowship-pbta/assets/icons/character.svg",
   "system": {
     "typeName": "KOBOLD POKER",
     "typeDescription": "This kobold warrior hides behind a shield and pokes their enemies with a well-used spear.",
@@ -32,8 +32,8 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null,
+    "modifiedTime": 1753136844092,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!AAJAdpJBbeSi5rcX"

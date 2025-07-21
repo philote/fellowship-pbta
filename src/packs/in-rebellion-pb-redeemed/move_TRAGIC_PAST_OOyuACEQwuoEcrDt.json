@@ -5,7 +5,7 @@
   "_id": "OOyuACEQwuoEcrDt",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>Take a Custom Move from any basic playbook.</p><p>You may also take an Agenda from the chosen playbook.</p><p>Record them here:</p>",
+    "description": "<p>Take a Custom Move from any basic playbook.</p><p>You may also take an Agenda from the chosen playbook.</p><p><strong>Record them here:</strong></p><p></p><p><strong>This Move cannot be Shared.</strong></p>",
     "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
@@ -42,10 +42,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.12",
+    "systemVersion": "1.1.21",
     "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null,
+    "modifiedTime": 1753133224999,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!OOyuACEQwuoEcrDt"

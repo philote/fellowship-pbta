@@ -5,7 +5,7 @@
   "_id": "JnMhdC5L5Kxcvbao",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>You were raised to be cruel. Your Wisdom stat has been replaced by the Iron stat. Iron represents your competitive spirit and cruel heart.</p><p>You cannot <em>Speak Softly</em> without a Wisdom stat. You cannot choose to <em>Finish Them</em> or <em>Talk Sense</em> with +Wisdom without a Wisdom stat, either.</p><p><strong>When you </strong><em><strong>Finish Them</strong></em><strong> by outlasting them in a contest of power or endurance,</strong> roll +Iron. <strong>On a 10+,</strong> they pass out.</p><p><strong>This Move cannot be Shared.</strong></p>",
+    "description": "<p>You were raised to be cruel. Your Wisdom stat has been replaced by the Iron stat. Iron represents your competitive spirit and cruel heart.</p><p>You cannot <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.Ml6muq1ZjhkuT7FF]{Speak Softly}</em> without a Wisdom stat. You cannot choose to <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.cnXubqxIogR16JMj]{Finish Them}</em> or <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.3lOlQnDdQRaiR47g]{Talk Sense}</em> with +Wisdom without a Wisdom stat, either.</p><p><strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.Item.cnXubqxIogR16JMj]{Finish Them}</strong></em><strong> by outlasting them in a contest of power or endurance,</strong> roll +Iron. <strong>On a 10+,</strong> they pass out.</p><p><strong>This Move cannot be Shared.</strong></p>",
     "moveType": "core",
     "rollFormula": "",
     "moveResults": {
@@ -42,9 +42,9 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.12",
+    "systemVersion": "1.1.21",
     "createdTime": null,
-    "modifiedTime": 1751824771536,
+    "modifiedTime": 1753132956028,
     "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },

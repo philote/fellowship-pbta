@@ -5,7 +5,7 @@
   "_id": "OiaLD65TtEXQPyon",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>You are not part of the fellowship. You are chasing them.</p><p>Every session, you are either hot on their trail, or lying in wait ahead of them. When there is a lull in the action, you may jump in to mess things up. Tell us where you're coming from, and take the Spotlight.</p><p>If you <em>Finish Them</em> or the fellowship <em>Finishes You</em> with Blood, on a 10+, the player who was Finished damages all their stats and becomes Taken Out. This happens instead of being killed. When rolling with other stats, apply the usual 10+ <em>Finish Them</em> results.</p><p>When you get Taken Out, you are out of play for the rest of the session, but you will <em>Recover</em> between session.</p><p>You do not <em>Recover</em> when the rest of the fellowship does.</p><p>When you join the fellowship, temporarily or otherwise, replace this playbook with <em>The Redeemed</em>. Keep all the same options you picked, including your level and Moves and stats, but use the text found on that playbook instead.</p>",
+    "description": "<p>You are not part of the fellowship. You are chasing them.</p><p>Every session, you are either hot on their trail, or lying in wait ahead of them. <strong>When there is a lull in the action,</strong> you may jump in to mess things up. Tell us where you're coming from, and take the Spotlight.</p><p><strong>If you </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.Item.cnXubqxIogR16JMj]{Finish Them}</strong></em><strong> or the fellowship </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.Item.cnXubqxIogR16JMj]{Finishes You}</strong></em><strong> with Blood, on a 10+,</strong> the player who was Finished damages all their stats and becomes Taken Out. This happens instead of being killed. When rolling with other stats, apply the usual 10+ <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.cnXubqxIogR16JMj]{Finish Them}</em> results.</p><p><strong>When you get Taken Out,</strong> you are out of play for the rest of the session, but you will <em>@UUID[Compendium.fellowship-pbta.special-moves.Item.YNOTCTxDOQMVmtTO]{Recover}</em> between session.</p><p>You do not <em>@UUID[Compendium.fellowship-pbta.special-moves.Item.YNOTCTxDOQMVmtTO]{Recover}</em> when the rest of the fellowship does.</p><p><strong>When you join the fellowship,</strong> temporarily or otherwise, replace this playbook with <em>@UUID[Compendium.fellowship-pbta.in-rebellion-pb-redeemed.Item.TNDLolyJ2iRgnPVY]{The Redeemed}</em>. Keep all the same options you picked, including your level and Moves and stats, but use the text found on that playbook instead.</p><p><span style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:rgb(120, 46, 34) rgba(0, 0, 0, 0);color:rgb(39, 44, 51);font-family:Roboto, sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;letter-spacing:normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgb(221, 222, 223);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\"><strong>This Move cannot be Shared.</strong></span></p>",
     "moveType": "core",
     "rollFormula": "",
     "moveResults": {
@@ -42,10 +42,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.12",
+    "systemVersion": "1.1.21",
     "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null,
+    "modifiedTime": 1753136185623,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!OiaLD65TtEXQPyon"

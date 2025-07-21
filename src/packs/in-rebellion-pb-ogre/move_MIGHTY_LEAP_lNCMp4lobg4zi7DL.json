@@ -5,7 +5,7 @@
   "_id": "lNCMp4lobg4zi7DL",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>When you jump with all your might, you can land anywhere you can see, no matter how far it is.</p>",
+    "description": "<p><strong>When you jump with all your might,</strong> you can land anywhere you can see, no matter how far it is.</p>",
     "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
@@ -42,10 +42,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.12",
+    "systemVersion": "1.1.21",
     "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null,
+    "modifiedTime": 1753135102128,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!lNCMp4lobg4zi7DL"

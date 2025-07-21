@@ -5,7 +5,7 @@
   "_id": "b5VSjd1HSQ0DyE09",
   "img": "icons/weapons/ammunition/arrows-war-red.webp",
   "system": {
-    "description": "",
+    "description": "<p><em>A sudden shot fires from a hidden crossbow.</em></p><p>Deal 1 damage to an undamaged enemy.</p>",
     "uses": 2,
     "quantity": 1,
     "weight": 0,
@@ -26,10 +26,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.12",
+    "systemVersion": "1.1.21",
     "createdTime": 1737155455969,
-    "modifiedTime": 1739051774515,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753131540586,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!b5VSjd1HSQ0DyE09"

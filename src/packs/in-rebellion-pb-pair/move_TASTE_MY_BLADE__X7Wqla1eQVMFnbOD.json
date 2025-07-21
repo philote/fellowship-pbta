@@ -5,7 +5,7 @@
   "_id": "X7Wqla1eQVMFnbOD",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>When you attack someone who has never seen you fight before, deal an additional Harm.</p>",
+    "description": "<p><strong>When you engage in swordplay with an enemy,</strong> you may <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.uXriNVHOmu3064KN]{Keep Them Busy}</em> with +Grace. <strong>On a 7-9,</strong> after their retaliation, you may insult them or make a quip to <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.uXriNVHOmu3064KN]{Keep Them Busy}</em> again, as if you'd rolled another 7-9 result.</p>",
     "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
@@ -42,10 +42,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.12",
+    "systemVersion": "1.1.21",
     "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null,
+    "modifiedTime": 1753134178365,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!X7Wqla1eQVMFnbOD"

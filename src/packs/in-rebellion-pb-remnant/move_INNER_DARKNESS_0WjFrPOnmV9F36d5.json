@@ -5,7 +5,7 @@
   "_id": "0WjFrPOnmV9F36d5",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>You cannot be Taken Out. While all of your stats are damaged, you lose all of your other Agendas, and gain the Agenda <em>Darkness Reigns</em>.</p><p><strong>Darkness Reigns</strong><br>Your curse consumes you. Act with vengeance and lash out in despair.</p><p>When Darkness Reigns within you, you are powerful but easily manipulated. You make all rolls by rolling three dice and taking the best two.</p><p>You cannot disobey an order given to you by the Nemesis or by a Threat to the World. The Overlord can make you <em>An Offer You Can't Refuse</em> as if you were Taken Out. Anyone trying to <em>Talk Sense</em> to you rolls with Hope to do so.</p>",
+    "description": "<p>You cannot be @UUID[Compendium.fellowship-pbta.special-moves.Item.OnoZsu0tZybyqesF]{Taken Out}. While all of your stats are damaged, you lose all of your other Agendas, and gain the Agenda <em>Darkness Reigns</em>.</p><p><strong>Darkness Reigns</strong><br />Your curse consumes you. Act with vengeance and lash out in despair.</p><p>When Darkness Reigns within you, you are powerful but easily manipulated. You make all rolls by rolling three dice and taking the best two.</p><p>You cannot disobey an order given to you by the Nemesis or by a Threat to the World. The Overlord can make you <em>@UUID[Compendium.fellowship-pbta.overlord-moves.Item.BOBrp1ZWbYp6AMDN]{An Offer You Can't Refuse}</em> as if you were Taken Out. Anyone trying to <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.3lOlQnDdQRaiR47g]{Talk Sense}</em> to you rolls with Hope to do so.</p>",
     "moveType": "core",
     "rollFormula": "",
     "moveResults": {
@@ -42,9 +42,9 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.12",
+    "systemVersion": "1.1.21",
     "createdTime": null,
-    "modifiedTime": 1751824580387,
+    "modifiedTime": 1753132267100,
     "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },

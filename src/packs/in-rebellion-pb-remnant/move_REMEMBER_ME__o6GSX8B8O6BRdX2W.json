@@ -5,7 +5,7 @@
   "_id": "o6GSX8B8O6BRdX2W",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>Those who you hurt do not forget. When you <em>Feed On Pain</em>, you may <em>Forge A Bond</em> with them. Bonds forged this way do not make them your Companion. When you taunt or terrorize someone you have a Bond with, you may erase all of your Bonds with them to make them run away from you.</p>",
+    "description": "<p>Those who you hurt do not forget. <strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.in-rebellion-pb-remnant.Item.OL9LNbzqaYjpiUEi]{Feed On Pain}</strong></em><strong>,</strong> you may <em>@UUID[Compendium.fellowship-pbta.bond-moves.Item.28gRsLA4GNORvwg6]{Forge A Bond}</em> with them. Bonds forged this way do not make them your Companion. When you taunt or terrorize someone you have a Bond with, you may erase all of your Bonds with them to make them run away from you.</p>",
     "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
@@ -42,10 +42,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.12",
+    "systemVersion": "1.1.21",
     "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null,
+    "modifiedTime": 1753132358423,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!o6GSX8B8O6BRdX2W"

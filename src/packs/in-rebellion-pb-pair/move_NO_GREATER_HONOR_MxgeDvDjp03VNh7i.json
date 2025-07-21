@@ -5,7 +5,7 @@
   "_id": "MxgeDvDjp03VNh7i",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>When you fail a roll to protect another member of the fellowship, describe how you face the consequences in their place and mark Stress. They do not face any consequences from their failure.</p>",
+    "description": "<p class=\"p1\"><strong>When you speak passionately in defense of another's honor,</strong> <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.3lOlQnDdQRaiR47g]{Talk Sense}</em> with +Blood, and they must listen to you.</p>",
     "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
@@ -42,10 +42,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.12",
+    "systemVersion": "1.1.21",
     "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null,
+    "modifiedTime": 1753134221656,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!MxgeDvDjp03VNh7i"

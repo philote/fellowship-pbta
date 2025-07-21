@@ -405,7 +405,8 @@
       {
         "title": "EXILE CORE",
         "desc": "All Exiles have these moves.",
-        "type": "multi",
+        "grantOn": 0,
+        "advancement": 0,
         "repeatable": true,
         "choices": [
           {
@@ -427,15 +428,15 @@
             "advancement": 0
           }
         ],
-        "grantOn": 0,
-        "granted": false,
-        "advancement": 0
+        "type": "multi",
+        "granted": false
       },
       {
         "title": "EXILE CUSTOM",
         "desc": "Choose two of these moves to further define what it means to be an Exile.",
-        "type": "multi",
-        "repeatable": true,
+        "grantOn": 1,
+        "advancement": 0,
+        "repeatable": false,
         "choices": [
           {
             "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-exile.Item.49CxK0hnPwN32Aci",
@@ -474,8 +475,8 @@
             "advancement": 0
           },
           {
-            "img": "icons/svg/aura.svg",
             "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-exile.Item.eqU7aMSXLyCyfdOk",
+            "img": "icons/svg/aura.svg",
             "granted": false,
             "advancement": 0
           },
@@ -486,14 +487,14 @@
             "advancement": 0
           }
         ],
-        "grantOn": 1,
-        "granted": false,
-        "advancement": 0
+        "type": "multi",
+        "granted": false
       },
       {
         "title": "Starting Gear",
         "desc": "All Exiles start with these items.",
-        "type": "multi",
+        "grantOn": 0,
+        "advancement": 0,
         "repeatable": true,
         "choices": [
           {
@@ -515,14 +516,14 @@
             "advancement": 0
           }
         ],
-        "grantOn": 0,
-        "granted": false,
-        "advancement": 0
+        "type": "multi",
+        "granted": false
       },
       {
         "title": "Simple weapon",
         "desc": "Choose one simple weapon.",
-        "type": "multi",
+        "grantOn": 1,
+        "advancement": 0,
         "repeatable": false,
         "choices": [
           {
@@ -538,14 +539,14 @@
             "advancement": 0
           }
         ],
-        "grantOn": 1,
-        "granted": false,
-        "advancement": 0
+        "type": "multi",
+        "granted": false
       },
       {
         "title": "How do you protect yourself?",
-        "desc": "Choose one protection strategy.",
-        "type": "multi",
+        "desc": "Choose one [By hiding, fighting, running, surviving] :",
+        "grantOn": 1,
+        "advancement": 0,
         "repeatable": false,
         "choices": [
           {
@@ -591,14 +592,14 @@
             "advancement": 0
           }
         ],
-        "grantOn": 1,
-        "granted": false,
-        "advancement": 0
+        "type": "multi",
+        "granted": false
       },
       {
         "title": "Your path is lonely",
         "desc": "Choose one to keep you company. Animal or friend: You have one Bond with them.",
-        "type": "multi",
+        "grantOn": 1,
+        "advancement": 0,
         "repeatable": false,
         "choices": [
           {
@@ -668,9 +669,8 @@
             "advancement": 0
           }
         ],
-        "grantOn": 1,
-        "granted": false,
-        "advancement": 0
+        "type": "multi",
+        "granted": false
       }
     ]
   },
@@ -687,7 +687,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.21",
     "createdTime": null,
-    "modifiedTime": 1751845525360,
+    "modifiedTime": 1753136809176,
     "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },

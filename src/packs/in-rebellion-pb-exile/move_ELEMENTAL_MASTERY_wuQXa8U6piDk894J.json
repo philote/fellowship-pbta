@@ -5,7 +5,7 @@
   "_id": "wuQXa8U6piDk894J",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>Choose a second <em>Forbidden Element</em>.</p><p>Give each of your <em>Forbidden Elements</em> one appropriate tag of your choice, such as <em>Armor</em>, <em>Burning</em>, or <em>Precious</em>.</p><p>If that tag is a Limited tag, it has 1 Use.</p><p>When you <em>Fill Your Belly</em>, restore one of those Uses.</p><p>This Move cannot be Shared.</p>",
+    "description": "<p>Choose a second <em>@UUID[Compendium.fellowship-pbta.in-rebellion-pb-exile.Item.Sd4cHS94t4VOXK7w]{Forbidden Element}</em>.</p><p>Give each of your <em>@UUID[Compendium.fellowship-pbta.in-rebellion-pb-exile.Item.Sd4cHS94t4VOXK7w]{Forbidden Elements}</em> one appropriate tag of your choice, such as <em>Armor</em>, <em>Burning</em>, or <em>Precious</em>.</p><p>If that tag is a Limited tag, it has 1 Use.</p><p><strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.special-moves.Item.I18nTKFofUw4ewsT]{Fill Your Belly}</strong></em><strong>,</strong> restore one of those Uses.</p><p><strong>This Move cannot be Shared.</strong></p>",
     "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
@@ -42,10 +42,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.12",
+    "systemVersion": "1.1.21",
     "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null,
+    "modifiedTime": 1753136636146,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!wuQXa8U6piDk894J"

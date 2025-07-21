@@ -3,7 +3,7 @@
   "name": "BURGLAR",
   "type": "fellowship-pbta.companion",
   "_id": "Ig039CIJ2O5HNRWl",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/fellowship-pbta/assets/icons/character.svg",
   "system": {
     "typeName": "BURGLAR",
     "typeDescription": "They steal what you cannot reach.",
@@ -32,8 +32,8 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null,
+    "modifiedTime": 1753136326095,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!Ig039CIJ2O5HNRWl"

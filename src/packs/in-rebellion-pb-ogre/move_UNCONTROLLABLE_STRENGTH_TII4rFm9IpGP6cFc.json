@@ -5,7 +5,7 @@
   "_id": "TII4rFm9IpGP6cFc",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>You are strong enough to uproot trees, smash doors off their hinges, break through wooden walls or supports, and lift just about anything.</p><p>You have trouble acting with finesse, and destroy things by accident all the time. You are Dangerous, and any uncontrolled action you take can cause collateral damage or destroy the world around you.</p><p>You may always choose to pay a price by causing collateral damage. If you do, the Framework will tell you what important nearby person or thing you damaged by mistake.</p>",
+    "description": "<p>You are strong enough to uproot trees, smash doors off their hinges, break through wooden walls or supports, and lift just about anything.</p><p>You have trouble acting with finesse, and destroy things by accident all the time. You are <strong>Dangerous</strong>, and any uncontrolled action you take can cause collateral damage or destroy the world around you.</p><p>You may always choose to pay a price by causing collateral damage. <strong>If you do,</strong> the Framework will tell you what important nearby person or thing you damaged by mistake.</p>",
     "moveType": "core",
     "rollFormula": "",
     "moveResults": {
@@ -42,10 +42,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.12",
+    "systemVersion": "1.1.21",
     "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null,
+    "modifiedTime": 1753134638383,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!TII4rFm9IpGP6cFc"

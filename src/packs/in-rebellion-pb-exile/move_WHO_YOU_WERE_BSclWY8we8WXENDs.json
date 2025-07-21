@@ -5,7 +5,7 @@
   "_id": "BSclWY8we8WXENDs",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>Take one Core Move and one Custom Move from any basic playbook. You can take Moves that cannot be Shared. Both of these Moves must come from the same playbook.</p><p>That playbook is <em>Who You Were</em>. You cannot <em>Command Lore</em> about its people, only about the crimes you have committed and other exiles like you.</p><p>This Move cannot be Shared.</p><p>Record the moves from <em>Who You Were</em> here:</p>",
+    "description": "<p>Take one Core Move and one Custom Move from any basic playbook. You can take Moves that cannot be Shared. Both of these Moves must come from the same playbook.</p><p>That playbook is <em>Who You Were</em>. You cannot <em>@UUID[Compendium.fellowship-pbta.special-moves.Item.YE99aLoamM4pDgT7]{Command Lore}</em> about its people, only about the crimes you have committed and other exiles like you.</p><p><strong>This Move cannot be Shared.</strong></p><p><strong>Record the moves from </strong><em><strong>Who You Were</strong></em><strong> here:</strong></p>",
     "moveType": "core",
     "rollFormula": "",
     "moveResults": {
@@ -42,10 +42,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.12",
+    "systemVersion": "1.1.21",
     "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null,
+    "modifiedTime": 1753136376396,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!BSclWY8we8WXENDs"

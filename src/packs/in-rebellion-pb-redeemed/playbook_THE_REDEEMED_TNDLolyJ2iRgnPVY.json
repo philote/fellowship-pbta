@@ -440,11 +440,11 @@
         "type": "Details",
         "choices": [
           {
-            "value": "<h3>DEDICATED ELITE</h3><p>You can&#39;t understand life without a goal to chase. Without your cruel master&#39;s guidance, you must set your own goals. You can make Cuts against anything between you and your target. Between sessions, you may change your target. Name your target:</p>",
+            "value": "<h3>DEDICATED ELITE</h3><p>You can't understand life without a goal to chase. Without your cruel master's guidance, you must set your own goals. You can make Cuts against anything between you and your target. Between sessions, you may change your target. Name your target:</p>",
             "options": {}
           },
           {
-            "value": "<h3>HONOR-BOUND FOOL</h3><p>You have a code of honor you must follow. Your code survives long after your cruel master&#39;s control over you. When someone takes a hostile or deceitful action against you, you may immediately respond with a Cut. If you break your code, you take damage and cannot make Cuts for the rest of this session. When someone honors your code for the first time, you will honor a request they make of you. Define your code:</p>",
+            "value": "<h3>HONOR-BOUND FOOL</h3><p>You have a code of honor you must follow. Your code survives long after your cruel master's control over you. When someone takes a hostile or deceitful action against you, you may immediately respond with a Cut. If you break your code, you take damage and cannot make Cuts for the rest of this session. When someone honors your code for the first time, you will honor a request they make of you. Define your code:</p>",
             "options": {}
           },
           {
@@ -465,7 +465,8 @@
       {
         "title": "REDEEMED CORE",
         "desc": "All Redeemed have these moves. None can be shared.",
-        "type": "multi",
+        "grantOn": 0,
+        "advancement": 0,
         "repeatable": true,
         "choices": [
           {
@@ -511,14 +512,14 @@
             "advancement": 0
           }
         ],
-        "grantOn": 0,
-        "granted": false,
-        "advancement": 0
+        "type": "multi",
+        "granted": false
       },
       {
         "title": "Starting Gear",
         "desc": "You scrounged up some food (Food, 3 Uses).",
-        "type": "multi",
+        "grantOn": 0,
+        "advancement": 0,
         "repeatable": true,
         "choices": [
           {
@@ -528,14 +529,14 @@
             "advancement": 0
           }
         ],
-        "grantOn": 0,
-        "granted": false,
-        "advancement": 0
+        "type": "multi",
+        "granted": false
       },
       {
         "title": "Redeemed Fighting Style",
         "desc": "You are a Melee weapon. In addition, choose two.",
-        "type": "multi",
+        "grantOn": 1,
+        "advancement": 0,
         "repeatable": true,
         "choices": [
           {
@@ -569,15 +570,15 @@
             "advancement": 0
           }
         ],
-        "grantOn": 1,
-        "granted": false,
-        "advancement": 0
+        "type": "multi",
+        "granted": false
       },
       {
         "title": "REDEEMED CUSTOM",
         "desc": "Take the same Customs you had as the Nemesis. These Moves cannot be Shared.",
-        "type": "multi",
-        "repeatable": true,
+        "grantOn": 1,
+        "advancement": 0,
+        "repeatable": false,
         "choices": [
           {
             "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-redeemed.Item.901TDMgdtlkNwpuz",
@@ -616,15 +617,14 @@
             "advancement": 0
           },
           {
-            "img": "icons/svg/aura.svg",
             "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-redeemed.Item.OOyuACEQwuoEcrDt",
+            "img": "icons/svg/aura.svg",
             "granted": false,
             "advancement": 0
           }
         ],
-        "grantOn": 1,
-        "granted": false,
-        "advancement": 0
+        "type": "multi",
+        "granted": false
       }
     ]
   },
@@ -641,7 +641,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.21",
     "createdTime": null,
-    "modifiedTime": 1751843906353,
+    "modifiedTime": 1753133399765,
     "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },

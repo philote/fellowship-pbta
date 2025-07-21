@@ -5,7 +5,7 @@
   "_id": "1dlSe1ZZzTB0eMsp",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>You can jump to anywhere you can see, and land there near-instantly. You still need to roll to <em>Get Away</em>, if it applies. You also gain this <em>Web Spinning</em> trap:</p><ul><li><strong>Pounce:</strong> You leap on top of them. If they are smaller than you, they fall. If they are bigger, you are now riding them.</li></ul>",
+    "description": "<p>You can jump to anywhere you can see, and land there near-instantly. You still need to roll to <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.gvcPbIgaPctbaOCa]{Get Away}</em>, if it applies. You also gain this <em>@UUID[Compendium.fellowship-pbta.in-rebellion-pb-spider.Item.TTqsDtJwGyslqnrf]{Web Spinning}</em> trap:</p><ul><li><strong>Pounce:</strong> You leap on top of them. If they are smaller than you, they fall. If they are bigger, you are now riding them.</li></ul>",
     "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
@@ -42,10 +42,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.12",
+    "systemVersion": "1.1.21",
     "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null,
+    "modifiedTime": 1753131136499,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!1dlSe1ZZzTB0eMsp"

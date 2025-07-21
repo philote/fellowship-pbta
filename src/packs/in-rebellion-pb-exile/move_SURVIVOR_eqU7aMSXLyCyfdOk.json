@@ -5,7 +5,7 @@
   "_id": "eqU7aMSXLyCyfdOk",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>When you <em>Overcome</em> harm directed at you, on a 7+, you also either heal or <em>Get Away</em> as if you rolled a 7-9, your choice.</p>",
+    "description": "<p><strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.Item.h7JpSHtXSQYIjsWA]{Overcome}</strong></em><strong> harm directed at you, on a 7+,</strong> you also either heal or <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.gvcPbIgaPctbaOCa]{Get Away}</em> as if you rolled a 7-9, your choice.</p>",
     "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
@@ -42,10 +42,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.12",
+    "systemVersion": "1.1.21",
     "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null,
+    "modifiedTime": 1753136463019,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!eqU7aMSXLyCyfdOk"

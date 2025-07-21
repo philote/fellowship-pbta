@@ -5,7 +5,7 @@
   "_id": "esn19oLp6O3N84u0",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>Pain means nothing to you. When you roll one of your damaged stats, you may take one damage to roll three dice and take the best two for your result. If this damage triggers your <em>Inner Darkness</em> or Takes You Out, roll five dice and take the best two instead.</p>",
+    "description": "<p>Pain means nothing to you. <strong>When you roll one of your damaged stats,</strong> you may take one damage to roll three dice and take the best two for your result. If this damage triggers your <em>@UUID[Compendium.fellowship-pbta.in-rebellion-pb-remnant.Item.0WjFrPOnmV9F36d5]{Inner Darkness}</em> or Takes You Out, roll five dice and take the best two instead.</p>",
     "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
@@ -42,10 +42,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.12",
+    "systemVersion": "1.1.21",
     "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null,
+    "modifiedTime": 1753132522620,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!esn19oLp6O3N84u0"

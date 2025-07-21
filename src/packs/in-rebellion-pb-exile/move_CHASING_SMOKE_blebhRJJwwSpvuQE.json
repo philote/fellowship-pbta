@@ -5,7 +5,7 @@
   "_id": "blebhRJJwwSpvuQE",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>You can always attempt to <em>Get Away</em>, even while bound, trapped, pinned down, crippled, or imprisoned.</p>",
+    "description": "<p>You can always attempt to <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.gvcPbIgaPctbaOCa]{Get Away}</em>, even while bound, trapped, pinned down, crippled, or imprisoned.</p>",
     "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
@@ -42,10 +42,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.12",
+    "systemVersion": "1.1.21",
     "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null,
+    "modifiedTime": 1753136646067,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!blebhRJJwwSpvuQE"

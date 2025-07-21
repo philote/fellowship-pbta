@@ -5,7 +5,7 @@
   "_id": "xrLRj6bbKOHAHN56",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>When you <em>Protect The Little Ones</em>, you can erase a Bond with someone you protected to heal them.</p>",
+    "description": "<p><strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.in-rebellion-pb-ogre.Item.v8mVZ4W7tXf1bjOH]{Protect The Little Ones}</strong></em><strong>,</strong> you can erase a Bond with someone you protected to heal them.</p>",
     "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
@@ -42,10 +42,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.12",
+    "systemVersion": "1.1.21",
     "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null,
+    "modifiedTime": 1753135000680,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!xrLRj6bbKOHAHN56"

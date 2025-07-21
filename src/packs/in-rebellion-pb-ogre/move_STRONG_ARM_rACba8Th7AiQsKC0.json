@@ -5,7 +5,7 @@
   "_id": "rACba8Th7AiQsKC0",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>When you <em>Toss Aside</em> your friends or enemies, you may throw a second enemy or ally with the same roll.</p><p><strong>On a 10+,</strong> you may choose different options for each thrown target. <strong>On a 9-,</strong> each target chooses separately from the list.</p>",
+    "description": "<p><strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.in-rebellion-pb-ogre.Item.W0rJzScReDvLnwae]{Toss Aside}</strong></em><strong> your friends or enemies,</strong> you may throw a second enemy or ally with the same roll.</p><p><strong>On a 10+,</strong> you may choose different options for each thrown target. </p><p><strong>On a 9-,</strong> each target chooses separately from the list.</p>",
     "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
@@ -17,12 +17,12 @@
       "partial": {
         "key": "system.moveResults.partial.value",
         "label": "Partial success.",
-        "value": "Each target chooses separately from the list."
+        "value": ""
       },
       "success": {
         "key": "system.moveResults.success.value",
         "label": "Success!",
-        "value": "You may choose different options for each thrown target."
+        "value": ""
       }
     },
     "uses": 0,
@@ -42,10 +42,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.12",
+    "systemVersion": "1.1.21",
     "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null,
+    "modifiedTime": 1753135045012,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!rACba8Th7AiQsKC0"

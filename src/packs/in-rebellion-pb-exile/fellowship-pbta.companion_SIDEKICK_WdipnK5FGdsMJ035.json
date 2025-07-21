@@ -3,7 +3,7 @@
   "name": "SIDEKICK",
   "type": "fellowship-pbta.companion",
   "_id": "WdipnK5FGdsMJ035",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/fellowship-pbta/assets/icons/character.svg",
   "system": {
     "typeName": "SIDEKICK",
     "typeDescription": "They fight alongside you, through thick or thin.",
@@ -32,8 +32,8 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null,
+    "modifiedTime": 1753136316853,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!WdipnK5FGdsMJ035"

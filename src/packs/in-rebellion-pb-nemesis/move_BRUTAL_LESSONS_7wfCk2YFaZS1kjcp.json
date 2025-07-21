@@ -5,7 +5,7 @@
   "_id": "7wfCk2YFaZS1kjcp",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p><strong>When you </strong><em><strong>Speak Harshly</strong></em><strong>,</strong> you may ask an additional question, even on a 6-. If you spend this extra question to deal damage, you may make another Cut against them, other than deal damage.</p>",
+    "description": "<p><strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.in-rebellion-pb-nemesis.Item.C6TLW06kV9oAbKhb]{Speak Harshly}</strong></em><strong>,</strong> you may ask an additional question, even on a 6-. <strong>If you spend this extra question to deal damage,</strong> you may make another Cut against them, other than deal damage.</p><p><span style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:rgb(120, 46, 34) rgba(0, 0, 0, 0);color:rgb(39, 44, 51);font-family:Roboto, sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;letter-spacing:normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgb(221, 222, 223);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\"><strong>This Move cannot be Shared.</strong></span></p>",
     "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
@@ -42,10 +42,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.12",
+    "systemVersion": "1.1.21",
     "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null,
+    "modifiedTime": 1753136171639,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!7wfCk2YFaZS1kjcp"

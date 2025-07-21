@@ -5,31 +5,31 @@
   "_id": "q3JhcXs7duSqkAJn",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p><strong>When you demand answers from someone weaker than you,</strong> roll +Iron.</p><p><strong>On a 7+,</strong> ask two questions from the list. They must answer honestly. <strong>On a 6-,</strong> you may only ask one question.</p><p><strong>On a 9-,</strong> one of their answers may be a lie, if they want to lie to you. You will not be told which answer is the lie, or even if there is a lie at all.</p><ul><li>What can you tell me about ________?</li><li>What are you hiding?</li><li>Where is ________?</li><li>No more questions. Deal damage and end the interrogation.</li></ul><p><strong>This Move cannot be Shared.</strong></p>",
+    "description": "<p><strong>When you demand answers from someone weaker than you,</strong> roll +Iron.</p><p><strong>This Move cannot be Shared.</strong></p>",
     "moveType": "core",
     "rollFormula": "",
     "moveResults": {
       "failure": {
         "key": "system.moveResults.failure.value",
         "label": "Complications...",
-        "value": "You may only ask one question."
+        "value": "<p>You may only ask one question.</p><p>One of their answers may be a lie, if they want to lie to you. You will not be told which answer is the lie, or even if there is a lie at all</p>"
       },
       "partial": {
         "key": "system.moveResults.partial.value",
         "label": "Partial success.",
-        "value": "Ask two questions from the list. They must answer honestly."
+        "value": "<p>Ask two questions from the list. They must answer honestly. </p><p>One of their answers may be a lie, if they want to lie to you. You will not be told which answer is the lie, or even if there is a lie at all</p>"
       },
       "success": {
         "key": "system.moveResults.success.value",
         "label": "Success!",
-        "value": "Ask two questions from the list. They must answer honestly."
+        "value": "<p>Ask two questions from the list. They must answer honestly.</p>"
       }
     },
     "uses": 0,
     "rollType": "iron",
     "rollMod": 0,
     "actorType": "character",
-    "choices": ""
+    "choices": "<ul><li>What can you tell me about ________?</li><li>What are you hiding?</li><li>Where is ________?</li><li>No more questions. Deal damage and end the interrogation.</li></ul>"
   },
   "effects": [],
   "sort": 200000,
@@ -42,9 +42,9 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.12",
+    "systemVersion": "1.1.21",
     "createdTime": null,
-    "modifiedTime": 1751824771536,
+    "modifiedTime": 1753133095844,
     "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },

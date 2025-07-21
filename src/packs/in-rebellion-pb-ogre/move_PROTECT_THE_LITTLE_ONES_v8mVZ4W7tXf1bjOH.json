@@ -5,7 +5,7 @@
   "_id": "v8mVZ4W7tXf1bjOH",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>Your large size and reckless nature put you in harm's way easily, and both allies and enemies need to be careful or they'll hit you instead of their target.</p><p>When your body is between someone and incoming harm, you suffer that harm in their place. This happens whether you want it to or not.</p><p>When an ally within your reach would Overcome incoming harm, they may choose to have you take that harm instead of rolling.</p><p><em>Protect The Little Ones</em> does not trigger if you are the source of the incoming harm. For example, if an ally within your reach suffers from your collateral damage, they cannot make you take that harm instead.</p>",
+    "description": "<p>Your large size and reckless nature put you in harm's way easily, and both allies and enemies need to be careful or they'll hit you instead of their target.</p><p><strong>When your body is between someone and incoming harm,</strong> you suffer that harm in their place. This happens whether you want it to or not.</p><p><strong>When an ally within your reach would @UUID[Compendium.fellowship-pbta.basic-moves.Item.h7JpSHtXSQYIjsWA]{Overcome} incoming harm,</strong> they may choose to have you take that harm instead of rolling.</p><p><em>@UUID[Compendium.fellowship-pbta.in-rebellion-pb-ogre.Item.v8mVZ4W7tXf1bjOH]{Protect The Little Ones}</em> does not trigger if you are the source of the incoming harm. For example, if an ally within your reach suffers from your collateral damage, they cannot make you take that harm instead.</p>",
     "moveType": "core",
     "rollFormula": "",
     "moveResults": {
@@ -42,10 +42,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.12",
+    "systemVersion": "1.1.21",
     "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null,
+    "modifiedTime": 1753134849544,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!v8mVZ4W7tXf1bjOH"

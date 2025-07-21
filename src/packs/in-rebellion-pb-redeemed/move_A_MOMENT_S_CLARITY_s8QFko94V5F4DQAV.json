@@ -5,7 +5,7 @@
   "_id": "s8QFko94V5F4DQAV",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p><strong>When you make a move against the fellowship,</strong> they may erase one Bond they hold with you to make you hesitate. Choose one: You show them mercy, you tell them something important, or you act anyway, rolling with Despair.</p><p><strong>This Move cannot be Shared.</strong></p>",
+    "description": "<p><strong>When you make a move against the fellowship,</strong> they may erase one Bond they hold with you to make you hesitate. <strong>Choose one:</strong> You show them mercy, you tell them something important, or you act anyway, rolling with Despair.</p><p><strong>This Move cannot be Shared.</strong></p>",
     "moveType": "core",
     "rollFormula": "",
     "moveResults": {
@@ -26,7 +26,7 @@
       }
     },
     "uses": 0,
-    "rollType": "none",
+    "rollType": "",
     "rollMod": 0,
     "actorType": "character",
     "choices": ""
@@ -42,9 +42,9 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.12",
+    "systemVersion": "1.1.21",
     "createdTime": null,
-    "modifiedTime": 1751824771536,
+    "modifiedTime": 1753133181527,
     "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },

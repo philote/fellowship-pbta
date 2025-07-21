@@ -5,7 +5,7 @@
   "_id": "pJKAC4u3VMnyJqfu",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>The Pair <em>Commands Lore</em> about an organization, instead of a society. You come from a company of mercenaries, bounty hunters, heroes, or some other such group. You <em>Command Lore</em> about who they are, what they want, their place in the world, their culture, their rivals, their enemies, and their laws, just as everyone else does.</p>",
+    "description": "<p>The Pair <em>@UUID[Compendium.fellowship-pbta.special-moves.Item.YE99aLoamM4pDgT7]{Commands Lore}</em> about an organization, instead of a society. You come from a company of mercenaries, bounty hunters, heroes, or some other such group. You <em>@UUID[Compendium.fellowship-pbta.special-moves.Item.YE99aLoamM4pDgT7]{Command Lore}</em> about who they are, what they want, their place in the world, their culture, their rivals, their enemies, and their laws, just as everyone else does.</p><p><span style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:rgb(120, 46, 34) rgba(0, 0, 0, 0);color:rgb(39, 44, 51);font-family:Roboto, sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;letter-spacing:normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgb(221, 222, 223);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\"><strong>This Move cannot be Shared.</strong></span></p>",
     "moveType": "core",
     "rollFormula": "",
     "moveResults": {
@@ -42,10 +42,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.12",
+    "systemVersion": "1.1.21",
     "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null,
+    "modifiedTime": 1753134014931,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!pJKAC4u3VMnyJqfu"

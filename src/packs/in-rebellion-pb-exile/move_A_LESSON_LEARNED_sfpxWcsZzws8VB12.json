@@ -5,7 +5,7 @@
   "_id": "sfpxWcsZzws8VB12",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>When you forgive someone who did you wrong and tell them so, heal them, heal yourself, and <em>Forge a Bond</em> with them.</p>",
+    "description": "<p><strong>When you forgive someone who did you wrong and tell them so</strong>, heal them, heal yourself, and <em>@UUID[Compendium.fellowship-pbta.bond-moves.Item.28gRsLA4GNORvwg6]{Forge a Bond}</em> with them.</p>",
     "moveType": "core",
     "rollFormula": "",
     "moveResults": {
@@ -42,10 +42,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.12",
+    "systemVersion": "1.1.21",
     "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null,
+    "modifiedTime": 1753136411186,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!sfpxWcsZzws8VB12"

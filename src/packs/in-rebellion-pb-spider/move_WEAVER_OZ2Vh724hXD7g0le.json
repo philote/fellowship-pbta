@@ -5,7 +5,7 @@
   "_id": "OZ2Vh724hXD7g0le",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>You can produce infinite silk rope. You can use it for anything sticky, durable, flexible rope is good for. Your <em>Web Spinning</em> traps and Traps in your Gear gain the <em>Giant</em> tag, letting them affect up to three targets in the area.</p>",
+    "description": "<p>You can produce infinite silk rope. You can use it for anything sticky, durable, flexible rope is good for. Your <em>@UUID[Compendium.fellowship-pbta.in-rebellion-pb-spider.Item.TTqsDtJwGyslqnrf]{Web Spinning}</em> traps and Traps in your Gear gain the <em>Giant</em> tag, letting them affect up to three targets in the area.</p>",
     "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
@@ -42,10 +42,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.12",
+    "systemVersion": "1.1.21",
     "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null,
+    "modifiedTime": 1753131074783,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!OZ2Vh724hXD7g0le"

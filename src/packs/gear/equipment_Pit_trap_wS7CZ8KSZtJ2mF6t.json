@@ -5,7 +5,7 @@
   "_id": "wS7CZ8KSZtJ2mF6t",
   "img": "icons/commodities/wood/fence-posts-brown.webp",
   "system": {
-    "description": "<p>Use it to make them fall into a hole.</p>",
+    "description": "<p><em>The classic. Nobody gets out of one of these quickly.</em></p><p>Use it to make them fall into a hole.</p>",
     "uses": 2,
     "quantity": 1,
     "weight": 0,
@@ -26,10 +26,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.12",
+    "systemVersion": "1.1.21",
     "createdTime": 1737155531211,
-    "modifiedTime": 1739053372109,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753131699147,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!wS7CZ8KSZtJ2mF6t"

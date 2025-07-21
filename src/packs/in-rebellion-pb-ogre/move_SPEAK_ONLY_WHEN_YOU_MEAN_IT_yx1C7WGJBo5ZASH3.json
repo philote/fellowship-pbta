@@ -5,7 +5,7 @@
   "_id": "yx1C7WGJBo5ZASH3",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>When you <em>Speak Softly</em> while saying little, you may ask an additional question. When you <em>Talk Sense</em> using +Wisdom, they will always be willing to listen to you.</p>",
+    "description": "<p><strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.Item.Ml6muq1ZjhkuT7FF]{Speak Softly}</strong></em><strong> while saying little,</strong> you may ask an additional question. </p><p><strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.Item.3lOlQnDdQRaiR47g]{Talk Sense}</strong></em><strong> using +Wisdom,</strong> they will always be willing to listen to you.</p>",
     "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
@@ -42,10 +42,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.12",
+    "systemVersion": "1.1.21",
     "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null,
+    "modifiedTime": 1753135088892,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!yx1C7WGJBo5ZASH3"

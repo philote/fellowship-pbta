@@ -5,7 +5,7 @@
   "_id": "YvK8OaBgRbpvJoLw",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>You may extinguish any flame within arm's reach by touching it, tell us what this looks like. Eating a fire instantly reloads your Fire. You may use this to <em>Overcome</em> attacks with the <em>Burning</em> tag as if you got a 10. If you also have <em>Fire and Ice</em>, you may apply this move to that element too, instantly absorbing electricity, clearing ice, or removing poison from something you touch to Reload your Lightning, your Ice, or your Poison.</p>",
+    "description": "<p>You may extinguish any flame within arm's reach by touching it, tell us what this looks like. Eating a fire instantly reloads your Fire. You may use this to <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.h7JpSHtXSQYIjsWA]{Overcome}</em> attacks with the <em>Burning</em> tag as if you got a 10. </p><p><strong>If you also have </strong><em><strong>@UUID[Compendium.fellowship-pbta.in-rebellion-pb-dragon.Item.8jIqhANfPVtb9se4]{Fire and Ice}</strong></em><strong>,</strong> you may apply this move to that element too, instantly absorbing electricity, clearing ice, or removing poison from something you touch to Reload your Lightning, your Ice, or your Poison.</p>",
     "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
@@ -42,10 +42,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.12",
+    "systemVersion": "1.1.21",
     "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null,
+    "modifiedTime": 1753137036113,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!YvK8OaBgRbpvJoLw"

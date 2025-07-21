@@ -5,7 +5,7 @@
   "_id": "cO8xYe3Hj0zwGlMW",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p><strong>When you </strong><em><strong>Keep Them Busy</strong></em><strong> or </strong><em><strong>Overcome</strong></em><strong> harm,</strong> you gain 1 Web after the roll, regardless of its result.</p><p><strong>This Move cannot be Shared.</strong></p>",
+    "description": "<p><strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.Item.uXriNVHOmu3064KN]{Keep Them Busy}</strong></em><strong> or </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.Item.h7JpSHtXSQYIjsWA]{Overcome}</strong></em><strong> harm,</strong> you gain 1 Web after the roll, regardless of its result.</p><p><strong>This Move cannot be Shared.</strong></p>",
     "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
@@ -42,10 +42,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.12",
+    "systemVersion": "1.1.21",
     "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null,
+    "modifiedTime": 1753131116772,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!cO8xYe3Hj0zwGlMW"

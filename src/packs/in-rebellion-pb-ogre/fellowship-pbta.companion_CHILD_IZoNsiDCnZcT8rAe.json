@@ -3,7 +3,7 @@
   "name": "CHILD",
   "type": "fellowship-pbta.companion",
   "_id": "IZoNsiDCnZcT8rAe",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/fellowship-pbta/assets/icons/character.svg",
   "system": {
     "typeName": "CHILD",
     "typeDescription": "An innocent child who the ogre has sworn to protect.",
@@ -32,8 +32,8 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null,
+    "modifiedTime": 1753135256164,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!IZoNsiDCnZcT8rAe"

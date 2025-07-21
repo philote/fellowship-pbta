@@ -3,7 +3,7 @@
   "name": "KOBOLD THINKER",
   "type": "fellowship-pbta.companion",
   "_id": "slUp3wfDIiNzOea1",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/fellowship-pbta/assets/icons/character.svg",
   "system": {
     "typeName": "KOBOLD THINKER",
     "typeDescription": "They've got a plan, and you might be a part of it.",
@@ -32,8 +32,8 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null,
+    "modifiedTime": 1753136851817,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!slUp3wfDIiNzOea1"
