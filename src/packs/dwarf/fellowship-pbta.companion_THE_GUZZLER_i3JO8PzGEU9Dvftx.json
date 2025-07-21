@@ -3,7 +3,7 @@
   "name": "THE GUZZLER",
   "type": "fellowship-pbta.companion",
   "_id": "i3JO8PzGEU9Dvftx",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/fellowship-pbta/assets/icons/dwarf-helmet.svg",
   "system": {
     "typeName": "THE GUZZLER",
     "typeDescription": "A prototype automobile, there's nothing like it in all the world. It runs on alcohol, pops, and bangs.",
@@ -33,7 +33,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.21",
     "createdTime": 1736232224247,
-    "modifiedTime": 1753059753800,
+    "modifiedTime": 1753078861025,
     "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },

@@ -3,7 +3,7 @@
   "name": "WITCH'S BROOM",
   "type": "fellowship-pbta.companion",
   "_id": "H7F38r4wpKHAdy6M",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/fellowship-pbta/assets/icons/magic-broom.svg",
   "system": {
     "typeName": "WITCH'S BROOM",
     "typeDescription": "A simple broomstick, complete with vintage bristles from 1287, a finely bound leather handle, and a silver inlaid inscription of its owner's name.",
@@ -33,8 +33,8 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1736841973348,
-    "modifiedTime": 1736841999551,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753080346968,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!H7F38r4wpKHAdy6M"

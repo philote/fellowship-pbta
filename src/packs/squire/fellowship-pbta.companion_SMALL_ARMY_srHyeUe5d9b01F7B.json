@@ -3,7 +3,7 @@
   "name": "SMALL ARMY",
   "type": "fellowship-pbta.companion",
   "_id": "srHyeUe5d9b01F7B",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/fellowship-pbta/assets/icons/backup.svg",
   "system": {
     "typeName": "SMALL ARMY",
     "typeDescription": "Untrained and poorly armored, these warriors are nevertheless dedicated to their cause.",
@@ -33,8 +33,8 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1736842729815,
-    "modifiedTime": 1736842747594,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753081578590,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!srHyeUe5d9b01F7B"

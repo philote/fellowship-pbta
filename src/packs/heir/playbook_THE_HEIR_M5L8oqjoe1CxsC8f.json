@@ -405,8 +405,7 @@
       {
         "title": "HEIR'S CORE",
         "desc": "The Heir has these moves.",
-        "grantOn": 0,
-        "advancement": 0,
+        "type": "multi",
         "repeatable": true,
         "choices": [
           {
@@ -422,15 +421,15 @@
             "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 0,
+        "granted": false,
+        "advancement": 0
       },
       {
         "title": "HEIR'S CUSTOM",
         "desc": "Choose two of these moves to further define what it means to be the Heir.",
-        "grantOn": 1,
-        "advancement": 0,
-        "repeatable": true,
+        "type": "multi",
+        "repeatable": false,
         "choices": [
           {
             "uuid": "Compendium.fellowship-pbta.heir.Item.xjrA1S81iLydYpor",
@@ -481,19 +480,25 @@
             "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 1,
+        "granted": false,
+        "advancement": 0
       },
       {
         "title": "Starting gear",
         "desc": "",
-        "grantOn": 0,
-        "advancement": 0,
+        "type": "multi",
         "repeatable": true,
         "choices": [
           {
             "uuid": "Compendium.fellowship-pbta.gear.Item.yo8SX9rl4wL59Y2A",
             "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.gear.Item.8HIDw7I4vLw8hBqP",
+            "img": "icons/weapons/swords/sword-guard-engraved.webp",
             "granted": false,
             "advancement": 0
           },
@@ -514,21 +519,39 @@
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.heir.Item.6EYYjCgBJLsgeqwZ",
+            "img": "modules/fellowship-pbta/assets/icons/horse-head%20(1).svg",
+            "granted": false,
+            "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 0,
+        "granted": false,
+        "advancement": 0
       },
       {
         "title": "Choose your protection:",
         "desc": "Choose one group: Sword & Armor, Bow-rifle-knives, Choose Two [advisor, bodyguard, servant, sibling],  Arrow Trap",
-        "grantOn": 1,
-        "advancement": 0,
+        "type": "multi",
         "repeatable": false,
         "choices": [
           {
+            "uuid": "Compendium.fellowship-pbta.heir.Item.vRFYvb8VG8BnPXGI",
+            "img": "modules/fellowship-pbta/assets/icons/character.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
             "uuid": "Compendium.fellowship-pbta.gear.Item.b5VSjd1HSQ0DyE09",
             "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.heir.Item.gt035AvesxHTI9jh",
+            "img": "modules/fellowship-pbta/assets/icons/character.svg",
             "granted": false,
             "advancement": 0
           },
@@ -549,16 +572,28 @@
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.heir.Item.O5p1ZaLKFzYDL51F",
+            "img": "modules/fellowship-pbta/assets/icons/character.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.heir.Item.oMvPC5JZkYMmkecS",
+            "img": "modules/fellowship-pbta/assets/icons/character.svg",
+            "granted": false,
+            "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 1,
+        "granted": false,
+        "advancement": 0
       },
       {
         "title": "Choose the one thing you brought excessive amounts of:",
         "desc": "Food and Drink go together.",
-        "grantOn": 1,
-        "advancement": 0,
+        "type": "multi",
         "repeatable": false,
         "choices": [
           {
@@ -586,8 +621,9 @@
             "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 1,
+        "granted": false,
+        "advancement": 0
       }
     ]
   },
@@ -603,10 +639,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.12",
+    "systemVersion": "1.1.21",
     "createdTime": 1736283676179,
-    "modifiedTime": 1737156488031,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753080955661,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_id": "M5L8oqjoe1CxsC8f",

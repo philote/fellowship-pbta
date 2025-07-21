@@ -3,7 +3,7 @@
   "name": "FAST-TALKER",
   "type": "fellowship-pbta.companion",
   "_id": "ltebyq5S2wXwPAvH",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/fellowship-pbta/assets/icons/cultist.svg",
   "system": {
     "typeName": "FAST-TALKER",
     "typeDescription": "If you'll just listen, you'll understand...",
@@ -33,8 +33,8 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1736841352015,
-    "modifiedTime": 1736841465868,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753079853582,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!ltebyq5S2wXwPAvH"

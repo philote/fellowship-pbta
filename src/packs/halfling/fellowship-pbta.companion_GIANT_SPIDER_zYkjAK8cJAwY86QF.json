@@ -3,7 +3,7 @@
   "name": "GIANT SPIDER",
   "type": "fellowship-pbta.companion",
   "_id": "zYkjAK8cJAwY86QF",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/fellowship-pbta/assets/icons/spider-alt.svg",
   "system": {
     "typeName": "GIANT SPIDER",
     "typeDescription": "Many find these massive spiders absolutely terrifying, but halflings find their mobility to be second to none.",
@@ -33,8 +33,8 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1736841719896,
-    "modifiedTime": 1736841742007,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753079891400,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!zYkjAK8cJAwY86QF"

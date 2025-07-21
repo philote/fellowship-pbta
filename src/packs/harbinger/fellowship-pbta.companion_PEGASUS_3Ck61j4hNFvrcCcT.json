@@ -3,7 +3,7 @@
   "name": "PEGASUS",
   "type": "fellowship-pbta.companion",
   "_id": "3Ck61j4hNFvrcCcT",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/fellowship-pbta/assets/icons/pegasus.svg",
   "system": {
     "typeName": "PEGASUS",
     "typeDescription": "A winged horse. Just like a regular horse, but significantly more mobile.",
@@ -33,8 +33,8 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1736841941615,
-    "modifiedTime": 1736841962446,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753080310954,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!3Ck61j4hNFvrcCcT"

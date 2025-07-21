@@ -3,7 +3,7 @@
   "name": "BIG LUG",
   "type": "fellowship-pbta.companion",
   "_id": "R51OfnlMiB7DJbhF",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/fellowship-pbta/assets/icons/orc-head.svg",
   "system": {
     "typeName": "BIG LUG",
     "typeDescription": "Real big, real strong, real stupid.",
@@ -33,8 +33,8 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1736842373373,
-    "modifiedTime": 1736842395935,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753081086221,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!R51OfnlMiB7DJbhF"

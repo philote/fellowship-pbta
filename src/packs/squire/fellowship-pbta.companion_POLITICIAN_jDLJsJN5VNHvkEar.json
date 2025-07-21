@@ -3,7 +3,7 @@
   "name": "POLITICIAN",
   "type": "fellowship-pbta.companion",
   "_id": "jDLJsJN5VNHvkEar",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/fellowship-pbta/assets/icons/character.svg",
   "system": {
     "typeName": "POLITICIAN",
     "typeDescription": "They have their own agenda, but it has nothing to do with you or the Overlord. Probably.",
@@ -33,8 +33,8 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1736842659934,
-    "modifiedTime": 1736842678057,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753081458417,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!jDLJsJN5VNHvkEar"

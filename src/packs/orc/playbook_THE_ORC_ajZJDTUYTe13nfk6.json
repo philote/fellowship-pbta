@@ -405,8 +405,7 @@
       {
         "title": "ORCISH CORE",
         "desc": "All Orcs have these moves.",
-        "grantOn": 0,
-        "advancement": 0,
+        "type": "multi",
         "repeatable": true,
         "choices": [
           {
@@ -422,15 +421,15 @@
             "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 0,
+        "granted": false,
+        "advancement": 0
       },
       {
         "title": "ORC CUSTOM",
         "desc": "Choose two of these moves to further define what it means to be the Orc.",
-        "grantOn": 1,
-        "advancement": 0,
-        "repeatable": true,
+        "type": "multi",
+        "repeatable": false,
         "choices": [
           {
             "uuid": "Compendium.fellowship-pbta.orc.Item.oyDbAmEhVC98tzCR",
@@ -481,14 +480,14 @@
             "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 1,
+        "granted": false,
+        "advancement": 0
       },
       {
         "title": "Starting Gear",
         "desc": "",
-        "grantOn": 0,
-        "advancement": 0,
+        "type": "multi",
         "repeatable": true,
         "choices": [
           {
@@ -522,14 +521,14 @@
             "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 0,
+        "granted": false,
+        "advancement": 0
       },
       {
         "title": "Choose two weapons you brought along for this journey:",
         "desc": "",
-        "grantOn": 1,
-        "advancement": 0,
+        "type": "multi",
         "repeatable": false,
         "choices": [
           {
@@ -557,33 +556,81 @@
             "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 1,
+        "granted": false,
+        "advancement": 0
       },
       {
         "title": "Choose your companion",
         "desc": "You have 1 Bond with them:",
-        "grantOn": 1,
-        "advancement": 0,
+        "type": "multi",
         "repeatable": false,
         "choices": [
+          {
+            "uuid": "Compendium.fellowship-pbta.orc.Item.R51OfnlMiB7DJbhF",
+            "img": "modules/fellowship-pbta/assets/icons/orc-head.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.orc.Item.hQvWLg8vEmtqrSEu",
+            "img": "modules/fellowship-pbta/assets/icons/orc-head.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.orc.Item.2AAeAJFsSAOnIEuI",
+            "img": "modules/fellowship-pbta/assets/icons/orc-head.svg",
+            "granted": false,
+            "advancement": 0
+          },
           {
             "uuid": "Compendium.fellowship-pbta.gear.Item.9vjqitGm8MnbQORx",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.orc.Item.XXpVVgV924V93TnO",
+            "img": "modules/fellowship-pbta/assets/icons/wolf-head.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.orc.Item.OzyUXn5diHZc9m2U",
+            "img": "modules/fellowship-pbta/assets/icons/wolf-howl.svg",
+            "granted": false,
+            "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 1,
+        "granted": false,
+        "advancement": 0
       },
       {
         "title": "Choose your treasure:",
         "desc": "",
-        "grantOn": 1,
-        "advancement": 0,
+        "type": "multi",
         "repeatable": false,
         "choices": [
+          {
+            "uuid": "Compendium.fellowship-pbta.orc.Item.R51OfnlMiB7DJbhF",
+            "img": "modules/fellowship-pbta/assets/icons/orc-head.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.orc.Item.hQvWLg8vEmtqrSEu",
+            "img": "modules/fellowship-pbta/assets/icons/orc-head.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.orc.Item.2AAeAJFsSAOnIEuI",
+            "img": "modules/fellowship-pbta/assets/icons/orc-head.svg",
+            "granted": false,
+            "advancement": 0
+          },
           {
             "uuid": "Compendium.fellowship-pbta.gear.Item.u05EqEdy3DFS42Oh",
             "img": "icons/svg/item-bag.svg",
@@ -597,16 +644,22 @@
             "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 1,
+        "granted": false,
+        "advancement": 0
       },
       {
         "title": "Choose the reason the Orcs named you their champion:",
         "desc": "",
-        "grantOn": 1,
-        "advancement": 0,
+        "type": "multi",
         "repeatable": false,
         "choices": [
+          {
+            "img": "icons/magic/control/mouth-smile-deception-purple.webp",
+            "uuid": "Compendium.fellowship-pbta.gear.Item.5ixe2xcN9w1DVx0u",
+            "granted": false,
+            "advancement": 0
+          },
           {
             "uuid": "Compendium.fellowship-pbta.gear.Item.5CJBXbUJB2bKwJdx",
             "img": "icons/svg/item-bag.svg",
@@ -626,8 +679,9 @@
             "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 1,
+        "granted": false,
+        "advancement": 0
       }
     ]
   },
@@ -643,10 +697,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.12",
+    "systemVersion": "1.1.21",
     "createdTime": 1736283672066,
-    "modifiedTime": 1737156421185,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753081253168,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_id": "ajZJDTUYTe13nfk6",

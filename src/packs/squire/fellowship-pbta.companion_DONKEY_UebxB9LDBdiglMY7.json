@@ -3,7 +3,7 @@
   "name": "DONKEY",
   "type": "fellowship-pbta.companion",
   "_id": "UebxB9LDBdiglMY7",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/fellowship-pbta/assets/icons/donkey.svg",
   "system": {
     "typeName": "DONKEY",
     "typeDescription": "Donkeys are similar to horses, but a little smaller, a little tougher, and infinitely more stubborn.",
@@ -29,8 +29,8 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1736842615053,
-    "modifiedTime": 1736842628502,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753081400307,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!UebxB9LDBdiglMY7"

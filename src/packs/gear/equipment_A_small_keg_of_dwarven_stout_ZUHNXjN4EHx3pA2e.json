@@ -1,0 +1,36 @@
+{
+  "name": "A small keg of dwarven stout",
+  "type": "equipment",
+  "_id": "ZUHNXjN4EHx3pA2e",
+  "img": "icons/containers/barrels/barrel-oak-gold.webp",
+  "system": {
+    "description": "<p>Strong alcohol</p><p><em>Vigor, then Drunk</em></p>",
+    "uses": 4,
+    "quantity": 1,
+    "weight": 0,
+    "tags": "[{\"value\":\"Vigor\"},{\"value\":\"Drunk\"}]",
+    "itemType": "",
+    "equipmentType": "gear",
+    "actorType": "character"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSvWyw8NYcFGMf4t": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.21",
+    "createdTime": 1753073199374,
+    "modifiedTime": 1753073284796,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t"
+  },
+  "_key": "!items!ZUHNXjN4EHx3pA2e"
+}

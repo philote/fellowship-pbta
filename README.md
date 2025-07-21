@@ -93,3 +93,30 @@ __File Usage:__ CC0
 Used for background texture \
 __Smithsonian Record ID:__ [edanmdm:chndm_1979-91-953](http://n2t.net/ark:/65665/kq4d02a3c84-a1ad-451b-963b-208517d7d8aa) \
 __File Usage:__ CC0
+
+Icons used are from game-icons.net and are released under a [Creative Commons Attribution 3.0 Unported license](http://creativecommons.org/licenses/by/3.0/).\
+Dwarf helmet icon by Kier Heyl under CC BY 3.0\
+Elf helmet icon by Kier Heyl under CC BY 3.0\
+Orc head icon by Delapouite under CC BY 3.0\
+Cultist icon by Lorc under CC BY 3.0\
+Space suit icon by Lorc under CC BY 3.0\
+Egyptian bird icon by Delapouite under CC BY 3.0\
+Unicorn icon by Delapouite under CC BY 3.0\
+Wolf howl icon by Lorc under CC BY 3.0\
+Boar icon by Caro Asercion under CC BY 3.0\
+Spider icon by Carl Olsen under CC BY 3.0\
+Old wagon icon by Delapouite under CC BY 3.0\
+Hound icon by Lorc under CC BY 3.0\
+Griffin symbol icon by Delapouite under CC BY 3.0\
+Pegasus icon by Skoll under CC BY 3.0\
+Magic broom icon by Delapouite under CC BY 3.0\
+Character icon by Delapouite under CC BY 3.0\
+Horse head icon by Delapouite under CC BY 3.0\
+Donkey icon by Skoll under CC BY 3.0\
+Horse head icon by Lorc under CC BY 3.0\
+Wolf head icon by Lorc under CC BY 3.0\
+Elephant head icon by Delapouite under CC BY 3.0\
+Tank icon by Lorc under CC BY 3.0\
+Ogre icon by Delapouite under CC BY 3.0\
+Shambling zombie icon by Delapouite under CC BY 3.0\
+Backup icon by Lorc under CC BY 3.0\

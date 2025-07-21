@@ -401,8 +401,7 @@
       {
         "title": "SQUIRE CORE",
         "desc": "All Squires have these moves.",
-        "grantOn": 0,
-        "advancement": 0,
+        "type": "multi",
         "repeatable": true,
         "choices": [
           {
@@ -424,15 +423,15 @@
             "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 0,
+        "granted": false,
+        "advancement": 0
       },
       {
         "title": "SQUIRE CUSTOM",
         "desc": "Choose two of these moves to further define what it means to be the Squire.",
-        "grantOn": 1,
-        "advancement": 0,
-        "repeatable": true,
+        "type": "multi",
+        "repeatable": false,
         "choices": [
           {
             "uuid": "Compendium.fellowship-pbta.squire.Item.DU1UQUX7lnRCnX3v",
@@ -483,14 +482,14 @@
             "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 1,
+        "granted": false,
+        "advancement": 0
       },
       {
         "title": "Starting gear",
         "desc": "",
-        "grantOn": 0,
-        "advancement": 0,
+        "type": "multi",
         "repeatable": true,
         "choices": [
           {
@@ -512,14 +511,14 @@
             "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 0,
+        "granted": false,
+        "advancement": 0
       },
       {
         "title": "Choose what you brought to keep yourself safe:",
         "desc": "",
-        "grantOn": 1,
-        "advancement": 0,
+        "type": "multi",
         "repeatable": false,
         "choices": [
           {
@@ -531,6 +530,12 @@
           {
             "uuid": "Compendium.fellowship-pbta.gear.Item.ek7zXaVmcVflo4A9",
             "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.gear.Item.5wojxwqIYtz0Q64G",
+            "img": "icons/tools/laboratory/mortar-powder-green.webp",
             "granted": false,
             "advancement": 0
           },
@@ -547,14 +552,14 @@
             "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 1,
+        "granted": false,
+        "advancement": 0
       },
       {
         "title": "You were more prepared than anyone else",
         "desc": "You brought along some extra supplies just in case. Choose one:",
-        "grantOn": 1,
-        "advancement": 0,
+        "type": "multi",
         "repeatable": false,
         "choices": [
           {
@@ -582,14 +587,14 @@
             "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 1,
+        "granted": false,
+        "advancement": 0
       },
       {
         "title": "You weren't supposed to be here",
         "desc": "but you are. What extra luck did you bring with you? Choose one:",
-        "grantOn": 1,
-        "advancement": 0,
+        "type": "multi",
         "repeatable": false,
         "choices": [
           {
@@ -603,10 +608,17 @@
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
+          },
+          {
+            "img": "icons/magic/unholy/strike-body-life-soul-purple.webp",
+            "uuid": "Compendium.fellowship-pbta.gear.Item.Ql5XRwzowMZJcIms",
+            "granted": false,
+            "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 1,
+        "granted": false,
+        "advancement": 0
       }
     ]
   },
@@ -622,10 +634,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.12",
+    "systemVersion": "1.1.21",
     "createdTime": 1736283668419,
-    "modifiedTime": 1737156395314,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753081374869,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_id": "F1cHL89Rkebi38so",

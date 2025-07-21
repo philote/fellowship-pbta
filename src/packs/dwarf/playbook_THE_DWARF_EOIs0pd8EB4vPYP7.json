@@ -405,8 +405,7 @@
       {
         "title": "DWARVEN CORE",
         "desc": "All Dwarves have these moves.",
-        "grantOn": 0,
-        "advancement": 0,
+        "type": "multi",
         "repeatable": true,
         "choices": [
           {
@@ -428,15 +427,15 @@
             "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 0,
+        "granted": false,
+        "advancement": 0
       },
       {
         "title": "DWARVEN CUSTOM",
         "desc": "Choose two of these moves to further define what it means to be a Dwarf.",
-        "grantOn": 1,
-        "advancement": 0,
-        "repeatable": true,
+        "type": "multi",
+        "repeatable": false,
         "choices": [
           {
             "uuid": "Compendium.fellowship-pbta.dwarf.Item.UO0dP4wPaJypfoAG",
@@ -487,176 +486,219 @@
             "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 1,
+        "granted": false,
+        "advancement": 0
       },
       {
         "title": "Starting Gear",
         "desc": "",
-        "grantOn": 0,
-        "advancement": 0,
+        "type": "multi",
         "repeatable": true,
         "choices": [
           {
             "uuid": "Compendium.fellowship-pbta.gear.Item.KPRpyiOp1HmcnZgR",
-            "img": "icons/svg/item-bag.svg",
+            "img": "icons/equipment/chest/breastplate-scale-grey.webp",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.gear.Item.94zS9UySeWBY8Kt0",
-            "img": "icons/svg/item-bag.svg",
+            "img": "icons/consumables/grains/pastry-bread-brown.webp",
             "granted": false,
             "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 0,
+        "granted": false,
+        "advancement": 0
       },
       {
         "title": "Choose your weapon",
         "desc": "All are Melee and Dwarf-Made.",
-        "grantOn": 1,
-        "advancement": 0,
+        "type": "multi",
         "repeatable": false,
         "choices": [
           {
             "uuid": "Compendium.fellowship-pbta.gear.Item.xEcGIEAnVJAWQPvI",
-            "img": "icons/svg/item-bag.svg",
+            "img": "icons/weapons/axes/axe-double-engraved-black.webp",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.gear.Item.WmrdJDNoiS7Onr5c",
-            "img": "icons/svg/item-bag.svg",
+            "img": "icons/weapons/hammers/hammer-double-engraved-gold.webp",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.gear.Item.Blus5UCkKmCgocGK",
-            "img": "icons/svg/item-bag.svg",
+            "img": "icons/weapons/maces/mace-flanged-steel-grey.webp",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.gear.Item.9RKJOWRJoKCtuPi6",
-            "img": "icons/svg/item-bag.svg",
+            "img": "icons/skills/melee/unarmed-punch-fist-yellow-red.webp",
             "granted": false,
             "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 1,
+        "granted": false,
+        "advancement": 0
       },
       {
         "title": "What do the dwarves have that no one else does?",
         "desc": "Choose a group and pick the items in that group below: Gunpowder [Rifle & Trap], Rare or strange material [Heavy Armor, Shield], Strong Alcohol [Small keg]",
-        "grantOn": 1,
-        "advancement": 0,
+        "type": "multi",
         "repeatable": false,
         "choices": [
           {
-            "uuid": "Compendium.fellowship-pbta.gear.Item.0WW25Ew9cu7Q56Hu",
-            "img": "icons/svg/item-bag.svg",
+            "uuid": "Compendium.fellowship-pbta.gear.Item.ZUHNXjN4EHx3pA2e",
+            "img": "icons/containers/barrels/barrel-oak-gold.webp",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.gear.Item.MZFFIZhZdyhLXGuQ",
-            "img": "icons/svg/item-bag.svg",
+            "img": "icons/magic/fire/explosion-mushroom-nuke-orange.webp",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.gear.Item.QhGzLDGIX05erSWf",
-            "img": "icons/svg/item-bag.svg",
+            "img": "icons/equipment/chest/breastplate-layered-steel.webp",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.gear.Item.0WW25Ew9cu7Q56Hu",
+            "img": "icons/weapons/guns/gun-purple.webp",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.gear.Item.E0d12vSFl1wvNugY",
-            "img": "icons/svg/item-bag.svg",
+            "img": "icons/skills/melee/shield-block-gray-orange.webp",
             "granted": false,
             "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 1,
+        "granted": false,
+        "advancement": 0
       },
       {
         "title": "The Dwarves are famous for their trade",
         "desc": "Choose one:",
-        "grantOn": 1,
-        "advancement": 0,
+        "type": "multi",
         "repeatable": false,
         "choices": [
           {
             "uuid": "Compendium.fellowship-pbta.gear.Item.n9YbY9Foa0wQU2nE",
-            "img": "icons/svg/item-bag.svg",
+            "img": "icons/commodities/currency/coins-plain-pouch-gold.webp",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.gear.Item.a5Zhkmk2pTglYUAO",
-            "img": "icons/svg/item-bag.svg",
+            "img": "icons/tools/hand/hammer-simple-stone.webp",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.gear.Item.jXgxplJQnOJvzInu",
-            "img": "icons/svg/item-bag.svg",
+            "img": "icons/skills/trades/mining-pickaxe-iron-blue.webp",
             "granted": false,
             "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 1,
+        "granted": false,
+        "advancement": 0
       },
       {
         "title": "What dwarven companions did you bring with you?",
         "desc": "Choose two: (who you have 1 Bond with each)",
-        "grantOn": 1,
-        "advancement": 0,
+        "type": "multi",
         "repeatable": false,
         "choices": [
           {
+            "uuid": "Compendium.fellowship-pbta.dwarf.Item.Z6InU743Ah3YdbgS",
+            "img": "modules/fellowship-pbta/assets/icons/dwarf-helmet.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.dwarf.Item.MSdRaRCocdgQFQL3",
+            "img": "modules/fellowship-pbta/assets/icons/dwarf-helmet.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.dwarf.Item.sxz8qGOCThYEKtqY",
+            "img": "modules/fellowship-pbta/assets/icons/dwarf-helmet.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.dwarf.Item.nIfu0LZygPMyErsn",
+            "img": "modules/fellowship-pbta/assets/icons/dwarf-helmet.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
             "uuid": "Compendium.fellowship-pbta.gear.Item.NR40w87wPaUiLeAY",
-            "img": "icons/svg/item-bag.svg",
+            "img": "icons/consumables/drinks/alcohol-beer-stein-wooden-metal-brown.webp",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.dwarf.Item.pq6z0g1NlR4MizBn",
+            "img": "modules/fellowship-pbta/assets/icons/dwarf-helmet.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "img": "modules/fellowship-pbta/assets/icons/dwarf-helmet.svg",
+            "uuid": "Compendium.fellowship-pbta.dwarf.Item.i3JO8PzGEU9Dvftx",
             "granted": false,
             "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 1,
+        "granted": false,
+        "advancement": 0
       },
       {
         "title": "What is the one possession you hold most dear?",
         "desc": "Choose one:",
-        "grantOn": 1,
-        "advancement": 0,
+        "type": "multi",
         "repeatable": false,
         "choices": [
           {
             "uuid": "Compendium.fellowship-pbta.gear.Item.NEGcpD6qW8JPzx7q",
-            "img": "icons/svg/item-bag.svg",
+            "img": "icons/equipment/finger/ring-cabochon-squared-gold-red.webp",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.gear.Item.GWskZgj6DLoSRdEK",
-            "img": "icons/svg/item-bag.svg",
+            "img": "icons/magic/holy/barrier-shield-winged-blue.webp",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.gear.Item.MSY3Er9QKX4UsQox",
-            "img": "icons/svg/item-bag.svg",
+            "img": "icons/skills/trades/smithing-anvil-silver-red.webp",
             "granted": false,
             "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 1,
+        "granted": false,
+        "advancement": 0
       }
     ]
   },
@@ -672,10 +714,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.12",
+    "systemVersion": "1.1.21",
     "createdTime": 1736227989465,
-    "modifiedTime": 1737156018356,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753078993456,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_id": "EOIs0pd8EB4vPYP7",

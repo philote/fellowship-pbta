@@ -3,7 +3,7 @@
   "name": "UNICORN",
   "type": "fellowship-pbta.companion",
   "_id": "nu3jfrsZbxzggeMu",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/fellowship-pbta/assets/icons/unicorn.svg",
   "system": {
     "typeName": "UNICORN",
     "typeDescription": "A beautiful horned horse, famous for their benevolence.",
@@ -33,8 +33,8 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1736841174426,
-    "modifiedTime": 1736841196031,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753079196507,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!nu3jfrsZbxzggeMu"

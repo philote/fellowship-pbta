@@ -3,7 +3,7 @@
   "name": "WAR HORSE",
   "type": "fellowship-pbta.companion",
   "_id": "6EYYjCgBJLsgeqwZ",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/fellowship-pbta/assets/icons/horse-head%20(1).svg",
   "system": {
     "typeName": "WAR HORSE",
     "typeDescription": "A horse trained for war.",
@@ -33,8 +33,8 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1736842327646,
-    "modifiedTime": 1736842344650,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753080815829,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!6EYYjCgBJLsgeqwZ"

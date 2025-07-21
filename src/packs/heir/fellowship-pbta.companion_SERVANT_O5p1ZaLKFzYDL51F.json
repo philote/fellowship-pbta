@@ -3,7 +3,7 @@
   "name": "SERVANT",
   "type": "fellowship-pbta.companion",
   "_id": "O5p1ZaLKFzYDL51F",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/fellowship-pbta/assets/icons/character.svg",
   "system": {
     "typeName": "SERVANT",
     "typeDescription": "A maid, butler, or hired hand to carry your things for you.",
@@ -29,8 +29,8 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1736842147593,
-    "modifiedTime": 1736842162374,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753080709222,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!O5p1ZaLKFzYDL51F"

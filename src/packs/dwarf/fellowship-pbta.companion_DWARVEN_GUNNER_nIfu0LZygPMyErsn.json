@@ -3,7 +3,7 @@
   "name": "DWARVEN GUNNER",
   "type": "fellowship-pbta.companion",
   "_id": "nIfu0LZygPMyErsn",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/fellowship-pbta/assets/icons/dwarf-helmet.svg",
   "system": {
     "typeName": "DWARVEN GUNNER",
     "typeDescription": "Dwarven riflemen are famous throughout the world for their excessive usage of black powder.",
@@ -33,8 +33,8 @@
     "systemId": "pbta",
     "systemVersion": "1.1.9",
     "createdTime": 1736232062648,
-    "modifiedTime": 1736232096674,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753078867928,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!nIfu0LZygPMyErsn"

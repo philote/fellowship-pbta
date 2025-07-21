@@ -1,0 +1,41 @@
+{
+  "folder": "S2unqZEH77Zo0pic",
+  "name": "ELVEN THRONE",
+  "type": "fellowship-pbta.companion",
+  "_id": "Tja4mRkiRSR7XioP",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "typeName": "ELVEN THRONE",
+    "typeDescription": "The Elven Throne is a nickname for a wide variety of devices, almost all entirely natural in origin. Enchanted wooden chairs, wheeled or hovering automatons, even living animals to carry you. They are particularly popular among merfolk who need to travel over land.",
+    "inDespair": false,
+    "stats": [
+      {
+        "name": "a mind of its own",
+        "damaged": false
+      },
+      {
+        "name": "mobile cover",
+        "damaged": false
+      }
+    ]
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSvWyw8NYcFGMf4t": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.21",
+    "createdTime": 1753079584352,
+    "modifiedTime": 1753079659875,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t"
+  },
+  "_key": "!items!Tja4mRkiRSR7XioP"
+}

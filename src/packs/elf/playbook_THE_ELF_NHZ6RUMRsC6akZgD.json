@@ -405,8 +405,7 @@
       {
         "title": "ELVEN CORE",
         "desc": "All Elves have these moves.",
-        "grantOn": 0,
-        "advancement": 0,
+        "type": "multi",
         "repeatable": true,
         "choices": [
           {
@@ -422,15 +421,15 @@
             "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 0,
+        "granted": false,
+        "advancement": 0
       },
       {
         "title": "ELVEN CUSTOM",
         "desc": "Choose two of these moves to further define what it means to be a Elf.",
-        "grantOn": 1,
-        "advancement": 0,
-        "repeatable": true,
+        "type": "multi",
+        "repeatable": false,
         "choices": [
           {
             "uuid": "Compendium.fellowship-pbta.elf.Item.J7FGGbK4Hug1d4LF",
@@ -481,14 +480,14 @@
             "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 1,
+        "granted": false,
+        "advancement": 0
       },
       {
         "title": "Starting Gear",
         "desc": "",
-        "grantOn": 0,
-        "advancement": 0,
+        "type": "multi",
         "repeatable": true,
         "choices": [
           {
@@ -504,16 +503,22 @@
             "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 0,
+        "granted": false,
+        "advancement": 0
       },
       {
         "title": "Choose what protects you from danger:",
         "desc": "If you choose a wolf or hunting bird, you have 2 Bonds with it.",
-        "grantOn": 1,
-        "advancement": 0,
+        "type": "multi",
         "repeatable": false,
         "choices": [
+          {
+            "uuid": "Compendium.fellowship-pbta.gear.Item.b5VSjd1HSQ0DyE09",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
           {
             "uuid": "Compendium.fellowship-pbta.gear.Item.obBFqLR9uVEIpE5A",
             "img": "icons/svg/item-bag.svg",
@@ -521,8 +526,8 @@
             "advancement": 0
           },
           {
-            "uuid": "Compendium.fellowship-pbta.gear.Item.b5VSjd1HSQ0DyE09",
-            "img": "icons/svg/item-bag.svg",
+            "uuid": "Compendium.fellowship-pbta.elf.Item.020qbCMSV0vM1Xby",
+            "img": "modules/fellowship-pbta/assets/icons/egyptian-bird.svg",
             "granted": false,
             "advancement": 0
           },
@@ -531,38 +536,86 @@
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.elf.Item.9XjBCzkFEMDatHe4",
+            "img": "modules/fellowship-pbta/assets/icons/wolf-howl.svg",
+            "granted": false,
+            "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 1,
+        "granted": false,
+        "advancement": 0
       },
       {
         "title": "Choose what carries you through this journey:",
         "desc": "If a Companion, you have 1 Bond with it.",
-        "grantOn": 1,
-        "advancement": 0,
+        "type": "multi",
         "repeatable": false,
         "choices": [
+          {
+            "uuid": "Compendium.fellowship-pbta.elf.Item.uk6vyQFST9Cc6lVB",
+            "img": "modules/fellowship-pbta/assets/icons/elf-helmet.svg",
+            "granted": false,
+            "advancement": 0
+          },
           {
             "uuid": "Compendium.fellowship-pbta.gear.Item.6X71Vl6iA0DmPQvI",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.elf.Item.nTDd2LuGVdrKc0MT",
+            "img": "modules/fellowship-pbta/assets/icons/elf-helmet.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.elf.Item.yRzpMMHbJ5q9sxw0",
+            "img": "modules/fellowship-pbta/assets/icons/elf-helmet.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.elf.Item.Tja4mRkiRSR7XioP",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.elf.Item.nu3jfrsZbxzggeMu",
+            "img": "modules/fellowship-pbta/assets/icons/unicorn.svg",
+            "granted": false,
+            "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 1,
+        "granted": false,
+        "advancement": 0
       },
       {
         "title": "You have a hunting companion. :",
         "desc": "Choose one group: Wolf or Hunting bird 2 bonds, A friend (archer, blade dancer, shadow) 1 bond, A knife and quiver",
-        "grantOn": 1,
-        "advancement": 0,
+        "type": "multi",
         "repeatable": false,
         "choices": [
           {
-            "uuid": "Compendium.fellowship-pbta.gear.Item.CJr33CYxHj8ryjc9",
-            "img": "icons/svg/item-bag.svg",
+            "uuid": "Compendium.fellowship-pbta.elf.Item.uk6vyQFST9Cc6lVB",
+            "img": "modules/fellowship-pbta/assets/icons/elf-helmet.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.elf.Item.nTDd2LuGVdrKc0MT",
+            "img": "modules/fellowship-pbta/assets/icons/elf-helmet.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "img": "modules/fellowship-pbta/assets/icons/elf-helmet.svg",
+            "uuid": "Compendium.fellowship-pbta.elf.Item.yRzpMMHbJ5q9sxw0",
             "granted": false,
             "advancement": 0
           },
@@ -571,26 +624,44 @@
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
-          }
-        ],
-        "type": "multi",
-        "granted": false
-      },
-      {
-        "title": "Choose a memento of your homeland",
-        "desc": "It has 1 Use:",
-        "grantOn": 1,
-        "advancement": 0,
-        "repeatable": false,
-        "choices": [
+          },
           {
-            "uuid": "Compendium.fellowship-pbta.gear.Item.07GyqeXJyhqa1fj3",
+            "uuid": "Compendium.fellowship-pbta.elf.Item.020qbCMSV0vM1Xby",
+            "img": "modules/fellowship-pbta/assets/icons/egyptian-bird.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.gear.Item.CJr33CYxHj8ryjc9",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
           },
           {
+            "uuid": "Compendium.fellowship-pbta.elf.Item.9XjBCzkFEMDatHe4",
+            "img": "modules/fellowship-pbta/assets/icons/wolf-howl.svg",
+            "granted": false,
+            "advancement": 0
+          }
+        ],
+        "grantOn": 1,
+        "granted": false,
+        "advancement": 0
+      },
+      {
+        "title": "Choose a memento of your homeland",
+        "desc": "It has 1 Use:",
+        "type": "multi",
+        "repeatable": false,
+        "choices": [
+          {
             "uuid": "Compendium.fellowship-pbta.gear.Item.tp3PjVDhDge0BQHQ",
+            "img": "icons/svg/item-bag.svg",
+            "granted": false,
+            "advancement": 0
+          },
+          {
+            "uuid": "Compendium.fellowship-pbta.gear.Item.07GyqeXJyhqa1fj3",
             "img": "icons/svg/item-bag.svg",
             "granted": false,
             "advancement": 0
@@ -602,8 +673,9 @@
             "advancement": 0
           }
         ],
-        "type": "multi",
-        "granted": false
+        "grantOn": 1,
+        "granted": false,
+        "advancement": 0
       }
     ]
   },
@@ -619,10 +691,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.12",
+    "systemVersion": "1.1.21",
     "createdTime": 1736283654382,
-    "modifiedTime": 1737156467106,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753079731211,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_id": "NHZ6RUMRsC6akZgD",
