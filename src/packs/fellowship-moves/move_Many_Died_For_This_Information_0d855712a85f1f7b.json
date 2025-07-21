@@ -1,0 +1,53 @@
+{
+  "name": "Many Died For This Information",
+  "type": "move",
+  "_id": "0d855712a85f1f7b",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>You are told the location of a Source of Power that the Overlord currently has a plan to find,</strong> and you are also told the location of a Source of Power that the Overlord has already. One of them is quite close by, your choice which, and this community will tell you all about it.</p>",
+    "moveType": "fellowship",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSvWyw8NYcFGMf4t": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.21",
+    "createdTime": 1753043049839,
+    "modifiedTime": 1753052870615,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t"
+  },
+  "_key": "!items!0d855712a85f1f7b"
+}

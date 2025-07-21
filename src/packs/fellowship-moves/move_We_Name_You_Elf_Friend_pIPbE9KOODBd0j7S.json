@@ -1,0 +1,53 @@
+{
+  "name": "We Name You Elf-Friend",
+  "type": "move",
+  "_id": "pIPbE9KOODBd0j7S",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>Everyone in the fellowship is considered a friend of the elves, and can use Elf-Made items without harm. In addition, they will upgrade or replace as much of your Gear as you'd like with improved Elf-Made versions. You may add the <strong>Elf-Made</strong> tag to any weapons, armor, and tools in your Gear.</p>",
+    "moveType": "fellowship",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSvWyw8NYcFGMf4t": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.21",
+    "createdTime": 1753043049839,
+    "modifiedTime": 1753052870615,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t"
+  },
+  "_key": "!items!pIPbE9KOODBd0j7S"
+}

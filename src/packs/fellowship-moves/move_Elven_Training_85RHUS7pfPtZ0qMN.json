@@ -1,0 +1,53 @@
+{
+  "name": "Elven Training",
+  "type": "move",
+  "_id": "85RHUS7pfPtZ0qMN",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>The Elf shares the @UUID[Compendium.fellowship-pbta.elf.Item.bQ7oNjK0Uqn4uADg]{Elder Arts} Move with everyone in the fellowship.</strong> They each get only one of your Elder Arts spells, as normal.</p>",
+    "moveType": "fellowship",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSvWyw8NYcFGMf4t": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.21",
+    "createdTime": 1753043049839,
+    "modifiedTime": 1753052870615,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t"
+  },
+  "_key": "!items!85RHUS7pfPtZ0qMN"
+}

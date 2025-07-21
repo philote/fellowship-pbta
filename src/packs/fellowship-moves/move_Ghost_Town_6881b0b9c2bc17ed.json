@@ -1,0 +1,53 @@
+{
+  "name": "Ghost Town",
+  "type": "move",
+  "_id": "6881b0b9c2bc17ed",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>When you gain the Fellowship of the sole person in this community,</strong> they fade away into nothingness. The entire town is now yours, with all its fortifications and riches, but the ghosts still linger here to attack those who mean you harm. If the Overlord had plans to destroy this community, they lose those plans now.</p>",
+    "moveType": "fellowship",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSvWyw8NYcFGMf4t": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.21",
+    "createdTime": 1753043049839,
+    "modifiedTime": 1753052870615,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t"
+  },
+  "_key": "!items!6881b0b9c2bc17ed"
+}

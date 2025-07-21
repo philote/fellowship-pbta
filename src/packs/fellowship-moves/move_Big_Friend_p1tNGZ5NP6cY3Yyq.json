@@ -1,0 +1,53 @@
+{
+  "name": "Big Friend",
+  "type": "move",
+  "_id": "p1tNGZ5NP6cY3Yyq",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>The Ogre who lives here has grown attached to you, and decided to come with. One of you has two Bonds with it.</p><p><strong>Ogre:</strong> A simple creature, an Ogre is easily confused and easily misled. But just as easily, they will destroy your house or crush your head.</p><p><strong>Stats:</strong> <em>Giant's Strength</em>, <em>Huge Club</em>, <em>Tough As Nails</em>, <em>A Simple Mind</em>.</p>",
+    "moveType": "fellowship",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSvWyw8NYcFGMf4t": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.21",
+    "createdTime": 1753053033384,
+    "modifiedTime": 1753053273609,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t"
+  },
+  "_key": "!items!p1tNGZ5NP6cY3Yyq"
+}

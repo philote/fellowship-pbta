@@ -1,0 +1,53 @@
+{
+  "name": "Dragon Slayers",
+  "type": "move",
+  "_id": "179wrmWywC8GaAC5",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>This community is eternally grateful you defeated the dragon terrorizing them,</strong> and have given you items made from its body. Each player chooses one of the following to add to their Gear:</p><ul><li>A weapon of dragon bone and blood <em>(Melee)</em> that burns whatever it strikes</li><li>Durable armor of dragon skin <em>(1 Use, Armor)</em> and <em>(1 Use, Armor vs. Fire)</em>.</li><li>Dragonfire Drought <em>(1 Use, Ranged, Dangerous)</em>, which gives you the ability to breathe fire for the rest of the scene when you drink it.</li></ul>",
+    "moveType": "fellowship",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSvWyw8NYcFGMf4t": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.21",
+    "createdTime": 1753043049839,
+    "modifiedTime": 1753052870615,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t"
+  },
+  "_key": "!items!179wrmWywC8GaAC5"
+}

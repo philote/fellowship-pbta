@@ -1,0 +1,53 @@
+{
+  "name": "Orcish Hospitality",
+  "type": "move",
+  "_id": "157f4eb03947dae2",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>While you are in this community,</strong> you find that the orcs will follow you everywhere you go. They watch your back, shut doors behind you, and will make sure you are never followed, harassed, or bothered. If they spot anything fishy, they let you know immediately, and if you want, they'll take care of it for you real quick, no sweat. It is impossible for you to be attacked or caught off guard as long as you are here.</p>",
+    "moveType": "fellowship",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSvWyw8NYcFGMf4t": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.21",
+    "createdTime": 1753043049839,
+    "modifiedTime": 1753052870615,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t"
+  },
+  "_key": "!items!157f4eb03947dae2"
+}

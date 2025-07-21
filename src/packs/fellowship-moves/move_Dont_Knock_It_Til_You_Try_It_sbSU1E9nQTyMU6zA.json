@@ -1,0 +1,53 @@
+{
+  "name": "Don't Knock It 'Til You Try It",
+  "type": "move",
+  "_id": "sbSU1E9nQTyMU6zA",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>The fellowship can use orc-made weapons as though you were all orcs</strong> they are not Clumsy in your hands, and while they may not be beautiful, you can admire their effectiveness. The orcs here will also give you as many orc-made weapons as you like, free of charge. Each player can hold up to four Melee weapons, or two Melee weapons and one Ranged weapon <em>(Orc-Made, Ranged, 3 Ammo)</em>.</p>",
+    "moveType": "fellowship",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSvWyw8NYcFGMf4t": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.21",
+    "createdTime": 1753043049839,
+    "modifiedTime": 1753052870615,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t"
+  },
+  "_key": "!items!sbSU1E9nQTyMU6zA"
+}

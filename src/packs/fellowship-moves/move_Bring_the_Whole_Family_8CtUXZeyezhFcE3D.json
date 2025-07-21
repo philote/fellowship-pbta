@@ -1,0 +1,53 @@
+{
+  "name": "Bring the Whole Family",
+  "type": "move",
+  "_id": "8CtUXZeyezhFcE3D",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>When you Forge a Bond with a new Companion here,</strong> you also Forge a Bond with a second, identical Companion with a different first name. When you first take this Move, the player who picked it can Forge a Bond with a Halfling Brave, Chef, or Fast-Talker right now, for free.</p><p><strong>Halfling Brave:</strong> A more loyal and earnest warrior you will never find.<br><em>Stats: Loyal Beyond All Reason, Get Right In There</em></p><p><strong>Halfling Chef:</strong> If you've got the food, they'll make it tasty.<br><em>Stats: Special Ingredients, Rations (Food, 2 Uses)</em></p><p><strong>Fast-Talker:</strong> If you'll just listen, you'd understand...<br><em>Stats: Mixed-Metaphor-a-Minute, Natural Charm</em></p>",
+    "moveType": "fellowship",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSvWyw8NYcFGMf4t": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.21",
+    "createdTime": 1753043049839,
+    "modifiedTime": 1753052870615,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t"
+  },
+  "_key": "!items!8CtUXZeyezhFcE3D"
+}

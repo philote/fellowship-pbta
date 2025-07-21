@@ -1,0 +1,53 @@
+{
+  "name": "Blessings of Fire",
+  "type": "move",
+  "_id": "C65zplL6dfznHV8b",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p>The fire elementals who live here have given you their blessing. You all gain supernatural resistance to heat and flame, adding <em>Fire Resistance</em> (Armor vs. Fire, 1 Use) to your Gear. In addition, one of you is given a powerful weapon of fire (<em>Ranged</em>, <em>Reload</em>) that ignites whatever it strikes. This weapon is one of a kind, and is not added to your Gear.</p>",
+    "moveType": "fellowship",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSvWyw8NYcFGMf4t": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.21",
+    "createdTime": 1753053033384,
+    "modifiedTime": 1753053273609,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t"
+  },
+  "_key": "!items!C65zplL6dfznHV8b"
+}

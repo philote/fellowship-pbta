@@ -1,0 +1,53 @@
+{
+  "name": "War Boyz",
+  "type": "move",
+  "_id": "x9s9EMbbk0aKpbuT",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>When you leave this community,</strong> two Big Lugs come with you. Two members of the fellowship each gain one Bond with one of them.</p><p><strong>Big Lug:</strong> Real big, real strong, real stupid.<br/><strong>Stats:</strong> Tough As Can Be, Bigger 'n You</p>",
+    "moveType": "fellowship",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSvWyw8NYcFGMf4t": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.21",
+    "createdTime": 1753043049839,
+    "modifiedTime": 1753052870615,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t"
+  },
+  "_key": "!items!x9s9EMbbk0aKpbuT"
+}

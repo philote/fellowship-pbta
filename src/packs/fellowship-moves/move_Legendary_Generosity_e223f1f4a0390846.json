@@ -1,0 +1,53 @@
+{
+  "name": "Legendary Generosity",
+  "type": "move",
+  "_id": "e223f1f4a0390846",
+  "img": "icons/svg/aura.svg",
+  "system": {
+    "description": "<p><strong>Weapons, armor, and alcohol you purchase here cost you nothing,</strong> no matter how many you need. Each player chooses one of the following to add to their Gear:</p><ul><li>A fine dwarven weapon, made just for you (Melee, Dwarf-Made)</li><li>Heavy armor of stone or iron (3 Uses, Armor, Clumsy)</li><li>Dwarven stout (2 Uses, Food (only for Dwarves), Drunk: Wisdom + Sense, Vigor: Blood + Courage)</li></ul>",
+    "moveType": "fellowship",
+    "rollFormula": "",
+    "moveResults": {
+      "failure": {
+        "key": "system.moveResults.failure.value",
+        "label": "Complications...",
+        "value": ""
+      },
+      "partial": {
+        "key": "system.moveResults.partial.value",
+        "label": "Partial success.",
+        "value": ""
+      },
+      "success": {
+        "key": "system.moveResults.success.value",
+        "label": "Success!",
+        "value": ""
+      }
+    },
+    "uses": 0,
+    "rollType": "",
+    "rollMod": 0,
+    "actorType": "character",
+    "choices": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSvWyw8NYcFGMf4t": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.21",
+    "createdTime": 1753043049839,
+    "modifiedTime": 1753052870615,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t"
+  },
+  "_key": "!items!e223f1f4a0390846"
+}
