@@ -5,7 +5,7 @@
   "_id": "tjMufIYpBDAzHeSs",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>Your attacks are <em>Necrotic.</em></p><p><strong>When you Keep Them Busy through melee combat,</strong> you may break your weapon to damage them.</p>",
+    "description": "<p>Your attacks are <em>Necrotic.</em></p><p><strong>When you @UUID[Compendium.fellowship-pbta.basic-moves.Item.uXriNVHOmu3064KN]{Keep Them Busy} through melee combat,</strong> you may break your weapon to damage them.</p>",
     "moveType": "destiny",
     "rollFormula": "",
     "moveResults": {
@@ -43,10 +43,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
+    "systemVersion": "1.1.21",
     "createdTime": 1736407935775,
-    "modifiedTime": 1736407945802,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753059165271,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!tjMufIYpBDAzHeSs"

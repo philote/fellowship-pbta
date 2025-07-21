@@ -5,7 +5,7 @@
   "_id": "F5ppXwYFauoAuYFi",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p><strong>When you draw upon the hidden power of the orcs,</strong> choose a spell from below, then mark it. You cannot use a spell while it is marked.</p><p><strong>When you </strong><em><strong>Fill Your Belly</strong></em><strong>,</strong> you may use one extra Food to remove a mark from one spell. When you <em>Recover</em>, remove all marks on your spells.</p><ul><li><strong>Séance: </strong>Ask a single question about anything, and immediately receive two answers - one is true, one is false, and you know not which is which.</li><li><strong>Smell Danger: </strong>Use this when you become ambushed or surprised to react just before that happens.</li><li><strong>Bound By Blood: </strong>Leave a bloody sign upon someone's skin. You can remove that sign at any time to leap out of the bloody sign, instantly appearing at their side from anywhere you may have been.</li></ul><p><strong>This move cannot be Shared.</strong></p>",
+    "description": "<p><strong>When you draw upon the hidden power of the orcs,</strong> choose a spell from below, then mark it. You cannot use a spell while it is marked.</p><p><strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.special-moves.Item.I18nTKFofUw4ewsT]{Fill Your Belly}</strong></em><strong>,</strong> you may use one extra Food to remove a mark from one spell. When you <em>@UUID[Compendium.fellowship-pbta.special-moves.Item.YNOTCTxDOQMVmtTO]{Recover}</em>, remove all marks on your spells.</p><ul><li><strong>Séance: </strong>Ask a single question about anything, and immediately receive two answers - one is true, one is false, and you know not which is which.</li><li><strong>Smell Danger: </strong>Use this when you become ambushed or surprised to react just before that happens.</li><li><strong>Bound By Blood: </strong>Leave a bloody sign upon someone's skin. You can remove that sign at any time to leap out of the bloody sign, instantly appearing at their side from anywhere you may have been.</li></ul><p><strong>This move cannot be Shared.</strong></p>",
     "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
@@ -43,10 +43,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
+    "systemVersion": "1.1.21",
     "createdTime": 1736312180541,
-    "modifiedTime": 1736312201388,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753060881197,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!F5ppXwYFauoAuYFi"

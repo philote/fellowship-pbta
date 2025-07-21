@@ -5,7 +5,7 @@
   "_id": "OWvFUpuAHsXKrYfN",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p><strong>When you </strong><em><strong>Fill Your Belly,</strong></em> you may instead spend 1 Food to brew a potion. It has 1 Use when brewed, and a potion's effects are never permanent. You can create a basic Healing Potion (1 Use, Healing), or something a bit more unusual. <strong>When brewing an unusual potion, </strong>describe what it looks like, tell us what it does, and then <strong>choose two:</strong></p><ul><li>It is a cream and must be applied; it has the <em>Slow </em>tag.</li><li>It gets the imbiber <em>Drunk</em>.</li><li>It is expensive - spend 1 Use of anything to finish it.</li><li>It has a weird side effect, which you'll discover when you drink it.</li></ul>",
+    "description": "<p><strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.special-moves.Item.I18nTKFofUw4ewsT]{Fill Your Belly},</strong></em> you may instead spend 1 Food to brew a potion. It has 1 Use when brewed, and a potion's effects are never permanent. You can create a basic Healing Potion (1 Use, Healing), or something a bit more unusual. <strong>When brewing an unusual potion, </strong>describe what it looks like, tell us what it does, and then <strong>choose two:</strong></p><ul><li>It is a cream and must be applied; it has the <em>Slow </em>tag.</li><li>It gets the imbiber <em>Drunk</em>.</li><li>It is expensive - spend 1 Use of anything to finish it.</li><li>It has a weird side effect, which you'll discover when you drink it.</li></ul>",
     "moveType": "destiny",
     "rollFormula": "",
     "moveResults": {
@@ -43,10 +43,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
+    "systemVersion": "1.1.21",
     "createdTime": 1736408847132,
-    "modifiedTime": 1736408860559,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753059441038,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!OWvFUpuAHsXKrYfN"

@@ -5,7 +5,7 @@
   "_id": "rZIloJIotaSHfs0u",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p><strong>When you </strong><em><strong>Keep Them Busy </strong></em><strong>by getting in close and get a 7+,</strong> choose one.</p><p>You can only <em>Sting Like A Bee </em>against those who are larger than you.</p><ul><li>You get them to chase you around, and you both leave the scene.</li><li>You steal something small from them, and they don't notice until they need it or you taunt them with it.</li><li>You get them talking - ask a question from the <em>Speak Softly </em>list.</li><li>You think fast - ask a question from the <em>Look Closely</em> list.</li></ul>",
+    "description": "<p><strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.Item.uXriNVHOmu3064KN]{Keep Them Busy} </strong></em><strong>by getting in close and get a 7+,</strong> choose one.</p><p>You can only <em>@UUID[Compendium.fellowship-pbta.halfling.Item.rZIloJIotaSHfs0u]{Sting Like A Bee} </em>against those who are larger than you.</p><ul><li>You get them to chase you around, and you both leave the scene.</li><li>You steal something small from them, and they don't notice until they need it or you taunt them with it.</li><li>You get them talking - ask a question from the <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.Ml6muq1ZjhkuT7FF]{Speak Softly} </em>list.</li><li>You think fast - ask a question from the <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.BnDVkYr6uMhWITB2]{Look Closely}</em> list.</li></ul>",
     "moveType": "core",
     "rollFormula": "",
     "moveResults": {
@@ -43,10 +43,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
+    "systemVersion": "1.1.21",
     "createdTime": 1736310576032,
-    "modifiedTime": 1736310601649,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753060252327,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!rZIloJIotaSHfs0u"

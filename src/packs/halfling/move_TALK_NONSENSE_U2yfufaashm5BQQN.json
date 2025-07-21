@@ -5,7 +5,7 @@
   "_id": "U2yfufaashm5BQQN",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p><strong>When you </strong><em><strong>Talk Sense </strong></em><strong>by telling grandiose lies with a straight face,</strong> roll +Courage.</p><p><strong>When you </strong><em><strong>Talk Sense </strong></em><strong>and get a 10+,</strong> you may also <em>Sting Like A Bee.</em></p>",
+    "description": "<p><strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.Item.3lOlQnDdQRaiR47g]{Talk Sense} </strong></em><strong>by telling grandiose lies with a straight face,</strong> roll +Courage.</p><p><strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.Item.3lOlQnDdQRaiR47g]{Talk Sense} </strong></em><strong>and get a 10+,</strong> you may also <em>@UUID[Compendium.fellowship-pbta.halfling.Item.rZIloJIotaSHfs0u]{Sting Like A Bee}.</em></p>",
     "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
@@ -43,10 +43,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
+    "systemVersion": "1.1.21",
     "createdTime": 1736310742264,
-    "modifiedTime": 1736310758712,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753060317489,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!U2yfufaashm5BQQN"

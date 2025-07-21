@@ -4,7 +4,7 @@
   "_id": "oesqsX3MyzdpxIzZ",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p><strong>When you leave this community,</strong> a Small Army comes with you. Everyone in the fellowship has one Bond with them. <strong>When you </strong><em><strong>Fill Your Belly</strong></em><strong>,</strong> you may Use 1 Food to heal the Small Army.</p><p><strong>Small Army:</strong> Untrained and poorly armored, these warriors are nevertheless dedicated to their cause.</p><p><strong>Stats:</strong> Body Count, Poke 'Em Good</p>",
+    "description": "<p><strong>When you leave this community,</strong> a Small Army comes with you. Everyone in the fellowship has one Bond with them. <strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.special-moves.Item.I18nTKFofUw4ewsT]{Fill Your Belly}</strong></em><strong>,</strong> you may Use 1 Food to heal the Small Army.</p><p><strong>Small Army:</strong> Untrained and poorly armored, these warriors are nevertheless dedicated to their cause.</p><p><strong>Stats:</strong> Body Count, Poke 'Em Good</p>",
     "moveType": "fellowship",
     "rollFormula": "",
     "moveResults": {
@@ -46,7 +46,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.21",
     "createdTime": 1753052935290,
-    "modifiedTime": 1753052950874,
+    "modifiedTime": 1753056853015,
     "lastModifiedBy": "JSvWyw8NYcFGMf4t"
   },
   "_key": "!items!oesqsX3MyzdpxIzZ"

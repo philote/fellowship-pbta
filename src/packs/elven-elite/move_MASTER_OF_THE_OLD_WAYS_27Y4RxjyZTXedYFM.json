@@ -5,7 +5,7 @@
   "_id": "27Y4RxjyZTXedYFM",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>You have had lifetimes to learn, and you know how to do anything. You can Command Lore about any skill, profession, or trade the Elves have ever mastered through out history, and you have the ability to perform any of those tasks or skills on demand.</p><p><strong>When you have time and safety,</strong> you can make beautiful art (1 Use, Elf-Made, Precious) or appropriate tools for the job at hand (1 Use, Elf-Made, Useful).</p>",
+    "description": "<p>You have had lifetimes to learn, and you know how to do anything. You can Command Lore about any skill, profession, or trade the Elves have ever mastered through out history, and you have the ability to perform any of those tasks or skills on demand.</p><p><strong>When you have time and safety,</strong> you can make beautiful art (<em>1 Use, Elf-Made, Precious</em>) or appropriate tools for the job at hand (<em>1 Use, Elf-Made, Useful</em>).</p>",
     "moveType": "destiny",
     "rollFormula": "",
     "moveResults": {
@@ -43,10 +43,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
+    "systemVersion": "1.1.21",
     "createdTime": 1736404177968,
-    "modifiedTime": 1736404190743,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753057996209,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!27Y4RxjyZTXedYFM"

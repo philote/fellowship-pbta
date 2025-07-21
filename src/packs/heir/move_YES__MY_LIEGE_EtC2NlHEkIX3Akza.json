@@ -5,7 +5,7 @@
   "_id": "EtC2NlHEkIX3Akza",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p><strong>When you issue a command to someone below your rank, </strong>they'll do it immediately, no questions asked. Someone is below your rank if they are of your People, if they are a Companion, or if they serve or follow someone who has shown you <em>Royal Treatment</em>. You never need to <em>Talk Sense </em>to someone who is below your rank.</p><p><strong>When you give a command that directly harms the person you gave the command to, they become immune to this move forever.</strong></p>",
+    "description": "<p><strong>When you issue a command to someone below your rank, </strong>they'll do it immediately, no questions asked. Someone is below your rank if they are of your People, if they are a Companion, or if they serve or follow someone who has shown you <em>@UUID[Compendium.fellowship-pbta.heir.Item.AxHgvkHalfeNMt7b]{Royal Treatment}</em>. You never need to <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.3lOlQnDdQRaiR47g]{Talk Sense} </em>to someone who is below your rank.</p><p><strong>When you give a command that directly harms the person you gave the command to, they become immune to this move forever.</strong></p>",
     "moveType": "core",
     "rollFormula": "",
     "moveResults": {
@@ -43,10 +43,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
+    "systemVersion": "1.1.21",
     "createdTime": 1736311433547,
-    "modifiedTime": 1736311448142,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753060708181,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!EtC2NlHEkIX3Akza"

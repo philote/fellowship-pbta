@@ -5,7 +5,7 @@
   "_id": "kGnnC0pmdRcytL3k",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>Everyone has heard of you, all but the most hidden of hermits. Your autograph is <em>Precious </em>to people who respect you and don't already have it.</p><p><strong>When you give someone something Precious, </strong>you can ask them a question from the <em>Speak Softly </em>list.</p>",
+    "description": "<p>Everyone has heard of you, all but the most hidden of hermits. Your autograph is <em>Precious </em>to people who respect you and don't already have it.</p><p><strong>When you give someone something Precious, </strong>you can ask them a question from the <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.Ml6muq1ZjhkuT7FF]{Speak Softly} </em>list.</p>",
     "moveType": "destiny",
     "rollFormula": "",
     "moveResults": {
@@ -43,10 +43,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
+    "systemVersion": "1.1.21",
     "createdTime": 1736406935020,
-    "modifiedTime": 1736406946920,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753058870098,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!kGnnC0pmdRcytL3k"

@@ -5,7 +5,7 @@
   "_id": "tqZrOa6tuYqbJYfc",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>You have improved yourself. Add Robotic Bits (Armor, Useful, 4 Uses) to your Gear.</p>",
+    "description": "<p>You have improved yourself. Add Robotic Bits (<em>Armor, Useful, 4 Uses</em>) to your Gear.</p>",
     "moveType": "destiny",
     "rollFormula": "",
     "moveResults": {
@@ -43,10 +43,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
+    "systemVersion": "1.1.21",
     "createdTime": 1736403874824,
-    "modifiedTime": 1736403889218,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753057810401,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!tqZrOa6tuYqbJYfc"

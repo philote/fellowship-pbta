@@ -5,7 +5,7 @@
   "_id": "3uJd6Hh02R2TuYQW",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>You speak the language of beasts and monsters.</p><p><strong>When you try to speak to such a creature for the first time, </strong>they will always pause to listen and reply, and you always have a chance to <em>Speak Softly </em>or <em>Talk Sense </em>with them.</p>",
+    "description": "<p>You speak the language of beasts and monsters.</p><p><strong>When you try to speak to such a creature for the first time, </strong>they will always pause to listen and reply, and you always have a chance to <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.Ml6muq1ZjhkuT7FF]{Speak Softly} </em>or <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.3lOlQnDdQRaiR47g]{Talk Sense} </em>with them.</p>",
     "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
@@ -43,10 +43,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
+    "systemVersion": "1.1.21",
     "createdTime": 1736311314861,
-    "modifiedTime": 1736311334576,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753060631473,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!3uJd6Hh02R2TuYQW"

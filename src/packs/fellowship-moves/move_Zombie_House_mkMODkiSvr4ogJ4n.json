@@ -4,7 +4,7 @@
   "_id": "mkMODkiSvr4ogJ4n",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p><strong>When you leave this community,</strong> each member of the fellowship has two Zombies leave with them. These zombies will not attack anyone in the fellowship and they will follow your commands, but no one has any Bonds with them. If any zombie's Simpleton Hivemind stat is damaged, all of their Simpleton Hivemind stats become damaged.</p><p><strong>Zombie:</strong> shamble. hunt. lunge. eat. braaaains. Nearly mindless, but potentially tamed if fed properly and often.<br/><strong>Stats:</strong> Painless, Simpleton Hivemind</p>",
+    "description": "<p><strong>When you leave this community,</strong> each member of the fellowship has two Zombies leave with them. These zombies will not attack anyone in the fellowship and they will follow your commands, but no one has any Bonds with them. If any zombie's Simpleton Hivemind stat is damaged, all of their Simpleton Hivemind stats become damaged.</p><p><strong>Zombie:</strong> shamble. hunt. lunge. eat. braaaains. Nearly mindless, but potentially tamed if fed properly and often.</p><p><strong>Stats:</strong> Painless, Simpleton Hivemind</p>",
     "moveType": "fellowship",
     "rollFormula": "",
     "moveResults": {
@@ -46,7 +46,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.21",
     "createdTime": 1753043049839,
-    "modifiedTime": 1753052870615,
+    "modifiedTime": 1753056360279,
     "lastModifiedBy": "JSvWyw8NYcFGMf4t"
   },
   "_key": "!items!mkMODkiSvr4ogJ4n"

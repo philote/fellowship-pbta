@@ -5,24 +5,24 @@
   "_id": "rrH25Ohoi4xhL19u",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p><strong>When you are hidden from your target and wield a ranged weapon, </strong>you can spend 1 Ammo to <em>Finish Them </em>with +Grace. </p>",
+    "description": "<p><strong>When you are hidden from your target and wield a ranged weapon, </strong>you can spend 1 Ammo to <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.cnXubqxIogR16JMj]{Finish Them} </em>with +Grace.</p>",
     "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
       "failure": {
         "key": "system.moveResults.failure.value",
         "label": "Complications...",
-        "value": ""
+        "value": "<p>You lose the advantage, and must face retaliation.</p>"
       },
       "partial": {
         "key": "system.moveResults.partial.value",
         "label": "Partial success.",
-        "value": ""
+        "value": "<p>You deal damage to them and lose your advantage over them. <strong>If an ally was </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.uXriNVHOmu3064KN]{Keeping Them Busy}</strong></em>, they aren't anymore.</p>"
       },
       "success": {
         "key": "system.moveResults.success.value",
         "label": "Success!",
-        "value": "<p>You remain hidden.</p>"
+        "value": "<p>You remain hidden.</p><p></p><p><strong>If you </strong><em><strong>Finish Them </strong></em><strong>by...</strong></p><p><strong>...trying to kill them,</strong> They die by your hand.</p><p><strong>...forcing them to retreat,</strong> They back off. They won't be back anytime soon.</p><p><strong>...outsmarting, terrifying, or overwhelming them,</strong> They admit defeat, and will not willingly challenge you again.</p><p><strong>...disabling them or knocking them out,</strong> They are physically incapacitated and unable to continue.</p>"
       }
     },
     "uses": 0,
@@ -43,10 +43,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
+    "systemVersion": "1.1.21",
     "createdTime": 1736310194727,
-    "modifiedTime": 1736310260878,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753060056833,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!rrH25Ohoi4xhL19u"

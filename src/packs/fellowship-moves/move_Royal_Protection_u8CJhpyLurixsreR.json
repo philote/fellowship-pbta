@@ -4,7 +4,7 @@
   "_id": "u8CJhpyLurixsreR",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p><strong>When you leave this community,</strong> each member of the fellowship leaves with a Bodyguard. Each player has one Bond with their Bodyguard.</p><p><strong>Bodyguard:</strong> A trained bodyguard, ready to dive in the way of an attack.<br/><strong>Stats:</strong> Watch Out!!!</p>",
+    "description": "<p><strong>When you leave this community,</strong> each member of the fellowship leaves with a Bodyguard. Each player has one Bond with their Bodyguard.</p><p><strong>Bodyguard:</strong> A trained bodyguard, ready to dive in the way of an attack.</p><p><strong>Stats:</strong> Watch Out!!!</p>",
     "moveType": "fellowship",
     "rollFormula": "",
     "moveResults": {
@@ -46,7 +46,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.21",
     "createdTime": 1753043049839,
-    "modifiedTime": 1753052870615,
+    "modifiedTime": 1753056462158,
     "lastModifiedBy": "JSvWyw8NYcFGMf4t"
   },
   "_key": "!items!u8CJhpyLurixsreR"

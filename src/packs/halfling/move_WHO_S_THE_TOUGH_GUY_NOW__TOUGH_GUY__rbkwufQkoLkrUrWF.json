@@ -5,7 +5,7 @@
   "_id": "rbkwufQkoLkrUrWF",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p><strong>When you </strong><em><strong>Overcome </strong></em><strong>an enemy and get a 7+,</strong> you may <em>Sting Like A Bee.</em></p><p><strong>When you could </strong><em><strong>Finish Them</strong></em><strong>,</strong> you may <em>Keep Them Busy</em> as if you got a 10+ instead.</p>",
+    "description": "<p><strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.Item.h7JpSHtXSQYIjsWA]{Overcome} </strong></em><strong>an enemy and get a 7+,</strong> you may <em>@UUID[Compendium.fellowship-pbta.halfling.Item.rZIloJIotaSHfs0u]{Sting Like A Bee}.</em></p><p><strong>When you could </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.Item.cnXubqxIogR16JMj]{Finish Them}</strong></em><strong>,</strong> you may <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.uXriNVHOmu3064KN]{Keep Them Busy}</em> as if you got a 10+ instead.</p>",
     "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
@@ -43,10 +43,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
+    "systemVersion": "1.1.21",
     "createdTime": 1736310811541,
-    "modifiedTime": 1736310872354,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753060290361,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!rbkwufQkoLkrUrWF"

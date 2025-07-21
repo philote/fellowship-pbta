@@ -4,7 +4,7 @@
   "_id": "TfdOyTqYUhcTDXgm",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p><strong>When you leave this community,</strong> two Elven Archers come with you. Two members of the fellowship each gain one Bond with one of the Archers.</p><p><strong>Elven Archer:</strong> An expert with the bow. It is said that elven archers never miss.<br><em>Stats: Perfect Shot, An Even More Perfect Shot</em></p>",
+    "description": "<p><strong>When you leave this community,</strong> two Elven Archers come with you. Two members of the fellowship each gain one Bond with one of the Archers.</p><p><strong>Elven Archer:</strong> An expert with the bow. It is said that elven archers never miss.</p><p><strong>Stats:</strong> Perfect Shot, An Even More Perfect Shot</p>",
     "moveType": "fellowship",
     "rollFormula": "",
     "moveResults": {
@@ -46,7 +46,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.21",
     "createdTime": 1753043049839,
-    "modifiedTime": 1753052870615,
+    "modifiedTime": 1753056527714,
     "lastModifiedBy": "JSvWyw8NYcFGMf4t"
   },
   "_key": "!items!TfdOyTqYUhcTDXgm"

@@ -5,7 +5,7 @@
   "_id": "JLzqRDFFmIPrf65V",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p><strong>When you watch someone's back and keep your eyes peeled, </strong>you can roll to <em>Overcome </em>any harm against them with +Sense instead of +Blood.</p>",
+    "description": "<p><strong>When you watch someone's back and keep your eyes peeled, </strong>you can roll to <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.h7JpSHtXSQYIjsWA]{Overcome} </em>any harm against them with +Sense instead of +Blood.</p>",
     "moveType": "core",
     "rollFormula": "",
     "moveResults": {
@@ -17,12 +17,12 @@
       "partial": {
         "key": "system.moveResults.partial.value",
         "label": "Partial success.",
-        "value": ""
+        "value": "<p>Choose one:</p><p>@UUID[Compendium.fellowship-pbta.special-moves.ZrHnVfT943zF7FnE]{Pay the Price} to take the 10+ result, or create a temporary solution. A temporary solution will delay the threat, but when time is up, it'll be back in force - the Overlord will tell you when.</p>"
       },
       "success": {
         "key": "system.moveResults.success.value",
         "label": "Success!",
-        "value": ""
+        "value": "<p>You stop the obstacle, threat, Cut, or Move from causing harm.</p>"
       }
     },
     "uses": 0,
@@ -43,10 +43,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
+    "systemVersion": "1.1.21",
     "createdTime": 1736312488924,
-    "modifiedTime": 1736312517328,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753061009182,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!JLzqRDFFmIPrf65V"

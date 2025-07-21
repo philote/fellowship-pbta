@@ -3,7 +3,7 @@
   "type": "move",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>You never take the 6- result to <em>Overcome, Keep Them Busy</em>, or <em>Get Away</em>. <strong>When you roll a 6- on those Moves,</strong> act as though you rolled a 7.</p><p>You can no longer compromise, retreat, or surrender, for any reason. <strong>When you take a course of action,</strong> you become completely committed to it.</p>",
+    "description": "<p>You never take the 6- result to <em>Overcome, @UUID[Compendium.fellowship-pbta.basic-moves.Item.uXriNVHOmu3064KN]{Keep Them Busy}</em>, or <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.gvcPbIgaPctbaOCa]{Get Away}</em>. <strong>When you roll a 6- on those Moves,</strong> act as though you rolled a 7.</p><p>You can no longer compromise, retreat, or surrender, for any reason. <strong>When you take a course of action,</strong> you become completely committed to it.</p>",
     "moveType": "destiny",
     "rollFormula": "",
     "moveResults": {
@@ -41,10 +41,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
+    "systemVersion": "1.1.21",
     "createdTime": 1736396353680,
-    "modifiedTime": 1736396355505,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753057483788,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_id": "oiwyO0ANSh9EHWuo",

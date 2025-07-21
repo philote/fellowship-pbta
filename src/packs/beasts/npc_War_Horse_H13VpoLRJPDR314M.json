@@ -2,7 +2,7 @@
   "name": "War Horse",
   "type": "npc",
   "_id": "H13VpoLRJPDR314M",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "icons/environment/creatures/horse-brown.webp",
   "system": {
     "stats": {},
     "attributes": {
@@ -95,7 +95,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "icons/svg/mystery-man.svg",
+      "src": "icons/environment/creatures/horse-brown.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -263,8 +263,8 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737150862232,
-    "modifiedTime": 1737150875634,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753061754304,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!actors!H13VpoLRJPDR314M"

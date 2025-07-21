@@ -5,7 +5,7 @@
   "_id": "0rarRNIZKFRrOwNi",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p><strong>When you </strong><em><strong>Look Closely</strong></em><strong> at a person, so closely it makes them upset, uncomfortable, or scared,</strong> you may ask questions from both the Speak Softly and the Look Closely lists, and you can ask one more question than your roll would normally allow.</p>",
+    "description": "<p><strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.Item.BnDVkYr6uMhWITB2]{Look Closely}</strong></em><strong> at a person, so closely it makes them upset, uncomfortable, or scared,</strong> you may ask questions from both the @UUID[Compendium.fellowship-pbta.basic-moves.Item.Ml6muq1ZjhkuT7FF]{Speak Softly} and the @UUID[Compendium.fellowship-pbta.basic-moves.Item.BnDVkYr6uMhWITB2]{Look Closely} lists, and you can ask one more question than your roll would normally allow.</p>",
     "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
@@ -43,10 +43,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
+    "systemVersion": "1.1.21",
     "createdTime": 1736312327223,
-    "modifiedTime": 1736312340152,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753060922438,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!0rarRNIZKFRrOwNi"

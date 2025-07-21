@@ -5,7 +5,7 @@
   "_id": "zDG0khbjtdULUJLf",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p><strong>When you Overcome an enemy by getting out of their way, on a 7+,</strong> you manage to get completely out of sight - your attacker loses track of you, although you must still pay a price on a 7-9 result. <strong>On a 12+,</strong> <em>everyone </em>loses track of you - tell us where you went, and you're there.</p>",
+    "description": "<p><strong>When you @UUID[Compendium.fellowship-pbta.basic-moves.Item.h7JpSHtXSQYIjsWA]{Overcome} an enemy by getting out of their way, </strong></p>",
     "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
@@ -17,16 +17,16 @@
       "partial": {
         "key": "system.moveResults.partial.value",
         "label": "Partial success.",
-        "value": ""
+        "value": "<p><strong>on a 7+,</strong> you manage to get completely out of sight - your attacker loses track of you, although you must still pay a price on a 7-9 result.</p><p>Choose one:</p><p>@UUID[Compendium.fellowship-pbta.special-moves.ZrHnVfT943zF7FnE]{Pay the Price} to take the 10+ result, or create a temporary solution. A temporary solution will delay the threat, but when time is up, it'll be back in force - the Overlord will tell you when.</p>"
       },
       "success": {
         "key": "system.moveResults.success.value",
         "label": "Success!",
-        "value": ""
+        "value": "<p>You stop the obstacle, threat, Cut, or Move from causing harm.</p><p><strong>on a 7+,</strong> you manage to get completely out of sight - your attacker loses track of you</p><p><strong>On a 12+,</strong> <em>everyone </em>loses track of you - tell us where you went, and you're there.</p>"
       }
     },
     "uses": 0,
-    "rollType": "",
+    "rollType": "blood",
     "rollMod": 0,
     "actorType": "character",
     "choices": ""
@@ -43,10 +43,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
+    "systemVersion": "1.1.21",
     "createdTime": 1736310710725,
-    "modifiedTime": 1736310723829,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753060479444,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!zDG0khbjtdULUJLf"

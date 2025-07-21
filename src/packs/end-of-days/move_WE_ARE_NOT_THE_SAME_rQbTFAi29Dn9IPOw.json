@@ -5,7 +5,7 @@
   "_id": "rQbTFAi29Dn9IPOw",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>Your Overlord stat no longer gives the Overlord any power over you. Remove the entire second and third paragraphs from <em>Are We Not The Same, You And I?</em></p><p>In addition, once per scene, you do not need to erase a Bond with the Overlord to use <em>Heart of Fire </em>against them.</p>",
+    "description": "<p>Your Overlord stat no longer gives the Overlord any power over you. Remove the entire second and third paragraphs from <em>@UUID[Compendium.fellowship-pbta.end-of-days.W6uR9lctxMm5saXL]{ARE WE NOT THE SAME, YOU AND I?}</em></p><p>In addition, once per scene, you do not need to erase a Bond with the Overlord to use <em>@UUID[Compendium.fellowship-pbta.overlord-moves.Item.z0bOds9OGiegaxTq]{Heart of Fire} </em>against them.</p>",
     "moveType": "destiny",
     "rollFormula": "",
     "moveResults": {
@@ -43,10 +43,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
+    "systemVersion": "1.1.21",
     "createdTime": 1736404621144,
-    "modifiedTime": 1736404633848,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753058153212,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!rQbTFAi29Dn9IPOw"

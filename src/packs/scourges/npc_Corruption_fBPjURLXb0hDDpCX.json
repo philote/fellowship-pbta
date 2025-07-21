@@ -2,7 +2,7 @@
   "name": "Corruption",
   "type": "npc",
   "_id": "fBPjURLXb0hDDpCX",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "icons/magic/death/skull-energy-light-white.webp",
   "system": {
     "stats": {},
     "attributes": {
@@ -95,7 +95,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "icons/svg/mystery-man.svg",
+      "src": "icons/magic/death/skull-energy-light-white.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -263,8 +263,8 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737178333814,
-    "modifiedTime": 1737178352305,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753062164008,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!actors!fBPjURLXb0hDDpCX"

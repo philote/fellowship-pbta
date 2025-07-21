@@ -2,7 +2,7 @@
   "name": "Varg",
   "type": "npc",
   "_id": "krJHsWxBBwt5VxV0",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "icons/creatures/mammals/wolf-shadow-black.webp",
   "system": {
     "stats": {},
     "attributes": {
@@ -95,7 +95,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "icons/svg/mystery-man.svg",
+      "src": "icons/creatures/mammals/wolf-shadow-black.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -263,8 +263,8 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737150717813,
-    "modifiedTime": 1737150733948,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753061517997,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!actors!krJHsWxBBwt5VxV0"

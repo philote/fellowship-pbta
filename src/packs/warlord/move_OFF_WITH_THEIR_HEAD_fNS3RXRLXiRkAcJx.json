@@ -5,7 +5,7 @@
   "_id": "fNS3RXRLXiRkAcJx",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p><strong>When you could </strong><em><strong>Finish Them </strong></em><strong>with a Melee weapon,</strong> you may kill them instead of rolling.</p><p><strong>If they are the Overlord,</strong> you deal damage instead of killing them.</p>",
+    "description": "<p><strong>When you could </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.Item.cnXubqxIogR16JMj]{Finish Them} </strong></em><strong>with a Melee weapon,</strong> you may kill them instead of rolling.</p><p><strong>If they are the Overlord,</strong> you deal damage instead of killing them.</p>",
     "moveType": "destiny",
     "rollFormula": "",
     "moveResults": {
@@ -43,10 +43,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
+    "systemVersion": "1.1.21",
     "createdTime": 1736408512947,
-    "modifiedTime": 1736408522817,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753059343230,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!fNS3RXRLXiRkAcJx"

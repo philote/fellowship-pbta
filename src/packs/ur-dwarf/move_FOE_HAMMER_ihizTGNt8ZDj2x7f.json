@@ -5,7 +5,7 @@
   "_id": "ihizTGNt8ZDj2x7f",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p><strong>When you could </strong><em><strong>Finish Them</strong></em><strong>,</strong> instead of rolling, you may simply destroy something your target holds - their armor, their weapon, their pride, a few of their bones, or something they carry, your choice.</p>",
+    "description": "<p><strong>When you could </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.Item.cnXubqxIogR16JMj]{Finish Them}</strong></em><strong>,</strong> instead of rolling, you may simply destroy something your target holds - their armor, their weapon, their pride, a few of their bones, or something they carry, your choice.</p>",
     "moveType": "destiny",
     "rollFormula": "",
     "moveResults": {
@@ -43,10 +43,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
+    "systemVersion": "1.1.21",
     "createdTime": 1736408225641,
-    "modifiedTime": 1736408235618,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753059254314,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!ihizTGNt8ZDj2x7f"

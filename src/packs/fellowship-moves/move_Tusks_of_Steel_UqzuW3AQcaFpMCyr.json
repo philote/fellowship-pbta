@@ -4,7 +4,7 @@
   "_id": "UqzuW3AQcaFpMCyr",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p><strong>Each time you leave this community,</strong> you gain a fully out-fitted war elephant, with a riding platform, armor, and bladed tusks.</p><p><strong>War Elephant:</strong> The largest in ground-based war animal technology, these massive creatures can support a small building on their backs. The APC of the fantasy age.<br/><strong>Stats:</strong> Tusks and Screaming, Armored Platform</p>",
+    "description": "<p><strong>Each time you leave this community,</strong> you gain a fully out-fitted war elephant, with a riding platform, armor, and bladed tusks.</p><p><strong>War Elephant:</strong> The largest in ground-based war animal technology, these massive creatures can support a small building on their backs. The APC of the fantasy age.</p><p><strong>Stats:</strong> Tusks and Screaming, Armored Platform</p>",
     "moveType": "fellowship",
     "rollFormula": "",
     "moveResults": {
@@ -46,7 +46,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.21",
     "createdTime": 1753043049839,
-    "modifiedTime": 1753052870615,
+    "modifiedTime": 1753056402093,
     "lastModifiedBy": "JSvWyw8NYcFGMf4t"
   },
   "_key": "!items!UqzuW3AQcaFpMCyr"

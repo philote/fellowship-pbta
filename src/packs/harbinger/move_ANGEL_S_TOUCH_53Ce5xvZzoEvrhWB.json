@@ -5,7 +5,7 @@
   "_id": "53Ce5xvZzoEvrhWB",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>You can heal the wounds of an ally with a touch, although it takes a lot out of you.</p><p>You gain the tags (Healing, 1 Use).</p><p><strong>When you heal someone,</strong> you may damage yourself to heal them again.</p><p><strong>When you </strong><em><strong>Fill Your Belly</strong></em><strong>,</strong> restore this Use.</p>",
+    "description": "<p>You can heal the wounds of an ally with a touch, although it takes a lot out of you.</p><p>You gain the tags (Healing, 1 Use).</p><p><strong>When you heal someone,</strong> you may damage yourself to heal them again.</p><p><strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.special-moves.Item.I18nTKFofUw4ewsT]{Fill Your Belly}</strong></em><strong>,</strong> restore this Use.</p>",
     "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
@@ -43,10 +43,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
+    "systemVersion": "1.1.21",
     "createdTime": 1736311141286,
-    "modifiedTime": 1736311153076,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753060663097,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!53Ce5xvZzoEvrhWB"

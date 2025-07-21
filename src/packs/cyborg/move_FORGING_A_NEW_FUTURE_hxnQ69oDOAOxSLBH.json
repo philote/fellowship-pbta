@@ -5,7 +5,7 @@
   "_id": "hxnQ69oDOAOxSLBH",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p><strong>When you </strong><em><strong>Recover</strong></em><strong> within a community you have Fellowship with,</strong> you can create a population of androids here. Tell us a unique trait these androids have, and how they fit in with the society you are leaving them to.</p><p>You can <em>Command Lore </em>about the androids and robots of this world, as well as <em>Command Lore </em>about any communities you have left your robots within.</p>",
+    "description": "<p><strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.special-moves.Item.YNOTCTxDOQMVmtTO]{Recover}</strong></em><strong> within a community you have Fellowship with,</strong> you can create a population of androids here. Tell us a unique trait these androids have, and how they fit in with the society you are leaving them to.</p><p>You can <em>@UUID[Compendium.fellowship-pbta.special-moves.Item.YE99aLoamM4pDgT7]{Command Lore} </em>about the androids and robots of this world, as well as <em>@UUID[Compendium.fellowship-pbta.special-moves.Item.YE99aLoamM4pDgT7]{Command Lore} </em>about any communities you have left your robots within.</p>",
     "moveType": "destiny",
     "rollFormula": "",
     "moveResults": {
@@ -43,10 +43,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
+    "systemVersion": "1.1.21",
     "createdTime": 1736403813131,
-    "modifiedTime": 1736403824625,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753057880349,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!hxnQ69oDOAOxSLBH"

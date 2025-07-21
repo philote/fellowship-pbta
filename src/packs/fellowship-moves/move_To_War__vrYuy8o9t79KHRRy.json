@@ -1,10 +1,10 @@
 {
-  "name": "Finer Goods You'll Never See",
+  "name": "To War!",
   "type": "move",
-  "_id": "KrmX8raV42XCWUr1",
+  "_id": "vrYuy8o9t79KHRRy",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p><strong>Each of you receives an elven treasure</strong> - an item of such extreme value that many would give their lives just to look at it once. Describe the gift you were given. It is Precious and Elf-Made, in addition to any other properties it has. The item you were given considers you a friend of elves and will not harm you.</p>",
+    "description": "<p><strong>When you leave this community,</strong> you do so inside a War Wagon.</p><p><strong>War Wagon:</strong> The War Wagon is a halfling carriage converted to war. Covered in spikes, it is mounted with a rock ballistae and a kitchen, for that extra taste of home.</p><p><strong>Stats:</strong> Rock Ballistae, Spiked Armor, Built For War</p>",
     "moveType": "fellowship",
     "rollFormula": "",
     "moveResults": {
@@ -46,8 +46,8 @@
     "systemId": "pbta",
     "systemVersion": "1.1.21",
     "createdTime": 1753043049839,
-    "modifiedTime": 1753052870615,
+    "modifiedTime": 1753056410738,
     "lastModifiedBy": "JSvWyw8NYcFGMf4t"
   },
-  "_key": "!items!KrmX8raV42XCWUr1"
+  "_key": "!items!vrYuy8o9t79KHRRy"
 }

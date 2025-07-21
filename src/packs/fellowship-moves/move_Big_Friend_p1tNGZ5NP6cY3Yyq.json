@@ -4,7 +4,7 @@
   "_id": "p1tNGZ5NP6cY3Yyq",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>The Ogre who lives here has grown attached to you, and decided to come with. One of you has two Bonds with it.</p><p><strong>Ogre:</strong> A simple creature, an Ogre is easily confused and easily misled. But just as easily, they will destroy your house or crush your head.</p><p><strong>Stats:</strong> <em>Giant's Strength</em>, <em>Huge Club</em>, <em>Tough As Nails</em>, <em>A Simple Mind</em>.</p>",
+    "description": "<p>The Ogre who lives here has grown attached to you, and decided to come with. One of you has two Bonds with it.</p><p><strong>Ogre:</strong> A simple creature, an Ogre is easily confused and easily misled. But just as easily, they will destroy your house or crush your head.</p><p><strong>Stats:</strong> Giant's Strength, Huge Club, Tough As Nails, A Simple Mind.</p>",
     "moveType": "fellowship",
     "rollFormula": "",
     "moveResults": {
@@ -46,7 +46,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.21",
     "createdTime": 1753053033384,
-    "modifiedTime": 1753053273609,
+    "modifiedTime": 1753056302090,
     "lastModifiedBy": "JSvWyw8NYcFGMf4t"
   },
   "_key": "!items!p1tNGZ5NP6cY3Yyq"

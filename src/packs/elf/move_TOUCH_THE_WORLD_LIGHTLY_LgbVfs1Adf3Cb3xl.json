@@ -5,7 +5,7 @@
   "_id": "LgbVfs1Adf3Cb3xl",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>You can safely walk on top of snow, across thin tree branches, along precarious ledges, or on top of held weaponry. You can also run along walls, up trees, or across treacherous surfaces safely, although only for short distances.</p><p>You still need to roll to <em>Get Away </em>if you use this move to escape danger.</p>",
+    "description": "<p>You can safely walk on top of snow, across thin tree branches, along precarious ledges, or on top of held weaponry. You can also run along walls, up trees, or across treacherous surfaces safely, although only for short distances.</p><p>You still need to roll to <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.gvcPbIgaPctbaOCa]{Get Away} </em>if you use this move to escape danger.</p>",
     "moveType": "core",
     "rollFormula": "",
     "moveResults": {
@@ -43,10 +43,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
+    "systemVersion": "1.1.21",
     "createdTime": 1736310027535,
-    "modifiedTime": 1736310049315,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753059798746,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!LgbVfs1Adf3Cb3xl"

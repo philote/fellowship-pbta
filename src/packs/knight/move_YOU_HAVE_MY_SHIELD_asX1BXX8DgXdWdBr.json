@@ -5,7 +5,7 @@
   "_id": "asX1BXX8DgXdWdBr",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p><strong>When you Overcome the harm an ally would suffer and roll a 7+,</strong> you can redirect the harm instead of stopping it. Someone else suffers the harm that would have been inflicted upon your ally - tell us who.</p>",
+    "description": "<p><strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.Item.h7JpSHtXSQYIjsWA]{Overcome}</strong></em><strong> the harm an ally would suffer and roll a 7+,</strong> you can redirect the harm instead of stopping it. Someone else suffers the harm that would have been inflicted upon your ally - tell us who.</p>",
     "moveType": "destiny",
     "rollFormula": "",
     "moveResults": {
@@ -43,10 +43,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
+    "systemVersion": "1.1.21",
     "createdTime": 1736406099765,
-    "modifiedTime": 1736406112036,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753058483278,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!asX1BXX8DgXdWdBr"

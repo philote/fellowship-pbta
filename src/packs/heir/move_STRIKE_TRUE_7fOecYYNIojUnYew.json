@@ -5,7 +5,7 @@
   "_id": "7fOecYYNIojUnYew",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p><strong>When you could </strong><em><strong>Finish Them </strong></em><strong>in single combat,</strong> instead of rolling, you may strike a decisive blow.</p><p><strong>Choose one, and tell us how you do it:</strong></p><ul><li><strong>Beaten Down:</strong> They cannot cause further harm during this scene.</li><li><strong>Pinned Down:</strong> They cannot give chase.</li><li><strong>Taken Down:</strong> Choose one of their already damaged stats. Remove it - they no longer have that stat, nor any Threats associated with it.</li></ul>",
+    "description": "<p><strong>When you could </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.Item.cnXubqxIogR16JMj]{Finish Them} </strong></em><strong>in single combat,</strong> instead of rolling, you may strike a decisive blow.</p><p><strong>Choose one, and tell us how you do it:</strong></p><ul><li><strong>Beaten Down:</strong> They cannot cause further harm during this scene.</li><li><strong>Pinned Down:</strong> They cannot give chase.</li><li><strong>Taken Down:</strong> Choose one of their already damaged stats. Remove it - they no longer have that stat, nor any Threats associated with it.</li></ul>",
     "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
@@ -43,10 +43,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
+    "systemVersion": "1.1.21",
     "createdTime": 1736311471229,
-    "modifiedTime": 1736311484674,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753060739366,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!7fOecYYNIojUnYew"

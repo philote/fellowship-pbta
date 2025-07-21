@@ -5,7 +5,7 @@
   "_id": "sTZoh9VydxfFWok4",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>You can speak to the mountains and hear the words of the stones. <strong>When you </strong><em><strong>Speak Softly </strong></em><strong>with the earth,</strong> you may use one of your questions to ask it to move for you. For you, the earth can create pits or one-room caves, collapse or clear stone passageways, or leave behind a message that only dwarves will notice.</p>",
+    "description": "<p>You can speak to the mountains and hear the words of the stones. <strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.Item.Ml6muq1ZjhkuT7FF]{Speak Softly} </strong></em><strong>with the earth,</strong> you may use one of your questions to ask it to move for you. For you, the earth can create pits or one-room caves, collapse or clear stone passageways, or leave behind a message that only dwarves will notice.</p>",
     "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
@@ -43,10 +43,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
+    "systemVersion": "1.1.21",
     "createdTime": 1736242977503,
-    "modifiedTime": 1736242999458,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753059707886,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!sTZoh9VydxfFWok4"

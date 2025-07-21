@@ -5,24 +5,24 @@
   "_id": "WGzaLxuBGfoJHv28",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>The Harbingers are the keepers of prophecy and magic, and their soul is unlike any other. You have a sixth stat, Doom, and an additional +0 to assign between your stats. <strong>When your Doom stat gets damaged by an enemy attack, </strong>you must damage another one of your stats.</p><p><strong>When you </strong><em><strong>Finish Them </strong></em><strong>by relying on fate or luck,</strong> roll +Doom. On a 10+, their fate is sealed. The Overlord player decides what happens to them.</p><p><strong>When you Share this Move with another,</strong> their Doom stat is +1.</p>",
+    "description": "<p>The Harbingers are the keepers of prophecy and magic, and their soul is unlike any other. You have a sixth stat, Doom, and an additional +0 to assign between your stats. <strong>When your Doom stat gets damaged by an enemy attack, </strong>you must damage another one of your stats.</p><p><strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.Item.cnXubqxIogR16JMj]{Finish Them} </strong></em><strong>by relying on fate or luck,</strong> roll +Doom. </p><p><strong>When you Share this Move with another,</strong> their Doom stat is +1.</p>",
     "moveType": "core",
     "rollFormula": "",
     "moveResults": {
       "failure": {
         "key": "system.moveResults.failure.value",
         "label": "Complications...",
-        "value": ""
+        "value": "<p>You lose the advantage, and must face retaliation.</p>"
       },
       "partial": {
         "key": "system.moveResults.partial.value",
         "label": "Partial success.",
-        "value": ""
+        "value": "<p>You deal damage to them and lose your advantage over them. <strong>If an ally was </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.uXriNVHOmu3064KN]{Keeping Them Busy}</strong></em>, they aren't anymore.</p>"
       },
       "success": {
         "key": "system.moveResults.success.value",
         "label": "Success!",
-        "value": ""
+        "value": "<p>On a 10+, their fate is sealed. The Overlord player decides what happens to them.</p>"
       }
     },
     "uses": 0,
@@ -43,10 +43,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
+    "systemVersion": "1.1.21",
     "createdTime": 1736311027790,
-    "modifiedTime": 1736311041548,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753060580184,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!WGzaLxuBGfoJHv28"

@@ -17,12 +17,12 @@
       "partial": {
         "key": "system.moveResults.partial.value",
         "label": "Partial success.",
-        "value": "<p>You may only <em>Forge a Bond </em>with a single listener.</p>"
+        "value": "<p>You may only <em>@UUID[Compendium.fellowship-pbta.bond-moves.Item.28gRsLA4GNORvwg6]{Forge a Bond} </em>with a single listener.</p>"
       },
       "success": {
         "key": "system.moveResults.success.value",
         "label": "Success!",
-        "value": "<p>You may <em>Forge a Bond </em>with as many audience members as you'd like. The Bond should relate to how much they adore and appreciate you.</p>"
+        "value": "<p>You may <em>@UUID[Compendium.fellowship-pbta.bond-moves.Item.28gRsLA4GNORvwg6]{Forge a Bond} </em>with as many audience members as you'd like. The Bond should relate to how much they adore and appreciate you.</p>"
       }
     },
     "uses": 0,
@@ -43,10 +43,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
+    "systemVersion": "1.1.21",
     "createdTime": 1736310114416,
-    "modifiedTime": 1736310171718,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753060153520,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!d3yHiXkNAihQPous"

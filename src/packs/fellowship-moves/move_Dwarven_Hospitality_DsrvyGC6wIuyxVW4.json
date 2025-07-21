@@ -4,7 +4,7 @@
   "_id": "DsrvyGC6wIuyxVW4",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p><strong>When you leave this community,</strong> two Dwarven Defenders come with you. Two members of the fellowship each gain one Bond with one of the Defenders.</p><p><strong>Dwarven Defender:</strong> Trained in the art of the tower shield, this dwarf will defend you through thick and thin.<br><em>Stats: Loyal, Shield-Bearer.</em></p>",
+    "description": "<p><strong>When you leave this community,</strong> two Dwarven Defenders come with you. Two members of the fellowship each gain one Bond with one of the Defenders.</p><p><strong>Dwarven Defender:</strong> Trained in the art of the tower shield, this dwarf will defend you through thick and thin.</p><p><strong>Stats:</strong> Loyal, Shield-Bearer.</p>",
     "moveType": "fellowship",
     "rollFormula": "",
     "moveResults": {
@@ -46,7 +46,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.21",
     "createdTime": 1753043049839,
-    "modifiedTime": 1753052870615,
+    "modifiedTime": 1753056828106,
     "lastModifiedBy": "JSvWyw8NYcFGMf4t"
   },
   "_key": "!items!DsrvyGC6wIuyxVW4"

@@ -4,24 +4,24 @@
   "_id": "0jqh9tKZNj2PHQnq",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>The fellowship is taught in the ways of being tough and strong. Everyone in the fellowship gains the Iron stat at +1, if they do not already have it. <strong>When they </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.Item.cnXubqxIogR16JMj]{Finish Them}</strong></em><strong> by outlasting them, out drinking them, or by slugging it out blow by blow until one of you falls,</strong> roll +Iron.</p>",
+    "description": "<p>The fellowship is taught in the ways of being tough and strong. Everyone in the fellowship gains the Iron stat at +1, if they do not already have it. <strong>When they </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.Item.cnXubqxIogR16JMj]{Finish Them}</strong></em><strong> by outlasting them, out drinking them, or by slugging it out blow by blow until one of you falls,</strong> roll +Iron.</p><p></p><p><strong>If you have the Clumsy tag, </strong>you take -1 to <em>Finish Them</em>.</p>",
     "moveType": "fellowship",
     "rollFormula": "",
     "moveResults": {
       "failure": {
         "key": "system.moveResults.failure.value",
         "label": "Complications...",
-        "value": ""
+        "value": "<p>You lose the advantage, and must face retaliation.</p>"
       },
       "partial": {
         "key": "system.moveResults.partial.value",
         "label": "Partial success.",
-        "value": ""
+        "value": "<p>You deal damage to them and lose your advantage over them. <strong>If an ally was </strong><em><strong>Keeping Them Busy</strong></em>, they aren't anymore.</p>"
       },
       "success": {
         "key": "system.moveResults.success.value",
         "label": "Success!",
-        "value": ""
+        "value": "<p><strong>If you </strong><em><strong>Finish Them </strong></em><strong>by...</strong></p><p><strong>...trying to kill them,</strong> They die by your hand.</p><p><strong>...forcing them to retreat,</strong> They back off. They won't be back anytime soon.</p><p><strong>...outsmarting, terrifying, or overwhelming them,</strong> They admit defeat, and will not willingly challenge you again.</p><p><strong>...disabling them or knocking them out,</strong> They are physically incapacitated and unable to continue.</p><p><strong>...showing them the error of their ways,</strong> You <em>Forge a Bond </em>with them, and they cannot bring themselves to hurt you.</p>"
       }
     },
     "uses": 0,
@@ -46,7 +46,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.21",
     "createdTime": 1753053033384,
-    "modifiedTime": 1753053273609,
+    "modifiedTime": 1753056803744,
     "lastModifiedBy": "JSvWyw8NYcFGMf4t"
   },
   "_key": "!items!0jqh9tKZNj2PHQnq"

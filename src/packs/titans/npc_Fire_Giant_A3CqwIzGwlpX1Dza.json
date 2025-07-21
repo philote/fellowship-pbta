@@ -2,7 +2,7 @@
   "name": "Fire Giant",
   "type": "npc",
   "_id": "A3CqwIzGwlpX1Dza",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "icons/magic/fire/elemental-fire-flying.webp",
   "system": {
     "stats": {},
     "attributes": {
@@ -95,7 +95,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "icons/svg/mystery-man.svg",
+      "src": "icons/magic/fire/elemental-fire-flying.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -296,8 +296,8 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737179339834,
-    "modifiedTime": 1737179354202,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753062997876,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!actors!A3CqwIzGwlpX1Dza"

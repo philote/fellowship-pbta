@@ -5,7 +5,7 @@
   "_id": "rQhwjkiJMh7mD7CY",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>You can cook a meal from almost nothing. <strong>When you </strong><em><strong>Fill Your Belly</strong></em><strong>, it doesn't cost you any food to feed yourself. When you share a meal with friends, everyone who shares in the meal heals an extra stat.</strong></p>",
+    "description": "<p>You can cook a meal from almost nothing. <strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.special-moves.Item.I18nTKFofUw4ewsT]{Fill Your Belly}</strong></em><strong>, </strong>it doesn't cost you any food to feed yourself. When you share a meal with friends, everyone who shares in the meal heals an extra stat.</p>",
     "moveType": "destiny",
     "rollFormula": "",
     "moveResults": {
@@ -43,10 +43,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
+    "systemVersion": "1.1.21",
     "createdTime": 1736405967332,
-    "modifiedTime": 1736405983879,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753058329409,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!rQhwjkiJMh7mD7CY"

@@ -5,7 +5,7 @@
   "_id": "ac7nUNVt5p6BeuOy",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>You move without effort, and can go anywhere you need to be. You can walk or run along any surface, including sheer cliffs, ceilings, lava, or drops of rain falling from the sky, and you always roll with Hope to <em>Get Away.</em></p>",
+    "description": "<p>You move without effort, and can go anywhere you need to be. You can walk or run along any surface, including sheer cliffs, ceilings, lava, or drops of rain falling from the sky, and you always roll with Hope to <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.gvcPbIgaPctbaOCa]{Get Away}.</em></p>",
     "moveType": "destiny",
     "rollFormula": "",
     "moveResults": {
@@ -43,10 +43,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
+    "systemVersion": "1.1.21",
     "createdTime": 1736404077187,
-    "modifiedTime": 1736404090615,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753057971654,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!ac7nUNVt5p6BeuOy"

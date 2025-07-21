@@ -5,7 +5,7 @@
   "_id": "69B3NhU3e2dFZJEY",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p><strong>When you get Taken Out,</strong> heal your Courage stat. This does not stop the Overlord from making you <em>An Offer You Can't Refuse.</em></p>",
+    "description": "<p><strong>When you get @UUID[Compendium.fellowship-pbta.special-moves.Item.OnoZsu0tZybyqesF]{Taken Out},</strong> heal your Courage stat. This does not stop the Overlord from making you <em>@UUID[Compendium.fellowship-pbta.overlord-moves.Item.BOBrp1ZWbYp6AMDN]{An Offer You Can't Refuse}.</em></p>",
     "moveType": "destiny",
     "rollFormula": "",
     "moveResults": {
@@ -43,10 +43,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
+    "systemVersion": "1.1.21",
     "createdTime": 1736406220107,
-    "modifiedTime": 1736406231865,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753058729609,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!69B3NhU3e2dFZJEY"

@@ -3,7 +3,7 @@
   "type": "move",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p><strong>When you would get Taken Out,</strong> heal 2 damage instead. This does not stop the Overlord from making you <em>An Offer You Can't Refuse</em>.</p><p><strong>When the Overlord makes you </strong><em><strong>An Offer You Can't Refuse</strong></em><strong>,</strong> you will always accept their offer, but your power is great enough that you can negotiate. Add a caveat of your choosing to their terms.</p>",
+    "description": "<p><strong>When you would get @UUID[Compendium.fellowship-pbta.special-moves.Item.OnoZsu0tZybyqesF]{Taken Out},</strong> heal 2 damage instead. This does not stop the Overlord from making you <em>@UUID[Compendium.fellowship-pbta.overlord-moves.Item.BOBrp1ZWbYp6AMDN]{An Offer You Can't Refuse}</em>.</p><p><strong>When the Overlord makes you </strong><em><strong>@UUID[Compendium.fellowship-pbta.overlord-moves.Item.BOBrp1ZWbYp6AMDN]{An Offer You Can't Refuse}</strong></em><strong>,</strong> you will always accept their offer, but your power is great enough that you can negotiate. Add a caveat of your choosing to their terms.</p>",
     "moveType": "destiny",
     "rollFormula": "",
     "moveResults": {
@@ -41,10 +41,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
+    "systemVersion": "1.1.21",
     "createdTime": 1736396349954,
-    "modifiedTime": 1736396355505,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753057539823,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_id": "fhdnhXCFbDNaJCUc",

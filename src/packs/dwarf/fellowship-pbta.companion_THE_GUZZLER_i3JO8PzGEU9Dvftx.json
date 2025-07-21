@@ -6,7 +6,7 @@
   "img": "icons/svg/item-bag.svg",
   "system": {
     "typeName": "THE GUZZLER",
-    "typeDescription": "A prototype automobile, there&#39;s nothing like it in all the world. It runs on alcohol, pops, and bangs.",
+    "typeDescription": "A prototype automobile, there's nothing like it in all the world. It runs on alcohol, pops, and bangs.",
     "inDespair": false,
     "stats": [
       {
@@ -31,10 +31,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
+    "systemVersion": "1.1.21",
     "createdTime": 1736232224247,
-    "modifiedTime": 1736232243550,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753059753800,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!i3JO8PzGEU9Dvftx"

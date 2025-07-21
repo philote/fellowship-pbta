@@ -5,28 +5,28 @@
   "_id": "0SombjTUkPiCQstc",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>You gain the Iron stat at +2. If you already had the Iron stat, increase it by +1 (to a maximum of +3). Iron represents your supreme toughness - your armor, survivability, iron gut, and stubbornness.</p><p><strong>When you </strong><em><strong>Finish Them</strong></em><strong> by outlasting them in a contest of power or endurance,</strong> roll +Iron. <strong>On a 10+,</strong> they pass out.</p><p><strong>When you or an ally within arm's reach would suffer terrible consequences,</strong> you may damage your Iron stat to negate those consequences.</p>",
+    "description": "<p>You gain the Iron stat at +2. If you already had the Iron stat, increase it by +1 (to a maximum of +3). Iron represents your supreme toughness - your armor, survivability, iron gut, and stubbornness.</p><p><strong>When you or an ally within arm's reach would suffer terrible consequences,</strong> you may damage your Iron stat to negate those consequences.</p><p><strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.Item.cnXubqxIogR16JMj]{Finish Them}</strong></em><strong> by outlasting them in a contest of power or endurance,</strong> roll +Iron.</p>",
     "moveType": "destiny",
     "rollFormula": "",
     "moveResults": {
       "failure": {
         "key": "system.moveResults.failure.value",
         "label": "Complications...",
-        "value": ""
+        "value": "<p>You lose the advantage, and must face retaliation.</p>"
       },
       "partial": {
         "key": "system.moveResults.partial.value",
         "label": "Partial success.",
-        "value": ""
+        "value": "<p>You deal damage to them and lose your advantage over them. <strong>If an ally was </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.uXriNVHOmu3064KN]{Keeping Them Busy}</strong></em>, they aren't anymore.</p>"
       },
       "success": {
         "key": "system.moveResults.success.value",
         "label": "Success!",
-        "value": ""
+        "value": "<p><strong>On a 10+,</strong> they pass out.</p>"
       }
     },
     "uses": 0,
-    "rollType": "",
+    "rollType": "ask",
     "rollMod": 0,
     "actorType": "character",
     "choices": ""
@@ -43,10 +43,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
+    "systemVersion": "1.1.21",
     "createdTime": 1736406239846,
-    "modifiedTime": 1736406252591,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753058665596,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!0SombjTUkPiCQstc"

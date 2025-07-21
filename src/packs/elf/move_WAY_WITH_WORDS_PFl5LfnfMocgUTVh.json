@@ -5,31 +5,31 @@
   "_id": "PFl5LfnfMocgUTVh",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p><strong>When you </strong><em><strong>Speak Softly </strong></em><strong>with someone who admires or fears you,</strong> you may roll at +Grace instead of +Wisdom.</p><p><strong>When you </strong><em><strong>Speak Softly, </strong></em>you may also ask, \"What do they desire most?\" regardless of the result of your roll.</p>",
+    "description": "<p><strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.Item.Ml6muq1ZjhkuT7FF]{Speak Softly} </strong></em><strong>with someone who admires or fears you,</strong> you may roll at +Grace instead of +Wisdom.</p><p><strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.Item.Ml6muq1ZjhkuT7FF]{Speak Softly}, </strong></em>you may also ask, \"What do they desire most?\" regardless of the result of your roll.</p>",
     "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
       "failure": {
         "key": "system.moveResults.failure.value",
         "label": "Complications...",
-        "value": ""
+        "value": "<p>One of their answers is not helpful. Either they refuse to answer or they reveal a terrible truth you didn't want to hear, their choice.</p><p>One of their other answers is false.</p>"
       },
       "partial": {
         "key": "system.moveResults.partial.value",
         "label": "Partial success.",
-        "value": ""
+        "value": "<p>One of their answers is not helpful. Either they refuse to answer or they reveal a terrible truth you didn't want to hear, their choice.</p>"
       },
       "success": {
         "key": "system.moveResults.success.value",
         "label": "Success!",
-        "value": ""
+        "value": "<p>They must answer each question honestly.</p>"
       }
     },
     "uses": 0,
     "rollType": "grace",
     "rollMod": 0,
     "actorType": "character",
-    "choices": ""
+    "choices": "<ul><li>What can they tell us about <span style=\"text-decoration: underline;\"><span style=\"text-decoration: underline;\">        </span></span>?</li><li>What were they doing, and what are they going to do next?</li><li>What should I be wary of when dealing with them?</li><li>What do they want, and how could we help them get it?</li><li>What would they have us do next?</li><li>What do they desire most?</li></ul>"
   },
   "effects": [],
   "sort": 0,
@@ -43,10 +43,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
+    "systemVersion": "1.1.21",
     "createdTime": 1736310343904,
-    "modifiedTime": 1736310365895,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753059956056,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!PFl5LfnfMocgUTVh"

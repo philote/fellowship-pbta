@@ -5,7 +5,7 @@
   "_id": "S5p1fbTrZACfgzWG",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p><em><strong>Requires:</strong> Wizardry</em></p><p>Add the following option to the <em>Wizardry </em>list:</p><ul><li>You can create semi-transparent walls and floors anywhere you wish, as large as you'd like them to be. You can only have one such surface in existence at a time, and it is not indestructible - it can be destroyed by a strong enough hit, and it cannot stop a <strong>Threat to the World</strong>.</li></ul>",
+    "description": "<p><em><strong>Requires:</strong> @UUID[Compendium.fellowship-pbta.harbinger.Item.L6DCdjRMftDOgdZN]{Wizardry}</em></p><p>Add the following option to the <em>@UUID[Compendium.fellowship-pbta.harbinger.Item.L6DCdjRMftDOgdZN]{Wizardry} </em>list:</p><ul><li>You can create semi-transparent walls and floors anywhere you wish, as large as you'd like them to be. You can only have one such surface in existence at a time, and it is not indestructible - it can be destroyed by a strong enough hit, and it cannot stop a <strong>Threat to the World</strong>.</li></ul>",
     "moveType": "destiny",
     "rollFormula": "",
     "moveResults": {
@@ -43,10 +43,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
+    "systemVersion": "1.1.21",
     "createdTime": 1736404602635,
-    "modifiedTime": 1736404614147,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753058175260,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!S5p1fbTrZACfgzWG"

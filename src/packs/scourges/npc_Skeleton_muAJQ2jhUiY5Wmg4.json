@@ -2,7 +2,7 @@
   "name": "Skeleton",
   "type": "npc",
   "_id": "muAJQ2jhUiY5Wmg4",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "icons/magic/death/undead-skeleton-rags-fire-green.webp",
   "system": {
     "stats": {},
     "attributes": {
@@ -95,7 +95,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "icons/svg/mystery-man.svg",
+      "src": "icons/magic/death/undead-skeleton-rags-fire-green.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -263,8 +263,8 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737178467274,
-    "modifiedTime": 1737178526519,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753062262606,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!actors!muAJQ2jhUiY5Wmg4"

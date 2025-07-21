@@ -5,7 +5,7 @@
   "_id": "CwewDjnsr72kPadV",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>You do not need to damage a Companion's stat to use <em>Bound In Service</em>.</p>",
+    "description": "<p>You do not need to damage a Companion's stat to use <em>@UUID[Compendium.fellowship-pbta.bond-moves.Item.RScvU1oZMVYb5mVY]{Bound In Service}</em>.</p>",
     "moveType": "destiny",
     "rollFormula": "",
     "moveResults": {
@@ -43,10 +43,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
+    "systemVersion": "1.1.21",
     "createdTime": 1736406705951,
-    "modifiedTime": 1736406716227,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753058795879,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!CwewDjnsr72kPadV"

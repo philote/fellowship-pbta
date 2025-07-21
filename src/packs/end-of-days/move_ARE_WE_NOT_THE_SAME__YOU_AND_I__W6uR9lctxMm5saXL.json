@@ -5,7 +5,7 @@
   "_id": "W6uR9lctxMm5saXL",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>You gain an <strong>Overlord Stat</strong>, write it now. See page 180 of the Fellowship book for more information.</p><p><strong>While your Overlord stat is undamaged,</strong> you are the same as the Overlord and cannot harm or hinder them. <strong>If they make you an </strong><em><strong>Offer You Can't Refuse </strong></em><strong>while your Overlord stat is undamaged,</strong> you must accept it, but your power is great enough that you may negotiate. You may add a caveat to their terms.</p><p><strong>When you are exposed to the Overlord's Weakness,</strong> you immediately damage your Overlord stat.</p><p><strong>When an Overlord stat is damaged,</strong> mark the box. Overlord stats are always true unless they are damaged.</p>",
+    "description": "<p>You gain an <strong>Overlord Stat</strong>, write it now. See page 180 of the Fellowship book for more information.</p><p><strong>While your Overlord stat is undamaged,</strong> you are the same as the Overlord and cannot harm or hinder them. <strong>If they make you @UUID[Compendium.fellowship-pbta.overlord-moves.Item.BOBrp1ZWbYp6AMDN]{an Offer You Can't Refuse}</strong><em><strong> </strong></em><strong>while your Overlord stat is undamaged,</strong> you must accept it, but your power is great enough that you may negotiate. You may add a caveat to their terms.</p><p><strong>When you are exposed to the Overlord's Weakness,</strong> you immediately damage your Overlord stat.</p><p><strong>When an Overlord stat is damaged,</strong> mark the box. Overlord stats are always true unless they are damaged.</p>",
     "moveType": "destiny",
     "rollFormula": "",
     "moveResults": {
@@ -43,10 +43,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
+    "systemVersion": "1.1.21",
     "createdTime": 1736404503144,
-    "modifiedTime": 1736404519794,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753058241638,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!W6uR9lctxMm5saXL"

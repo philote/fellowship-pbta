@@ -3,7 +3,7 @@
   "type": "move",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>When all of your stats are damaged and you take further damage, you are Taken Out, and no longer able to help out for the rest of the scene. Tell us how you got Taken Out. What happened to you? What is going to happen to you next? Can the fellowship save you from your fate? If so, how?</p>",
+    "description": "<p>When all of your stats are damaged and you take further damage, you are Taken Out, and no longer able to help out for the rest of the scene. Tell us how you got <em>Taken Out</em>. What happened to you? What is going to happen to you next? Can the fellowship save you from your fate? If so, how?</p>",
     "moveType": "special",
     "rollFormula": "",
     "moveResults": {
@@ -45,7 +45,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.21",
     "createdTime": 1752972294082,
-    "modifiedTime": 1752972638046,
+    "modifiedTime": 1753057376481,
     "lastModifiedBy": "JSvWyw8NYcFGMf4t"
   },
   "_id": "OnoZsu0tZybyqesF",

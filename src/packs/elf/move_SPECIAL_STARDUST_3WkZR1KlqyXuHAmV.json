@@ -5,7 +5,7 @@
   "_id": "3WkZR1KlqyXuHAmV",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>Add this to your <em>Elder Arts </em>list:</p><ul><li><strong>Sleep Tight: </strong>You put someone straight to sleep. It is a normal sleep, and they are woken up by anything that would awaken a sleeping person.</li><li><strong>When you Share this Move, </strong>the ally you share it with gains the <em>Elder Arts </em>move as well, but Sleep Tight is the only spell they know. They do not gain your other <em>Elder Arts</em>.</li></ul>",
+    "description": "<p>Add this to your <em>@UUID[Compendium.fellowship-pbta.elf.Item.bQ7oNjK0Uqn4uADg]{Elder Arts} </em>list:</p><ul><li><strong>Sleep Tight: </strong>You put someone straight to sleep. It is a normal sleep, and they are woken up by anything that would awaken a sleeping person.</li><li><strong>When you Share this Move, </strong>the ally you share it with gains the <em>Elder Arts </em>move as well, but Sleep Tight is the only spell they know. They do not gain your other <em>Elder Arts</em>.</li></ul>",
     "moveType": "customs",
     "rollFormula": "",
     "moveResults": {
@@ -43,10 +43,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
+    "systemVersion": "1.1.21",
     "createdTime": 1736310318348,
-    "modifiedTime": 1736310335054,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753059974285,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!3WkZR1KlqyXuHAmV"
