@@ -12,7 +12,7 @@
       "failure": {
         "key": "system.moveResults.failure.value",
         "label": "Complications...",
-        "value": ""
+        "value": "<p>The Overlord gets to make a @UUID[Compendium.fellowship-pbta.overlord.JournalEntry.Wspo5QWJyqQdielu.JournalEntryPage.PBTrM0AWIri4ICZJ]{Cut} against you!<span class=\"Apple-converted-space\"> </span></p>"
       },
       "partial": {
         "key": "system.moveResults.partial.value",
@@ -43,10 +43,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
+    "systemVersion": "1.1.21",
     "createdTime": 1736312209250,
-    "modifiedTime": 1736312274454,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753130187649,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!oyDbAmEhVC98tzCR"

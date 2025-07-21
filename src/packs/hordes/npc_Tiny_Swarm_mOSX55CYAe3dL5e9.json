@@ -2,7 +2,7 @@
   "name": "Tiny Swarm",
   "type": "npc",
   "_id": "mOSX55CYAe3dL5e9",
-  "img": "icons/creatures/invertebrates/wasp-swarm-tan.webp",
+  "img": "modules/fellowship-pbta/assets/icons/spider-alt.svg",
   "system": {
     "stats": {},
     "attributes": {
@@ -230,7 +230,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737175200832,
-    "modifiedTime": 1753062698637,
+    "modifiedTime": 1753127456745,
     "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },

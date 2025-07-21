@@ -2,7 +2,7 @@
   "name": "Little Swarm",
   "type": "npc",
   "_id": "OIvkWGp8X2pFkN3U",
-  "img": "icons/creatures/invertebrates/wasp-swarm-attack.webp",
+  "img": "modules/fellowship-pbta/assets/icons/minions.svg",
   "system": {
     "stats": {},
     "attributes": {
@@ -230,7 +230,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737176587728,
-    "modifiedTime": 1753062500014,
+    "modifiedTime": 1753127483850,
     "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },

@@ -4,7 +4,7 @@
   "_id": "Ml6muq1ZjhkuT7FF",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>When you have a quiet chat with someone, you may roll +Wisdom. Then, ask three questions from the list.</p>",
+    "description": "<p><strong>When you have a quiet chat with someone,</strong> you may roll +Wisdom. Then, ask three questions from the list.</p>",
     "moveType": "basic",
     "rollFormula": "",
     "moveResults": {
@@ -43,10 +43,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
+    "systemVersion": "1.1.21",
     "createdTime": 1736309015953,
-    "modifiedTime": 1736309109269,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753129443524,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!Ml6muq1ZjhkuT7FF"

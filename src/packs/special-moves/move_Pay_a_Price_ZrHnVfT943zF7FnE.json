@@ -1,5 +1,5 @@
 {
-  "name": "Pay the Price",
+  "name": "Pay a Price",
   "type": "move",
   "img": "icons/svg/aura.svg",
   "system": {
@@ -45,7 +45,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.21",
     "createdTime": 1752972267767,
-    "modifiedTime": 1752972649450,
+    "modifiedTime": 1753129145841,
     "lastModifiedBy": "JSvWyw8NYcFGMf4t"
   },
   "_id": "ZrHnVfT943zF7FnE",

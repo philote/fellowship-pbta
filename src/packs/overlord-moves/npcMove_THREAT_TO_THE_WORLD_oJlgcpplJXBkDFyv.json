@@ -5,7 +5,7 @@
   "img": "icons/svg/aura.svg",
   "system": {
     "description": "<p>You threaten the world and all it stands for. As a <strong>Threat To The World</strong>, you have imunity to a variety of moves. <strong>When someone who is not a Threat to the World takes direct action against something that is,</strong> they must pay a price to do so.</p>",
-    "moveType": "",
+    "moveType": "basic",
     "rollFormula": "",
     "moveResults": {
       "failure": {
@@ -39,10 +39,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.12",
+    "systemVersion": "1.1.21",
     "createdTime": 1737518283353,
-    "modifiedTime": 1737518605571,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753118180292,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!oJlgcpplJXBkDFyv"

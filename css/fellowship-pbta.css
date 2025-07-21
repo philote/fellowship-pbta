@@ -33,6 +33,7 @@
 .pbta.sheet .sheet-header__fields {
   padding: 8px;
   background-color: #272c33;
+  width: 100%;
 }
 .pbta.sheet .window-content {
   background-color: #ebeced;

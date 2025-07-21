@@ -2,7 +2,7 @@
   "name": "The War Leader",
   "type": "npc",
   "_id": "5SrOq4z2FpM3WAsT",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/fellowship-pbta/assets/icons/character.svg",
   "system": {
     "stats": {},
     "attributes": {
@@ -95,7 +95,7 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "icons/svg/mystery-man.svg",
+      "src": "modules/fellowship-pbta/assets/icons/character.svg",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -213,6 +213,39 @@
         "exportSource": null
       },
       "_key": "!actors.items!5SrOq4z2FpM3WAsT.U9GCqpgGIhPA04Ig"
+    },
+    {
+      "name": "Hold Together!",
+      "type": "fellowship-pbta.stat",
+      "system": {
+        "htmlFields": [
+          "description"
+        ],
+        "damaged": false,
+        "description": "<p>This stat must be damaged twice. The War Leader can take damage in place of any Swarm they lead.</p>"
+      },
+      "_id": "UHQ1VEnGvyj5NwIS",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0,
+        "JSvWyw8NYcFGMf4t": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pbta",
+        "systemVersion": "1.1.21",
+        "createdTime": 1753118530646,
+        "modifiedTime": 1753118547303,
+        "lastModifiedBy": "JSvWyw8NYcFGMf4t"
+      },
+      "_key": "!actors.items!5SrOq4z2FpM3WAsT.UHQ1VEnGvyj5NwIS"
     }
   ],
   "effects": [],
@@ -230,8 +263,8 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737177049811,
-    "modifiedTime": 1737177063486,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753127590195,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!actors!5SrOq4z2FpM3WAsT"

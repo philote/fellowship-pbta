@@ -2,7 +2,7 @@
   "name": "Flying Swarm",
   "type": "npc",
   "_id": "ZoLxMBr1AXLYd6pS",
-  "img": "icons/creatures/invertebrates/wasp-swarm-movement.webp",
+  "img": "modules/fellowship-pbta/assets/icons/bat.svg",
   "system": {
     "stats": {},
     "attributes": {
@@ -230,7 +230,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737176515421,
-    "modifiedTime": 1753062490637,
+    "modifiedTime": 1753127566690,
     "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },

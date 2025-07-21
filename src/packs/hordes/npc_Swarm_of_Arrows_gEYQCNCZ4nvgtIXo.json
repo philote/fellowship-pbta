@@ -2,7 +2,7 @@
   "name": "Swarm of Arrows",
   "type": "npc",
   "_id": "gEYQCNCZ4nvgtIXo",
-  "img": "icons/skills/ranged/arrows-flying-salvo-blue.webp",
+  "img": "modules/fellowship-pbta/assets/icons/arrow-flights.svg",
   "system": {
     "stats": {},
     "attributes": {
@@ -230,7 +230,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737176719167,
-    "modifiedTime": 1753062647524,
+    "modifiedTime": 1753127405991,
     "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },

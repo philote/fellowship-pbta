@@ -5,8 +5,10 @@
 .pbta.sheet {
     .sheet-header__fields{
         padding: 8px;
-            background-color: $c-dark-grey;
+        background-color: $c-dark-grey;
+        width: 100%;
     }
+    
     .window-content {
         background-color: $c-lighter-grey;
         background: url("#{$layout-path}background.webp");

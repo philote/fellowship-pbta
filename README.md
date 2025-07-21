@@ -61,6 +61,7 @@ You can install the latest released version of the module by using this manifest
     - Gear
     - All of the Basic, Bond, Playbook Moves
     - All of the NPC/Threats
+    - Fellowship moves
 - A Journal for the Basic Rules 2e
 - Book 2: Inverse Fellowship content
     - Playbooks and Moves
@@ -120,3 +121,11 @@ Tank icon by Lorc under CC BY 3.0\
 Ogre icon by Delapouite under CC BY 3.0\
 Shambling zombie icon by Delapouite under CC BY 3.0\
 Backup icon by Lorc under CC BY 3.0\
+Spears icon by Lorc under CC BY 3.0\
+Rally the troops icon by Lorc under CC BY 3.0\
+Dark squad icon by Lorc under CC BY 3.0\
+Uprising icon by Delapouite under CC BY 3.0\
+Minions icon by Lorc under CC BY 3.0\
+Striking arrows icon by Lorc under CC BY 3.0\
+Arrow flights icon by Lorc under CC BY 3.0\
+Bat icon by Delapouite under CC BY 3.0\

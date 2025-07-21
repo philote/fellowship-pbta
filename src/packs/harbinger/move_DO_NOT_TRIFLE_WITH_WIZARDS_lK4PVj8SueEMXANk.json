@@ -5,7 +5,7 @@
   "_id": "lK4PVj8SueEMXANk",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p>Your magic is dangerous and powerful, for both you and your enemies.</p><p><strong>When you conjure a powerful spell to destroy something in your way,</strong> pay a price, then take up to three points of damage. You inflict that much damage to your target. You then become exhausted, and roll with Despair for the rest of the scene.</p><p><strong>Threats to the World </strong>and <strong>Set Pieces</strong> take no damage from this Move.</p><p><strong>This Move cannot be Shared.</strong></p>",
+    "description": "<p>Your magic is dangerous and powerful, for both you and your enemies.</p><p><strong>When you conjure a powerful spell to destroy something in your way,</strong> @UUID[Compendium.fellowship-pbta.special-moves.Item.ZrHnVfT943zF7FnE]{pay a price}, then take up to three points of damage. You inflict that much damage to your target. You then become exhausted, and roll with Despair for the rest of the scene.</p><p><strong>Threats to the World </strong>and <strong>Set Pieces</strong> take no damage from this Move.</p><p><strong>This Move cannot be Shared.</strong></p>",
     "moveType": "core",
     "rollFormula": "",
     "moveResults": {
@@ -43,10 +43,10 @@
     "duplicateSource": null,
     "coreVersion": "13.346",
     "systemId": "pbta",
-    "systemVersion": "1.1.9",
+    "systemVersion": "1.1.21",
     "createdTime": 1736311078564,
-    "modifiedTime": 1736311093521,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753130313223,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!lK4PVj8SueEMXANk"

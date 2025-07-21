@@ -5,7 +5,7 @@
   "_id": "bQ7oNjK0Uqn4uADg",
   "img": "icons/svg/aura.svg",
   "system": {
-    "description": "<p><strong>When you draw upon the elven power that humans sometimes call magic,</strong> choose a spell from below, then mark it. You cannot use a spell while it is marked.</p><p><strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.special-moves.Item.I18nTKFofUw4ewsT]{Fill Your Belly}</strong></em><strong>,</strong> remove a mark from one spell.</p><p><strong>When you </strong><em><strong>Recover</strong></em><strong>,</strong> remove all marks on your spells.</p><ul><li><strong>Camouflage: </strong>Become invisible and undetectable. This lasts until you attack or decide to make yourself known.</li><li><strong>Keen Senses: </strong>Ask a single question about your surroundings, and immediately receive a truthful answer.</li><li><strong>Sense Magic: </strong>Immediately know what here is magical and where it is. If there is nothing magical here, you do not mark this spell.</li><li><strong>Whisper on the Wind: </strong>Send a message to someone you have a Bond with. They will hear it whispered in their ears moments after you send it, and they can send a reply of up to 5 words.</li></ul><p><strong>When you Share this move with another, they choose a single spell from the list. That spell is the only one they can use.</strong></p><p>You can Share this move with someone multiple times. Each time you do, they learn another of your spells.</p>",
+    "description": "<p><strong>When you draw upon the elven power that humans sometimes call magic,</strong> choose a spell from below, then mark it. You cannot use a spell while it is marked.</p><p><strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.special-moves.Item.I18nTKFofUw4ewsT]{Fill Your Belly}</strong></em><strong>,</strong> remove a mark from one spell.</p><p><strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.special-moves.Item.YNOTCTxDOQMVmtTO]{Recover}</strong></em><strong>,</strong> remove all marks on your spells.</p><ul><li><strong>Camouflage: </strong>Become invisible and undetectable. This lasts until you attack or decide to make yourself known.</li><li><strong>Keen Senses: </strong>Ask a single question about your surroundings, and immediately receive a truthful answer.</li><li><strong>Sense Magic: </strong>Immediately know what here is magical and where it is. If there is nothing magical here, you do not mark this spell.</li><li><strong>Whisper on the Wind: </strong>Send a message to someone you have a Bond with. They will hear it whispered in their ears moments after you send it, and they can send a reply of up to 5 words.</li></ul><p><strong>When you Share this move with another, they choose a single spell from the list. That spell is the only one they can use.</strong></p><p>You can Share this move with someone multiple times. Each time you do, they learn another of your spells.</p>",
     "moveType": "core",
     "rollFormula": "",
     "moveResults": {
@@ -45,7 +45,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.21",
     "createdTime": 1736309959416,
-    "modifiedTime": 1753059810690,
+    "modifiedTime": 1753130476282,
     "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
