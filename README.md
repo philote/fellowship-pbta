@@ -70,7 +70,10 @@ You can install the latest released version of the module by using this manifest
 ## TODO
 - Add Book 2: Inverse Fellowship content
     - Sheets for the new Framework
+    - Team Sheets
 - Add Book 3: In Rebellion content
+    - Sheets for the new Framework
+    - Team Sheets
 - Add Book 4: A Generous Fellowship content
 
 # License & Acknowledgements
