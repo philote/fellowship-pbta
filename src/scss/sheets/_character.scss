@@ -10,6 +10,11 @@
         width: 180px;
     }
 
+    // We temporarily hide bonds until TODO: a fix to remove them from playbooks
+    div.cell.cell--bio.bonds {
+        display: none;
+    }
+
     .sidebar {
         flex: 0;
     }

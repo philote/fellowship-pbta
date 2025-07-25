@@ -306,6 +306,9 @@
 .pbta.sheet.character .cell--aesthetics {
   width: 180px;
 }
+.pbta.sheet.character div.cell.cell--bio.bonds {
+  display: none;
+}
 .pbta.sheet.character .sidebar {
   flex: 0;
 }
