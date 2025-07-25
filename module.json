@@ -45,6 +45,7 @@
     },
     "Item": {
       "companion": {},
+      "bond": {},
       "destiny": {
         "htmlFields": ["description"]
       },

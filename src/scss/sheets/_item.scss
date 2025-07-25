@@ -1,82 +1,106 @@
 .pbta.sheet.item {
+	.bonds-list {
+		gap: 10px;
+        display: flex;
+        flex-direction: column;
+		.bond {
+			gap: 10px;
+            align-items: center;
+		}
+	}
 
-    .destiny-item .form-group .editor, 
-    .destiny-item .form-group-stacked .editor {
-        min-height: 180px;
-    }
+	button:disabled {
+		background-color: #dddedf76;
+    	color: #272c336d;
+	}
 
-    .sheet-body {
-        padding: 8px;
-    }
-
-    .window-content {
-        .flexrow {
-            a, input[type="checkbox"] {
-                flex: 0;
-            }
-        }
-    }
-
-    .playbook-details {
-        .flexrow {
-            gap: 10px;
-        }
-
-        .flexcol {
-            align-self: flex-start;
-        }
-    }
-
-    // make playbook headers & buttons look better
-    &.playbook {
-        .item-form 
-        .item-controls {
-            align-content: center;
-        }
-        
-        .sheet-body {
-            .tab[data-tab="attributes"] {
-                .flexrow span{
-                    font-weight: bold;
-                    font-size: 1.5em;
-                    margin: 20px 0 5px 0;
-                }
-            }
-    
-            a[data-action="add-attribute-choice"] {
-                background: #fff;
-                border: 1px solid #000;
-                line-height: 1;
-                margin: 0px 10px;
-                padding: 1px 9px;
-                border-radius: 3px;
-            }
-        }
-    }
-
-    .plan-item {
+    .item-form {
         .sheet-header {
-            margin-bottom: 0;
+            margin-bottom: 0px;
         }
 
-        .editor,
-        .editor-content {
-            min-height: 100px;
-        }
-
-        .sheet-body .flexrow {
+        .sheet-navigation {
             margin-top: 10px;
         }
-        
-        .stageZero {
-            display: flex;
-            flex-direction: column;
-            flex-wrap: nowrap;
-            justify-content: flex-start;
-        }
-
-        .notes {
-            margin-top: 20px;
-        }
     }
+
+	.destiny-item .form-group .editor,
+	.destiny-item .form-group-stacked .editor {
+		min-height: 180px;
+	}
+
+	.sheet-body {
+		padding: 8px;
+	}
+
+	.window-content {
+		.flexrow {
+			a,
+			input[type="checkbox"] {
+				flex: 0;
+			}
+		}
+	}
+
+	.playbook-details {
+		.flexrow {
+			gap: 10px;
+		}
+
+		.flexcol {
+			align-self: flex-start;
+		}
+	}
+
+	// make playbook headers & buttons look better
+	&.playbook {
+		.item-form .item-controls {
+			align-content: center;
+		}
+
+		.sheet-body {
+			.tab[data-tab="attributes"] {
+				.flexrow span {
+					font-weight: bold;
+					font-size: 1.5em;
+					margin: 20px 0 5px 0;
+				}
+			}
+
+			a[data-action="add-attribute-choice"] {
+				background: #fff;
+				border: 1px solid #000;
+				line-height: 1;
+				margin: 0px 10px;
+				padding: 1px 9px;
+				border-radius: 3px;
+			}
+		}
+	}
+
+	.plan-item {
+		.sheet-header {
+			margin-bottom: 0;
+		}
+
+		.editor,
+		.editor-content {
+			min-height: 100px;
+		}
+
+		.sheet-body .flexrow {
+			margin-top: 10px;
+		}
+
+		.stageZero {
+			display: flex;
+			flex-direction: column;
+			flex-wrap: nowrap;
+			justify-content: flex-start;
+		}
+
+		.notes {
+			margin-top: 20px;
+		}
+	}
 }

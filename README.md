@@ -129,3 +129,6 @@ Minions icon by Lorc under CC BY 3.0\
 Striking arrows icon by Lorc under CC BY 3.0\
 Arrow flights icon by Lorc under CC BY 3.0\
 Bat icon by Delapouite under CC BY 3.0\
+Chained heart icon by Lorc under CC BY 3.0\
+Scales icon by Lorc under CC BY 3.0\
+Discussion icon by Delapouite under CC BY 3.0\

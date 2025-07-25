@@ -188,6 +188,10 @@
   color: #ebeced;
   text-shadow: none;
 }
+.pbta.sheet .bond-used {
+  color: rgba(39, 44, 51, 0.5);
+  text-decoration: line-through;
+}
 .pbta.sheet.npc .cell--aesthetics:first-child .cell__title, .pbta.sheet.character .cell--aesthetics:first-child .cell__title {
   height: 35.6px;
   margin-top: 4px;
@@ -352,6 +356,25 @@
   margin: 0px;
 }
 
+.pbta.sheet.item .bonds-list {
+  gap: 10px;
+  display: flex;
+  flex-direction: column;
+}
+.pbta.sheet.item .bonds-list .bond {
+  gap: 10px;
+  align-items: center;
+}
+.pbta.sheet.item button:disabled {
+  background-color: rgba(221, 222, 223, 0.462745098);
+  color: rgba(39, 44, 51, 0.4274509804);
+}
+.pbta.sheet.item .item-form .sheet-header {
+  margin-bottom: 0px;
+}
+.pbta.sheet.item .item-form .sheet-navigation {
+  margin-top: 10px;
+}
 .pbta.sheet.item .destiny-item .form-group .editor,
 .pbta.sheet.item .destiny-item .form-group-stacked .editor {
   min-height: 180px;
@@ -359,7 +382,8 @@
 .pbta.sheet.item .sheet-body {
   padding: 8px;
 }
-.pbta.sheet.item .window-content .flexrow a, .pbta.sheet.item .window-content .flexrow input[type=checkbox] {
+.pbta.sheet.item .window-content .flexrow a,
+.pbta.sheet.item .window-content .flexrow input[type=checkbox] {
   flex: 0;
 }
 .pbta.sheet.item .playbook-details .flexrow {

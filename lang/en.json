@@ -1,5 +1,6 @@
 {
 	"TYPES.Item.fellowship-pbta.companion": "Companion",
+	"TYPES.Item.fellowship-pbta.bond": "Bond",
 	"TYPES.Item.fellowship-pbta.destiny": "Destiny",
 	"TYPES.Item.fellowship-pbta.stat": "Stat",
 	"TYPES.Item.fellowship-pbta.plan": "Overlord Plan",
@@ -18,6 +19,7 @@
 		"SheetConfig": {
 			"character": "Fellowship Character Sheet",
 			"companion": "Companion Sheet",
+			"bond": "Bond Sheet",
 			"destiny": "Destiny Sheet",
 			"stat": "Stat Sheet",
 			"plan": "Plan Sheet",
@@ -25,7 +27,14 @@
 			"overlord": "Overlord Sheet"
 		},
 		"CharacterSheets": {
-			"advancementsTab": "Advancements",
+			"bonds": {
+				"label": "Bonds"
+			},
+			"tabs": {
+				"info": "Info",
+				"eq-adv": "EQ & ADV",
+				"social": "Social"
+			},
 			"rollResults": {
 				"complications": "Complications...",
 				"partialSuccess": "Partial success.",
@@ -102,6 +111,12 @@
 			"destiny": {
 				"prompt.title": "Choose Your Destiny"
 			}
+		},
+		"BondSheet": {
+			"label": "Bonded To:",
+			"bonds.label": "Bonds",
+			"add": "Add Bond",
+			"delete": "Delete Bond"
 		},
 		"CompanionSheet": {
 			"label": "Companions",

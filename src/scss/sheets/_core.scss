@@ -201,6 +201,11 @@
         }
     }
 
+    .bond-used {
+        color: $c-dark-grey-50;
+        text-decoration: line-through;
+    }
+
     /* ###################### */
     // NPC & Character Styles
     /* ###################### */

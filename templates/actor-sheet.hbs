@@ -36,10 +36,10 @@
 			<section class="sheet-main flexcol">
 				{{!-- Sheet Tab Navigation --}}
 				<nav class="sheet-tabs tabs" data-group="primary">
-					<a class="item" data-tab="description">{{localize "PBTA.Description"}}</a>
+					<a class="item" data-tab="description">{{localize "FELLOWSHIP.CharacterSheets.tabs.info"}}</a>
 					<a class="item" data-tab="moves">{{localize "PBTA.Moves"}}</a>
-					<a class="item" data-tab="equipment">{{localize "PBTA.Equipment"}}</a>
-					<a class='item' data-tab='advancements'>{{localize 'FELLOWSHIP.CharacterSheets.advancementsTab'}}</a>
+					<a class="item" data-tab="equipment">{{localize "FELLOWSHIP.CharacterSheets.tabs.eq-adv"}}</a>
+					<a class='item' data-tab='social'>{{localize 'FELLOWSHIP.CharacterSheets.tabs.social'}}</a>
 				</nav>
 
 				{{!-- Sheet Body --}}
@@ -51,10 +51,10 @@
 					{{> "pbta.actor-movelist" }}
 
 					{{!-- Owned Equipment Tab --}}
-					{{> "modules/fellowship-pbta/templates/parts/actor-inventory.hbs" }}
+					{{> "modules/fellowship-pbta/templates/parts/actor-inventory-tab.hbs" }}
 
-					{{!-- Advancements Tab --}}
-					{{> "modules/fellowship-pbta/templates/parts/actor-advancements.hbs" }}
+					{{!-- social Tab --}}
+					{{> "modules/fellowship-pbta/templates/parts/actor-social-tab.hbs" }}
 				</section>
 			</section>
 		</section>

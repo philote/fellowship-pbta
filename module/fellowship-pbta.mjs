@@ -1,6 +1,9 @@
 import * as pbtaConfig from "./helpers/pbta-config.mjs";
 import * as utils from "./helpers/utils.mjs";
 import { FELLOWSHIP } from "./helpers/config.mjs";
+import { BondModel } from "./data/bondModel.mjs";
+import { BondSheet } from "./sheets/bondSheet.mjs";
+import { FellowshipItemMixin } from './documents/item.mjs';
 import { CompanionModel } from "./data/companionModel.mjs";
 import { CompanionSheet } from "./sheets/companionSheet.mjs";
 import { DestinyModel } from "./data/destinyModel.mjs";
@@ -16,6 +19,8 @@ import { PlanModel } from "./data/planModel.mjs";
 import { PlanSheet } from "./sheets/planSheet.mjs";
 
 Hooks.once("init", () => {
+	CONFIG.FELLOWSHIP = FELLOWSHIP;
+	CONFIG.Item.documentClass = FellowshipItemMixin(game.pbta.documents.ItemPbta);
 
 	// Custom NPC Sheet Setup
 	const fellowshipActorNpcSheet = FellowshipActorNpcSheetMixin(game.pbta.applications.actor.PbtaActorSheet);
@@ -61,6 +66,19 @@ Hooks.once("init", () => {
 		types: ["fellowship-pbta.companion"],
 		makeDefault: true,
 		label: "FELLOWSHIP.SheetConfig.companion",	
+	});
+
+	// Bond DataModel & Sheet Setup
+	Object.assign(CONFIG.Item.dataModels, {
+		"fellowship-pbta.bond": BondModel,
+	});
+	Items.unregisterSheet("pbta", game.pbta.applications.item.PbtaItemSheet, {
+		types: ["fellowship-pbta.bond"],
+	});
+	Items.registerSheet("fellowship-pbta", BondSheet, {
+		types: ["fellowship-pbta.bond"],
+		makeDefault: true,
+		label: "FELLOWSHIP.SheetConfig.bond",	
 	});
 
 	// Destiny DataModel & Sheet Setup
@@ -122,8 +140,6 @@ Hooks.once("init", () => {
 
 	// Preload Handlebars stuff.
 	utils.preloadHandlebarsTemplates();
-
-	CONFIG.FELLOWSHIP = FELLOWSHIP;
 });
 
 // PbtA configuration hook

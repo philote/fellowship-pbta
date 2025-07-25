@@ -1,0 +1,66 @@
+<form class="{{cssClass}} bond-item item-form flexcol" autocomplete="off">
+	<header class="sheet-header flexrow">
+		<div class="cell--image">
+			<img class="profile-img" src="{{item.img}}" data-edit="img" />
+		</div>
+		<div class="header-fields">
+			<h1>{{localize "FELLOWSHIP.BondSheet.label"}}</h1>
+			<h1 class="charname">
+				<input
+					name="name"
+					type="text"
+					value="{{item.name}}"
+					placeholder="{{localize 'PBTA.Common.Name'}}"
+				/>
+			</h1>
+		</div>
+	</header>
+	{{! Sheet Body }}
+	<section class="sheet-body">
+		<div class="form-group-stacked">
+			<h2 class="cell__title">
+				<label class="item-group-label">
+					{{localize "FELLOWSHIP.BondSheet.bonds.label"}} 
+				</label>
+				<div class="bond-modify">
+					<button
+						class="item-add"
+						type="button"
+						class="item-add"
+						data-bond-action="add"
+						title="{{localize 'FELLOWSHIP.BondSheet.add'}}"
+						{{#if (gte system.bonds.length 3)}}
+							disabled
+						{{/if}}
+					>
+						<i class="fas fa-plus"></i>
+					</button>
+				</div>
+			</h2>
+			<div class="bonds-list item-group">
+				{{#each system.bonds}}
+					<div class="bond flexrow">
+						<input 
+							type="checkbox" 
+							class="bond-checkbox" 
+							name="system.bonds.{{@key}}.used" 
+							{{checked this.used}}/>
+						<textarea
+							{{#if this.used}}class='bond-used'{{/if}}
+							type="text"
+							name="system.bonds.{{@key}}.connection"
+							value="{{this.connection}}"
+						>{{this.connection}}</textarea>
+						<a
+							class="item-delete"
+							data-bond-id={{@key}}
+							data-bond-action="delete"
+							title="{{localize 'FELLOWSHIP.BondSheet.delete'}}"
+						><i class="fas fa-trash"></i></a>
+					</div>
+				{{/each}}
+			</div>
+		</div>
+
+	</section>
+</form>

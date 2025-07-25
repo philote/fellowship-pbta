@@ -1,59 +1,59 @@
-<div class="tab advancements" data-group="primary" data-tab="advancements">
-	<div class="cell cell--advancements cell--attr-advancements cell--{{system.attributes.advancements.type}}">
-		<span class="cell__title">{{system.attributes.advancements.label}}</span>
-		{{#if system.attributes.advancements.description}}<p class="cell__description cell__description--attr">{{system.attributes.advancements.description}}</p>{{/if}}
-		<ul class="cell__checkboxes flexcol">
-			{{#each system.attributes.advancements.options as |option optionKey|}}
-				<label
-					class="flexrow"
-					{{#if option.tooltip}}
-						data-tooltip="{{option.tooltip}}"
-						data-tooltip-direction="UP"
-					{{/if}}
-				>
-					{{#if option.values}}
-						{{#each option.values as |subOption subOptionKey|}}
-							<input type="checkbox" class="attr-list" name="system.attributes.advancements.options.{{optionKey}}.values.{{subOptionKey}}.value" {{checked subOption.value}}/>
-						{{/each}}
-					{{else}}
-						<input type="checkbox" class="attr-list" name="system.attributes.advancements.options.{{optionKey}}.value" {{checked option.value}}/>
-					{{/if}}
-					{{#if (eq option.label "[Text]")}}
-						<input type="text" class="input input-title" name="system.attributes.advancements.options.{{optionKey}}.userLabel" value="{{option.userLabel}}">
-					{{else}}
-						{{option.label}}
-					{{/if}}
-				</label>
-			{{/each}}
-		</ul>
-	</div>
-	{{!-- Unlock destiny --}}
-	<div class="cell cell--unlockDestiny cell--attr-unlockDestiny cell--{{system.attributes.unlockDestiny.type}}">
-		<span class="cell__title">{{system.attributes.unlockDestiny.label}}</span>
-		{{#if system.attributes.unlockDestiny.description}}<p class="cell__description cell__description--attr">{{system.attributes.unlockDestiny.description}}</p>{{/if}}
-		<ul class="cell__checkboxes flexcol">
-			{{#each system.attributes.unlockDestiny.options as |option optionKey|}}
-				<label
-					class="flexrow"
-					{{#if option.tooltip}}
-						data-tooltip="{{option.tooltip}}"
-						data-tooltip-direction="UP"
-					{{/if}}
-				>
-					{{#if option.values}}
-						{{#each option.values as |subOption subOptionKey|}}
-							<input type="checkbox" class="attr-list" name="system.attributes.unlockDestiny.options.{{optionKey}}.values.{{subOptionKey}}.value" {{checked subOption.value}}/>
-						{{/each}}
-					{{else}}
-						<input type="checkbox" class="attr-list" name="system.attributes.unlockDestiny.options.{{optionKey}}.value" {{checked option.value}}/>
-					{{/if}}
-					{{#if (eq option.label "[Text]")}}
-						<input type="text" class="input input-title" name="system.attributes.unlockDestiny.options.{{optionKey}}.userLabel" value="{{option.userLabel}}">
-					{{else}}
-						{{option.label}}
-					{{/if}}
-				</label>
-			{{/each}}
-		</ul>
-	</div>
+<div class='cell cell--f-item cell--companion cell--group'>
+  <div class="cell cell--advancements cell--attr-advancements cell--{{system.attributes.advancements.type}}">
+    <span class="cell__title">{{system.attributes.advancements.label}}</span>
+    {{#if system.attributes.advancements.description}}<p class="cell__description cell__description--attr">{{system.attributes.advancements.description}}</p>{{/if}}
+    <ul class="cell__checkboxes flexcol">
+      {{#each system.attributes.advancements.options as |option optionKey|}}
+        <label
+          class="flexrow"
+          {{#if option.tooltip}}
+            data-tooltip="{{option.tooltip}}"
+            data-tooltip-direction="UP"
+          {{/if}}
+        >
+          {{#if option.values}}
+            {{#each option.values as |subOption subOptionKey|}}
+              <input type="checkbox" class="attr-list" name="system.attributes.advancements.options.{{optionKey}}.values.{{subOptionKey}}.value" {{checked subOption.value}}/>
+            {{/each}}
+          {{else}}
+            <input type="checkbox" class="attr-list" name="system.attributes.advancements.options.{{optionKey}}.value" {{checked option.value}}/>
+          {{/if}}
+          {{#if (eq option.label "[Text]")}}
+            <input type="text" class="input input-title" name="system.attributes.advancements.options.{{optionKey}}.userLabel" value="{{option.userLabel}}">
+          {{else}}
+            {{option.label}}
+          {{/if}}
+        </label>
+      {{/each}}
+    </ul>
+  </div>
+  {{!-- Unlock destiny --}}
+  <div class="cell cell--unlockDestiny cell--attr-unlockDestiny cell--{{system.attributes.unlockDestiny.type}}">
+    <span class="cell__title">{{system.attributes.unlockDestiny.label}}</span>
+    {{#if system.attributes.unlockDestiny.description}}<p class="cell__description cell__description--attr">{{system.attributes.unlockDestiny.description}}</p>{{/if}}
+    <ul class="cell__checkboxes flexcol">
+      {{#each system.attributes.unlockDestiny.options as |option optionKey|}}
+        <label
+          class="flexrow"
+          {{#if option.tooltip}}
+            data-tooltip="{{option.tooltip}}"
+            data-tooltip-direction="UP"
+          {{/if}}
+        >
+          {{#if option.values}}
+            {{#each option.values as |subOption subOptionKey|}}
+              <input type="checkbox" class="attr-list" name="system.attributes.unlockDestiny.options.{{optionKey}}.values.{{subOptionKey}}.value" {{checked subOption.value}}/>
+            {{/each}}
+          {{else}}
+            <input type="checkbox" class="attr-list" name="system.attributes.unlockDestiny.options.{{optionKey}}.value" {{checked option.value}}/>
+          {{/if}}
+          {{#if (eq option.label "[Text]")}}
+            <input type="text" class="input input-title" name="system.attributes.unlockDestiny.options.{{optionKey}}.userLabel" value="{{option.userLabel}}">
+          {{else}}
+            {{option.label}}
+          {{/if}}
+        </label>
+      {{/each}}
+    </ul>
+  </div>
 </div>

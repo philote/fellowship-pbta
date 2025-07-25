@@ -4,8 +4,10 @@
 export const preloadHandlebarsTemplates = async function () {
 	return loadTemplates([
 		"modules/fellowship-pbta/templates/parts/actor-companions.hbs",
-		"modules/fellowship-pbta/templates/parts/actor-inventory.hbs",
+		"modules/fellowship-pbta/templates/parts/actor-inventory-tab.hbs",
 		"modules/fellowship-pbta/templates/parts/actor-advancements.hbs",
+		"modules/fellowship-pbta/templates/parts/actor-social-tab.hbs",
+		"modules/fellowship-pbta/templates/parts/actor-bonds.hbs",
 		"modules/fellowship-pbta/templates/parts/actor-destiny.hbs",
 		"modules/fellowship-pbta/templates/parts/actor-overlord-inventory.hbs",
 		"modules/fellowship-pbta/templates/parts/actor-overlord-description.hbs",

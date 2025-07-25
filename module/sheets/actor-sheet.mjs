@@ -24,6 +24,8 @@ export function FellowshipActorSheetMixin(Base) {
                 context.actor.companions = context.actor.items.filter((i) => i.type === 'fellowship-pbta.companion');
                 // Prepare Destiny Item
                 context.actor.destiny = context.actor.items.filter((i) => i.type === 'fellowship-pbta.destiny');
+                // Prepare Bonds Items
+                context.actor.bonds = context.actor.items.filter((i) => i.type === 'fellowship-pbta.bond');
                 // get available Destinies
                 if (!CONFIG.FELLOWSHIP.destinies.length) await utils.getDestinies();
 			    // context.destinies = CONFIG.FELLOWSHIP.destinies
@@ -36,10 +38,27 @@ export function FellowshipActorSheetMixin(Base) {
             super.activateListeners(html);
             // Companions
             html.find(".companion-update").on("click", this._onCompanionUpdate.bind(this))
+            // Bonds
+            html.find(".bond-update").on("click", this._onBondUpdate.bind(this))
             // Destiny
             html.find(".add-destiny").on("click", this._onAddDestiny.bind(this))
             html.find(".delete-destiny").on("click", this._onDeleteDestiny.bind(this))
             html.find(".view-destiny.active").on("click", this._onViewDestiny.bind(this));
+        }
+
+        async _onBondUpdate (event) {
+            event.preventDefault();
+            const itemId = $(event.currentTarget).parents('.item').attr('data-item-id');
+            const bondKey = event.target.dataset.key;
+            const action = event.target.dataset.action;
+            const item = this.actor.items.get(itemId);
+
+            switch(action) {
+                case "used": {
+                    // await item.update({ 'system.inDespair': !item.system.inDespair });
+                    break;
+                }
+            }
         }
 
         async _onCompanionUpdate(event) {
