@@ -2,7 +2,7 @@
   "name": "Many Died For This Information",
   "type": "move",
   "_id": "0d855712a85f1f7b",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/round-table.svg",
   "system": {
     "description": "<p><strong>You are told the location of a Source of Power that the Overlord currently has a plan to find,</strong> and you are also told the location of a Source of Power that the Overlord has already. One of them is quite close by, your choice which, and this community will tell you all about it.</p>",
     "moveType": "fellowship",

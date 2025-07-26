@@ -2,7 +2,7 @@
   "name": "Bring the Whole Family",
   "type": "move",
   "_id": "8CtUXZeyezhFcE3D",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/round-table.svg",
   "system": {
     "description": "<p><strong>When you Forge a Bond with a new Companion here,</strong> you also Forge a Bond with a second, identical Companion with a different first name. When you first take this Move, the player who picked it can Forge a Bond with a Halfling Brave, Chef, or Fast-Talker right now, for free.</p><p><strong>Halfling Brave:</strong> A more loyal and earnest warrior you will never find.<br><em>Stats: Loyal Beyond All Reason, Get Right In There</em></p><p><strong>Halfling Chef:</strong> If you've got the food, they'll make it tasty.<br><em>Stats: Special Ingredients, Rations (Food, 2 Uses)</em></p><p><strong>Fast-Talker:</strong> If you'll just listen, you'd understand...<br><em>Stats: Mixed-Metaphor-a-Minute, Natural Charm</em></p>",
     "moveType": "fellowship",

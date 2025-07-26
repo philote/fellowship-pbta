@@ -2,7 +2,7 @@
   "name": "War Boyz",
   "type": "move",
   "_id": "x9s9EMbbk0aKpbuT",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/round-table.svg",
   "system": {
     "description": "<p><strong>When you leave this community,</strong> two Big Lugs come with you. Two members of the fellowship each gain one Bond with one of them.</p><p><strong>Big Lug:</strong> Real big, real strong, real stupid.</p><p><strong>Stats:</strong> Tough As Can Be, Bigger 'n You</p>",
     "moveType": "fellowship",

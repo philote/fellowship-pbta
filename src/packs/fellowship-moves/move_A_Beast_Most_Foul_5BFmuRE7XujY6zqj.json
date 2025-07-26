@@ -2,7 +2,7 @@
   "name": "A Beast Most Foul",
   "type": "move",
   "_id": "5BFmuRE7XujY6zqj",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/round-table.svg",
   "system": {
     "description": "<p><strong>When you leave this community,</strong> you are given a pair of Strange Beasts. Two members of the fellowship each gain one Bond with one of the Beasts. The player who gained a Bond with a beast gets to decide what its two stats are.</p>",
     "moveType": "fellowship",

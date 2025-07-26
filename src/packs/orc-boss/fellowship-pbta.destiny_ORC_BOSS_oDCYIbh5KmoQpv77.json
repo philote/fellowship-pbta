@@ -2,7 +2,7 @@
   "name": "ORC BOSS",
   "type": "fellowship-pbta.destiny",
   "_id": "oDCYIbh5KmoQpv77",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/fellowship-pbta/assets/icons/enlightenment.svg",
   "system": {
     "htmlFields": [
       "description"

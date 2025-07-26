@@ -2,7 +2,7 @@
   "name": "To Dance Among Stars",
   "type": "move",
   "_id": "makqYhrYCltlfOlx",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/round-table.svg",
   "system": {
     "description": "<p><strong>Whenever you leave this community,</strong> you ride upon the wind to your next destination, arriving swiftly and safely and almost instantly.</p>",
     "moveType": "fellowship",

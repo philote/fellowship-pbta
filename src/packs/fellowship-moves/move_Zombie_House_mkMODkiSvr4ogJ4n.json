@@ -2,7 +2,7 @@
   "name": "Zombie House",
   "type": "move",
   "_id": "mkMODkiSvr4ogJ4n",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/round-table.svg",
   "system": {
     "description": "<p><strong>When you leave this community,</strong> each member of the fellowship has two Zombies leave with them. These zombies will not attack anyone in the fellowship and they will follow your commands, but no one has any Bonds with them. If any zombie's Simpleton Hivemind stat is damaged, all of their Simpleton Hivemind stats become damaged.</p><p><strong>Zombie:</strong> shamble. hunt. lunge. eat. braaaains. Nearly mindless, but potentially tamed if fed properly and often.</p><p><strong>Stats:</strong> Painless, Simpleton Hivemind</p>",
     "moveType": "fellowship",

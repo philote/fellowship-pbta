@@ -2,7 +2,7 @@
   "name": "The Bonds That Break Us",
   "type": "move",
   "_id": "z3XSV0YGPcfrUcQu",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/lovers.svg",
   "system": {
     "description": "<p><strong>When your actions harm an ally,</strong> immediately erase one of your Bonds with them. <strong>When you have no Bonds with a member of the fellowship,</strong> you cannot work alongside them without getting in each others' way, and you both roll with Despair when working together.</p>",
     "moveType": "bonds",

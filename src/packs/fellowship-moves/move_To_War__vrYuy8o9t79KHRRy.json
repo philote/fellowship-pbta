@@ -2,7 +2,7 @@
   "name": "To War!",
   "type": "move",
   "_id": "vrYuy8o9t79KHRRy",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/round-table.svg",
   "system": {
     "description": "<p><strong>When you leave this community,</strong> you do so inside a War Wagon.</p><p><strong>War Wagon:</strong> The War Wagon is a halfling carriage converted to war. Covered in spikes, it is mounted with a rock ballistae and a kitchen, for that extra taste of home.</p><p><strong>Stats:</strong> Rock Ballistae, Spiked Armor, Built For War</p>",
     "moveType": "fellowship",

@@ -2,7 +2,7 @@
   "name": "A Halfling at Heart",
   "type": "move",
   "_id": "CEBU0ZBC2hkeEpan",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/round-table.svg",
   "system": {
     "description": "<p>Everyone in the fellowship takes the Halfling Core Move <em>@UUID[Compendium.fellowship-pbta.halfling.Item.rZIloJIotaSHfs0u]{Sting Like A Bee}</em>. They can still only use it against those who are larger than they are.</p>",
     "moveType": "fellowship",

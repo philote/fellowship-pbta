@@ -2,7 +2,7 @@
   "name": "The Bonds That Bind Us",
   "type": "move",
   "_id": "1ope6WcKpX7hb9qR",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/lovers.svg",
   "system": {
     "description": "<p><strong>When two or more players who have Bonds with each other work together side by side,</strong> they roll with Hope. <strong>When one of them must @UUID[Compendium.fellowship-pbta.special-moves.Item.ZrHnVfT943zF7FnE]{pay a price},</strong> another may choose to pay that price instead.</p>",
     "moveType": "bonds",

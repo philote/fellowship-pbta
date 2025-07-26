@@ -2,7 +2,7 @@
   "name": "THE TRAITOR",
   "type": "fellowship-pbta.destiny",
   "_id": "dwuva8OGheKJA75g",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/fellowship-pbta/assets/icons/enlightenment.svg",
   "system": {
     "htmlFields": [
       "description"

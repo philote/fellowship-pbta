@@ -2,7 +2,7 @@
   "name": "Tusks of Steel",
   "type": "move",
   "_id": "UqzuW3AQcaFpMCyr",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/round-table.svg",
   "system": {
     "description": "<p><strong>Each time you leave this community,</strong> you gain a fully out-fitted war elephant, with a riding platform, armor, and bladed tusks.</p><p><strong>War Elephant:</strong> The largest in ground-based war animal technology, these massive creatures can support a small building on their backs. The APC of the fantasy age.</p><p><strong>Stats:</strong> Tusks and Screaming, Armored Platform</p>",
     "moveType": "fellowship",

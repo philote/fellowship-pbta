@@ -2,7 +2,7 @@
   "name": "Elven Training",
   "type": "move",
   "_id": "85RHUS7pfPtZ0qMN",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/round-table.svg",
   "system": {
     "description": "<p><strong>The Elf shares the @UUID[Compendium.fellowship-pbta.elf.Item.bQ7oNjK0Uqn4uADg]{Elder Arts} Move with everyone in the fellowship.</strong> They each get only one of your Elder Arts spells, as normal.</p>",
     "moveType": "fellowship",

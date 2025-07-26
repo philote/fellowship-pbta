@@ -2,7 +2,7 @@
   "name": "CYBORG",
   "type": "fellowship-pbta.destiny",
   "_id": "fd3HmeBAalVPG7YP",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/fellowship-pbta/assets/icons/enlightenment.svg",
   "system": {
     "htmlFields": [
       "description"

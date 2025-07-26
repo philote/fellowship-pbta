@@ -2,7 +2,7 @@
   "name": "CHOSEN ONE",
   "type": "fellowship-pbta.destiny",
   "_id": "s14tddxhNANQQZSL",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/fellowship-pbta/assets/icons/enlightenment.svg",
   "system": {
     "htmlFields": [
       "description"

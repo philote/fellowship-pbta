@@ -2,7 +2,7 @@
   "name": "Blade of Darkest Night",
   "type": "move",
   "_id": "PFNzxnXK8xrammgp",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/round-table.svg",
   "system": {
     "description": "<p>One of you is given a powerful, cursed weapon. It has the tags <em>Melee</em> and <em>Necrotic</em>. The player who is taking it describes what it looks like. It whispers dark and terrible secrets to whoever holds it, giving them insight into the world, but also driving them slowly mad.</p><p>The holder of this weapon can <em>Command Lore</em> about dark and terrible things, and gains the Agenda <strong>Always Dig Deeper</strong>: You need to know every secret and find every treasure, and you despise secrets and secret-keepers.</p>",
     "moveType": "fellowship",

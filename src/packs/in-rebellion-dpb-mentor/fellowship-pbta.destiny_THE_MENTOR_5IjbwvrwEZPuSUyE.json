@@ -2,7 +2,7 @@
   "name": "THE MENTOR",
   "type": "fellowship-pbta.destiny",
   "_id": "5IjbwvrwEZPuSUyE",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/fellowship-pbta/assets/icons/enlightenment.svg",
   "system": {
     "htmlFields": [
       "description"

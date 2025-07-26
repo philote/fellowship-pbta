@@ -2,7 +2,7 @@
   "name": "Our Forge is Your Forge",
   "type": "move",
   "_id": "Z3AJWCQQe4zQzRuZ",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/round-table.svg",
   "system": {
     "description": "<p>The dwarves here will replace or re-forge as many of your weapons and vehicles as you like. All such items in any players' Gear gain the <strong>Dwarf-Made</strong> tag, making them effectively indestructible.</p>",
     "moveType": "fellowship",

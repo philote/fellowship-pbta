@@ -2,7 +2,7 @@
   "name": "Dwarven Training",
   "type": "move",
   "_id": "0jqh9tKZNj2PHQnq",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/round-table.svg",
   "system": {
     "description": "<p>The fellowship is taught in the ways of being tough and strong. Everyone in the fellowship gains the Iron stat at +1, if they do not already have it. <strong>When they </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.Item.cnXubqxIogR16JMj]{Finish Them}</strong></em><strong> by outlasting them, out drinking them, or by slugging it out blow by blow until one of you falls,</strong> roll +Iron.</p><p></p><p><strong>If you have the Clumsy tag, </strong>you take -1 to <em>Finish Them</em>.</p>",
     "moveType": "fellowship",

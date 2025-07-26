@@ -2,7 +2,7 @@
   "name": "Ghost Town",
   "type": "move",
   "_id": "6881b0b9c2bc17ed",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/round-table.svg",
   "system": {
     "description": "<p><strong>When you gain the Fellowship of the sole person in this community,</strong> they fade away into nothingness. The entire town is now yours, with all its fortifications and riches, but the ghosts still linger here to attack those who mean you harm. If the Overlord had plans to destroy this community, they lose those plans now.</p>",
     "moveType": "fellowship",

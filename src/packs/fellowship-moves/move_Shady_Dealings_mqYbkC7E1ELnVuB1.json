@@ -2,7 +2,7 @@
   "name": "Shady Dealings",
   "type": "move",
   "_id": "mqYbkC7E1ELnVuB1",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/round-table.svg",
   "system": {
     "description": "<p>You've got an in with the most powerful orc(s) in town. They can get you just about anything you need, if the price is right. At any time, you can revoke your Fellowship here to cash in and get anything you want from them - a major favor, a massive vehicle, serious funding, anything - and they will make it happen. If you somehow manage to pay them back, you regain your Fellowship here.</p>",
     "moveType": "fellowship",

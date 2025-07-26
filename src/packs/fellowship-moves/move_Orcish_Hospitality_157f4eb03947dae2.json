@@ -2,7 +2,7 @@
   "name": "Orcish Hospitality",
   "type": "move",
   "_id": "157f4eb03947dae2",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/round-table.svg",
   "system": {
     "description": "<p><strong>While you are in this community,</strong> you find that the orcs will follow you everywhere you go. They watch your back, shut doors behind you, and will make sure you are never followed, harassed, or bothered. If they spot anything fishy, they let you know immediately, and if you want, they'll take care of it for you real quick, no sweat. It is impossible for you to be attacked or caught off guard as long as you are here.</p>",
     "moveType": "fellowship",

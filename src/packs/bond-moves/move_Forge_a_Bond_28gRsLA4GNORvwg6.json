@@ -2,7 +2,7 @@
   "name": "Forge a Bond",
   "type": "move",
   "_id": "28gRsLA4GNORvwg6",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/lovers.svg",
   "system": {
     "description": "<p><strong>When you bond with someone over something you did or shared together,</strong> record a new Bond with them on your sheet, describing the connection you two now hold. A Bond is a single sentence describing how you feel about them or what you two have done together. If you already had a Bond with them, you can add another Bond, or rewrite an existing one. You can never have more than three Bonds with someone.</p><p><strong>If you </strong><em><strong>Forge a Bond</strong></em><strong> with someone outside the fellowship,</strong> they will join your cause as a Companion, so long as the Bond holds.</p>",
     "moveType": "bonds",

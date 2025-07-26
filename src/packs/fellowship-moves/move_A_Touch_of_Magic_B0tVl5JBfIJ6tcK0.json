@@ -2,7 +2,7 @@
   "name": "A Touch of Magic",
   "type": "move",
   "_id": "B0tVl5JBfIJ6tcK0",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/round-table.svg",
   "system": {
     "description": "<p>The Harbingers have shown you the secret to their power. The Harbinger shares their <em>@UUID[Compendium.fellowship-pbta.harbinger.Item.L6DCdjRMftDOgdZN]{Wizardry}</em> Move with everyone in the fellowship. They each only get one of your <em>Wizardry</em> spells, as normal.</p>",
     "moveType": "fellowship",

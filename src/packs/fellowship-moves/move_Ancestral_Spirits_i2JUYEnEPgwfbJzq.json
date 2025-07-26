@@ -2,7 +2,7 @@
   "name": "Ancestral Spirits",
   "type": "move",
   "_id": "i2JUYEnEPgwfbJzq",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/round-table.svg",
   "system": {
     "description": "<p>Your deeds have awakened the spirits of your ancestors, who had been laid to rest here. These ghostly spirits will haunt any minions of the Overlord who attempt to enter this place, driving them out and causing them great harm. This community can never fall to the Overlord. If the Overlord had plans to destroy this community, they lose those plans now.</p>",
     "moveType": "fellowship",

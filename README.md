@@ -132,3 +132,6 @@ Bat icon by Delapouite under CC BY 3.0\
 Chained heart icon by Lorc under CC BY 3.0\
 Scales icon by Lorc under CC BY 3.0\
 Discussion icon by Delapouite under CC BY 3.0\
+Enlightenment icon by Lorc under CC BY 3.0\
+Lovers icon by Delapouite under CC BY 3.0\
+Round table icon by Delapouite under CC BY 3.0\

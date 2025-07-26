@@ -2,7 +2,7 @@
   "name": "Blessings of Fire",
   "type": "move",
   "_id": "C65zplL6dfznHV8b",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/round-table.svg",
   "system": {
     "description": "<p>The fire elementals who live here have given you their blessing. You all gain supernatural resistance to heat and flame, adding <em>Fire Resistance</em> (Armor vs. Fire, 1 Use) to your Gear. In addition, one of you is given a powerful weapon of fire (<em>Ranged</em>, <em>Reload</em>) that ignites whatever it strikes. This weapon is one of a kind, and is not added to your Gear.</p>",
     "moveType": "fellowship",

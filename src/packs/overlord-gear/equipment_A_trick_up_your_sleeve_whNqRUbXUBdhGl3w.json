@@ -2,7 +2,7 @@
   "name": "A trick up your sleeve",
   "type": "equipment",
   "_id": "whNqRUbXUBdhGl3w",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/magic/control/debuff-chains-shackles-movement-purple.webp",
   "system": {
     "description": "<p>Use this to produce anything you could possibly need, right now.</p>",
     "uses": 1,
@@ -28,8 +28,8 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737525163182,
-    "modifiedTime": 1737525185084,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753560200362,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!whNqRUbXUBdhGl3w"

@@ -2,7 +2,7 @@
   "name": "War Elephant",
   "type": "npc",
   "_id": "wCRjUDbafNpYiDCG",
-  "img": "icons/svg/pawprint.svg",
+  "img": "modules/fellowship-pbta/assets/icons/elephant-head.svg",
   "system": {
     "stats": {},
     "attributes": {
@@ -263,7 +263,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737150781264,
-    "modifiedTime": 1753061624491,
+    "modifiedTime": 1753559132370,
     "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },

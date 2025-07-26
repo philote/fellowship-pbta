@@ -2,7 +2,7 @@
   "name": "Granted Nobility",
   "type": "move",
   "_id": "bc32acc173a375ca",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/round-table.svg",
   "system": {
     "description": "<p><strong>You have been given a villa within the city limits.</strong> The villa comes with a small contingent of servants to watch the place while you are away. Decide which of you owns the villa - that player gains a title, such as Duke or Countess, and they hold political sway within this community and among those that respect this community.</p>",
     "moveType": "fellowship",

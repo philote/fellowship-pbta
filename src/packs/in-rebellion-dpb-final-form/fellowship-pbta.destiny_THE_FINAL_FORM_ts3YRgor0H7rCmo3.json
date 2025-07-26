@@ -2,7 +2,7 @@
   "name": "THE FINAL FORM",
   "type": "fellowship-pbta.destiny",
   "_id": "ts3YRgor0H7rCmo3",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/fellowship-pbta/assets/icons/enlightenment.svg",
   "system": {
     "htmlFields": [
       "description"

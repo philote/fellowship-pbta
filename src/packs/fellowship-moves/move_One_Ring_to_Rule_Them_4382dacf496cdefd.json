@@ -2,7 +2,7 @@
   "name": "One Ring to Rule Them",
   "type": "move",
   "_id": "4382dacf496cdefd",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/round-table.svg",
   "system": {
     "description": "<p><strong>The harbingers know much of the Overlord's inherent strengths and weaknesses,</strong> and by performing taxing, difficult rituals, they may create an item of power to defeat the Overlord with. The item they create becomes a new Weakness for the Overlord, one the Overlord does not know of. Describe how it looks and how you use it.</p>",
     "moveType": "fellowship",

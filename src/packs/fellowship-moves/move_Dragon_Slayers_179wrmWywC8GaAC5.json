@@ -2,7 +2,7 @@
   "name": "Dragon Slayers",
   "type": "move",
   "_id": "179wrmWywC8GaAC5",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/round-table.svg",
   "system": {
     "description": "<p><strong>This community is eternally grateful you defeated the dragon terrorizing them,</strong> and have given you items made from its body. Each player chooses one of the following to add to their Gear:</p><ul><li>A weapon of dragon bone and blood <em>(Melee)</em> that burns whatever it strikes</li><li>Durable armor of dragon skin <em>(1 Use, Armor)</em> and <em>(1 Use, Armor vs. Fire)</em>.</li><li>Dragonfire Drought <em>(1 Use, Ranged, Dangerous)</em>, which gives you the ability to breathe fire for the rest of the scene when you drink it.</li></ul>",
     "moveType": "fellowship",

@@ -2,7 +2,7 @@
   "name": "Halfling Hospitality",
   "type": "move",
   "_id": "b11bd22f5978929c",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/round-table.svg",
   "system": {
     "description": "<p><strong>The Halflings have everything for sale that you could ever want,</strong> and they'll go out of their way to find specialty goods for you. Each player chooses another option from any one of their Gear lists, and adds that to their Gear. Everyone, tell us what they had to do to get you your stuff.</p>",
     "moveType": "fellowship",

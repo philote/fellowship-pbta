@@ -2,7 +2,7 @@
   "name": "ORACLE",
   "type": "fellowship-pbta.destiny",
   "_id": "N69nW5fBsnu9l0uG",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/fellowship-pbta/assets/icons/enlightenment.svg",
   "system": {
     "htmlFields": [
       "description"

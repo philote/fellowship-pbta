@@ -2,7 +2,7 @@
   "name": "Heart of Fire",
   "type": "move",
   "_id": "GC5hXQ91O90LMQgE",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/lovers.svg",
   "system": {
     "description": "<p><strong>When you hold a Bond with the Overlord,</strong> they do not become your Companion, but you still hold sway over them. You may erase that Bond with them at any time to buy yourself reprieve. </p><p><strong>Choose one:</strong> They will show you mercy, tell you something valuable, or ignore you for the time being.</p>",
     "moveType": "bonds",

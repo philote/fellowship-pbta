@@ -2,7 +2,7 @@
   "name": "Upgraded Flesh",
   "type": "move",
   "_id": "YD0SzSB6TjA36EDp",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/round-table.svg",
   "system": {
     "description": "<p>The cyborgs of this community have agreed to share their gifts with you. They will give robotic prosthetics to any in the fellowship who need or want them. The prosthetics function just as well as the old flesh did, but they have abilities that the flesh simply does not. Anyone who gains a prosthetic adds <strong>Robotic Bits (2 Uses, Useful)</strong> to their Gear.</p>",
     "moveType": "fellowship",

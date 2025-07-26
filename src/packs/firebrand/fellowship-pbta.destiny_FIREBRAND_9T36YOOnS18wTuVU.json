@@ -2,7 +2,7 @@
   "name": "FIREBRAND",
   "type": "fellowship-pbta.destiny",
   "_id": "9T36YOOnS18wTuVU",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/fellowship-pbta/assets/icons/enlightenment.svg",
   "system": {
     "htmlFields": [
       "description"

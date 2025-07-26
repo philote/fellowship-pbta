@@ -154,17 +154,6 @@
       }
     },
     {
-      "name": "machines",
-      "label": "Machines",
-      "path": "packs/machines",
-      "type": "Actor",
-      "system": "pbta",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
       "name": "organizations",
       "label": "Organizations",
       "path": "packs/organizations",
@@ -767,7 +756,6 @@
         "beasts",
         "innocents",
         "hordes",
-        "machines",
         "organizations",
         "scourges",
         "titans",

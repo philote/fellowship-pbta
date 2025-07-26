@@ -2,7 +2,7 @@
   "name": "Destructive blasts of fire or lightning",
   "type": "equipment",
   "_id": "UaFgnwjxHO0sqHKK",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/magic/fire/explosion-embers-orange.webp",
   "system": {
     "description": "",
     "uses": 0,
@@ -28,8 +28,8 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737525071390,
-    "modifiedTime": 1737525082827,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753560388974,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!UaFgnwjxHO0sqHKK"

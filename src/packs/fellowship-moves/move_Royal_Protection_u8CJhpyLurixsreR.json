@@ -2,7 +2,7 @@
   "name": "Royal Protection",
   "type": "move",
   "_id": "u8CJhpyLurixsreR",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/round-table.svg",
   "system": {
     "description": "<p><strong>When you leave this community,</strong> each member of the fellowship leaves with a Bodyguard. Each player has one Bond with their Bodyguard.</p><p><strong>Bodyguard:</strong> A trained bodyguard, ready to dive in the way of an attack.</p><p><strong>Stats:</strong> Watch Out!!!</p>",
     "moveType": "fellowship",

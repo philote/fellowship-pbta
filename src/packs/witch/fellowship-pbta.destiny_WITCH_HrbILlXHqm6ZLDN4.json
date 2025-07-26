@@ -2,7 +2,7 @@
   "name": "WITCH",
   "type": "fellowship-pbta.destiny",
   "_id": "HrbILlXHqm6ZLDN4",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/fellowship-pbta/assets/icons/enlightenment.svg",
   "system": {
     "htmlFields": [
       "description"

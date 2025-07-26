@@ -2,7 +2,7 @@
   "name": "Finer Goods You'll Never See",
   "type": "move",
   "_id": "KrmX8raV42XCWUr1",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/round-table.svg",
   "system": {
     "description": "<p><strong>Each of you receives an elven treasure</strong> - an item of such extreme value that many would give their lives just to look at it once. Describe the gift you were given. It is Precious and Elf-Made, in addition to any other properties it has. The item you were given considers you a friend of elves and will not harm you.</p>",
     "moveType": "fellowship",

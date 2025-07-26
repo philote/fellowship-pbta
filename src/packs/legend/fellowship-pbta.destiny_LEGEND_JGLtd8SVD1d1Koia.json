@@ -2,7 +2,7 @@
   "name": "LEGEND",
   "type": "fellowship-pbta.destiny",
   "_id": "JGLtd8SVD1d1Koia",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/fellowship-pbta/assets/icons/enlightenment.svg",
   "system": {
     "htmlFields": [
       "description"

@@ -2,7 +2,7 @@
   "name": "Bountiful Harvest",
   "type": "move",
   "_id": "Ji61Aon5MF6MMSmE",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/round-table.svg",
   "system": {
     "description": "<p><strong>When you leave this community,</strong> each member of the fellowship is given some <em>Elven Bread</em> (Food, 4 Uses).</p>",
     "moveType": "fellowship",

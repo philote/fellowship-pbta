@@ -2,7 +2,7 @@
   "name": "WARLORD",
   "type": "fellowship-pbta.destiny",
   "_id": "l67ZYTISgKWYeCaV",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/fellowship-pbta/assets/icons/enlightenment.svg",
   "system": {
     "htmlFields": [
       "description"

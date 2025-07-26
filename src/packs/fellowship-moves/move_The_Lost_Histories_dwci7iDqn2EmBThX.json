@@ -2,7 +2,7 @@
   "name": "The Lost Histories",
   "type": "move",
   "_id": "dwci7iDqn2EmBThX",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/round-table.svg",
   "system": {
     "description": "<p>Each player learns a single closely guarded secret of these people. Each player will tell us the secret they learned when the time is right. These secrets can be anything, but they must be related to the law, the old legends, the empires of the world, or these people's culture in some way.</p>",
     "moveType": "fellowship",

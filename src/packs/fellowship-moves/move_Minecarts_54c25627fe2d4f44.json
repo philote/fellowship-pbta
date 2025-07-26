@@ -2,7 +2,7 @@
   "name": "Minecarts",
   "type": "move",
   "_id": "54c25627fe2d4f44",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/round-table.svg",
   "system": {
     "description": "<p><strong>You have been given access to the vast underground network of dwarven mining tunnels,</strong> and you can use the mine carts in those tunnels to rapidly reach other dwarven settlements, or any other settlement the dwarves are particularly friendly with.</p>",
     "moveType": "fellowship",

@@ -2,7 +2,7 @@
   "name": "THE HERO",
   "type": "fellowship-pbta.destiny",
   "_id": "biNgvZJntINMbr4Z",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/fellowship-pbta/assets/icons/enlightenment.svg",
   "system": {
     "htmlFields": [
       "description"

@@ -2,7 +2,7 @@
   "name": "Something Evil This Way Comes",
   "type": "move",
   "_id": "AiBM9bl0XIOjphsy",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/round-table.svg",
   "system": {
     "description": "<p><strong>When you flee from an enemy by retreating into this community,</strong> that enemy will suffer a horrible fate if they do not immediately turn back. If the Overlord had plans to destroy this community, they lose those plans now.</p>",
     "moveType": "fellowship",

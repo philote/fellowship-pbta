@@ -2,7 +2,7 @@
   "name": "Dwarven Hospitality",
   "type": "move",
   "_id": "DsrvyGC6wIuyxVW4",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/round-table.svg",
   "system": {
     "description": "<p><strong>When you leave this community,</strong> two Dwarven Defenders come with you. Two members of the fellowship each gain one Bond with one of the Defenders.</p><p><strong>Dwarven Defender:</strong> Trained in the art of the tower shield, this dwarf will defend you through thick and thin.</p><p><strong>Stats:</strong> Loyal, Shield-Bearer.</p>",
     "moveType": "fellowship",

@@ -2,7 +2,7 @@
   "name": "Bound in Service",
   "type": "move",
   "_id": "RScvU1oZMVYb5mVY",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/lovers.svg",
   "system": {
     "description": "<p><strong>When you call upon a Companion for help,</strong> you may damage one of their stats to create an advantage related to that stat. <strong>If all of a Companion's stats are damaged and they'd take further damage,</strong> lose a Bond with them.</p><p><strong>When no one has any Bonds with a Companion,</strong> they leave the fellowship.</p>",
     "moveType": "bonds",

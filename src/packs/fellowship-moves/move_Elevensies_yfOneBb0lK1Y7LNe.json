@@ -2,7 +2,7 @@
   "name": "Elevensies",
   "type": "move",
   "_id": "yfOneBb0lK1Y7LNe",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/round-table.svg",
   "system": {
     "description": "<p><strong>Each time you leave this community,</strong> each member of the fellowship leaves with a halfling packed lunch <em>(2 Uses, Food, each Use feeds three people)</em>.</p>",
     "moveType": "fellowship",

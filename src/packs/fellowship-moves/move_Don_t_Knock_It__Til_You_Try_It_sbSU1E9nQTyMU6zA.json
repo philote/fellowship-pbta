@@ -2,7 +2,7 @@
   "name": "Don't Knock It 'Til You Try It",
   "type": "move",
   "_id": "sbSU1E9nQTyMU6zA",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/round-table.svg",
   "system": {
     "description": "<p><strong>The fellowship can use orc-made weapons as though you were all orcs</strong> they are not Clumsy in your hands, and while they may not be beautiful, you can admire their effectiveness. The orcs here will also give you as many orc-made weapons as you like, free of charge. Each player can hold up to four Melee weapons, or two Melee weapons and one Ranged weapon <em>(Orc-Made, Ranged, 3 Ammo)</em>.</p>",
     "moveType": "fellowship",

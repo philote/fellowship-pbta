@@ -2,7 +2,7 @@
   "name": "LEADER",
   "type": "fellowship-pbta.destiny",
   "_id": "mKYvlKDj8deeKyyA",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/fellowship-pbta/assets/icons/enlightenment.svg",
   "system": {
     "htmlFields": [
       "description"

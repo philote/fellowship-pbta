@@ -2,7 +2,7 @@
   "name": "Allies of my People",
   "type": "move",
   "_id": "GWlhyBAHUpLKehZE",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/round-table.svg",
   "system": {
     "description": "<p>A neighboring community is allies with this one, and you gain Fellowship with them as well. You will receive that Fellowship and <em>Recover</em> as soon as you get there, and the Overlord will get no benefits from this future Recovery.</p>",
     "moveType": "fellowship",

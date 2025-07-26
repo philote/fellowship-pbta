@@ -2,7 +2,7 @@
   "name": "A massive weapon",
   "type": "equipment",
   "_id": "0GQd6wum6BYLawSv",
-  "img": "icons/svg/item-bag.svg",
+  "img": "icons/weapons/artillery/cannon-engraved-gold.webp",
   "system": {
     "description": "<p>larger than anyone else could wield</p>",
     "uses": 0,
@@ -28,8 +28,8 @@
     "systemId": "pbta",
     "systemVersion": "1.1.12",
     "createdTime": 1737524979415,
-    "modifiedTime": 1737524997944,
-    "lastModifiedBy": "UuXSPD7DIN5UiO1L",
+    "modifiedTime": 1753559902604,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
   "_key": "!items!0GQd6wum6BYLawSv"
