@@ -3,7 +3,7 @@
   "name": "WE WERE FRIENDS, ONCE",
   "type": "move",
   "_id": "16amLMtukzU3DF2c",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>When the fellowship makes a roll and you are there to oppose it, give them Despair. You must be directly getting in the way of what they want to do to give them this Despair. This includes any rolls made against you while you are aware of them and able to defend yourself. They can erase one Bond with you to negate this Despair for one roll.</p>",
     "moveType": "destiny",

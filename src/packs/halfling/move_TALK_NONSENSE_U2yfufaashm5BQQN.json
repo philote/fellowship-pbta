@@ -3,7 +3,7 @@
   "name": "TALK NONSENSE",
   "type": "move",
   "_id": "U2yfufaashm5BQQN",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.Item.3lOlQnDdQRaiR47g]{Talk Sense} </strong></em><strong>by telling grandiose lies with a straight face,</strong> roll +Courage.</p><p><strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.Item.3lOlQnDdQRaiR47g]{Talk Sense} </strong></em><strong>and get a 10+,</strong> you may also <em>@UUID[Compendium.fellowship-pbta.halfling.Item.rZIloJIotaSHfs0u]{Sting Like A Bee}.</em></p>",
     "moveType": "customs",

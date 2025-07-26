@@ -3,7 +3,7 @@
   "name": "I CAN BE STRONG FOR YOU",
   "type": "move",
   "_id": "RDpDCGg2YSOUhkuZ",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you roll a stat</strong>, if an ally of yours within arm's reach has that stat damaged, you roll with Vigor. <strong>When an ally within arm's reach makes a roll with a damaged stat</strong>, you may pay a price to roll for them.</p>",
     "moveType": "destiny",

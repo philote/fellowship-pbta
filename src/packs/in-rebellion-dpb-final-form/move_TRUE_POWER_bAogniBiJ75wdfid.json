@@ -3,7 +3,7 @@
   "name": "TRUE POWER",
   "type": "move",
   "_id": "bAogniBiJ75wdfid",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>Draw on draconic power to choose and mark a spell. Marked spells can't be used.</p><ul><li><strong>Fill Your Belly:</strong> Unmark one spell</li><li><strong>Recover:</strong> Unmark all spells</li></ul><p>Spell options:</p><ul><li><strong>Blessing of Claws:</strong> Destroy smaller objects</li><li><strong>Blessing of Scales:</strong> Immune to attack effects</li><li><strong>Blessing of Wings:</strong> Send someone flying away at high speed</li></ul>",
     "moveType": "destiny",

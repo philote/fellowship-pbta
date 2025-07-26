@@ -3,7 +3,7 @@
   "name": "TURN YOU INTO A NEWT",
   "type": "move",
   "_id": "xqBBk56SorItqruc",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you wish to conjure a hex upon them,</strong> state the full name of someone you can see and the reason for your curse. Hexes are narrative - tell us what they lose and what they gain, such as losing arms to gain wings, losing claws to gain suction cups, or losing speech to gain gills.</p><p>Your hexes always end at dawn's first light. Hexes never work on a <strong>Threat to the World. If you try to hex another player, </strong>they may attempt to <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.h7JpSHtXSQYIjsWA]{Overcome} </em>your hex after you tell them what it is. Your hexes can never be directly lethal, such as taking away the ability to breathe.</p><p>Otherwise, your hexes always work every time.</p>",
     "moveType": "destiny",

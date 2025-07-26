@@ -1,7 +1,7 @@
 {
   "name": "End of Session",
   "type": "move",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you reach the end of a session,</strong> the fellowship answers these three questions:</p><ul><li>Did we save or protect a community in need?</li><li>Did we strike a blow against the Overlord and their minions?</li><li>Did we learn more about the world and its peoples?</li></ul><p><strong>For each \"yes\" answer,</strong> the group chooses one. You may choose an option more than once.</p><ul><li>Each fellowship player refreshes one piece of their Gear to its full value.</li><li>Each fellowship player chooses one stat to heal. It doesn't have to be theirs.</li><li>The fellowship and the Overlord each choose one player to Level Up. You cannot be chosen to Level Up if you are the highest level player or you have already been chosen to level up this session.</li></ul>",
     "moveType": "special",

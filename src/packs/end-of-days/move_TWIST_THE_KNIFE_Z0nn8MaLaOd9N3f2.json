@@ -3,7 +3,7 @@
   "name": "TWIST THE KNIFE",
   "type": "move",
   "_id": "Z0nn8MaLaOd9N3f2",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you speak cruelty to someone you have a Bond with,</strong> you can erase that Bond to cause them great pain. They must immediately pay a price, stand down and get out of your way, or attack you, right now, their choice.</p>",
     "moveType": "destiny",

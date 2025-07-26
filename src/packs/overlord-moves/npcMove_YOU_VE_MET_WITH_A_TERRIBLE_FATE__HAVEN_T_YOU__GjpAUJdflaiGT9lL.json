@@ -3,7 +3,7 @@
   "name": "YOU'VE MET WITH A TERRIBLE FATE, HAVEN'T YOU?",
   "type": "npcMove",
   "_id": "GjpAUJdflaiGT9lL",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When a player gets Taken Out in your presence,</strong> you may leave a curse upon them instead of making @UUID[Compendium.fellowship-pbta.overlord-moves.Item.BOBrp1ZWbYp6AMDN]{An Offer They Can't Refuse}. Tell us the nature of the curse, and what must be done to lift it. Whatever curse you give them, it cannot stop them from continuing to play as their character unless they want a new one.</p><p><strong>After you use this Move once,</strong> it is gone forever.</p>",
     "moveType": "custom",

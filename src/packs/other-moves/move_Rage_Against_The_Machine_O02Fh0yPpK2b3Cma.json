@@ -2,7 +2,7 @@
   "name": "Rage Against The Machine",
   "type": "move",
   "_id": "O02Fh0yPpK2b3Cma",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>A player trying to control the mob rolls +Blood.</p>",
     "moveType": "",

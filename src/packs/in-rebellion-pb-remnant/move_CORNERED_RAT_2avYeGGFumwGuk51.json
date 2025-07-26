@@ -3,7 +3,7 @@
   "name": "CORNERED RAT",
   "type": "move",
   "_id": "2avYeGGFumwGuk51",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>While you are damaged,</strong> your attacks are <em>Dangerous</em>.</p>",
     "moveType": "customs",

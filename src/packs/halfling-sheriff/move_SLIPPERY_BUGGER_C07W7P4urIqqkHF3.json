@@ -3,7 +3,7 @@
   "name": "SLIPPERY BUGGER",
   "type": "move",
   "_id": "C07W7P4urIqqkHF3",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You can squeeze out of any chains, ropes, or handcuffs binding you; through any small windows, jammed doors, or tight spaces in your way; and away from grabby hands, clumsy orcs, or monster's jaws trying to catch you, all with- out making a roll to <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.gvcPbIgaPctbaOCa]{Get Away} </em>or <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.h7JpSHtXSQYIjsWA]{Overcome} </em>them.</p>",
     "moveType": "destiny",

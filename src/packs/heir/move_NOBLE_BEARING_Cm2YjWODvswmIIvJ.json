@@ -3,7 +3,7 @@
   "name": "NOBLE BEARING",
   "type": "move",
   "_id": "Cm2YjWODvswmIIvJ",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>Your allies are always where you need them most.</p><p><strong>When you are in dire need,</strong> you may erase one of your Bonds to have the person listed in that bond appear at your side.</p><p><strong>This Move cannot be shared.</strong></p>",
     "moveType": "customs",

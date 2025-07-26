@@ -3,7 +3,7 @@
   "name": "THIS BELONGED TO YOUR FATHER",
   "type": "move",
   "_id": "2HAgoKN9MYO54vkM",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>Choose two of your Gear Options. Your Apprentice adds the chosen options to their Gear.</p>",
     "moveType": "destiny",

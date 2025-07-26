@@ -3,7 +3,7 @@
   "name": "EVIL'S TOUCH",
   "type": "npcMove",
   "_id": "8J0jUfJZ3Qwcv4vY",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>Damage dealt by you and your Generals is Necrotic. <strong>When you or your Generals damage a Companion,</strong> you may destroy them instead. Tell us what this looks like and what this means.</p>",
     "moveType": "custom",

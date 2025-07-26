@@ -3,7 +3,7 @@
   "name": "TENACITY INCARNATE",
   "type": "move",
   "_id": "sHLZf1aUR6YqKNUs",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you roll a 6- or take damage</strong>, you gain Vigor. Your next roll is made with Hope and cannot have Despair.</p><p><strong>This Move cannot be Shared.</strong></p>",
     "moveType": "core",

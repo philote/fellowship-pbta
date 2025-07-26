@@ -3,7 +3,7 @@
   "name": "WHO YOU WERE",
   "type": "move",
   "_id": "BSclWY8we8WXENDs",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>Take one Core Move and one Custom Move from any basic playbook. You can take Moves that cannot be Shared. Both of these Moves must come from the same playbook.</p><p>That playbook is <em>Who You Were</em>. You cannot <em>@UUID[Compendium.fellowship-pbta.special-moves.Item.YE99aLoamM4pDgT7]{Command Lore}</em> about its people, only about the crimes you have committed and other exiles like you.</p><p><strong>This Move cannot be Shared.</strong></p><p><strong>Record the moves from </strong><em><strong>Who You Were</strong></em><strong> here:</strong></p>",
     "moveType": "core",

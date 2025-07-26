@@ -3,7 +3,7 @@
   "name": "DOES THIS LOOK FAMILIAR?",
   "type": "move",
   "_id": "KtshqPs625DotCc8",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>When you take this Move, for each member of the Fellowship, choose one Move that character knows. You gain all of those Moves. You cannot choose Peoples Moves or Moves that cannot be Shared.</p>",
     "moveType": "destiny",

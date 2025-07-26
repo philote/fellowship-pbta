@@ -3,7 +3,7 @@
   "name": "LIVED IN A SHOE",
   "type": "move",
   "_id": "OA02Z2mr1u2pCmC5",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You can change size at will, shrinking down to the size of an apple or growing as tall as a good chair but you usually stay at a happy medium you're comfortable in.</p>",
     "moveType": "customs",

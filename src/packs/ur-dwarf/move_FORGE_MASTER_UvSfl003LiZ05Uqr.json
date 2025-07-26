@@ -3,7 +3,7 @@
   "name": "FORGE MASTER",
   "type": "move",
   "_id": "UvSfl003LiZ05Uqr",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You are capable of crafting magnificent magical items. It will be expensive and require exotic materials, but it can be done, at great personal cost. <strong>When you forge such an item, </strong>describe what it looks like, tell us what it does, and then <strong>choose two:</strong></p><ul><li>It will be extremely precious and dear to you, and you will never let it out of your sight or trust others to touch it.</li><li>You give too much of yourself, permanently losing a part of you (a body part, your memories, your ability to hold Bonds with a specific person, or something similarly significent).</li><li>Its creation will rouse envy and greed among other dwarves, humans, and terrible monsters, all of which will seek to take it from you.</li><li>Neither you nor any of your line will ever wield, wear, or use this item, lest terrible tragedy strike your people.</li></ul><p><strong>If you can accept the costs,</strong> you are now the owner of a unique magic item with a suitably powerful and dramatic ability for the cost put into it.</p>",
     "moveType": "destiny",

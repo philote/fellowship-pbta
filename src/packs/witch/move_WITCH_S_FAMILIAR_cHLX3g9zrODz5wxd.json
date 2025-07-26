@@ -3,7 +3,7 @@
   "name": "WITCH'S FAMILIAR",
   "type": "move",
   "_id": "cHLX3g9zrODz5wxd",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You have one Bond with a Familiar you have created. Bonds you have with your Familiar cannot be broken, and you do not need to damage your Familiar to use the Move <em>@UUID[Compendium.fellowship-pbta.bond-moves.Item.RScvU1oZMVYb5mVY]{Bound In Service} </em>with them.</p><p><strong>Familiar:</strong> A small animal-like creature you have created to serve you. It looks like it was plucked from your dreams; describe it. It can share its senses with you, speak your languages, and function in your place in diplomatic matters.</p><p><strong>Stats:</strong> Shared Senses, Social Stand-In, Animal Traits</p>",
     "moveType": "destiny",

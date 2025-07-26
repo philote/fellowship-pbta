@@ -3,7 +3,7 @@
   "name": "STRIKE TRUE",
   "type": "move",
   "_id": "7fOecYYNIojUnYew",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you could </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.Item.cnXubqxIogR16JMj]{Finish Them} </strong></em><strong>in single combat,</strong> instead of rolling, you may strike a decisive blow.</p><p><strong>Choose one, and tell us how you do it:</strong></p><ul><li><strong>Beaten Down:</strong> They cannot cause further harm during this scene.</li><li><strong>Pinned Down:</strong> They cannot give chase.</li><li><strong>Taken Down:</strong> Choose one of their already damaged stats. Remove it - they no longer have that stat, nor any Threats associated with it.</li></ul>",
     "moveType": "customs",

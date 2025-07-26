@@ -3,7 +3,7 @@
   "name": "TO THE GATES OF HELL ITSELF",
   "type": "move",
   "_id": "hhMoAhuRSnnghMRD",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>Your Companions will never erase their last Bond with you.</p>",
     "moveType": "destiny",

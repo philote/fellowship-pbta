@@ -3,7 +3,7 @@
   "name": "QUIET! DON'T MOVE...",
   "type": "move",
   "_id": "Xq3kJpTtEBAeZfpb",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you duck aside and stay silent and still,</strong> enemies will never spot you unless you leave your position. You may hide your allies as well, so long as you hold up a hand, warning them to silence, and they do not speak.</p>",
     "moveType": "customs",

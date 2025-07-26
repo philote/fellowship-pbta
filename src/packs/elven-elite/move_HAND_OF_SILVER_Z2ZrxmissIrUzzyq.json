@@ -3,7 +3,7 @@
   "name": "HAND OF SILVER",
   "type": "move",
   "_id": "Z2ZrxmissIrUzzyq",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You are capable of crafting glorious magical items. It will be expensive and require exotic materials, but it can be done, at great personal cost. <strong>When you forge such an item,</strong> describe what it looks like, tell us what it does, and then <strong>choose two:</strong></p><ul><li>It will be the pinnacle for your craft, and you will never again have the heart to craft anything like it.</li><li>It costs you an emotion, and you will never feel that emotion again.</li><li>You must remove something beautiful from this world, never to be seen again.</li><li>It can never be used by mortal hands, lest great tragedy occur.</li></ul><p><strong>If you can accept the costs,</strong> you are now the owner of a unique magic item with a suitably powerful and dramatic ability for the cost put into it.</p>",
     "moveType": "destiny",

@@ -3,7 +3,7 @@
   "name": "WAY WITH WORDS",
   "type": "move",
   "_id": "PFl5LfnfMocgUTVh",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.Item.Ml6muq1ZjhkuT7FF]{Speak Softly} </strong></em><strong>with someone who admires or fears you,</strong> you may roll at +Grace instead of +Wisdom.</p><p><strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.Item.Ml6muq1ZjhkuT7FF]{Speak Softly}, </strong></em>you may also ask, \"What do they desire most?\" regardless of the result of your roll.</p>",
     "moveType": "customs",

@@ -3,7 +3,7 @@
   "name": "WONDER CHEF",
   "type": "move",
   "_id": "rQhwjkiJMh7mD7CY",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You can cook a meal from almost nothing. <strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.special-moves.Item.I18nTKFofUw4ewsT]{Fill Your Belly}</strong></em><strong>, </strong>it doesn't cost you any food to feed yourself. When you share a meal with friends, everyone who shares in the meal heals an extra stat.</p>",
     "moveType": "destiny",

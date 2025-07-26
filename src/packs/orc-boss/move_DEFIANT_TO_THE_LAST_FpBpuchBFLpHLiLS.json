@@ -3,7 +3,7 @@
   "name": "DEFIANT TO THE LAST",
   "type": "move",
   "_id": "FpBpuchBFLpHLiLS",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you are @UUID[Compendium.fellowship-pbta.special-moves.Item.OnoZsu0tZybyqesF]{Taken Out},</strong> you don't go down until the end of the scene. You can continue to act as you please, and further damage against you does nothing.</p><p>This does not stop the Overlord from making you <em>@UUID[Compendium.fellowship-pbta.overlord-moves.Item.BOBrp1ZWbYp6AMDN]{An Offer You Can't Refuse}</em>.</p>",
     "moveType": "destiny",

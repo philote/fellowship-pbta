@@ -3,7 +3,7 @@
   "name": "UNBROKEN",
   "type": "move",
   "_id": "EX1RfSUuQ7j4Nwo6",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You have Hope.</p>",
     "moveType": "destiny",

@@ -3,7 +3,7 @@
   "name": "FIRESTARTER",
   "type": "move",
   "_id": "LRVWEgAZxrFsQBaK",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You have the <em>Burning </em>tag. You always have the materials and fuels for creating fire, and can produce flint and steel, matches, fuses, rags, molotov cocktails, small kegs of blackpowder or oil, and fire arrows on demand. You can always declare that something suddenly bursts into flame, if you could have conceivably planted fuel and materials beforehand.</p>",
     "moveType": "destiny",

@@ -3,7 +3,7 @@
   "name": "THE WARRIOR'S PATH",
   "type": "move",
   "_id": "xFBwYUjGNzxntbCW",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>Being outnumbered is meaningless to you, as your enemy's movements are easily read and effortlessly thwarted. <strong>When you try to </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.Item.h7JpSHtXSQYIjsWA]{Overcome} </strong></em><strong>the harm a Group, a Gang, or an Army would deal to you,</strong> you always take the 10+ result, without rolling.</p>",
     "moveType": "destiny",

@@ -3,7 +3,7 @@
   "name": "DEADLY TRAPS",
   "type": "move",
   "_id": "WKnaKtCBPidK0nrc",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>When you use a Trap or Web on an enemy, it deals damage, in addition to its other effects. Reminder: Threats to the World do not take damage from Traps.</p>",
     "moveType": "destiny",

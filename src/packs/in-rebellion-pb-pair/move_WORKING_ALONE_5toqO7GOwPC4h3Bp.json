@@ -3,7 +3,7 @@
   "name": "WORKING ALONE",
   "type": "move",
   "_id": "5toqO7GOwPC4h3Bp",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When the Pair is separated,</strong> they make rolls with their separated stats and get the Spotlight separately.</p><p><strong>When one of the Pair is acting to rescue,</strong> protect, or rush to the side of the other, they roll with Hope.</p><p><em>Working Alone</em> is dangerous as you rely on your teamwork. When you take damage while <em>Working Alone</em>, you must also @UUID[Compendium.fellowship-pbta.special-moves.Item.ZrHnVfT943zF7FnE]{pay a price}.</p><p><span style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:rgb(120, 46, 34) rgba(0, 0, 0, 0);color:rgb(39, 44, 51);font-family:Roboto, sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;letter-spacing:normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgb(221, 222, 223);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\"><strong>This Move cannot be Shared.</strong></span></p>",
     "moveType": "core",

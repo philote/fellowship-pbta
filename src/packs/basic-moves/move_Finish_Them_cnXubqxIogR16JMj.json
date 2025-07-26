@@ -2,7 +2,7 @@
   "name": "Finish Them",
   "type": "move",
   "_id": "cnXubqxIogR16JMj",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you attempt to defeat an enemy you hold an advantage over,</strong> tell us what you want to do to them and roll the appropriate stat.</p><p><strong>If you do not have an advantage over them, </strong>you cannot attempt to <em>Finish Them</em>. An Advantage is something you need to get the upper hand, such as teamwork, theelement of surprise, or a moment's hesitation.</p><p><strong>If you </strong><em><strong>Finish Them </strong></em><strong>by...</strong></p><p><strong>...trying to kill them,</strong> roll +Blood.</p><p><strong>...forcing them to retreat,</strong> roll +Courage.</p><p><strong>...outsmarting, terrifying, or overwhelming them,</strong> roll +Grace.</p><p><strong>...disabling them or knocking them out,</strong> roll +Sense.</p><p><strong>...showing them the error of their ways,</strong> roll +Wisdom.</p><p></p><p><strong>If you </strong><em><strong>Finish Them </strong></em><strong>using a weapon with Ammo,</strong> use 1 Ammo. <strong>If you have no Ammo,</strong> you cannot <em>Finish Them </em>with that weapon.</p><p><strong>If you have the Clumsy tag, </strong>you take -1 to <em>Finish Them</em>.</p>",
     "moveType": "basic",

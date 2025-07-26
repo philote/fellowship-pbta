@@ -3,7 +3,7 @@
   "name": "THE LEGEND SPREADS",
   "type": "move",
   "_id": "5oYglB45DnQP39Re",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>The rest of the fellowship gains <em>@UUID[Compendium.fellowship-pbta.legend.Item.kGnnC0pmdRcytL3k]{The Legend Begins}</em>. In addition, once ever, you may immediately gain Fellowship with a community upon entering it.</p>",
     "moveType": "destiny",

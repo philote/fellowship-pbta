@@ -3,7 +3,7 @@
   "name": "THE COURAGE OF HALFLINGS",
   "type": "move",
   "_id": "rwL0L4xbLveDXKiB",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You are never in Despair when rolling Courage, even if it is damaged.</p><p><strong>This move cannot be Shared.</strong></p>",
     "moveType": "customs",

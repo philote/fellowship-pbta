@@ -3,7 +3,7 @@
   "name": "BEND FATE",
   "type": "move",
   "_id": "w1hdFS4sFSc5KrSw",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When an ally within your reach must pay a price,</strong> you may pay that price for them. <strong>When you must pay a price,</strong> you may have an ally within reach pay it for you.</p>",
     "moveType": "destiny",

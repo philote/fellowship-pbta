@@ -3,7 +3,7 @@
   "name": "THE EVIL EYE ABOVE",
   "type": "move",
   "_id": "QBTuCYyuxYgqKgh2",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>Doom follows you, but you are ready for it. <strong>When the minions of the Overlord approach, </strong>the Overlord's player must tell you before they arrive.</p><p><strong>When you know the Overlord's plans,</strong> you may ask them, \"What is one way I could stop this?\" They must answer truthfully.</p>",
     "moveType": "customs",

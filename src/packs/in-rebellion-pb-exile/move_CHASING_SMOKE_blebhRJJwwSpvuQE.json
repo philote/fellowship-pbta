@@ -3,7 +3,7 @@
   "name": "CHASING SMOKE",
   "type": "move",
   "_id": "blebhRJJwwSpvuQE",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You can always attempt to <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.gvcPbIgaPctbaOCa]{Get Away}</em>, even while bound, trapped, pinned down, crippled, or imprisoned.</p>",
     "moveType": "customs",

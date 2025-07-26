@@ -3,7 +3,7 @@
   "name": "THE SWEAT OF YOUR BROW",
   "type": "move",
   "_id": "9lJfZ8CbHG03vTZV",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you create a weapon for yourself,</strong> you may choose an enhancement for the weapon from this list:</p><ul><li><strong>Destructive:</strong> This weapon is Dangerous, great for causing massive and uncontrollable damage.</li><li><strong>Foe-Smelling:</strong> This weapon burns to the touch when in the presence of those who mean you harm. To you, this heat is only a warning, but it will harm others who try to touch it.</li><li><strong>Spiked:</strong> This weapon is Piercing, and Armor cannot be used against it.</li></ul>",
     "moveType": "customs",

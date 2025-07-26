@@ -2,7 +2,7 @@
   "name": "Get Away",
   "type": "move",
   "_id": "gvcPbIgaPctbaOCa",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you need to get somewhere out of reach or out of sight,</strong> tell us where you're going and roll +Grace.</p><p><strong>If you have the Clumsy tag, </strong>you take -1 to <em>Get Away</em>.</p>",
     "moveType": "basic",

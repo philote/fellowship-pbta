@@ -3,7 +3,7 @@
   "name": "LOVE AND PEACE",
   "type": "move",
   "_id": "QMyn1ZIrjPxoolnG",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you heal someone else,</strong> you may also heal.</p>",
     "moveType": "customs",

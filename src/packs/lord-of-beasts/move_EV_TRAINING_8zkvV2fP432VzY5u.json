@@ -3,7 +3,7 @@
   "name": "EV TRAINING",
   "type": "move",
   "_id": "8zkvV2fP432VzY5u",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>Your beasts are tougher than the rest. All of your Beast Companions gain the stat <strong>Law of the Jungle, </strong>which represents how they are bigger, scarier, and more dangerous so long as they follow you.</p>",
     "moveType": "destiny",

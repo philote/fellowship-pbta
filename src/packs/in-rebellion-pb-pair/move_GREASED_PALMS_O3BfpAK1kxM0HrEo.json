@@ -3,7 +3,7 @@
   "name": "GREASED PALMS",
   "type": "move",
   "_id": "O3BfpAK1kxM0HrEo",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p class=\"p1\"><strong>When you are spotted, attacked, or cornered by an enemy that is not a Threat to the World,</strong> you may spend 1 Use of something Precious to have them pretend they never saw you.</p><p class=\"p1\">Add Bribing Money <em>(1 Use, Precious)</em> to your Gear.</p><p class=\"p1\">Whichever of the Pair needs it always has the bribing money.</p>",
     "moveType": "customs",

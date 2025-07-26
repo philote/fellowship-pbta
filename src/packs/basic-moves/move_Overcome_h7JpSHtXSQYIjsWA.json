@@ -2,7 +2,7 @@
   "name": "Overcome",
   "type": "move",
   "_id": "h7JpSHtXSQYIjsWA",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you attempt to avoid, redirect, or prevent the harm something will cause, </strong>roll +Blood. You can <em>Overcome </em>any obstacle, threat, Cut, or Move made against you or an ally, if you are in position to act and have the means to stop it.</p><p><em>Overcoming</em> harm with a weapon does not cost Ammo.</p>",
     "moveType": "basic",

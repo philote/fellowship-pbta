@@ -3,7 +3,7 @@
   "name": "DARK POWER",
   "type": "move",
   "_id": "pP3PGwsnJk3CSrxz",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You are a <strong>Threat to the World</strong>. When the fellowship makes a Move against you, they must pay a price first. You do not need to pay a price against other <strong>Threats to the World</strong>.</p>",
     "moveType": "destiny",

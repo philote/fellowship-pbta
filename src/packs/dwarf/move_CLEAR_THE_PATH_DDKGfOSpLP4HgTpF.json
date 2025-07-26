@@ -3,7 +3,7 @@
   "name": "CLEAR THE PATH",
   "type": "move",
   "_id": "DDKGfOSpLP4HgTpF",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you charge through something standing in between you and where you're going,</strong> roll +Iron.</p>",
     "moveType": "core",

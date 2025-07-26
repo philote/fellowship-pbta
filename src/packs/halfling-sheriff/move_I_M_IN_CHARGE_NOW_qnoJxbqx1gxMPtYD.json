@@ -3,7 +3,7 @@
   "name": "I'M IN CHARGE NOW",
   "type": "move",
   "_id": "qnoJxbqx1gxMPtYD",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you tell someone what to do while speaking with authority, earned or otherwise,</strong> roll +Courage.</p>",
     "moveType": "destiny",

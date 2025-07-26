@@ -3,7 +3,7 @@
   "name": "SPEAK WITH DEAD",
   "type": "move",
   "_id": "X3dyyq12qigOqmKQ",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You can <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.Ml6muq1ZjhkuT7FF]{Speak Softly}</em> with corpses. <strong>When doing so,</strong> you may also ask, \"How did you die?\" and \"What do you regret most?\" regardless of the result of your roll.</p>",
     "moveType": "customs",

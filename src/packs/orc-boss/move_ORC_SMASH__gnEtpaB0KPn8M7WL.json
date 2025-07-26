@@ -3,7 +3,7 @@
   "name": "ORC SMASH!",
   "type": "move",
   "_id": "gnEtpaB0KPn8M7WL",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You can smash through any furniture, wooden doors, simple walls, barricades, weaklings, cowards, or halflings between you and where you wish to go, all without rolling. You do not harm any living things you knock aside using this Move, you just get them out of your way.</p>",
     "moveType": "destiny",

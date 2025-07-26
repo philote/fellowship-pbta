@@ -3,7 +3,7 @@
   "name": "WEB SPINNING",
   "type": "move",
   "_id": "TTqsDtJwGyslqnrf",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.Item.BnDVkYr6uMhWITB2]{Look Closely}</strong></em><strong> or </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.Item.gvcPbIgaPctbaOCa]{Get Away}</strong></em><strong>, on a 7+,</strong> you gain 1 Web.</p><p><strong>When you travel to a new location,</strong> you lose 1 Web. You can never hold more than 3 Webs at a time.</p><p><strong>When an enemy makes a move against you,</strong> you may spend 1 Web to trigger a trap before they make that move. Choose one:</p><ul><li><strong>Escape Route:</strong> You <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.gvcPbIgaPctbaOCa]{Get Away}</em>, rolling with Hope.</li><li><strong>Manipulate:</strong> Throw, drop, or break a nearby object. You can use this to collapse a doorway, spread a camp fire, drop a chandelier, cause a rock slide, and other such tricks.</li><li><strong>The Catch:</strong> Their leg or arm becomes caught and immobilized. Next time they try something, you can <em>Manipulate</em> them as if they were an object.</li><li><strong>Trapped:</strong> Use a Trap from your Gear against them.</li></ul><p><strong>This Move cannot be Shared.</strong></p><p>Many of the Spider's Custom Moves give them new traps to use with <em>@UUID[Compendium.fellowship-pbta.in-rebellion-pb-spider.Item.TTqsDtJwGyslqnrf]{Web Spinning}</em>. When you Share one of those Moves with someone, they add the trap to their Gear as an item with the tags (Trap, 2 Uses) instead.</p>",
     "moveType": "core",

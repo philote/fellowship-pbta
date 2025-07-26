@@ -3,7 +3,7 @@
   "name": "SPECIAL STARDUST",
   "type": "move",
   "_id": "3WkZR1KlqyXuHAmV",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>Add this to your <em>@UUID[Compendium.fellowship-pbta.elf.Item.bQ7oNjK0Uqn4uADg]{Elder Arts} </em>list:</p><ul><li><strong>Sleep Tight: </strong>You put someone straight to sleep. It is a normal sleep, and they are woken up by anything that would awaken a sleeping person.</li><li><strong>When you Share this Move, </strong>the ally you share it with gains the <em>Elder Arts </em>move as well, but Sleep Tight is the only spell they know. They do not gain your other <em>Elder Arts</em>.</li></ul>",
     "moveType": "customs",

@@ -3,7 +3,7 @@
   "name": "HERO OF THE PEOPLE",
   "type": "move",
   "_id": "gEuy0ymu3uEfb8Pa",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you save someone from danger,</strong> you gain a Bond with them immediately.</p><p>You may erase a Bond with someone you are speaking with to make them help you, right here and right now, and they cannot refuse. They will help you however they can.</p>",
     "moveType": "destiny",

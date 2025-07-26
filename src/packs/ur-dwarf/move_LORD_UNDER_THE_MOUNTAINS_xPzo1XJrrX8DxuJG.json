@@ -3,7 +3,7 @@
   "name": "LORD UNDER THE MOUNTAINS",
   "type": "move",
   "_id": "xPzo1XJrrX8DxuJG",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you make a demand of someone who respects your toughness and strength,</strong> you may erase a Bond with them to make them do it, no questions asked.</p>",
     "moveType": "destiny",

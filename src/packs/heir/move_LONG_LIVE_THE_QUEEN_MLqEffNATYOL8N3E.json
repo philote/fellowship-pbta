@@ -3,7 +3,7 @@
   "name": "LONG LIVE THE QUEEN",
   "type": "move",
   "_id": "MLqEffNATYOL8N3E",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When someone else rolls to </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.Item.h7JpSHtXSQYIjsWA]{Overcome} </strong></em><strong>harm you would suffer,</strong> they are filled with Hope for their roll.</p><p>You may always have Companions take harm for you if they are within arm's reach, even if you are not aware of the incoming harm.</p>",
     "moveType": "customs",

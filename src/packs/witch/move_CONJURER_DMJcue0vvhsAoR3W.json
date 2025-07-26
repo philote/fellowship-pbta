@@ -3,7 +3,7 @@
   "name": "CONJURER",
   "type": "move",
   "_id": "DMJcue0vvhsAoR3W",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you have need of a Companion,</strong> you may create one to serve you. This takes time and safety to do, and you may only have one conjured Companion at a time. You have the Bond \"My conjuration serves me without question,\" and they have a single stat of your choosing (such as Flight, Ironskin, or Run Like The Wind). You may dismiss your Conjuration at any time for any reason.</p>",
     "moveType": "destiny",

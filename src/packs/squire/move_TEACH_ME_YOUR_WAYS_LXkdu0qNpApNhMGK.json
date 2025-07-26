@@ -3,7 +3,7 @@
   "name": "TEACH ME YOUR WAYS",
   "type": "move",
   "_id": "LXkdu0qNpApNhMGK",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>Choose a Move another player knows. That Move must be one they can share. They share that Move with you.</p><p><strong>This move cannot be Shared.</strong></p>",
     "moveType": "customs",

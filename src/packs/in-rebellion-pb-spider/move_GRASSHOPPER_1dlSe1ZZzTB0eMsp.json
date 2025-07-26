@@ -3,7 +3,7 @@
   "name": "GRASSHOPPER",
   "type": "move",
   "_id": "1dlSe1ZZzTB0eMsp",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You can jump to anywhere you can see, and land there near-instantly. You still need to roll to <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.gvcPbIgaPctbaOCa]{Get Away}</em>, if it applies. You also gain this <em>@UUID[Compendium.fellowship-pbta.in-rebellion-pb-spider.Item.TTqsDtJwGyslqnrf]{Web Spinning}</em> trap:</p><ul><li><strong>Pounce:</strong> You leap on top of them. If they are smaller than you, they fall. If they are bigger, you are now riding them.</li></ul>",
     "moveType": "customs",

@@ -3,7 +3,7 @@
   "name": "FIELD TREATMENT",
   "type": "move",
   "_id": "xjrA1S81iLydYpor",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you treat someone's wounds,</strong> roll +Wisdom.</p><p>You can only use this Move on someone who has just been hurt. If they were hurt in a previous scene, it is too late for you to help.</p>",
     "moveType": "customs",

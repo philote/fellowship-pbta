@@ -3,7 +3,7 @@
   "name": "NO GREATER HONOR",
   "type": "move",
   "_id": "MxgeDvDjp03VNh7i",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p class=\"p1\"><strong>When you speak passionately in defense of another's honor,</strong> <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.3lOlQnDdQRaiR47g]{Talk Sense}</em> with +Blood, and they must listen to you.</p>",
     "moveType": "customs",

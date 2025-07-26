@@ -3,7 +3,7 @@
   "name": "PLAY WITH FIRE",
   "type": "move",
   "_id": "Qbf35izm2xNiwtA8",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When an enemy deals damage to you,</strong> you may pay a price to deal damage to them.</p>",
     "moveType": "destiny",

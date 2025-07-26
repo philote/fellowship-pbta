@@ -3,7 +3,7 @@
   "name": "COMMONER KING",
   "type": "move",
   "_id": "VVC0KbFwp2NpYPcd",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>When you make a display of charisma, a show of strength, or speak words of wisdom, all who witness this display come to respect you. You may <em>Forge A Bond</em> with one witness of your choice.</p><p>When you call upon someone for aid, you may erase a Bond with them to force them to assist you in any way they possibly can.</p>",
     "moveType": "destiny",

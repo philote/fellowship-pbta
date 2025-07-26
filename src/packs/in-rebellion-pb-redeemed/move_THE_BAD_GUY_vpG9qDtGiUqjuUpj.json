@@ -3,7 +3,7 @@
   "name": "THE BAD GUY",
   "type": "move",
   "_id": "vpG9qDtGiUqjuUpj",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><em>You are not part of the fellowship, no matter how much you may wish to be. You have a mission, and working alongside them goes against that mission.</em></p><p><strong>When something reminds you of your purpose,</strong> roll +Wisdom.</p><p><em>You do not need to roll this Move if you intend to betray them anyway.</em></p><p><em>Just before you betray the fellowship, temporarily or otherwise, replace this playbook with @UUID[Compendium.fellowship-pbta.in-rebellion-pb-nemesis.Item.ODyO6u8Nzep81JNv]{The Nemesis}. Keep all the same options you picked, including your level and moves and stats, but use the text found on that playbook instead.</em></p><p><strong>This Move cannot be Shared.</strong></p>",
     "moveType": "core",

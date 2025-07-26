@@ -3,7 +3,7 @@
   "name": "SIGHTS UNSEEN",
   "type": "move",
   "_id": "oL0P8QR52eCjY4Yq",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you have time and safety,</strong> you can @UUID[Compendium.fellowship-pbta.special-moves.Item.YE99aLoamM4pDgT7]{Command Lore} about the future. Your visions will always come to pass, eventually.</p><p><strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.special-moves.Item.YE99aLoamM4pDgT7]{Command Lore} </strong></em><strong>about the future,</strong> your visions will tell you what happened, but not why or how. They will tell you either where it took place or when it will take place, but not both. In addition, you can only name one single person you saw in your vision, never more.</p><p>For example, if you see a vision of someone's murder, you can name the killer or the victim, but not both.</p><p>You can tell us about the circumstances you saw, but not how they died or why they were killed.</p><p>You can tell us where or when the murder will take place, but not both.</p><p>And now that you've seen it, that murder is guaranteed to come to pass, with all the details you've foretold.</p>",
     "moveType": "destiny",

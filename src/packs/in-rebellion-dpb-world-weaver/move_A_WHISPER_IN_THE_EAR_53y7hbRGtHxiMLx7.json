@@ -3,7 +3,7 @@
   "name": "A WHISPER IN THE EAR",
   "type": "move",
   "_id": "53y7hbRGtHxiMLx7",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>When you Talk Sense to the rich and powerful, take the 10+ result without rolling.</p>",
     "moveType": "destiny",

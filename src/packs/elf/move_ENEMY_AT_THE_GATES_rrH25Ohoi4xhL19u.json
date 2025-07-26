@@ -3,7 +3,7 @@
   "name": "ENEMY AT THE GATES",
   "type": "move",
   "_id": "rrH25Ohoi4xhL19u",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you are hidden from your target and wield a ranged weapon, </strong>you can spend 1 Ammo to <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.cnXubqxIogR16JMj]{Finish Them} </em>with +Grace.</p>",
     "moveType": "customs",

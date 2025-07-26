@@ -3,7 +3,7 @@
   "name": "WE ARE NOT THE SAME",
   "type": "move",
   "_id": "rQbTFAi29Dn9IPOw",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>Your Overlord stat no longer gives the Overlord any power over you. Remove the entire second and third paragraphs from <em>@UUID[Compendium.fellowship-pbta.end-of-days.W6uR9lctxMm5saXL]{ARE WE NOT THE SAME, YOU AND I?}</em></p><p>In addition, once per scene, you do not need to erase a Bond with the Overlord to use <em>@UUID[Compendium.fellowship-pbta.overlord-moves.Item.z0bOds9OGiegaxTq]{Heart of Fire} </em>against them.</p>",
     "moveType": "destiny",

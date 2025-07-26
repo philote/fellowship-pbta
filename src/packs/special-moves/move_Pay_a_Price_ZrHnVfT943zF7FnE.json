@@ -1,7 +1,7 @@
 {
   "name": "Pay a Price",
   "type": "move",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When a move tells you to pay a price,</strong> tell us what it costs you. A price can be taking damage, losing or using equipment, suffering a setback, or losing an advantage. Whatever the cost, you must pay that price immediately before, during, or after the move you paid for.</p>",
     "moveType": "special",

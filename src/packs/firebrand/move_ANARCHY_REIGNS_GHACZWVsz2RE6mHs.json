@@ -3,7 +3,7 @@
   "name": "ANARCHY REIGNS",
   "type": "move",
   "_id": "GHACZWVsz2RE6mHs",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>Add Various Explosive Devices (3 Uses, Area) to your Gear. You can Use these explosives to create an explosion whenever and wherever you need it, even if you could not conceivably planted them ahead of time.</p>",
     "moveType": "destiny",

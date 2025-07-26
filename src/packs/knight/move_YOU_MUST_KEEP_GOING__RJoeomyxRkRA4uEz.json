@@ -3,7 +3,7 @@
   "name": "YOU MUST KEEP GOING!",
   "type": "move",
   "_id": "RJoeomyxRkRA4uEz",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When an ally within arm's reach rolls a 6-,</strong> you may take all consequences of that roll in their place. <strong>If you do,</strong> they act as though they rolled an 8.</p>",
     "moveType": "destiny",

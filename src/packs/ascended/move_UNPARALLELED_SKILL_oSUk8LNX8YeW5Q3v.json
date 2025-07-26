@@ -1,7 +1,7 @@
 {
   "name": "UNPARALLELED SKILL",
   "type": "move",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you take damage in Melee combat,</strong> you may immediately deal damage back to them. Ranged attacks cannot hit you - you will always dodge or deflect them, if it is remotely possible for you to do so.</p><p>This Move doesn't work against a <strong>Threat to the World.</strong></p><p>You can no longer work together with anyone else. <em>@UUID[Compendium.fellowship-pbta.bond-moves.1ope6WcKpX7hb9qR]{The Bonds That Bind Us}</em> no longer bind you, and you cannot give or receive Hope.</p>",
     "moveType": "destiny",

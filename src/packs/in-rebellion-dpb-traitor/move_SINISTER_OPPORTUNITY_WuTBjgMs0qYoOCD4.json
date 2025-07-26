@@ -3,7 +3,7 @@
   "name": "SINISTER OPPORTUNITY",
   "type": "move",
   "_id": "WuTBjgMs0qYoOCD4",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>The Empire has recognized your talents. You become a Leader, and you gain a Leadership Move of your choice (page 138). If you become the top dog, you gain control over the Empire and its policies. The Empire player still has control over the Empire playbook and all that comes with it, but you are in charge of the in-universe Empire and what it actually does.</p>",
     "moveType": "destiny",

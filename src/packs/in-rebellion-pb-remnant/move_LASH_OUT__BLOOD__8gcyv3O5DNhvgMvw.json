@@ -3,7 +3,7 @@
   "name": "LASH OUT (BLOOD)",
   "type": "move",
   "_id": "8gcyv3O5DNhvgMvw",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you wildly strike out with intent to kill them,</strong> roll +Blood.</p>",
     "moveType": "customs",

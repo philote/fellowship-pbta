@@ -405,89 +405,90 @@
       {
         "title": "ELVEN CORE",
         "desc": "All Elves have these moves.",
-        "type": "multi",
+        "grantOn": 0,
+        "advancement": 0,
         "repeatable": true,
         "choices": [
           {
             "uuid": "Compendium.fellowship-pbta.elf.Item.bQ7oNjK0Uqn4uADg",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.elf.Item.LgbVfs1Adf3Cb3xl",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           }
         ],
-        "grantOn": 0,
-        "granted": false,
-        "advancement": 0
+        "type": "multi",
+        "granted": false
       },
       {
         "title": "ELVEN CUSTOM",
         "desc": "Choose two of these moves to further define what it means to be a Elf.",
-        "type": "multi",
+        "grantOn": 1,
+        "advancement": 0,
         "repeatable": false,
         "choices": [
           {
             "uuid": "Compendium.fellowship-pbta.elf.Item.J7FGGbK4Hug1d4LF",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.elf.Item.a76BdCo66tjL2ktP",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.elf.Item.d3yHiXkNAihQPous",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.elf.Item.rrH25Ohoi4xhL19u",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.elf.Item.YQntdUi1Bciqui89",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.elf.Item.Pknf2WubfK55D63T",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.elf.Item.3WkZR1KlqyXuHAmV",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.elf.Item.PFl5LfnfMocgUTVh",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           }
         ],
-        "grantOn": 1,
-        "granted": false,
-        "advancement": 0
+        "type": "multi",
+        "granted": false
       },
       {
         "title": "Starting Gear",
         "desc": "",
-        "type": "multi",
+        "grantOn": 0,
+        "advancement": 0,
         "repeatable": true,
         "choices": [
           {
@@ -503,14 +504,14 @@
             "advancement": 0
           }
         ],
-        "grantOn": 0,
-        "granted": false,
-        "advancement": 0
+        "type": "multi",
+        "granted": false
       },
       {
-        "title": "Choose what protects you from danger:",
+        "title": "Choose what protects you:",
         "desc": "If you choose a wolf or hunting bird, you have 2 Bonds with it.",
-        "type": "multi",
+        "grantOn": 1,
+        "advancement": 0,
         "repeatable": false,
         "choices": [
           {
@@ -544,14 +545,14 @@
             "advancement": 0
           }
         ],
-        "grantOn": 1,
-        "granted": false,
-        "advancement": 0
+        "type": "multi",
+        "granted": false
       },
       {
-        "title": "Choose what carries you through this journey:",
-        "desc": "If a Companion, you have 1 Bond with it.",
-        "type": "multi",
+        "title": "Choose what carries you...",
+        "desc": "Through this journey: If a Companion, you have 1 Bond with it.",
+        "grantOn": 1,
+        "advancement": 0,
         "repeatable": false,
         "choices": [
           {
@@ -591,14 +592,14 @@
             "advancement": 0
           }
         ],
-        "grantOn": 1,
-        "granted": false,
-        "advancement": 0
+        "type": "multi",
+        "granted": false
       },
       {
-        "title": "You have a hunting companion. :",
+        "title": "You have a hunting companion:",
         "desc": "Choose one group: Wolf or Hunting bird 2 bonds, A friend (archer, blade dancer, shadow) 1 bond, A knife and quiver",
-        "type": "multi",
+        "grantOn": 1,
+        "advancement": 0,
         "repeatable": false,
         "choices": [
           {
@@ -614,8 +615,8 @@
             "advancement": 0
           },
           {
-            "img": "modules/fellowship-pbta/assets/icons/elf-helmet.svg",
             "uuid": "Compendium.fellowship-pbta.elf.Item.yRzpMMHbJ5q9sxw0",
+            "img": "modules/fellowship-pbta/assets/icons/elf-helmet.svg",
             "granted": false,
             "advancement": 0
           },
@@ -644,14 +645,14 @@
             "advancement": 0
           }
         ],
-        "grantOn": 1,
-        "granted": false,
-        "advancement": 0
+        "type": "multi",
+        "granted": false
       },
       {
-        "title": "Choose a memento of your homeland",
-        "desc": "It has 1 Use:",
-        "type": "multi",
+        "title": "Choose a memento...",
+        "desc": "Of your homeland, It has 1 Use:",
+        "grantOn": 1,
+        "advancement": 0,
         "repeatable": false,
         "choices": [
           {
@@ -673,9 +674,8 @@
             "advancement": 0
           }
         ],
-        "grantOn": 1,
-        "granted": false,
-        "advancement": 0
+        "type": "multi",
+        "granted": false
       }
     ]
   },
@@ -693,7 +693,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.21",
     "createdTime": 1736283654382,
-    "modifiedTime": 1753079731211,
+    "modifiedTime": 1753562382581,
     "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },

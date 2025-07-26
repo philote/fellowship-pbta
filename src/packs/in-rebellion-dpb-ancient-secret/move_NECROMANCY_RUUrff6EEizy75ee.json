@@ -3,7 +3,7 @@
   "name": "NECROMANCY",
   "type": "move",
   "_id": "RUUrff6EEizy75ee",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you place a dying or recently dead body within the shadows and tell them the dark secrets of the world</strong>, they return to life, whether they like it or not. You gain a Bond with them, and they are both living and dead.</p>",
     "moveType": "destiny",

@@ -3,7 +3,7 @@
   "name": "THE LEGEND BEGINS",
   "type": "move",
   "_id": "kGnnC0pmdRcytL3k",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>Everyone has heard of you, all but the most hidden of hermits. Your autograph is <em>Precious </em>to people who respect you and don't already have it.</p><p><strong>When you give someone something Precious, </strong>you can ask them a question from the <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.Ml6muq1ZjhkuT7FF]{Speak Softly} </em>list.</p>",
     "moveType": "destiny",

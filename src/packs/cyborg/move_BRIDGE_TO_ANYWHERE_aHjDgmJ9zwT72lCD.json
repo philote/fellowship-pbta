@@ -3,7 +3,7 @@
   "name": "BRIDGE TO ANYWHERE",
   "type": "move",
   "_id": "aHjDgmJ9zwT72lCD",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you need a bridge,</strong> you can build one with only a few moments of time and safety. You do not require any materials other than the surrounding area to build your bridge.</p>",
     "moveType": "destiny",

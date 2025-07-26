@@ -3,7 +3,7 @@
   "name": "PACK LEADER",
   "type": "move",
   "_id": "wuarDVlXQDS6E8i2",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.bond-moves.Item.28gRsLA4GNORvwg6]{Forge A Bond} </strong></em><strong>with a Beast,</strong> it comes as a Group instead of alone. As a Group, each of their stats can be damaged twice, and they can do two things at once.</p>",
     "moveType": "destiny",

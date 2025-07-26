@@ -3,7 +3,7 @@
   "name": "MASTERMIND",
   "type": "npcMove",
   "_id": "fj7wnb4pV1oxACUU",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You now have three Master Plans at once instead of two. Write a new plan immediately, then advance all of your current plans one step.</p>",
     "moveType": "custom",

@@ -3,7 +3,7 @@
   "name": "WIDOW'S KISS",
   "type": "move",
   "_id": "u6L2c8liXG7H6BFn",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>The weapons in your Gear secrete a paralyzing toxin. <strong>When you deal damage,</strong> they become sluggish, giving you and your allies Hope to <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.h7JpSHtXSQYIjsWA]{Overcome}</em> their attacks, to <em>@UUID[Compendium.fellowship-pbta.basic-moves.gvcPbIgaPctbaOCa]{Get Away}</em> from them, or to <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.cnXubqxIogR16JMj]{Finish Them}</em> with +Sense or +Grace.</p>",
     "moveType": "customs",

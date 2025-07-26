@@ -3,7 +3,7 @@
   "name": "FORBIDDEN ELEMENT",
   "type": "move",
   "_id": "Sd4cHS94t4VOXK7w",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You have been exiled for a reason, even if that reason is not just. You have a gift, and this gift gives you power.</p><p>Choose a classical element, such as fire, ice, lightning, stone, wood, or some other basic component all your powers share. You can call upon your element to aid you, when you need it.</p><p>How you use your element to aid you depends upon your crime (see <em>Why Are You In Exile?</em>).</p>",
     "moveType": "core",

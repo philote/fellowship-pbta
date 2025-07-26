@@ -3,7 +3,7 @@
   "name": "CARAPACE",
   "type": "move",
   "_id": "WXD42KjZspQqGYFv",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>Add your Exoskeleton (Armor, 2 Uses) to your Gear. You also gain this <em>@UUID[Compendium.fellowship-pbta.in-rebellion-pb-spider.Item.TTqsDtJwGyslqnrf]{Web Spinning}</em> trap:</p><ul><li><strong>Armor:</strong> Their attack does nothing to you.</li></ul>",
     "moveType": "customs",

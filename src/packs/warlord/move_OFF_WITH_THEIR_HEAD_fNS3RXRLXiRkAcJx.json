@@ -3,7 +3,7 @@
   "name": "OFF WITH THEIR HEAD",
   "type": "move",
   "_id": "fNS3RXRLXiRkAcJx",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you could </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.Item.cnXubqxIogR16JMj]{Finish Them} </strong></em><strong>with a Melee weapon,</strong> you may kill them instead of rolling.</p><p><strong>If they are the Overlord,</strong> you deal damage instead of killing them.</p>",
     "moveType": "destiny",

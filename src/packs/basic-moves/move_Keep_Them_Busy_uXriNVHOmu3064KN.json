@@ -2,7 +2,7 @@
   "name": "Keep Them Busy",
   "type": "move",
   "_id": "uXriNVHOmu3064KN",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you act as a distraction or buy some time,</strong> tell us how and roll +Courage.</p><p>If you <em>Keep Them Busy </em>using a weapon with Ammo, use 1 Ammo. If you have no Ammo, you cannot <em>Keep Them Busy </em>with that weapon. If you have the Clumsy tag, you take -1 to <em>Keep Them Busy.</em></p><p></p>",
     "moveType": "basic",

@@ -2,7 +2,7 @@
   "name": "AN OFFER YOU CAN'T REFUSE",
   "type": "npcMove",
   "_id": "BOBrp1ZWbYp6AMDN",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When a player gets @UUID[Compendium.fellowship-pbta.special-moves.Item.OnoZsu0tZybyqesF]{Taken Out} in your presence,</strong> you may give them an offer, for their services, for something they hold, or for the end of their life. They may attempt to negotiate, but you do not need to listen. If they accept, you fulfill the deal and then leave the scene. If they refuse, they must roll +Courage.</p>",
     "moveType": "basic",

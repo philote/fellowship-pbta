@@ -3,7 +3,7 @@
   "name": "YOU WILL NOT DIE THIS DAY",
   "type": "move",
   "_id": "R5OVhCXLJgOFQ1aW",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When an ally gets @UUID[Compendium.fellowship-pbta.special-moves.Item.OnoZsu0tZybyqesF]{Taken Out} and you dramatically rush to their side,</strong> you may share words with them, and nothing will interrupt you. Afterwards, they <strong>choose one:</strong></p><ul><li>The Warlord will get them to safety, taking them out of the scene.</li><li>The Warlord can stand and fight, filled with Hope for the rest of the scene.</li><li>They get back up, heal 1 damage, and cannot hold Despair for the rest of the scene.</li></ul>",
     "moveType": "destiny",

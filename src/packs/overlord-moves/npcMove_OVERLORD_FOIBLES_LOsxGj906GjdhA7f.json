@@ -3,7 +3,7 @@
   "name": "OVERLORD FOIBLES",
   "type": "npcMove",
   "_id": "LOsxGj906GjdhA7f",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>There is always a catch, when it comes to having unstoppable power. You have some quirks that the fellowship can exploit. You have all of the following vulnerabilities:</p><ul><li><p><strong>You are arrogant:</strong> Every setback is minor and can be dealt with. Everything is fine and you know you cannot lose.</p></li><li><p><strong>You are busy:</strong> The fellowship's destruction is not your actual goal. You have soething you want, and your focus is on getting that. <strong>When you personally engage the fellowship,</strong> your goal is not to kill them all, but to get them out of your way while you do your thing.</p></li><li><p><strong>You are honor bound:</strong> When you make a promise, you will always keep it, even against your better interests. This weakness may seem silly, but it makes for a better game when you can negotiate or gamble with the heroes and they can trust you to keep your end of the deal.</p></li></ul>",
     "moveType": "core",

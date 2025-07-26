@@ -3,7 +3,7 @@
   "name": "OVERLORD DAMAGE",
   "type": "npcMove",
   "_id": "IH9RHmYPZG5nk2zl",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You are difficult to harm, but it is not impossible. <strong>When you would take damage,</strong> they must first @UUID[Compendium.fellowship-pbta.special-moves.Item.ZrHnVfT943zF7FnE]{pay a price} for each undamaged stat you have. If you would be destroyed, instead damage one of your stats at no cost to your attacker. <strong>If you take damage or are destroyed while none of your stats remain, you are finally defeated,</strong> once and for all. There is no coming back for you.</p><p>Your supreme power comes with some downsides. Most notably, they can harm you without ever being near you. <strong>If the fellowship seizes a Source of Power,</strong> they may use it to erase one of your stats forever. You can never get that stat back unless you can take control of that specific Source of Power.</p><p><strong>When the fellowship @UUID[Compendium.fellowship-pbta.special-moves.Item.YNOTCTxDOQMVmtTO]{Recovers},</strong> heal one of your damaged stats.</p>",
     "moveType": "core",

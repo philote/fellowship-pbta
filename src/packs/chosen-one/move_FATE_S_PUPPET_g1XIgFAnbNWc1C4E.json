@@ -3,7 +3,7 @@
   "name": "FATE'S PUPPET",
   "type": "move",
   "_id": "g1XIgFAnbNWc1C4E",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you act exactly as has been foretold in the Prophecy,</strong> you can mark this Move to declare what happens next. What happens next must be in line with the Prophecies as foretold by you and/or the Harbinger, but otherwise anything you say becomes true.</p><p>You cannot use this Move while it is marked.</p><p><strong>When you earn Fellowship,</strong> remove your mark from this Move.</p>",
     "moveType": "destiny",

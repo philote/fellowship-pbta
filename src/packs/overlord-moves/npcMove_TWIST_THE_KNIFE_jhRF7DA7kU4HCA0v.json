@@ -2,7 +2,7 @@
   "name": "TWIST THE KNIFE",
   "type": "npcMove",
   "_id": "jhRF7DA7kU4HCA0v",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you speak to someone you have a Bond with about your history with them,</strong> you may force them to relive their pain. They must either @UUID[Compendium.fellowship-pbta.special-moves.Item.ZrHnVfT943zF7FnE]{pay a price}, stand down and get out of your way, or attack you, right now, their choice. No matter what they choose, you make a Hard Cut against them.</p>",
     "moveType": "basic",

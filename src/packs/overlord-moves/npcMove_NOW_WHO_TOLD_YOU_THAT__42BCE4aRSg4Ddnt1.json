@@ -3,7 +3,7 @@
   "name": "NOW WHO TOLD YOU THAT?",
   "type": "npcMove",
   "_id": "42BCE4aRSg4Ddnt1",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When the players use your Weakness against you,</strong> erase that Weakness and choose a new one. The old Weakness was either lies and misinformation, or you have grown past it and it no longer harms you as it once did.</p><p><strong>After you use this Move once,</strong> it is gone forever.</p>",
     "moveType": "custom",

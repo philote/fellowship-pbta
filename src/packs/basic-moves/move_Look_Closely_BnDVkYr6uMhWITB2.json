@@ -2,7 +2,7 @@
   "name": "Look Closely",
   "type": "move",
   "_id": "BnDVkYr6uMhWITB2",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you closely examine a situation or a location,</strong> roll +Sense.</p><p>Anyone can answer, but the Overlord has the final say.</p>",
     "moveType": "basic",

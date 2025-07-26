@@ -3,7 +3,7 @@
   "name": "MIGHTY LEAP",
   "type": "move",
   "_id": "lNCMp4lobg4zi7DL",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you jump with all your might,</strong> you can land anywhere you can see, no matter how far it is.</p>",
     "moveType": "customs",

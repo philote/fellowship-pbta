@@ -3,7 +3,7 @@
   "name": "HEY! OVER HERE!",
   "type": "move",
   "_id": "jAfGVwmD2y7da9tp",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><em><strong>Requires:</strong> @UUID[Compendium.fellowship-pbta.halfling.Item.rZIloJIotaSHfs0u]{Sting Like A Bee}</em></p><p>You can <em>@UUID[Compendium.fellowship-pbta.halfling.Item.rZIloJIotaSHfs0u]{Sting Like A Bee} </em>from any range, as long as you can trigger it.</p>",
     "moveType": "destiny",

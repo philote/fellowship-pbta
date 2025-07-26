@@ -3,7 +3,7 @@
   "name": "CERTAIN VICTORY",
   "type": "move",
   "_id": "JJNcMOcvlGDVbNcV",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>When you try to <em>Finish Them</em>, if they are not a Set Piece or a <strong>Threat to the World</strong>, you deal damage to them before rolling to <em>Finish Them</em>. If this damages their last stat, take the 10+ result without rolling.</p>",
     "moveType": "destiny",

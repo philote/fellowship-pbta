@@ -3,7 +3,7 @@
   "name": "DIG TOO DEEP",
   "type": "move",
   "_id": "qGSwxktnvVYuyxCt",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><em><strong>Requires:</strong> @UUID[Compendium.fellowship-pbta.dwarf.Item.ki1s6uOpNk5aqNh8]{Dig Deep}</em></p><p>You can <em>@UUID[Compendium.fellowship-pbta.dwarf.Item.DDKGfOSpLP4HgTpF]{Clear The Path} </em>to create a tunnel through any material, no matter how impossible - steel, lava, fog, diamonds, water, the open sky, a boat, dreams, anything.</p>",
     "moveType": "destiny",

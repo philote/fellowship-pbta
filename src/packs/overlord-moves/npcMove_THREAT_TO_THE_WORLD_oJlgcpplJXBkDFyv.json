@@ -2,7 +2,7 @@
   "name": "THREAT TO THE WORLD",
   "type": "npcMove",
   "_id": "oJlgcpplJXBkDFyv",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You threaten the world and all it stands for. As a <strong>Threat To The World</strong>, you have imunity to a variety of moves. <strong>When someone who is not a Threat to the World takes direct action against something that is,</strong> they must pay a price to do so.</p>",
     "moveType": "basic",

@@ -3,7 +3,7 @@
   "name": "NATURE INCARNATE",
   "type": "move",
   "_id": "4PaIyjZ2kUHBG2Bu",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When your Beast Companions act under your orders,</strong> you may make Moves as if they were just an extension of yourself. They can roll using your stats, use the Basic Moves, and act as if you were by their side to direct them. Where your Beasts are, you may as well also be.</p>",
     "moveType": "destiny",

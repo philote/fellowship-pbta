@@ -3,7 +3,7 @@
   "name": "DRAGON MAGIC",
   "type": "move",
   "_id": "PSb0HzljRQIbZkoQ",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you draw upon the draconic power that only a fool would not call magic,</strong> choose a spell from below, then mark it. You cannot use a spell while it is marked.</p><p><strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.special-moves.Item.I18nTKFofUw4ewsT]{Fill Your Belly}</strong></em><strong>,</strong> remove a mark from one spell.</p><p><strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.special-moves.Item.YNOTCTxDOQMVmtTO]{Recover}</strong></em><strong>,</strong> remove all marks on your spells.</p><ul><li><strong>Blessing of Strength:</strong> Destroy a wall or door in your way.</li><li><strong>Blessing of Speed:</strong> Instantly appear somewhere close by that you can see. No one else will see you move there.</li><li><strong>Blessing of Glory:</strong> Force someone to listen to you when you <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.3lOlQnDdQRaiR47g]{Talk Sense}</em> to them.</li></ul><p><strong>When you Share this Move with another,</strong> they choose a single spell from the list. That spell is the only one they can use. You can Share this Move with someone multiple times. Each time you do, they learn another spell.</p>",
     "moveType": "core",

@@ -3,7 +3,7 @@
   "name": "EVIL'S HEART",
   "type": "move",
   "_id": "tjMufIYpBDAzHeSs",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>Your attacks are <em>Necrotic.</em></p><p><strong>When you @UUID[Compendium.fellowship-pbta.basic-moves.Item.uXriNVHOmu3064KN]{Keep Them Busy} through melee combat,</strong> you may break your weapon to damage them.</p>",
     "moveType": "destiny",

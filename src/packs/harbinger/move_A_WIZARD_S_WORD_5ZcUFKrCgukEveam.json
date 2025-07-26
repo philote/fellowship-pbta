@@ -3,7 +3,7 @@
   "name": "A WIZARD'S WORD",
   "type": "move",
   "_id": "5ZcUFKrCgukEveam",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you make a promise to someone and they promise something in return,</strong> you may leave your mark upon them. <strong>So long as you do not break your promise,</strong> they cannot break theirs.</p><p>Write a Bond with them describing the promise you share. The mark is undone when they fulfill their end of the promise, or you break your end of it.</p>",
     "moveType": "customs",

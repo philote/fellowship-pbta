@@ -401,95 +401,96 @@
       {
         "title": "SQUIRE CORE",
         "desc": "All Squires have these moves.",
-        "type": "multi",
+        "grantOn": 0,
+        "advancement": 0,
         "repeatable": true,
         "choices": [
           {
             "uuid": "Compendium.fellowship-pbta.squire.Item.ISY73QWj9cb21aVV",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.squire.Item.JLzqRDFFmIPrf65V",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.squire.Item.FY3AXIcGzkhvUpoG",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           }
         ],
-        "grantOn": 0,
-        "granted": false,
-        "advancement": 0
+        "type": "multi",
+        "granted": false
       },
       {
         "title": "SQUIRE CUSTOM",
         "desc": "Choose two of these moves to further define what it means to be the Squire.",
-        "type": "multi",
+        "grantOn": 1,
+        "advancement": 0,
         "repeatable": false,
         "choices": [
           {
             "uuid": "Compendium.fellowship-pbta.squire.Item.DU1UQUX7lnRCnX3v",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.squire.Item.XKpSYgjtboGCPMTy",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.squire.Item.s4pcCZo5d5NhxjEb",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.squire.Item.Q2ijsa5rV9UVxo4r",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.squire.Item.WE9Q8j9eKCEVfrsv",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.squire.Item.LXkdu0qNpApNhMGK",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.squire.Item.nGxvYhksjSYpTlPa",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.squire.Item.BWVQbYhorCdFb4FI",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           }
         ],
-        "grantOn": 1,
-        "granted": false,
-        "advancement": 0
+        "type": "multi",
+        "granted": false
       },
       {
         "title": "Starting gear",
         "desc": "",
-        "type": "multi",
+        "grantOn": 0,
+        "advancement": 0,
         "repeatable": true,
         "choices": [
           {
@@ -511,14 +512,14 @@
             "advancement": 0
           }
         ],
-        "grantOn": 0,
-        "granted": false,
-        "advancement": 0
+        "type": "multi",
+        "granted": false
       },
       {
-        "title": "Choose what you brought to keep yourself safe:",
-        "desc": "",
-        "type": "multi",
+        "title": "Brought to keep yourself safe",
+        "desc": "Choose what you brought to keep yourself safe:",
+        "grantOn": 1,
+        "advancement": 0,
         "repeatable": false,
         "choices": [
           {
@@ -552,14 +553,14 @@
             "advancement": 0
           }
         ],
-        "grantOn": 1,
-        "granted": false,
-        "advancement": 0
+        "type": "multi",
+        "granted": false
       },
       {
-        "title": "You were more prepared than anyone else",
-        "desc": "You brought along some extra supplies just in case. Choose one:",
-        "type": "multi",
+        "title": "You were more prepared...",
+        "desc": "Than anyone else, You brought along some extra supplies just in case. Choose one:",
+        "grantOn": 1,
+        "advancement": 0,
         "repeatable": false,
         "choices": [
           {
@@ -587,14 +588,14 @@
             "advancement": 0
           }
         ],
-        "grantOn": 1,
-        "granted": false,
-        "advancement": 0
+        "type": "multi",
+        "granted": false
       },
       {
-        "title": "You weren't supposed to be here",
+        "title": "You weren't supposed to be here...",
         "desc": "but you are. What extra luck did you bring with you? Choose one:",
-        "type": "multi",
+        "grantOn": 1,
+        "advancement": 0,
         "repeatable": false,
         "choices": [
           {
@@ -610,15 +611,14 @@
             "advancement": 0
           },
           {
-            "img": "icons/magic/unholy/strike-body-life-soul-purple.webp",
             "uuid": "Compendium.fellowship-pbta.gear.Item.Ql5XRwzowMZJcIms",
+            "img": "icons/magic/unholy/strike-body-life-soul-purple.webp",
             "granted": false,
             "advancement": 0
           }
         ],
-        "grantOn": 1,
-        "granted": false,
-        "advancement": 0
+        "type": "multi",
+        "granted": false
       }
     ]
   },
@@ -636,7 +636,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.21",
     "createdTime": 1736283668419,
-    "modifiedTime": 1753081374869,
+    "modifiedTime": 1753562595328,
     "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },

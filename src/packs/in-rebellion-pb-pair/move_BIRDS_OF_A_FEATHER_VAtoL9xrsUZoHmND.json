@@ -3,7 +3,7 @@
   "name": "BIRDS OF A FEATHER",
   "type": "move",
   "_id": "VAtoL9xrsUZoHmND",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You play as two characters. The Pair can split up or stay together as they like, allowing you to be in two places at once. They each have a separate Look, separate Stats, and a separate personal Agenda.</p><p>The Pair has separate bonds for each of them. Each of the Pair can only have one Bond with someone else, and others can only have one Bond with each member of the Pair.</p><p><strong>When they </strong><em><strong>@UUID[Compendium.fellowship-pbta.special-moves.Item.I18nTKFofUw4ewsT]{Fill Their Belly}</strong></em><strong>,</strong> they only spend 1 Food, but they each heal one damage.</p><p><span style=\"box-sizing:border-box;user-select:text;scrollbar-width:thin;scrollbar-color:rgb(120, 46, 34) rgba(0, 0, 0, 0);color:rgb(39, 44, 51);font-family:Roboto, sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;letter-spacing:normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgb(221, 222, 223);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\"><strong>This Move cannot be Shared.</strong></span></p>",
     "moveType": "core",

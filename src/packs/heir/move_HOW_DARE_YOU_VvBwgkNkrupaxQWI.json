@@ -3,7 +3,7 @@
   "name": "HOW DARE YOU",
   "type": "move",
   "_id": "VvBwgkNkrupaxQWI",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When someone insults you to your face,</strong> you may choose to lash out or remain stoic.</p><p><strong>If you lash out, </strong>roll to <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.cnXubqxIogR16JMj]{Finish Them} </em>with +Blood if you lash out with your weapon, or +Grace if you lash out with your tongue. <strong>If you remain stoic, </strong>ask two questions from the <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.BnDVkYr6uMhWITB2]{Look Closely} </em>list without rolling. Their outburst tells you everything.</p>",
     "moveType": "customs",

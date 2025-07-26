@@ -3,7 +3,7 @@
   "name": "PEOPLE OF STONE",
   "type": "move",
   "_id": "C2Eh8xqDeHanCaao",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>The dwarves are built tough. You have a sixth stat, Iron, and you have an additional +1 to assign among your other stats. Iron represents your supreme toughness - your armor, survivability, iron gut, and stubbornness.</p><p><strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.Item.cnXubqxIogR16JMj]{Finish Them} </strong></em><strong>by outlasting them in a contest of power or endurance,</strong> roll +Iron. </p><p><strong>When you share this Move with another,</strong> their Iron stat is +1.</p><p><strong>When someone who does not have an Iron stat uses a Move that rolls +Iron,</strong> they roll at +0.</p>",
     "moveType": "core",

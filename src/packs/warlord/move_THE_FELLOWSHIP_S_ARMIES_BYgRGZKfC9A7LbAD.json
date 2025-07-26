@@ -3,7 +3,7 @@
   "name": "THE FELLOWSHIP'S ARMIES",
   "type": "move",
   "_id": "BYgRGZKfC9A7LbAD",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You have taken control of an army. Choose any Companion from the Innocents list that makes sense - you have three Bonds with them, and they gain the Army stat.</p><p>Your army can only be damaged by Dangerous or Area attacks, and they count as being everywhere in their location at the same time. You do not need to damage their stats to use their Moves - there are enough of them that they can always help you in whatever way they can.</p>",
     "moveType": "destiny",

@@ -3,7 +3,7 @@
   "name": "GOOD FOR WHAT ALES YOU",
   "type": "move",
   "_id": "reEqVpqOehiZhIew",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you use an item with the Drunk tag,</strong> act as though it had the Healing tag instead.</p>",
     "moveType": "customs",

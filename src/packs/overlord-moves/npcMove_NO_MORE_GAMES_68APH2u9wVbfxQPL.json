@@ -3,7 +3,7 @@
   "name": "NO MORE GAMES",
   "type": "npcMove",
   "_id": "68APH2u9wVbfxQPL",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you next face off with the fellowship,</strong> as soon as the talking is done, one of them is immediately @UUID[Compendium.fellowship-pbta.special-moves.Item.OnoZsu0tZybyqesF]{Taken Out} (ask for a volunteer). They take damage to all of their stats and they are out for the rest of the scene. The rest of the fellowship cannot oppose you this scene, and you get away with what you want before taunting them and leaving.</p>",
     "moveType": "custom",

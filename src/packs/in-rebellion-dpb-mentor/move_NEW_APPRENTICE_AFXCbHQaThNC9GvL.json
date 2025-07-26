@@ -3,7 +3,7 @@
   "name": "NEW APPRENTICE",
   "type": "move",
   "_id": "AFXCbHQaThNC9GvL",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You take on a second character, who follows in your footsteps. Make a new level 1 character from any Basic playbook. You play as both that character, as the Apprentice, and your original character, as the Mentor. Each of you writes one bond with the other describing this relationship. When you are chosen as a player to Level Up, you must level up The Mentor. The Apprentice remains at level 1 and cannot Advance until the Mentor takes <em>Become The Master</em>.</p>\n<p><strong>Optional:</strong> If a new player is joining the campaign, they can play as your Apprentice instead of having you control two characters. As long as they don't mind not being able to Level Up until you let them, this is a good way to give a new character a strong introduction to the story, while another player is looking out for them.</p>",
     "moveType": "destiny",

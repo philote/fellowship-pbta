@@ -3,7 +3,7 @@
   "name": "BRILLIANT INVENTOR",
   "type": "move",
   "_id": "ESCiLTWLFjJvBk2b",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You are capable of crafting innovative technological items. It will be expensive, take some time, and have drawbacks, but it can be done. <strong>When you forge such an item,</strong> describe what it looks like, tell us what it does, and then <strong>choose two:</strong></p><ul><li>It is difficult to use, and has the <em>Slow </em>tag.</li><li>It is a prosthetic, and can only be used by the wearer.</li><li>It requires you to sacrifice something else to make it work. Give up one of your Gear options permanently.</li><li>It requires fuel, so it only has 2 Uses.</li></ul><p><strong>If you can accept the costs,</strong> the invention is a success. Add the new item to someone's Gear, yours or another's.</p>",
     "moveType": "destiny",

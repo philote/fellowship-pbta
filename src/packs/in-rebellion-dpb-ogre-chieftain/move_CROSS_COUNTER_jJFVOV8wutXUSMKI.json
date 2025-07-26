@@ -3,7 +3,7 @@
   "name": "CROSS-COUNTER",
   "type": "move",
   "_id": "jJFVOV8wutXUSMKI",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>When you take damage from an enemy's attack, you may pay a price to deal damage back. They cannot prevent or re-direct this damage.</p>",
     "moveType": "destiny",

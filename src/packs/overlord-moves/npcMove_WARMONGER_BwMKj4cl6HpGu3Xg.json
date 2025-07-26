@@ -3,7 +3,7 @@
   "name": "WARMONGER",
   "type": "npcMove",
   "_id": "BwMKj4cl6HpGu3Xg",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>Choose another option from the Overlord's Armies list. You have acquired that army as well. </p>",
     "moveType": "custom",

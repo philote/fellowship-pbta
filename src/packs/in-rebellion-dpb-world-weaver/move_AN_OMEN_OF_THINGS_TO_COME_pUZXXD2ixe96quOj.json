@@ -3,7 +3,7 @@
   "name": "AN OMEN OF THINGS TO COME",
   "type": "move",
   "_id": "pUZXXD2ixe96quOj",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You are a Threat to the World. You also gain this Web Spinning trap: A Dark Portent: You terrify them, and they flee the scene. Threats to the World merely hesitate a moment, instead of fleeing.</p>",
     "moveType": "destiny",

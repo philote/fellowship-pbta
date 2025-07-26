@@ -3,7 +3,7 @@
   "name": "IT'S DANGEROUS TO GO ALONE",
   "type": "move",
   "_id": "JLzqRDFFmIPrf65V",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you watch someone's back and keep your eyes peeled, </strong>you can roll to <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.h7JpSHtXSQYIjsWA]{Overcome} </em>any harm against them with +Sense instead of +Blood.</p>",
     "moveType": "core",

@@ -1,7 +1,7 @@
 {
   "name": "UNTOUCHABLE BEAUTY",
   "type": "move",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>Nothing can leave its mark upon you, not anymore. You do not suffer the ravages of time, your wounds never scar, your form cannot be changed, and you cannot be touched or held by another (although you may hold or touch them).</p><p>You no longer relate to those around you, and your Bonds weaken. You can never have more than one Bond with anyone. Erase your extra Bonds now.</p>",
     "moveType": "destiny",

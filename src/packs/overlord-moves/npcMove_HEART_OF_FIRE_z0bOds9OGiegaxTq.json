@@ -2,7 +2,7 @@
   "name": "HEART OF FIRE",
   "type": "npcMove",
   "_id": "z0bOds9OGiegaxTq",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When a player has a Bond with your name in it,</strong> you do not become their Companion, but it still holds sway over you. They may erase that Bond with you at any time to buy themselves reprieve. </p><p><strong>They choose one:</strong> You will show them mercy, tell them something valuable, or ignore them for the time being.</p>",
     "moveType": "basic",

@@ -3,7 +3,7 @@
   "name": "BURNING SOUL",
   "type": "move",
   "_id": "1YVQeHFyrWbmFJeg",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you will a fire to grow stronger,</strong> it will suddenly and dangerously expand, igniting anything near it. Fire you empower this way will spread rapidly and recklessly beyond anyone's ability to contain.</p>",
     "moveType": "destiny",

@@ -2,7 +2,7 @@
   "name": "FORGE A BOND - Overlord",
   "type": "npcMove",
   "_id": "VVSbz6jOL4Crp4XY",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>The Overlord does not make friends. <strong>When you cause great personal harm to someone or their people,</strong> <em>@UUID[Compendium.fellowship-pbta.bond-moves.Item.28gRsLA4GNORvwg6]{Forge a Bond}</em> with them. Your Bonds can only be erased by your own Moves, and you can hold any number of Bonds.</p><p><strong>When you reveal a side of yourself to someone you never intended to share it with,</strong> they may @UUID[Compendium.fellowship-pbta.bond-moves.Item.28gRsLA4GNORvwg6]{Forge a Bond} with you. You cannot erase the Bonds they hold with you, no matter how badly you might want to.</p>",
     "moveType": "basic",

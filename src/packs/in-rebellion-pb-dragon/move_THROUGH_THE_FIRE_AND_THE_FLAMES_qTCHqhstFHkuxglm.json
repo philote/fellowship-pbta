@@ -3,7 +3,7 @@
   "name": "THROUGH THE FIRE AND THE FLAMES",
   "type": "move",
   "_id": "qTCHqhstFHkuxglm",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You are Dragon-Made, and the elements cannot harm or change you.</p><p><strong>This Move cannot be Shared.</strong></p>",
     "moveType": "core",

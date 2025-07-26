@@ -3,7 +3,7 @@
   "name": "INFINITE STRENGTH",
   "type": "move",
   "_id": "oCwxwGKNi8WuOwNC",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You can pick up and lift anything and anyone you can get a firm grip on. Anything and anyone you hold can be used as if they were a weapon with the tags (Melee, Thrown).</p><p><strong>When you break a weapon you hold to power one of your moves,</strong> if that weapon is a person, you deal damage to them instead of breaking them.</p>",
     "moveType": "destiny",

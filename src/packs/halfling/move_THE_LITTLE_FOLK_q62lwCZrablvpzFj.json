@@ -3,7 +3,7 @@
   "name": "THE LITTLE FOLK",
   "type": "move",
   "_id": "q62lwCZrablvpzFj",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you do something clever or sneaky while no one is looking,</strong> roll +Courage.</p>",
     "moveType": "core",

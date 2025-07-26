@@ -3,7 +3,7 @@
   "name": "PLEASE, JUST LISTEN",
   "type": "move",
   "_id": "FY3AXIcGzkhvUpoG",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.Item.3lOlQnDdQRaiR47g]{Talk Sense} </strong></em><strong>to someone,</strong> you may erase a Bond with them instead of owing them a favor.</p><p><strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.Item.Ml6muq1ZjhkuT7FF]{Speak Softly} </strong></em><strong>with someone,</strong> you may erase a Bond with them to make them answer a question they refuse to answer.</p>",
     "moveType": "core",

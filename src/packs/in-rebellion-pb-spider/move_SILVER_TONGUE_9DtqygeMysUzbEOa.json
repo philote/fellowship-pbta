@@ -3,7 +3,7 @@
   "name": "SILVER TONGUE",
   "type": "move",
   "_id": "9DtqygeMysUzbEOa",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.Item.Ml6muq1ZjhkuT7FF]{Speak Softly}</strong></em><strong>, in place of one of your questions you ask them,</strong> you may tell them a lie. They will earnestly believe this lie to be true until overwhelming or undeniable evidence contradicts them.</p>",
     "moveType": "customs",

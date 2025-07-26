@@ -3,7 +3,7 @@
   "name": "ARE WE NOT THE SAME, YOU AND I?",
   "type": "move",
   "_id": "W6uR9lctxMm5saXL",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You gain an <strong>Overlord Stat</strong>, write it now. See page 180 of the Fellowship book for more information.</p><p><strong>While your Overlord stat is undamaged,</strong> you are the same as the Overlord and cannot harm or hinder them. <strong>If they make you @UUID[Compendium.fellowship-pbta.overlord-moves.Item.BOBrp1ZWbYp6AMDN]{an Offer You Can't Refuse}</strong><em><strong> </strong></em><strong>while your Overlord stat is undamaged,</strong> you must accept it, but your power is great enough that you may negotiate. You may add a caveat to their terms.</p><p><strong>When you are exposed to the Overlord's Weakness,</strong> you immediately damage your Overlord stat.</p><p><strong>When an Overlord stat is damaged,</strong> mark the box. Overlord stats are always true unless they are damaged.</p>",
     "moveType": "destiny",

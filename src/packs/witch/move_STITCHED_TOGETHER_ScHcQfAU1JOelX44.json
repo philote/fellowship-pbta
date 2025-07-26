@@ -3,7 +3,7 @@
   "name": "STITCHED TOGETHER",
   "type": "move",
   "_id": "ScHcQfAU1JOelX44",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you sew up a dying or recently dead body and breathe some magic into it,</strong> they return to life, whether they like it or not. You gain a Bond with them, and they are both living and dead.</p>",
     "moveType": "destiny",

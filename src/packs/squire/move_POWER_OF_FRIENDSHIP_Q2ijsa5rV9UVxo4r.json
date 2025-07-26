@@ -3,7 +3,7 @@
   "name": "POWER OF FRIENDSHIP",
   "type": "move",
   "_id": "Q2ijsa5rV9UVxo4r",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>Your Bonds have the tags Precious and Useful, and you can Use them by erasing them.</p><p><strong>This move cannot be Shared.</strong></p>",
     "moveType": "customs",

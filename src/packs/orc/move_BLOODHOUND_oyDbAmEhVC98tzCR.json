@@ -3,7 +3,7 @@
   "name": "BLOODHOUND",
   "type": "move",
   "_id": "oyDbAmEhVC98tzCR",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you track someone whose trail isn't cold,</strong> roll +Blood.</p>",
     "moveType": "customs",

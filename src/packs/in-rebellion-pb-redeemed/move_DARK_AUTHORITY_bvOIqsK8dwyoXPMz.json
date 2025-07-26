@@ -3,7 +3,7 @@
   "name": "DARK AUTHORITY",
   "type": "move",
   "_id": "bvOIqsK8dwyoXPMz",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You have pull with your cruel master's minions, and can make demands of them freely. They will listen to you even if your behavior is strange or clearly benefits the fellowship, but you can expect them to report continued strange behavior to your cruel master.</p><p>Your cruel master can take this Move away from you at any time. You do not get it back until you return to being @UUID[Compendium.fellowship-pbta.in-rebellion-pb-nemesis.ODyO6u8Nzep81JNv]{THE NEMESIS}.</p><p><strong>This Move cannot be Shared.</strong></p>",
     "moveType": "core",

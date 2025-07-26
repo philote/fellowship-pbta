@@ -3,7 +3,7 @@
   "name": "LET ME SEE THAT",
   "type": "move",
   "_id": "jzvFdyOycwq4ifUV",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you take a few moments to handle or examine an interesting item, vehicle, or architecture,</strong> ask the Overlord two of the following questions. They must answer truthfully.</p><ul><li>Who made this and why should I care about them?</li><li>What was this made to do, and how do I use it or break it?</li><li>What's wrong with this, and how might I fix it?</li></ul>",
     "moveType": "customs",

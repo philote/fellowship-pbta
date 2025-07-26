@@ -3,7 +3,7 @@
   "name": "UNBREAKABLE",
   "type": "move",
   "_id": "RbhNMTzSlA3ymdsz",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.special-moves.Item.I18nTKFofUw4ewsT]{Fill Your Belly}</strong></em><strong>,</strong> you also heal your Iron stat.</p>",
     "moveType": "core",

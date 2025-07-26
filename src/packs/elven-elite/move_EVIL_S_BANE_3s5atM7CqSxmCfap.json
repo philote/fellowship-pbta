@@ -3,7 +3,7 @@
   "name": "EVIL'S BANE",
   "type": "move",
   "_id": "3s5atM7CqSxmCfap",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You have become a new Weakness for the Overlord. Choose one of the Overlord's stats when you take this Move. <strong>When the Overlord is in your presence,</strong> the chosen stat becomes damaged.</p>",
     "moveType": "destiny",

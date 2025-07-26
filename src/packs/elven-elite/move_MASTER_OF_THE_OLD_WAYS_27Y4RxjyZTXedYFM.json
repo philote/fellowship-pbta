@@ -3,7 +3,7 @@
   "name": "MASTER OF THE OLD WAYS",
   "type": "move",
   "_id": "27Y4RxjyZTXedYFM",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You have had lifetimes to learn, and you know how to do anything. You can Command Lore about any skill, profession, or trade the Elves have ever mastered through out history, and you have the ability to perform any of those tasks or skills on demand.</p><p><strong>When you have time and safety,</strong> you can make beautiful art (<em>1 Use, Elf-Made, Precious</em>) or appropriate tools for the job at hand (<em>1 Use, Elf-Made, Useful</em>).</p>",
     "moveType": "destiny",

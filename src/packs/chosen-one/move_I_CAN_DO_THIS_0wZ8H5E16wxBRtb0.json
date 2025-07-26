@@ -3,7 +3,7 @@
   "name": "I CAN DO THIS",
   "type": "move",
   "_id": "0wZ8H5E16wxBRtb0",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you act on your own,</strong> you can use your memories of what you're fighting for to inspire you. Your bonds have the Vigor tag, and you can use them by erasing them.</p>",
     "moveType": "destiny",

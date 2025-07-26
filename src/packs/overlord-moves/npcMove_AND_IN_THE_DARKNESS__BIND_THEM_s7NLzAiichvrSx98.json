@@ -3,7 +3,7 @@
   "name": "AND IN THE DARKNESS, BIND THEM",
   "type": "npcMove",
   "_id": "s7NLzAiichvrSx98",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You have crafted an item of power. Choose one of your Overlord stats, then give this item of power to one of your Generals. Whoever holds this item of power also has that Overlord stat.</p><p><strong>If any of the fellowship gets their hands on it,</strong> they gain all the power that it brings, but it will also fill their mind with dark thoughts. They gain the <strong>Agenda:</strong></p>",
     "moveType": "custom",

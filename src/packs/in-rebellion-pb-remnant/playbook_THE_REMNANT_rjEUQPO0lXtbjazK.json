@@ -409,25 +409,25 @@
         "choices": [
           {
             "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-remnant.Item.OL9LNbzqaYjpiUEi",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-remnant.Item.0WjFrPOnmV9F36d5",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-remnant.Item.LBjVARrdPkiZGpJa",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-remnant.Item.QTCrhadHREDM1g89",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           }
@@ -444,49 +444,49 @@
         "choices": [
           {
             "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-remnant.Item.j3zZi58CeQScjgFW",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-remnant.Item.3ArWY4sTZbvZbo21",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-remnant.Item.2avYeGGFumwGuk51",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-remnant.Item.8gcyv3O5DNhvgMvw",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-remnant.Item.QfBk87SjKveaC8sP",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-remnant.Item.o6GSX8B8O6BRdX2W",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-remnant.Item.X3dyyq12qigOqmKQ",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-remnant.Item.esn19oLp6O3N84u0",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           }

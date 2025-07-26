@@ -405,89 +405,90 @@
       {
         "title": "HALFLING CORE",
         "desc": "All Halflings have these moves.",
-        "type": "multi",
+        "grantOn": 0,
+        "advancement": 0,
         "repeatable": true,
         "choices": [
           {
             "uuid": "Compendium.fellowship-pbta.halfling.Item.rZIloJIotaSHfs0u",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.halfling.Item.q62lwCZrablvpzFj",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           }
         ],
-        "grantOn": 0,
-        "granted": false,
-        "advancement": 0
+        "type": "multi",
+        "granted": false
       },
       {
         "title": "HALFLING CUSTOM",
         "desc": "Choose two of these moves to further define what it means to be a Halfling.",
-        "type": "multi",
+        "grantOn": 1,
+        "advancement": 0,
         "repeatable": false,
         "choices": [
           {
             "uuid": "Compendium.fellowship-pbta.halfling.Item.k3xojMryia7m8crN",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.halfling.Item.JRgnUffLaohKMLkZ",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.halfling.Item.NEPmSK4nHHrMnTb4",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.halfling.Item.OA02Z2mr1u2pCmC5",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.halfling.Item.zDG0khbjtdULUJLf",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.halfling.Item.U2yfufaashm5BQQN",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.halfling.Item.rwL0L4xbLveDXKiB",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.halfling.Item.rbkwufQkoLkrUrWF",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           }
         ],
-        "grantOn": 1,
-        "granted": false,
-        "advancement": 0
+        "type": "multi",
+        "granted": false
       },
       {
         "title": "Starting Gear",
         "desc": "",
-        "type": "multi",
+        "grantOn": 0,
+        "advancement": 0,
         "repeatable": true,
         "choices": [
           {
@@ -503,14 +504,14 @@
             "advancement": 0
           }
         ],
-        "grantOn": 0,
-        "granted": false,
-        "advancement": 0
+        "type": "multi",
+        "granted": false
       },
       {
-        "title": "Choose what you brought to keep your friends safe:",
-        "desc": "",
-        "type": "multi",
+        "title": "Item to keep your friends safe:",
+        "desc": "Choose what you brought to keep your friends safe:",
+        "grantOn": 1,
+        "advancement": 0,
         "repeatable": false,
         "choices": [
           {
@@ -538,14 +539,14 @@
             "advancement": 0
           }
         ],
-        "grantOn": 1,
-        "granted": false,
-        "advancement": 0
+        "type": "multi",
+        "granted": false
       },
       {
-        "title": "Choose the companion you brought on your journey:",
-        "desc": "Choose one group: Carriage - 1 bond, Spear plus mount [spider, boar, dog] - 2 bonds, Couple of friends [Choose 2: Brave, Chef, Fast-Talker] - 1 bond each, Hafling Pipeleaf & snacks",
-        "type": "multi",
+        "title": "Companion you brought",
+        "desc": "Choose the companion you brought on your journey: Choose one group: Carriage - 1 bond, Spear plus mount [spider, boar, dog] - 2 bonds, Couple of friends [Choose 2: Brave, Chef, Fast-Talker] - 1 bond each, Hafling Pipeleaf & snacks",
+        "grantOn": 1,
+        "advancement": 0,
         "repeatable": false,
         "choices": [
           {
@@ -567,8 +568,8 @@
             "advancement": 0
           },
           {
-            "img": "modules/fellowship-pbta/assets/icons/cultist.svg",
             "uuid": "Compendium.fellowship-pbta.halfling.Item.jbVsGTXSmM89z7Mf",
+            "img": "modules/fellowship-pbta/assets/icons/cultist.svg",
             "granted": false,
             "advancement": 0
           },
@@ -609,14 +610,14 @@
             "advancement": 0
           }
         ],
-        "grantOn": 1,
-        "granted": false,
-        "advancement": 0
+        "type": "multi",
+        "granted": false
       },
       {
-        "title": "Choose the luxury you couldn't let go:",
-        "desc": "Lunch and snacks get chosen together.",
-        "type": "multi",
+        "title": "A luxury you couldn't let go",
+        "desc": "Choose the luxury you couldn't let go: Lunch and snacks get chosen together.",
+        "grantOn": 1,
+        "advancement": 0,
         "repeatable": false,
         "choices": [
           {
@@ -644,14 +645,14 @@
             "advancement": 0
           }
         ],
-        "grantOn": 1,
-        "granted": false,
-        "advancement": 0
+        "type": "multi",
+        "granted": false
       },
       {
-        "title": "What fell into your pocket on the way out the door?",
-        "desc": "Choose one:",
-        "type": "multi",
+        "title": "In your pocket",
+        "desc": "What fell into your pocket on the way out the door? Choose one:",
+        "grantOn": 1,
+        "advancement": 0,
         "repeatable": false,
         "choices": [
           {
@@ -673,9 +674,8 @@
             "advancement": 0
           }
         ],
-        "grantOn": 1,
-        "granted": false,
-        "advancement": 0
+        "type": "multi",
+        "granted": false
       }
     ]
   },
@@ -693,7 +693,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.21",
     "createdTime": 1736283683500,
-    "modifiedTime": 1753080112907,
+    "modifiedTime": 1753562478212,
     "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },

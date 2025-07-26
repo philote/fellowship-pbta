@@ -3,7 +3,7 @@
   "name": "WE NEED YOUR HELP!",
   "type": "move",
   "_id": "yDTEm7bECSYBpuMb",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you go to find help,</strong> the Overlord will tell you who you find. <strong>If you ask for their aid,</strong> roll +Sense.</p>",
     "moveType": "destiny",

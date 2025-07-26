@@ -3,7 +3,7 @@
   "name": "FEED ON PAIN",
   "type": "move",
   "_id": "OL9LNbzqaYjpiUEi",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>When you cause harm to another, you heal. The type of harm does not matter - emotional or physical, it all sustains you.</p><p>You no longer need to eat or breathe to survive. In fact, you cannot eat - you can never <em>@UUID[Compendium.fellowship-pbta.special-moves.Item.I18nTKFofUw4ewsT]{Fill Your Belly}</em>, and Food is worthless to you.</p><p><strong>This Move cannot be Shared with the Living.</strong></p>",
     "moveType": "core",

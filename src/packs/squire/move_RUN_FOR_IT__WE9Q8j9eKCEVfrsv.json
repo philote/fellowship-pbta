@@ -3,7 +3,7 @@
   "name": "RUN FOR IT!",
   "type": "move",
   "_id": "WE9Q8j9eKCEVfrsv",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.Item.gvcPbIgaPctbaOCa]{Get Away} </strong></em><strong>by running right past or right through the danger,</strong> roll +Courage instead of +Grace. Any allies who run after you may also roll +Courage instead of +Grace to <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.gvcPbIgaPctbaOCa]{Get Away}</em>.</p><p><strong>If you have the Clumsy tag, </strong>you take -1 to <em>Get Away</em>.</p>",
     "moveType": "customs",

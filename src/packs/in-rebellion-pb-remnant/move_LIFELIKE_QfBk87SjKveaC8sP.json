@@ -3,7 +3,7 @@
   "name": "LIFELIKE",
   "type": "move",
   "_id": "QfBk87SjKveaC8sP",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You blend in better than most. No one will immediately notice your curse, and most who see you find you forgettable.</p><p><strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.Item.gvcPbIgaPctbaOCa]{Get Away}</strong></em><strong> into a crowd,</strong> you may roll with +Wisdom instead of +Grace.</p><p>When you sit in a public place and listen a while, you may ask the locals a question from the <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.Ml6muq1ZjhkuT7FF]{Speak Softly}</em> list without rolling.</p>",
     "moveType": "customs",

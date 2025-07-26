@@ -3,7 +3,7 @@
   "name": "PERFECT GRACE",
   "type": "move",
   "_id": "ac7nUNVt5p6BeuOy",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You move without effort, and can go anywhere you need to be. You can walk or run along any surface, including sheer cliffs, ceilings, lava, or drops of rain falling from the sky, and you always roll with Hope to <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.gvcPbIgaPctbaOCa]{Get Away}.</em></p>",
     "moveType": "destiny",

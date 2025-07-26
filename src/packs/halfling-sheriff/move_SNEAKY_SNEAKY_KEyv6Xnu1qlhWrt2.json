@@ -3,7 +3,7 @@
   "name": "SNEAKY SNEAKY",
   "type": "move",
   "_id": "KEyv6Xnu1qlhWrt2",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When no one's watching you, </strong>you can simply disappear. Tell us where you went, and you're there.</p>",
     "moveType": "destiny",

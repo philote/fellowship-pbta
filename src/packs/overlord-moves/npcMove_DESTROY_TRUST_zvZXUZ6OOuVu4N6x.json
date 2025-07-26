@@ -3,7 +3,7 @@
   "name": "DESTROY TRUST",
   "type": "npcMove",
   "_id": "zvZXUZ6OOuVu4N6x",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you dismiss, mock, or show how weak the Bond two people share is,</strong> erase those Bonds.</p>",
     "moveType": "custom",

@@ -3,7 +3,7 @@
   "name": "MOUNTAIN STANCE",
   "type": "move",
   "_id": "m9HrfJdmgEMDpSU6",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you defend a choke point by yourself and resolve to let no one through,</strong> no monster, vehicle, army, boulder, dragon, Overlord, or elf can get past you, so long as you remain standing and alert.</p>",
     "moveType": "destiny",

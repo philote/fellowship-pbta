@@ -3,7 +3,7 @@
   "name": "HEART OF ICE",
   "type": "npcMove",
   "_id": "WArkiSy8wXSV9TDp",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you deal damage to someone you have a Bond with or who has a Bond with you,</strong> make another Hard Cut against them immediately. The extra Cut cannot be deal damage.</p>",
     "moveType": "custom",

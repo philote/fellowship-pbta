@@ -3,7 +3,7 @@
   "name": "ANGEL'S TOUCH",
   "type": "move",
   "_id": "53Ce5xvZzoEvrhWB",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You can heal the wounds of an ally with a touch, although it takes a lot out of you.</p><p>You gain the tags (Healing, 1 Use).</p><p><strong>When you heal someone,</strong> you may damage yourself to heal them again.</p><p><strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.special-moves.Item.I18nTKFofUw4ewsT]{Fill Your Belly}</strong></em><strong>,</strong> restore this Use.</p>",
     "moveType": "customs",

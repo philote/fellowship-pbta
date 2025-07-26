@@ -3,7 +3,7 @@
   "name": "ENDLESS DETERMINATION",
   "type": "move",
   "_id": "69B3NhU3e2dFZJEY",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you get @UUID[Compendium.fellowship-pbta.special-moves.Item.OnoZsu0tZybyqesF]{Taken Out},</strong> heal your Courage stat. This does not stop the Overlord from making you <em>@UUID[Compendium.fellowship-pbta.overlord-moves.Item.BOBrp1ZWbYp6AMDN]{An Offer You Can't Refuse}.</em></p>",
     "moveType": "destiny",

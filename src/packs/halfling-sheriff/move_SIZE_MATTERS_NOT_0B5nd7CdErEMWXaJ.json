@@ -3,7 +3,7 @@
   "name": "SIZE MATTERS NOT",
   "type": "move",
   "_id": "0B5nd7CdErEMWXaJ",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You roll with Hope against anything larger than you.</p>",
     "moveType": "destiny",

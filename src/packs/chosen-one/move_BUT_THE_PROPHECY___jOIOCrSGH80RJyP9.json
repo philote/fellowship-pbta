@@ -3,7 +3,7 @@
   "name": "BUT THE PROPHECY!?",
   "type": "move",
   "_id": "jOIOCrSGH80RJyP9",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you act against the Prophecies,</strong> roll +Courage.</p>",
     "moveType": "destiny",

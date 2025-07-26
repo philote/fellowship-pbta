@@ -3,7 +3,7 @@
   "name": "YES, MY LIEGE",
   "type": "move",
   "_id": "EtC2NlHEkIX3Akza",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you issue a command to someone below your rank, </strong>they'll do it immediately, no questions asked. Someone is below your rank if they are of your People, if they are a Companion, or if they serve or follow someone who has shown you <em>@UUID[Compendium.fellowship-pbta.heir.Item.AxHgvkHalfeNMt7b]{Royal Treatment}</em>. You never need to <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.3lOlQnDdQRaiR47g]{Talk Sense} </em>to someone who is below your rank.</p><p><strong>When you give a command that directly harms the person you gave the command to, they become immune to this move forever.</strong></p>",
     "moveType": "core",

@@ -3,7 +3,7 @@
   "name": "WILD SHAPE",
   "type": "move",
   "_id": "kBzhK4c9LZtA875j",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You can take on the form of any Beast you have ever held a Bond with. <strong>When you assume the form of a beast, </strong>replace your stats with the ones that Beast has. Assign one of them +2, and the remaining stats as +1.</p><p><strong>When you need to make a roll,</strong> use the Companion stat that fits closest with what you are doing.</p><p><strong>When you take damage,</strong> it knocks you out of your Wild Shape before damaging one of your normal stats.</p>",
     "moveType": "destiny",

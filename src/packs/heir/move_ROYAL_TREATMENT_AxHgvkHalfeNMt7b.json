@@ -3,7 +3,7 @@
   "name": "ROYAL TREATMENT",
   "type": "move",
   "_id": "AxHgvkHalfeNMt7b",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you visit the ruler of a place and introduce yourself, </strong>you and your friends are all given a room for the night and a hot meal to <em>@UUID[Compendium.fellowship-pbta.special-moves.Item.I18nTKFofUw4ewsT]{Fill Your Belly}</em>, free of charge.</p>",
     "moveType": "core",

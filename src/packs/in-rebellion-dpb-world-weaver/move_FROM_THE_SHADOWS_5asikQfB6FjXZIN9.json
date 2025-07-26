@@ -3,7 +3,7 @@
   "name": "FROM THE SHADOWS",
   "type": "move",
   "_id": "5asikQfB6FjXZIN9",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>When you are not in a scene, you may spontaneously appear anywhere you wish to be, stealing the spotlight from whoever had it. You also gain this Web Spinning trap: Into Shadows: You leave the scene.</p>",
     "moveType": "destiny",

@@ -3,7 +3,7 @@
   "name": "PROPHETIC BONDS",
   "type": "move",
   "_id": "SMjZ7rpNAlQz4tmQ",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You can write Bonds about your visions, telling the future of the person named in the Bond. These Bonds are unbreakable until they come to pass.</p><p><strong>When you are watching the target of your visions and they are in the right place and time,</strong> you can erase a Bond with them to have it come to pass right before your eyes. You cannot take action while watching a vision unfold.</p>",
     "moveType": "destiny",

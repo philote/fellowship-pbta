@@ -3,7 +3,7 @@
   "name": "WEAVER",
   "type": "move",
   "_id": "OZ2Vh724hXD7g0le",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You can produce infinite silk rope. You can use it for anything sticky, durable, flexible rope is good for. Your <em>@UUID[Compendium.fellowship-pbta.in-rebellion-pb-spider.Item.TTqsDtJwGyslqnrf]{Web Spinning}</em> traps and Traps in your Gear gain the <em>Giant</em> tag, letting them affect up to three targets in the area.</p>",
     "moveType": "customs",

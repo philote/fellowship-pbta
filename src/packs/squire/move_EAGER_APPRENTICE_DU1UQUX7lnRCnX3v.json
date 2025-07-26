@@ -3,7 +3,7 @@
   "name": "EAGER APPRENTICE",
   "type": "move",
   "_id": "DU1UQUX7lnRCnX3v",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When someone you have a Bond with talks you through it,</strong> you can use one of their moves. If they are another player, you can only use a move that they could Share with you. If they are a Companion or an enemy, you must damage one of your stats to use one of their moves. You may only borrow one Move per scene.</p>",
     "moveType": "customs",

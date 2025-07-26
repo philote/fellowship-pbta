@@ -3,7 +3,7 @@
   "name": "PULL THE STRINGS",
   "type": "move",
   "_id": "wjnqherR0LdSAAaD",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>At the beginning of each scene, you gain 1 Web. If you do not spend it by the end of the scene, you lose it. At any time, you may spend 1 Web to use any any item in your Gear as if it both had the Trap tag and you'd placed it in advance. You can spring this trap on anyone you can see, but only while they have the Spotlight. For example, you could spend 1 Web and 1 Ammo to fire an arrow from your Bow from anywhere in the room at an enemy with the spotlight, as if your Bow were an arrow trap that you had placed in advance. Or you could spend 1 Web and 1 Use of your Bandages to instantly heal an ally, even someone you aren't within reach of, instead of waiting on the bandages' Slow tag. Reminder: Threats to the World do not take damage from Traps.</p>",
     "moveType": "destiny",

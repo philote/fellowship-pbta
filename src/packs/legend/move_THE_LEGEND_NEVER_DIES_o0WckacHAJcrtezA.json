@@ -3,7 +3,7 @@
   "name": "THE LEGEND NEVER DIES",
   "type": "move",
   "_id": "o0WckacHAJcrtezA",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you get @UUID[Compendium.fellowship-pbta.special-moves.Item.OnoZsu0tZybyqesF]{Taken Out},</strong> you always accomplish something before you go down, tell us what.</p><p><strong>When you are needed while you are Taken Out,</strong> heal, then you are immediately right where you need to be.</p>",
     "moveType": "destiny",

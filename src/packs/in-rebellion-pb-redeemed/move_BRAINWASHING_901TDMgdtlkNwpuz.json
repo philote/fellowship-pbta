@@ -3,7 +3,7 @@
   "name": "BRAINWASHING",
   "type": "move",
   "_id": "901TDMgdtlkNwpuz",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>Choose another Move from the <em>What Is The Redeemed?</em> list.</p><p><strong>This Move cannot be Shared.</strong></p>",
     "moveType": "customs",

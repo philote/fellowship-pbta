@@ -3,7 +3,7 @@
   "name": "YOU HAVE MY SHIELD",
   "type": "move",
   "_id": "asX1BXX8DgXdWdBr",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.Item.h7JpSHtXSQYIjsWA]{Overcome}</strong></em><strong> the harm an ally would suffer and roll a 7+,</strong> you can redirect the harm instead of stopping it. Someone else suffers the harm that would have been inflicted upon your ally - tell us who.</p>",
     "moveType": "destiny",

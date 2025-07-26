@@ -3,7 +3,7 @@
   "name": "WILDSPEAKER",
   "type": "move",
   "_id": "3uJd6Hh02R2TuYQW",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You speak the language of beasts and monsters.</p><p><strong>When you try to speak to such a creature for the first time, </strong>they will always pause to listen and reply, and you always have a chance to <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.Ml6muq1ZjhkuT7FF]{Speak Softly} </em>or <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.3lOlQnDdQRaiR47g]{Talk Sense} </em>with them.</p>",
     "moveType": "customs",

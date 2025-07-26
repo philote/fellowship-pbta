@@ -3,7 +3,7 @@
   "name": "DOOMED SOUL",
   "type": "move",
   "_id": "WGzaLxuBGfoJHv28",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>The Harbingers are the keepers of prophecy and magic, and their soul is unlike any other. You have a sixth stat, Doom, and an additional +0 to assign between your stats. <strong>When your Doom stat gets damaged by an enemy attack, </strong>you must damage another one of your stats.</p><p><strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.Item.cnXubqxIogR16JMj]{Finish Them} </strong></em><strong>by relying on fate or luck,</strong> roll +Doom. </p><p><strong>When you Share this Move with another,</strong> their Doom stat is +1.</p>",
     "moveType": "core",

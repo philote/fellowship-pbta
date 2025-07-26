@@ -3,7 +3,7 @@
   "name": "DRAGONFIRE",
   "type": "move",
   "_id": "TkbQUkJC0E0LG6Xm",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You know the secrets of dragonfire, and you can reproduce its effects. Add Dragonfire (2 Uses) to your Gear, and tell us how you use it.</p><p>Dragonfire is able to melt down anything you expose it to. You can Use your Dragonfire to obliterate someone or something. It can melt a hole through a wall, destroy anything (even Dwarf-Made items), or vaporize someone who is not a <strong>Threat to the World.</strong></p>",
     "moveType": "destiny",

@@ -3,7 +3,7 @@
   "name": "MIND READER",
   "type": "move",
   "_id": "UPqDvKf1pEYFynHY",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you act alone against a single enemy,</strong> you roll with Hope.</p><p><strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.Item.Ml6muq1ZjhkuT7FF]{Speak Softly} </strong></em><strong>with someone,</strong> you may ask an additional question, even on a 6-.</p>",
     "moveType": "destiny",

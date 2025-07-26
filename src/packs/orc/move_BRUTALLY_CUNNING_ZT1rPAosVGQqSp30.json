@@ -3,7 +3,7 @@
   "name": "BRUTALLY CUNNING",
   "type": "move",
   "_id": "ZT1rPAosVGQqSp30",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you strike an enemy from ambush,</strong> you may kill them. This does not work against a <strong>Threat to the World.</strong></p>",
     "moveType": "customs",

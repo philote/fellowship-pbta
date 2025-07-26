@@ -3,7 +3,7 @@
   "name": "YOU SHALL NOT PASS",
   "type": "move",
   "_id": "tYfLBoAtVjcWeUC7",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.Item.uXriNVHOmu3064KN]{Keep Them Busy} </strong></em><strong>and get a 10+,</strong> you may pay a price to hold them off indefinitely - it will be impossible for them to follow or approach you for the rest of the scene. Tell us how your magic or their fate has stepped in to hold them off.</p>",
     "moveType": "customs",

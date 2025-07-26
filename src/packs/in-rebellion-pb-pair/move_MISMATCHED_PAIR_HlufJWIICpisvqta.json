@@ -3,7 +3,7 @@
   "name": "MISMATCHED PAIR",
   "type": "move",
   "_id": "HlufJWIICpisvqta",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p class=\"p1\">Each member of the Pair takes a Custom move from a different playbook. Keep track of who took which move. Each of them may only use their chosen move while <em>@UUID[Compendium.fellowship-pbta.in-rebellion-pb-pair.Item.5toqO7GOwPC4h3Bp]{Working Alone}</em>.</p><p class=\"p1\"><strong>This Move cannot be Shared.</strong></p>",
     "moveType": "customs",

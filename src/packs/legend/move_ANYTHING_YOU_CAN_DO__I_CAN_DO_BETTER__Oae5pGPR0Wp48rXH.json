@@ -3,7 +3,7 @@
   "name": "ANYTHING YOU CAN DO, I CAN DO BETTER!",
   "type": "move",
   "_id": "Oae5pGPR0Wp48rXH",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you work alongside someone,</strong> you can use their Moves as if you had them too.</p>",
     "moveType": "destiny",

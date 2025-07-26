@@ -410,13 +410,13 @@
         "choices": [
           {
             "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-spider.Item.MD3XUsPoBZ7ZF4sw",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-spider.Item.TTqsDtJwGyslqnrf",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           }
@@ -433,49 +433,49 @@
         "choices": [
           {
             "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-spider.Item.TaIDfN2OaEEm7KvD",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-spider.Item.WXD42KjZspQqGYFv",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-spider.Item.1dlSe1ZZzTB0eMsp",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-spider.Item.cO8xYe3Hj0zwGlMW",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-spider.Item.9DtqygeMysUzbEOa",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-spider.Item.rNZFtPJMIigQ5YQ4",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-spider.Item.OZ2Vh724hXD7g0le",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-spider.Item.u6L2c8liXG7H6BFn",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           }

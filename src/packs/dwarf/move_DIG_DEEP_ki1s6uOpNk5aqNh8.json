@@ -3,7 +3,7 @@
   "name": "DIG DEEP",
   "type": "move",
   "_id": "ki1s6uOpNk5aqNh8",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>Your people are famous for their ability to dig quickly and safely. You can <em>@UUID[Compendium.fellowship-pbta.dwarf.Item.DDKGfOSpLP4HgTpF]{Clear the Path} </em>right through earth and stone, digging out a tunnel anyone can use. It will take some time, but not as long as anyone else would expect it to.</p>",
     "moveType": "customs",

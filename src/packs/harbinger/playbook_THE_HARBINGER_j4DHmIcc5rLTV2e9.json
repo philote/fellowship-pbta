@@ -411,101 +411,102 @@
       {
         "title": "HARBINGER'S CORE",
         "desc": "All Harbingers have these moves.",
-        "type": "multi",
+        "grantOn": 0,
+        "advancement": 0,
         "repeatable": true,
         "choices": [
           {
             "uuid": "Compendium.fellowship-pbta.harbinger.Item.lK4PVj8SueEMXANk",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.harbinger.Item.hSNSaIKVz3ZI3nUK",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.harbinger.Item.WGzaLxuBGfoJHv28",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.harbinger.Item.L6DCdjRMftDOgdZN",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           }
         ],
-        "grantOn": 0,
-        "granted": false,
-        "advancement": 0
+        "type": "multi",
+        "granted": false
       },
       {
         "title": "HARBINGER'S CUSTOM",
         "desc": "Choose one of these moves to further define what it means to be a Harbinger.",
-        "type": "multi",
+        "grantOn": 1,
+        "advancement": 0,
         "repeatable": false,
         "choices": [
           {
             "uuid": "Compendium.fellowship-pbta.harbinger.Item.5ZcUFKrCgukEveam",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.harbinger.Item.53Ce5xvZzoEvrhWB",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.harbinger.Item.lmvEKqWF0YJeBLXs",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.harbinger.Item.h98C8u8Wjfdvjl78",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.harbinger.Item.wHNzxEKBB8zWznmK",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.harbinger.Item.QBTuCYyuxYgqKgh2",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.harbinger.Item.3uJd6Hh02R2TuYQW",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.harbinger.Item.tYfLBoAtVjcWeUC7",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           }
         ],
-        "grantOn": 1,
-        "granted": false,
-        "advancement": 0
+        "type": "multi",
+        "granted": false
       },
       {
         "title": "Starting gear",
         "desc": "",
-        "type": "multi",
+        "grantOn": 0,
+        "advancement": 0,
         "repeatable": true,
         "choices": [
           {
@@ -527,14 +528,14 @@
             "advancement": 0
           }
         ],
-        "grantOn": 0,
-        "granted": false,
-        "advancement": 0
+        "type": "multi",
+        "granted": false
       },
       {
-        "title": "Choose the secret weapon you brought with you on this journey:",
-        "desc": "",
-        "type": "multi",
+        "title": "Secret Weapon",
+        "desc": "Choose the secret weapon you brought with you on this journey:",
+        "grantOn": 1,
+        "advancement": 0,
         "repeatable": false,
         "choices": [
           {
@@ -562,14 +563,14 @@
             "advancement": 0
           }
         ],
-        "grantOn": 1,
-        "granted": false,
-        "advancement": 0
+        "type": "multi",
+        "granted": false
       },
       {
         "title": "Choose your companion",
         "desc": "You have 1 Bond with them:",
-        "type": "multi",
+        "grantOn": 1,
+        "advancement": 0,
         "repeatable": false,
         "choices": [
           {
@@ -603,14 +604,14 @@
             "advancement": 0
           }
         ],
-        "grantOn": 1,
-        "granted": false,
-        "advancement": 0
+        "type": "multi",
+        "granted": false
       },
       {
         "title": "Choose your source of magic:",
         "desc": "",
-        "type": "multi",
+        "grantOn": 1,
+        "advancement": 0,
         "repeatable": false,
         "choices": [
           {
@@ -620,8 +621,8 @@
             "advancement": 0
           },
           {
-            "img": "icons/equipment/neck/amulet-carved-stone-spiral-blue.webp",
             "uuid": "Compendium.fellowship-pbta.gear.Item.vSQX5SY5Nyklxsb8",
+            "img": "icons/equipment/neck/amulet-carved-stone-spiral-blue.webp",
             "granted": false,
             "advancement": 0
           },
@@ -638,9 +639,8 @@
             "advancement": 0
           }
         ],
-        "grantOn": 1,
-        "granted": false,
-        "advancement": 0
+        "type": "multi",
+        "granted": false
       }
     ]
   },
@@ -658,7 +658,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.21",
     "createdTime": 1736283679606,
-    "modifiedTime": 1753080408642,
+    "modifiedTime": 1753561891595,
     "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },

@@ -3,7 +3,7 @@
   "name": "UNIQUE UPBRINGING",
   "type": "move",
   "_id": "DJwdjD7N4QEcw8DT",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>Take a Custom Move from any basic playbook.</p><p>You may also take an Agenda from the chosen playbook.</p><p><strong>This Move cannot be Shared.</strong></p>",
     "moveType": "customs",

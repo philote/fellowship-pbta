@@ -3,7 +3,7 @@
   "name": "SELF-ORCTUALIZED",
   "type": "move",
   "_id": "u3SfUCnRKyQyhJkE",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>Choose two options from the final list of Orcish Gear <em>(strong as an ox, tough as nails, scary as hell, or cunning as can be).</em> Both of those options are added to your Gear permanently. You cannot choose an option you already have.</p>",
     "moveType": "customs",

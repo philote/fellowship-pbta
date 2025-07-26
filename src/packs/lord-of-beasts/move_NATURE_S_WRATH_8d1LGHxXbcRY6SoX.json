@@ -3,7 +3,7 @@
   "name": "NATURE'S WRATH",
   "type": "move",
   "_id": "8d1LGHxXbcRY6SoX",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you hold an Advantage over an enemy in the wilds,</strong> you do not need to roll to <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.cnXubqxIogR16JMj]{Finish Them} </em>if they are not a <strong>Threat to the World. </strong>You may have them be taken away by the local beasts, never to be seen again. Tell us which animal decides their fate, and how they are taken out of your sight.</p>",
     "moveType": "destiny",

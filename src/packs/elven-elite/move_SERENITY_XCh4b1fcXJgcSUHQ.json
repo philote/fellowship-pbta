@@ -3,7 +3,7 @@
   "name": "SERENITY",
   "type": "move",
   "_id": "XCh4b1fcXJgcSUHQ",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you walk calmly without causing or intending harm,</strong> wild beasts, dangerous monsters, enemy soldiers, hazardous terrain, treacherous traps, and surly dwarves cannot harm you.</p>",
     "moveType": "destiny",

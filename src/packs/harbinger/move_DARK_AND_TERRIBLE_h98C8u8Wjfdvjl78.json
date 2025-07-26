@@ -3,7 +3,7 @@
   "name": "DARK AND TERRIBLE",
   "type": "move",
   "_id": "h98C8u8Wjfdvjl78",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you denounce the deeds of another,</strong> you may take one damage to leave a curse upon them. Tell us the nature of this curse, and what must be done to lift it.</p>",
     "moveType": "customs",

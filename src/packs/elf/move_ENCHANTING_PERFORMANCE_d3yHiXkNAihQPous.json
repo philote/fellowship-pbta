@@ -3,7 +3,7 @@
   "name": "ENCHANTING PERFORMANCE",
   "type": "move",
   "_id": "d3yHiXkNAihQPous",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you perform an Elven art for an attentive audience,</strong> roll +Grace.</p>",
     "moveType": "customs",

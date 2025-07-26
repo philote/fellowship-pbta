@@ -3,7 +3,7 @@
   "name": "TOUCH THE WORLD LIGHTLY",
   "type": "move",
   "_id": "LgbVfs1Adf3Cb3xl",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You can safely walk on top of snow, across thin tree branches, along precarious ledges, or on top of held weaponry. You can also run along walls, up trees, or across treacherous surfaces safely, although only for short distances.</p><p>You still need to roll to <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.gvcPbIgaPctbaOCa]{Get Away} </em>if you use this move to escape danger.</p>",
     "moveType": "core",

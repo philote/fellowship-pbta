@@ -3,7 +3,7 @@
   "name": "SAVIOR",
   "type": "move",
   "_id": "dQd9EofNMN1OGSrP",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When someone within arm's reach would suffer harm,</strong> you may take that harm in their place.</p>",
     "moveType": "customs",

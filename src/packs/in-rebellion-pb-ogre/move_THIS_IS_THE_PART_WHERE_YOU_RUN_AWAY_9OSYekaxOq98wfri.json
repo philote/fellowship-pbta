@@ -3,7 +3,7 @@
   "name": "THIS IS THE PART WHERE YOU RUN AWAY",
   "type": "move",
   "_id": "9OSYekaxOq98wfri",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you make a show of force to scare them,</strong> you may take damage to send them running. Lesser foes will flee immediately, running for help. Greater foes will rise to your challenge, and make a show of force back against you.</p>",
     "moveType": "customs",

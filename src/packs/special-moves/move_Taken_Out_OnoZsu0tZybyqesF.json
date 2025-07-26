@@ -1,7 +1,7 @@
 {
   "name": "Taken Out",
   "type": "move",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When all of your stats are damaged and you take further damage,</strong> you are Taken Out, and no longer able to help out for the rest of the scene. Tell us how you got <em>Taken Out</em>. What happened to you? What is going to happen to you next? Can the fellowship save you from your fate? If so, how?</p>",
     "moveType": "special",

@@ -3,7 +3,7 @@
   "name": "I'VE GOT A BAD FEELING ABOUT THIS",
   "type": "move",
   "_id": "s4pcCZo5d5NhxjEb",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you're certain something's wrong here,</strong> you may ask the Overlord to tell you the safest way out, and also the quickest way out. They will answer truthfully.</p>",
     "moveType": "customs",

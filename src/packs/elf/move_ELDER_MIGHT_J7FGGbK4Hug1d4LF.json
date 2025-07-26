@@ -3,7 +3,7 @@
   "name": "ELDER MIGHT",
   "type": "move",
   "_id": "J7FGGbK4Hug1d4LF",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you wish to use an </strong><em><strong>@UUID[Compendium.fellowship-pbta.elf.Item.bQ7oNjK0Uqn4uADg]{Elder Art} </strong></em><strong>you have already marked,</strong> you may do so by marking a different <em>@UUID[Compendium.fellowship-pbta.elf.Item.bQ7oNjK0Uqn4uADg]{Elder Art}</em>.</p><p><strong>This Move cannot be Shared.</strong></p>",
     "moveType": "customs",

@@ -3,7 +3,7 @@
   "name": "UNNATURAL TENACITY",
   "type": "move",
   "_id": "esn19oLp6O3N84u0",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>Pain means nothing to you. <strong>When you roll one of your damaged stats,</strong> you may take one damage to roll three dice and take the best two for your result. If this damage triggers your <em>@UUID[Compendium.fellowship-pbta.in-rebellion-pb-remnant.Item.0WjFrPOnmV9F36d5]{Inner Darkness}</em> or Takes You Out, roll five dice and take the best two instead.</p>",
     "moveType": "customs",

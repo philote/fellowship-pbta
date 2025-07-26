@@ -3,7 +3,7 @@
   "name": "DEVIL'S TOYS",
   "type": "move",
   "_id": "UjPY7aBRYDELum0k",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You are capable of crafting terrifying magical items. It will be expensive and require exotic materials, but it can be done, at great personal cost. <strong>When you forge such an item, </strong>describe what it looks like, tell us what it does, and then <strong>choose two:</strong></p><ul><li>The item brings great misfortune to all who use it.</li><li>Permanently damage one of your stats, never to be healed.</li><li>Its creation will cause a great calamity to come to pass.</li><li>The item will thirst for blood or chaos, and force those feelings upon all who carry it.</li></ul><p><strong>If you can accept the darkness of your creation,</strong> you are now the owner of a unique magic item with a suitably powerful and dramatic ability for the cost put into it.</p>",
     "moveType": "destiny",

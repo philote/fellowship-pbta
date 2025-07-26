@@ -3,7 +3,7 @@
   "name": "UNENDING DESPAIR",
   "type": "move",
   "_id": "QTCrhadHREDM1g89",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You can never have Hope. The dead simply don't feel things quite like the living do. Your positive emotions are very small, and pass quickly.</p><p>You can never have Despair. Injury and pain do not hold you back, and you cling to this world out of spite.</p><p><strong>This Move cannot be Shared with the Living.</strong></p>",
     "moveType": "core",

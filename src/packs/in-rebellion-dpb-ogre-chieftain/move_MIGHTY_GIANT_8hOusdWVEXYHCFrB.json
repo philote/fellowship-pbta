@@ -3,7 +3,7 @@
   "name": "MIGHTY GIANT",
   "type": "move",
   "_id": "8hOusdWVEXYHCFrB",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>Nothing can stop you from doing as you please. No chains or rope are strong enough to bind you, no wall or door is sturdy enough to deny you, no monster or Titan or Overlord is mighty enough to stop you from going where you please and doing as you like. You can go anywhere you can physically fit, and only time can stand between you and your destination.</p><p>This does not stop any consequences you may suffer for ignoring whatever is stopping you from getting somewhere or doing something, but it does prevent these consequences from stopping your actions. You will succeed (or at least make a roll) in spite of any actions that are taken against you.</p>",
     "moveType": "destiny",

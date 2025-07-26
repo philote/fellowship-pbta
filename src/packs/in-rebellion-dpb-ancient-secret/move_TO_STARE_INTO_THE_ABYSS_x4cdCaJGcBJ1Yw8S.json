@@ -3,7 +3,7 @@
   "name": "TO STARE INTO THE ABYSS",
   "type": "move",
   "_id": "x4cdCaJGcBJ1Yw8S",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You have gained a glimpse of true power, and become monstrous. You gain any two <em>What Is Your People?</em> Moves from any Basic playbooks. You cannot choose an option that someone else is currently using, because you've become something unlike anything found in this world. Tell us how you've changed, and rewrite your Look to fit the new you.</p>",
     "moveType": "destiny",

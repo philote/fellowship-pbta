@@ -3,7 +3,7 @@
   "name": "I SMELL FEAR",
   "type": "move",
   "_id": "0rarRNIZKFRrOwNi",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.Item.BnDVkYr6uMhWITB2]{Look Closely}</strong></em><strong> at a person, so closely it makes them upset, uncomfortable, or scared,</strong> you may ask questions from both the @UUID[Compendium.fellowship-pbta.basic-moves.Item.Ml6muq1ZjhkuT7FF]{Speak Softly} and the @UUID[Compendium.fellowship-pbta.basic-moves.Item.BnDVkYr6uMhWITB2]{Look Closely} lists, and you can ask one more question than your roll would normally allow.</p>",
     "moveType": "customs",

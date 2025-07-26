@@ -3,7 +3,7 @@
   "name": "LIVING SHIELD",
   "type": "move",
   "_id": "sHlozk6VeekiMow3",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You are Protection for your allies. At any time, you may choose one Location Stat, one Overlord stat, or one Power Move. It does not apply to those who you protect. You can protect one or two allies at a time, and all you need to do so is to stay within arm's reach of them.</p>",
     "moveType": "destiny",

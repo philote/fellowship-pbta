@@ -3,7 +3,7 @@
   "name": "TOSS ASIDE",
   "type": "move",
   "_id": "W0rJzScReDvLnwae",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You are strong enough to lift anyone, and an ally can ride on top of you if you let them. <strong>When you pick someone up and throw them,</strong> roll +Courage.</p>",
     "moveType": "core",

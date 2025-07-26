@@ -3,7 +3,7 @@
   "name": "SPEAK TRUTH TO POWER (WISDOM)",
   "type": "move",
   "_id": "nStrRxbIygE6KlYm",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you speak out against the status quo before a crowd,</strong> tell us what you want of them, then roll +Wisdom.</p><p></p>",
     "moveType": "customs",

@@ -3,7 +3,7 @@
   "name": "FULL METAL",
   "type": "move",
   "_id": "0SombjTUkPiCQstc",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You gain the Iron stat at +2. If you already had the Iron stat, increase it by +1 (to a maximum of +3). Iron represents your supreme toughness - your armor, survivability, iron gut, and stubbornness.</p><p><strong>When you or an ally within arm's reach would suffer terrible consequences,</strong> you may damage your Iron stat to negate those consequences.</p><p><strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.Item.cnXubqxIogR16JMj]{Finish Them}</strong></em><strong> by outlasting them in a contest of power or endurance,</strong> roll +Iron.</p>",
     "moveType": "destiny",

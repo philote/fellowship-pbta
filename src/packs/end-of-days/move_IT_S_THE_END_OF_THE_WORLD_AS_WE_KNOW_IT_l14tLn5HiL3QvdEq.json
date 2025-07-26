@@ -3,7 +3,7 @@
   "name": "IT'S THE END OF THE WORLD AS WE KNOW IT",
   "type": "move",
   "_id": "l14tLn5HiL3QvdEq",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You never roll with Despair.</p>",
     "moveType": "",

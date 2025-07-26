@@ -3,7 +3,7 @@
   "name": "EYES OF FIRE",
   "type": "move",
   "_id": "Im8Ywve6VLya9yA8",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>Your eyes are unnaturally good, and you can see fine detail even through the darkest night or densest fog. <strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.Item.BnDVkYr6uMhWITB2]{Look Closely}</strong></em><strong>,</strong> you may study any location you can see, no matter how distant, as if you were standing right there.</p>",
     "moveType": "customs",

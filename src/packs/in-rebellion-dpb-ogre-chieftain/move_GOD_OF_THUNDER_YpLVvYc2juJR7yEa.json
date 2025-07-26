@@ -3,7 +3,7 @@
   "name": "GOD OF THUNDER",
   "type": "move",
   "_id": "YpLVvYc2juJR7yEa",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You are immune to damage from electricity and thunder, and storms do not bother you or slow you down, no matter how mighty. Add Lightning Bolts <em>(Ranged, Giant, Piercing, Reload)</em> to your Gear. Your Lightning Bolts lose the <em>Reload</em> tag while you fight within a thunderstorm.</p>",
     "moveType": "destiny",

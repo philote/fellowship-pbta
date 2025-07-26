@@ -3,7 +3,7 @@
   "name": "WATCH YOUR STEP",
   "type": "move",
   "_id": "4eUcvFB47TPQEORq",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>When you use one of your Webs or Traps, you may have it affect any number of legal targets within the area, all at once.</p>",
     "moveType": "destiny",

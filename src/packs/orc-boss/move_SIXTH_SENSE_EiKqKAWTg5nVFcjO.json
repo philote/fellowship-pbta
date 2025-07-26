@@ -3,7 +3,7 @@
   "name": "SIXTH SENSE",
   "type": "move",
   "_id": "EiKqKAWTg5nVFcjO",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You always know when you are being watched or followed.</p><p><strong>When you pause to pay attention,</strong> you always know exactly how many people are around you and roughly what direction from you each of them is. This sixth sense will detect people in hiding and even invisible or incorporeal presences, although not their exact location.</p>",
     "moveType": "destiny",

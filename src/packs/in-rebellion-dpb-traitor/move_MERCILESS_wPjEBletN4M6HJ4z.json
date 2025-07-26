@@ -3,7 +3,7 @@
   "name": "MERCILESS",
   "type": "move",
   "_id": "wPjEBletN4M6HJ4z",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>Damage you deal to the fellowship is <strong>Necrotic</strong>.</p>",
     "moveType": "destiny",

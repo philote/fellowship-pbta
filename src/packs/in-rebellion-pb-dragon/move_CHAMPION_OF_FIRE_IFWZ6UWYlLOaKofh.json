@@ -3,7 +3,7 @@
   "name": "CHAMPION OF FIRE",
   "type": "move",
   "_id": "IFWZ6UWYlLOaKofh",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You do not have your own People. You once did, but no longer. Instead, you can Command Lore about the glory of the dragons, their place in the world, and the magnificent feats they have performed throughout history.</p><p><strong>This Move cannot be Shared.</strong></p>",
     "moveType": "core",

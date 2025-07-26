@@ -2,7 +2,7 @@
   "name": "HEART OF IRON",
   "type": "npcMove",
   "_id": "Pl53Q4W3pzCowyJy",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When someone makes a move against you,</strong> you may erase a Bond with them to have them automatically fail their roll, steal the Spotlight from them, and @UUID[Compendium.fellowship-pbta.end-of-days.Item.Z0nn8MaLaOd9N3f2]{Twist the Knife} against them. Your attention is entirely upon them while you use this move - the rest of the fellowship can act without drawing your attention.</p><p>A player may force you to use this move before making their roll.</p>",
     "moveType": "basic",

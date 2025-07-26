@@ -1,7 +1,7 @@
 {
   "name": "INFINITE POWER",
   "type": "move",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>The power flows through your veins, more power than you ever imagined possible. <strong>When you unleash the massive power contained within you, </strong>you may take two damage to destroy anything that isn't a <strong>Threat to the World</strong>. Tell us what this means and what this looks like.</p><p>This power comes with a cost. You lose the Agenda <strong>Improve The World Around You</strong>. Replace it with the Agenda <strong>Show Off Your Power</strong>, as you cannot be convinced there is anything greater than what you can accomplish now.</p>",
     "moveType": "destiny",

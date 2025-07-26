@@ -3,7 +3,7 @@
   "name": "DRAGONFIRE",
   "type": "move",
   "_id": "C4a8WDcE1YtJUgPa",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You gain the power of true dragon fire (2 Uses). It can melt anything, including walls and Dwarf-Made items, or vaporize non-threats to the world.</p>",
     "moveType": "destiny",

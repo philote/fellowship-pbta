@@ -3,7 +3,7 @@
   "name": "SMITE EVIL",
   "type": "move",
   "_id": "rnFGIdMByvXPr81P",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>Evil suffers in your presence. You are a <strong>Threat to the World</strong>, and do not pay a price to take action against other <strong>Threats to the World</strong>. Damage you deal to a <strong>Threat to the World</strong> is <em>Necrotic</em>.</p>",
     "moveType": "destiny",

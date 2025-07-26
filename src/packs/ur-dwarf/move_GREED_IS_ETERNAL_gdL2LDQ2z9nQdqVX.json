@@ -3,7 +3,7 @@
   "name": "GREED IS ETERNAL",
   "type": "move",
   "_id": "gdL2LDQ2z9nQdqVX",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><em><strong>Requires:</strong> @UUID[Compendium.fellowship-pbta.dwarf.Item.vCyQFZ5vLqKzwKsN]{Greed Is Good}</em></p><p><strong>When you absolutely must kill them yourself,</strong> you can declare a person's life to be the object of your greed.</p><p><strong>When you choose an object of your greed,</strong> you heal.</p>",
     "moveType": "destiny",

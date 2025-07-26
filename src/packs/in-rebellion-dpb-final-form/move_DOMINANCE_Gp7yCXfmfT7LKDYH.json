@@ -3,7 +3,7 @@
   "name": "DOMINANCE",
   "type": "move",
   "_id": "Gp7yCXfmfT7LKDYH",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>When you <strong>Overcome</strong> an enemy's attack with 7+, you can damage them if in range.</p>",
     "moveType": "destiny",

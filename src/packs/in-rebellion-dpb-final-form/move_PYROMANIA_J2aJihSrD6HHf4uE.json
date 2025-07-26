@@ -3,7 +3,7 @@
   "name": "PYROMANIA",
   "type": "move",
   "_id": "J2aJihSrD6HHf4uE",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You feel Hope when surrounded by chaos and fire.</p>",
     "moveType": "destiny",

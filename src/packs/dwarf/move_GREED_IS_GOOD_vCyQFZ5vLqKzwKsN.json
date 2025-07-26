@@ -3,7 +3,7 @@
   "name": "GREED IS GOOD",
   "type": "move",
   "_id": "vCyQFZ5vLqKzwKsN",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you desire a treasure or valuable item you have seen or heard of,</strong> you may declare it to be the object of your greed. <strong>When you act directly to secure the object of your greed for yourself,</strong> you are filled with Hope. You cannot choose a new object of your greed until you have acquired your current one, or it becomes unattainable.</p>",
     "moveType": "customs",

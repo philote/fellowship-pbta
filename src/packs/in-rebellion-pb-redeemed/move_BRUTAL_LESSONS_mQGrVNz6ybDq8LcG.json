@@ -3,7 +3,7 @@
   "name": "BRUTAL LESSONS",
   "type": "move",
   "_id": "mQGrVNz6ybDq8LcG",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.in-rebellion-pb-redeemed.Item.q3JhcXs7duSqkAJn]{Speak Harshly}</strong></em><strong>,</strong> you may ask an additional question, even on a 6-. This extra question may come from the <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.Ml6muq1ZjhkuT7FF]{Speak Softly}</em> list instead of the <em>Speak Harshly</em> list.</p><p><strong>This Move cannot be Shared.</strong></p>",
     "moveType": "customs",

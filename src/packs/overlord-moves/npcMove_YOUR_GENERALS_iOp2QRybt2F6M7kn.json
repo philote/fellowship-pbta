@@ -3,7 +3,7 @@
   "name": "YOUR GENERALS",
   "type": "npcMove",
   "_id": "iOp2QRybt2F6M7kn",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You have a General at your command who follows your every whim. To create a General, take any threat you like from Chapter 7 and give it the Threat to the World trait.</p><p>Your Generals follow you without question and can never become Companions to the fellowship. Generals have all the moves on this page and their own minions.</p><p>You have one Bond with each of your Generals, describing why they serve you.</p><p><strong>If one of your Generals suffers a significant failure at the fellowship's hands,</strong> you must either execute them, exile them, or give them one last chance. You can only give a General one last chance once.</p><p>You begin the game with a single General.</p><p><strong>When you could Advance Your Plans,</strong> you may recruit a new General instead.</p>",
     "moveType": "basic",

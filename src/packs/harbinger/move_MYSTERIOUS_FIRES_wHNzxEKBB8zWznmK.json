@@ -3,7 +3,7 @@
   "name": "MYSTERIOUS FIRES",
   "type": "move",
   "_id": "wHNzxEKBB8zWznmK",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>Add the following option to the </strong><em><strong>@UUID[Compendium.fellowship-pbta.harbinger.Item.L6DCdjRMftDOgdZN]{Wizardry} </strong></em><strong>move:</strong></p><ul><li>Start a fire on something flammable that you can see. The fire starts small, but it will grow rapidly if left unchecked.</li></ul>",
     "moveType": "customs",

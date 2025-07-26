@@ -3,7 +3,7 @@
   "name": "WHO'S THE TOUGH GUY NOW, TOUGH GUY?",
   "type": "move",
   "_id": "rbkwufQkoLkrUrWF",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.Item.h7JpSHtXSQYIjsWA]{Overcome} </strong></em><strong>an enemy and get a 7+,</strong> you may <em>@UUID[Compendium.fellowship-pbta.halfling.Item.rZIloJIotaSHfs0u]{Sting Like A Bee}.</em></p><p><strong>When you could </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.Item.cnXubqxIogR16JMj]{Finish Them}</strong></em><strong>,</strong> you may <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.uXriNVHOmu3064KN]{Keep Them Busy}</em> as if you got a 10+ instead.</p>",
     "moveType": "customs",

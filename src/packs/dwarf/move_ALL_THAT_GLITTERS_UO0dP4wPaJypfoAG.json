@@ -3,7 +3,7 @@
   "name": "ALL THAT GLITTERS",
   "type": "move",
   "_id": "UO0dP4wPaJypfoAG",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you have a bad feeling about this and say as much,</strong> you may ask the Overlord \"Is there a trap or ambush here? If so, where would it come from?\" They will answer honestly.</p>",
     "moveType": "customs",

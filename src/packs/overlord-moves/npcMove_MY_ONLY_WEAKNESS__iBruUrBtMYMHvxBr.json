@@ -3,7 +3,7 @@
   "name": "MY ONLY WEAKNESS!",
   "type": "npcMove",
   "_id": "iBruUrBtMYMHvxBr",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>You have a Weakness.</strong> There is a single material, item, charm, ritual, or spell that you are vulnerable to. </p><p>The other players will know your Weakness, but the fellowship they are playing as does not. Unless they have something that tells them your Weakness, they will need to discover it through play.</p><p><strong>When you are exposed to your Weakness,</strong> one of your stats is immediately damaged, their choice. Your stats and your moves cannot protect you from your Weakness, but it can only hurt you once per scene.</p>",
     "moveType": "core",

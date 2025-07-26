@@ -3,7 +3,7 @@
   "name": "TASTE MY BLADE!",
   "type": "move",
   "_id": "X7Wqla1eQVMFnbOD",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you engage in swordplay with an enemy,</strong> you may <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.uXriNVHOmu3064KN]{Keep Them Busy}</em> with +Grace. <strong>On a 7-9,</strong> after their retaliation, you may insult them or make a quip to <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.uXriNVHOmu3064KN]{Keep Them Busy}</em> again, as if you'd rolled another 7-9 result.</p>",
     "moveType": "customs",

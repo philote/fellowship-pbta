@@ -411,19 +411,19 @@
         "choices": [
           {
             "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-ogre.Item.v8mVZ4W7tXf1bjOH",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-ogre.Item.W0rJzScReDvLnwae",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-ogre.Item.TII4rFm9IpGP6cFc",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           }
@@ -440,49 +440,49 @@
         "choices": [
           {
             "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-ogre.Item.3rmoCCeS9wX4RyAb",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-ogre.Item.3S93k28q7IO8j7rY",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-ogre.Item.RqkLGx6BoCyEsvRT",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-ogre.Item.lNCMp4lobg4zi7DL",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-ogre.Item.yx1C7WGJBo5ZASH3",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-ogre.Item.rACba8Th7AiQsKC0",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-ogre.Item.xrLRj6bbKOHAHN56",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.in-rebellion-pb-ogre.Item.9OSYekaxOq98wfri",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           }

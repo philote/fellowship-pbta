@@ -3,7 +3,7 @@
   "name": "WIZARDRY",
   "type": "move",
   "_id": "L6DCdjRMftDOgdZN",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you draw upon the magic inherent to your people,</strong> choose one option from below. You may use these spells as often as you need to. <strong>When you use one of these magical effects,</strong> tell us how it manifests - what does it look like, what does it sound like? What do you need to do to make this happen?</p><ul><li>Conjure a soft light, which floats around you.</li><li>Deliver a message through mysterious means.</li><li>Speak, look, or listen as if you were somewhere else that you can see.</li><li>Touch, push, or grab as if you were somewhere else that you can see.</li></ul><p><strong>When you Share this Move with another,</strong> they choose a single spell from the list. That spell is the only one they can use. You can Share this Move with someone multiple times. Each time you do, they learn another of your spells.</p>",
     "moveType": "core",

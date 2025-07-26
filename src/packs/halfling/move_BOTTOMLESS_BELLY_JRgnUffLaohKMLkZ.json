@@ -3,7 +3,7 @@
   "name": "BOTTOMLESS BELLY",
   "type": "move",
   "_id": "JRgnUffLaohKMLkZ",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>Whenever you </strong><em><strong>@UUID[Compendium.fellowship-pbta.special-moves.Item.I18nTKFofUw4ewsT]{Fill Your Belly}</strong></em><strong>,</strong> you may Use as much food as you like, and you heal an equal amount of damage. Anyone trying to compete with you can also Use one extra food to heal an extra point of damage.</p>",
     "moveType": "customs",

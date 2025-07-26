@@ -3,7 +3,7 @@
   "name": "FIRE EATER",
   "type": "move",
   "_id": "YvK8OaBgRbpvJoLw",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You may extinguish any flame within arm's reach by touching it, tell us what this looks like. Eating a fire instantly reloads your Fire. You may use this to <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.h7JpSHtXSQYIjsWA]{Overcome}</em> attacks with the <em>Burning</em> tag as if you got a 10. </p><p><strong>If you also have </strong><em><strong>@UUID[Compendium.fellowship-pbta.in-rebellion-pb-dragon.Item.8jIqhANfPVtb9se4]{Fire and Ice}</strong></em><strong>,</strong> you may apply this move to that element too, instantly absorbing electricity, clearing ice, or removing poison from something you touch to Reload your Lightning, your Ice, or your Poison.</p>",
     "moveType": "customs",

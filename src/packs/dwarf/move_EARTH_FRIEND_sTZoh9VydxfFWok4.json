@@ -3,7 +3,7 @@
   "name": "EARTH FRIEND",
   "type": "move",
   "_id": "sTZoh9VydxfFWok4",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You can speak to the mountains and hear the words of the stones. <strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.Item.Ml6muq1ZjhkuT7FF]{Speak Softly} </strong></em><strong>with the earth,</strong> you may use one of your questions to ask it to move for you. For you, the earth can create pits or one-room caves, collapse or clear stone passageways, or leave behind a message that only dwarves will notice.</p>",
     "moveType": "customs",

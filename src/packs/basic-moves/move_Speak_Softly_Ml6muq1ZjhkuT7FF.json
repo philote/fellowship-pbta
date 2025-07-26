@@ -2,7 +2,7 @@
   "name": "Speak Softly",
   "type": "move",
   "_id": "Ml6muq1ZjhkuT7FF",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you have a quiet chat with someone,</strong> you may roll +Wisdom. Then, ask three questions from the list.</p>",
     "moveType": "basic",

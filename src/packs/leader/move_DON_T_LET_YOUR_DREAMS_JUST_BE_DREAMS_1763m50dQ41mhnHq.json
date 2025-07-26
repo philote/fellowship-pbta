@@ -3,7 +3,7 @@
   "name": "DON'T LET YOUR DREAMS JUST BE DREAMS",
   "type": "move",
   "_id": "1763m50dQ41mhnHq",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you give someone a pep talk,</strong> they gain Vigor.</p>",
     "moveType": "destiny",

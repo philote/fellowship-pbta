@@ -3,7 +3,7 @@
   "name": "POETRY IN MOTION",
   "type": "move",
   "_id": "Pknf2WubfK55D63T",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.Item.gvcPbIgaPctbaOCa]{Get Away}, </strong></em>you may choose an extra option from the list, even on a 6-.</p>",
     "moveType": "customs",

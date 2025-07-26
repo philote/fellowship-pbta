@@ -3,7 +3,7 @@
   "name": "STEP INTO MY PARLOR",
   "type": "move",
   "_id": "rNZFtPJMIigQ5YQ4",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When an enemy wanders into your hiding place,</strong> you may attempt to <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.cnXubqxIogR16JMj]{Finish Them}</em> with +Sense. <strong>On a 10+,</strong> no one hears them, and you remain hidden.</p>",
     "moveType": "customs",

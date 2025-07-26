@@ -3,7 +3,7 @@
   "name": "TREASURE HOARD",
   "type": "move",
   "_id": "HBgVy9hc921ZJ7fv",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You are rich and powerful. Choose an extra option from each of your Gear lists.</p>",
     "moveType": "customs",

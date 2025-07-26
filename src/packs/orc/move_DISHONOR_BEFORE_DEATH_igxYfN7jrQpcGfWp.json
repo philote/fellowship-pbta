@@ -3,7 +3,7 @@
   "name": "DISHONOR BEFORE DEATH",
   "type": "move",
   "_id": "igxYfN7jrQpcGfWp",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you try to kill someone in glorious combat, </strong>you can break your weapon to roll to <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.cnXubqxIogR16JMj]{Finish Them}</em>, even if you do not have an advantage.</p><p><strong>When you must @UUID[Compendium.fellowship-pbta.special-moves.Item.ZrHnVfT943zF7FnE]{pay a price},</strong> you may always choose to break your weapon.</p>",
     "moveType": "core",

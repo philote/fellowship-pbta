@@ -3,7 +3,7 @@
   "name": "PYROMANIA",
   "type": "move",
   "_id": "BQtnujhBMBy5mit8",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When everything around you is chaos and fire,</strong> you are filled with Hope.</p>",
     "moveType": "destiny",

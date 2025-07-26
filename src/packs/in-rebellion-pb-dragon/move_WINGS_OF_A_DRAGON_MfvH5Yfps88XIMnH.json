@@ -3,7 +3,7 @@
   "name": "WINGS OF A DRAGON",
   "type": "move",
   "_id": "MfvH5Yfps88XIMnH",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You can fly. <strong>When you fly with a passenger or a heavy load,</strong> you have the <em>Clumsy</em> tag.</p><p>Clumsy gives a -1 penalty to <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.gvcPbIgaPctbaOCa]{Get Away}</em>, <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.uXriNVHOmu3064KN]{Keep Them Busy}</em>, and <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.cnXubqxIogR16JMj]{Finish Them}</em>.</p>",
     "moveType": "customs",

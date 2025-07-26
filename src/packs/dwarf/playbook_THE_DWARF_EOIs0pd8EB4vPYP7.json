@@ -405,95 +405,96 @@
       {
         "title": "DWARVEN CORE",
         "desc": "All Dwarves have these moves.",
-        "type": "multi",
+        "grantOn": 0,
+        "advancement": 0,
         "repeatable": true,
         "choices": [
           {
             "uuid": "Compendium.fellowship-pbta.dwarf.Item.DDKGfOSpLP4HgTpF",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.dwarf.Item.C2Eh8xqDeHanCaao",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.dwarf.Item.RbhNMTzSlA3ymdsz",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           }
         ],
-        "grantOn": 0,
-        "granted": false,
-        "advancement": 0
+        "type": "multi",
+        "granted": false
       },
       {
         "title": "DWARVEN CUSTOM",
         "desc": "Choose two of these moves to further define what it means to be a Dwarf.",
-        "type": "multi",
+        "grantOn": 1,
+        "advancement": 0,
         "repeatable": false,
         "choices": [
           {
             "uuid": "Compendium.fellowship-pbta.dwarf.Item.UO0dP4wPaJypfoAG",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.dwarf.Item.ki1s6uOpNk5aqNh8",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.dwarf.Item.sTZoh9VydxfFWok4",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.dwarf.Item.reEqVpqOehiZhIew",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.dwarf.Item.vCyQFZ5vLqKzwKsN",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.dwarf.Item.gqiyA3hB9qiTFHF4",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.dwarf.Item.jzvFdyOycwq4ifUV",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           },
           {
             "uuid": "Compendium.fellowship-pbta.dwarf.Item.bXPMauLlD15q73HD",
-            "img": "icons/svg/aura.svg",
+            "img": "modules/fellowship-pbta/assets/icons/aura.svg",
             "granted": false,
             "advancement": 0
           }
         ],
-        "grantOn": 1,
-        "granted": false,
-        "advancement": 0
+        "type": "multi",
+        "granted": false
       },
       {
         "title": "Starting Gear",
         "desc": "",
-        "type": "multi",
+        "grantOn": 0,
+        "advancement": 0,
         "repeatable": true,
         "choices": [
           {
@@ -509,14 +510,14 @@
             "advancement": 0
           }
         ],
-        "grantOn": 0,
-        "granted": false,
-        "advancement": 0
+        "type": "multi",
+        "granted": false
       },
       {
         "title": "Choose your weapon",
         "desc": "All are Melee and Dwarf-Made.",
-        "type": "multi",
+        "grantOn": 1,
+        "advancement": 0,
         "repeatable": false,
         "choices": [
           {
@@ -544,14 +545,14 @@
             "advancement": 0
           }
         ],
-        "grantOn": 1,
-        "granted": false,
-        "advancement": 0
+        "type": "multi",
+        "granted": false
       },
       {
-        "title": "What do the dwarves have that no one else does?",
-        "desc": "Choose a group and pick the items in that group below: Gunpowder [Rifle & Trap], Rare or strange material [Heavy Armor, Shield], Strong Alcohol [Small keg]",
-        "type": "multi",
+        "title": "What do the dwarves have...",
+        "desc": "That no one else does? Choose a group and pick the items in that group below: Gunpowder [Rifle & Trap], Rare or strange material [Heavy Armor, Shield], Strong Alcohol [Small keg]",
+        "grantOn": 1,
+        "advancement": 0,
         "repeatable": false,
         "choices": [
           {
@@ -585,14 +586,14 @@
             "advancement": 0
           }
         ],
-        "grantOn": 1,
-        "granted": false,
-        "advancement": 0
+        "type": "multi",
+        "granted": false
       },
       {
-        "title": "The Dwarves are famous for their trade",
-        "desc": "Choose one:",
-        "type": "multi",
+        "title": "The Dwarven Trade",
+        "desc": "The Dwarves are famous for their trade, Choose one:",
+        "grantOn": 1,
+        "advancement": 0,
         "repeatable": false,
         "choices": [
           {
@@ -614,14 +615,14 @@
             "advancement": 0
           }
         ],
-        "grantOn": 1,
-        "granted": false,
-        "advancement": 0
+        "type": "multi",
+        "granted": false
       },
       {
-        "title": "What dwarven companions did you bring with you?",
-        "desc": "Choose two: (who you have 1 Bond with each)",
-        "type": "multi",
+        "title": "Dwarven Companions",
+        "desc": "What dwarven companions did you bring with you?, Choose two: (who you have 1 Bond with each)",
+        "grantOn": 1,
+        "advancement": 0,
         "repeatable": false,
         "choices": [
           {
@@ -661,20 +662,20 @@
             "advancement": 0
           },
           {
-            "img": "modules/fellowship-pbta/assets/icons/dwarf-helmet.svg",
             "uuid": "Compendium.fellowship-pbta.dwarf.Item.i3JO8PzGEU9Dvftx",
+            "img": "modules/fellowship-pbta/assets/icons/dwarf-helmet.svg",
             "granted": false,
             "advancement": 0
           }
         ],
-        "grantOn": 1,
-        "granted": false,
-        "advancement": 0
+        "type": "multi",
+        "granted": false
       },
       {
-        "title": "What is the one possession you hold most dear?",
-        "desc": "Choose one:",
-        "type": "multi",
+        "title": "One Possession",
+        "desc": "What is the one possession you hold most dear?, Choose one:",
+        "grantOn": 1,
+        "advancement": 0,
         "repeatable": false,
         "choices": [
           {
@@ -696,9 +697,8 @@
             "advancement": 0
           }
         ],
-        "grantOn": 1,
-        "granted": false,
-        "advancement": 0
+        "type": "multi",
+        "granted": false
       }
     ]
   },
@@ -716,7 +716,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.21",
     "createdTime": 1736227989465,
-    "modifiedTime": 1753078993456,
+    "modifiedTime": 1753562293846,
     "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },

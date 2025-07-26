@@ -3,7 +3,7 @@
   "name": "DOOM AND GLOOM",
   "type": "move",
   "_id": "hSNSaIKVz3ZI3nUK",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>Your Doom makes you hard for others to relate to.</p><p>You can never have more than one Bond with someone, and others can never have more than one Bond with you.</p><p><strong>This Move cannot be Shared.</strong></p>",
     "moveType": "core",

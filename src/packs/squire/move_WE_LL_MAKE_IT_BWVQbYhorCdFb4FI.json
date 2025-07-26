@@ -3,7 +3,7 @@
   "name": "WE'LL MAKE IT",
   "type": "move",
   "_id": "BWVQbYhorCdFb4FI",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>Your Bonds have the Healing tag, and you can Use them by erasing them. Your Bonds can only be used to heal the person listed in them, and only while you are by their side.</p><p><strong>This move cannot be Shared.</strong></p>",
     "moveType": "customs",

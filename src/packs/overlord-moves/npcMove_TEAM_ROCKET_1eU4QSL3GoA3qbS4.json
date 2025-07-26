@@ -3,7 +3,7 @@
   "name": "TEAM ROCKET",
   "type": "npcMove",
   "_id": "1eU4QSL3GoA3qbS4",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>Choose up to three minions from your Army and name them. <strong>When they work together,</strong> these minions cannot be damaged or destroyed - whenever one of them would be, they all retreat from the scene. This group will tenaciously follow the fellowship for the rest of the campaign, informing you of where they are and what they've done recently. <strong>If the fellowship recruits them as Companions,</strong> it is only temporary - you can erase all Bonds the fellowship holds with them at any time.</p>",
     "moveType": "custom",

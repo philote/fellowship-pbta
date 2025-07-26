@@ -3,7 +3,7 @@
   "name": "THE BAD GUY",
   "type": "move",
   "_id": "uxcLF0JWOSRNHTBn",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You are not part of the fellowship. You are trying to destroy them instead. Every session, you are either hot on their trail, or lying in wait ahead of them. When there is a lull in the action, you may jump in to mess things up. Tell us where you're coming from, and take the Spotlight. If you <em>Finish Them</em> or the fellowship <em>Finishes You</em>, apply the usual 10+ <em>Finish Them</em> results. Be very careful and certain before using +Blood. When you get <em>Taken Out</em>, you are out of play for the rest of the session, but you will <em>Recover</em> between sessions. You do not <em>Recover</em> when the rest of the fellowship does.</p><p>Replace your Wisdom stat with the Iron stat, with the same modifier your Wisdom used to have. If you already had the Iron stat, increase it by +1 (to a maximum of +3) and erase your Wisdom entirely. You also gain the Nemesis Move <em>Speak Harshly</em>.</p><p>Your Companions are Threats, and follow the Threat rules instead of the Companion rules. They make Cuts and they do not roll dice. You control them instead of the Framework player.</p>",
     "moveType": "destiny",

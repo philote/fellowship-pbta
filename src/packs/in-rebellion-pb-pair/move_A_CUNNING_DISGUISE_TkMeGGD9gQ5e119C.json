@@ -3,7 +3,7 @@
   "name": "A CUNNING DISGUISE",
   "type": "move",
   "_id": "TkMeGGD9gQ5e119C",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>If you have time and safety,</strong> you may disguise yourselves or any member of the fellowship as a common member of any profession, allowing them to infiltrate any location unnoticed so long as they maintain their duties.</p>",
     "moveType": "customs",

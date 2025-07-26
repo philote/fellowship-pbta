@@ -3,7 +3,7 @@
   "name": "GOD OF WAR",
   "type": "move",
   "_id": "RqkLGx6BoCyEsvRT",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you fight against them by yourself,</strong> you can try to <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.uXriNVHOmu3064KN]{Keep Them Busy}</em> no matter who they are, how outnumbered you are, or how poor your position is, even if they are a Group, Gang, or Army.</p>",
     "moveType": "customs",

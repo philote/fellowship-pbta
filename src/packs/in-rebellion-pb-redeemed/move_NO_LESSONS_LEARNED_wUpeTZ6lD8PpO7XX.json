@@ -3,7 +3,7 @@
   "name": "NO LESSONS LEARNED",
   "type": "move",
   "_id": "wUpeTZ6lD8PpO7XX",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you hurt someone who did you wrong,</strong> you heal.</p><p><strong>This Move cannot be Shared.</strong></p>",
     "moveType": "customs",

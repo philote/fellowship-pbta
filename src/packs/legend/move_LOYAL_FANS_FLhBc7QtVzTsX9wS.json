@@ -3,7 +3,7 @@
   "name": "LOYAL FANS",
   "type": "move",
   "_id": "FLhBc7QtVzTsX9wS",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you speak before a crowd,</strong> roll +Grace.</p>",
     "moveType": "destiny",

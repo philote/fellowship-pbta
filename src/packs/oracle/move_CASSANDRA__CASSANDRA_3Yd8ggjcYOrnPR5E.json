@@ -3,7 +3,7 @@
   "name": "CASSANDRA, CASSANDRA",
   "type": "move",
   "_id": "3Yd8ggjcYOrnPR5E",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you @UUID[Compendium.fellowship-pbta.basic-moves.Item.3lOlQnDdQRaiR47g]{Talk Sense} by telling them their future,</strong> roll with +Doom.</p>",
     "moveType": "destiny",

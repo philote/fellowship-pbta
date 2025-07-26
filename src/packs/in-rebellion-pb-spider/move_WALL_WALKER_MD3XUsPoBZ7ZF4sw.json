@@ -3,7 +3,7 @@
   "name": "WALL WALKER",
   "type": "move",
   "_id": "MD3XUsPoBZ7ZF4sw",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You can move along walls and ceilings of any solid material. So long as the surface can support your weight, you can run, walk, or cling to it without falling.</p><p><strong>When you go solo,</strong> you can act normally while <em>Wall Walking</em>.</p><p><strong>When you have a passenger,</strong> they must cling to you with both arms or they will fall, and you must keep all your limbs on the wall or you will fall.</p>",
     "moveType": "core",

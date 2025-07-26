@@ -3,7 +3,7 @@
   "name": "ICARUS",
   "type": "move",
   "_id": "m63XVUDZOpvQox9j",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You have created a mechanical means to fly. Add your flying equipment to your Gear, and describe what it looks like. <strong>As long as you have your gear,</strong> you can fly for as long as you'd like and as often as you'd like.</p>",
     "moveType": "destiny",

@@ -3,7 +3,7 @@
   "name": "A FRIENDLY FACE",
   "type": "move",
   "_id": "k3xojMryia7m8crN",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You are small and easily trusted. <strong>So long as you show a friendly face, </strong>anyone not already actively hostile towards you will treat you as a friend, until proven otherwise.</p>",
     "moveType": "customs",

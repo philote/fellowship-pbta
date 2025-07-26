@@ -3,7 +3,7 @@
   "name": "FORGING A NEW FUTURE",
   "type": "move",
   "_id": "hxnQ69oDOAOxSLBH",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you </strong><em><strong>@UUID[Compendium.fellowship-pbta.special-moves.Item.YNOTCTxDOQMVmtTO]{Recover}</strong></em><strong> within a community you have Fellowship with,</strong> you can create a population of androids here. Tell us a unique trait these androids have, and how they fit in with the society you are leaving them to.</p><p>You can <em>@UUID[Compendium.fellowship-pbta.special-moves.Item.YE99aLoamM4pDgT7]{Command Lore} </em>about the androids and robots of this world, as well as <em>@UUID[Compendium.fellowship-pbta.special-moves.Item.YE99aLoamM4pDgT7]{Command Lore} </em>about any communities you have left your robots within.</p>",
     "moveType": "destiny",

@@ -3,7 +3,7 @@
   "name": "WAR HORSE",
   "type": "move",
   "_id": "nL7Gz4ZgQx02wZZD",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><em>A horse trained for war.</em></p><ul><li>name:</li><li>mounted combat</li><li>run like</li></ul>",
     "moveType": "destiny",

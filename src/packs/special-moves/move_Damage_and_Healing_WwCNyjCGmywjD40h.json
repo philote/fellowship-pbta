@@ -1,7 +1,7 @@
 {
   "name": "Damage and Healing",
   "type": "move",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you take damage,</strong> choose a stat and mark it. Sometimes you will not get a choice, and a stat will be damaged for you. <strong>While a stat is damaged, </strong>you are in Despair whenever you roll that stat. <strong>When an enemy's stat or a Companion's stat is damaged, </strong>they cannot use it.</p><p>You cannot mark a stat that has already been marked. <strong>When you heal,</strong> remove a mark from one of your stats.</p><p><strong>When you take damage while all of your stats are already marked,</strong> you get Taken Out.</p>",
     "moveType": "special",

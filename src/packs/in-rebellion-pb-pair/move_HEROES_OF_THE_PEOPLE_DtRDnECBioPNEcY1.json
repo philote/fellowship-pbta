@@ -3,7 +3,7 @@
   "name": "HEROES OF THE PEOPLE",
   "type": "move",
   "_id": "DtRDnECBioPNEcY1",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p class=\"p1\">You do not need to roll to <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.Ml6muq1ZjhkuT7FF]{Speak Softly}</em> with common folk, friends, or coworkers - simply ask, and they will answer.</p>",
     "moveType": "customs",

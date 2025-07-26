@@ -3,7 +3,7 @@
   "name": "FIRE AND ICE",
   "type": "move",
   "_id": "8jIqhANfPVtb9se4",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you take this move,</strong> choose Lightning, Ice, or Poison. The chosen element works like your Fire, as a ranged weapon you use in the same manner. Add the element you chose to your Gear:</p><ul><li><strong>Lightning:</strong> Your Lightning is <em>(Ranged, Reload, Piercing)</em>.</li><li><strong>Ice:</strong> Your Ice slows those it hits, giving Hope to <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.cnXubqxIogR16JMj]{Finish Them}, @UUID[Compendium.fellowship-pbta.basic-moves.Item.uXriNVHOmu3064KN]{Keep Them Busy}</em>, or <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.gvcPbIgaPctbaOCa]{Get Away}</em> from them. It is also <em>(Ranged, Reload)</em>.</li><li><strong>Poison:</strong> Your Poison is <em>(Ranged, Reload, Necrotic)</em>.</li></ul><p>You may take this move multiple times, choosing a different element each time. Each of your elements reloads separately.</p>",
     "moveType": "customs",

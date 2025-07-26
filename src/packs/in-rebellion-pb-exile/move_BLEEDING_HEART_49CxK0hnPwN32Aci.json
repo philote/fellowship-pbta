@@ -3,7 +3,7 @@
   "name": "BLEEDING HEART",
   "type": "move",
   "_id": "49CxK0hnPwN32Aci",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You are never in Despair when rolling Wisdom, even if it is damaged.</p><p><strong>This Move cannot be Shared.</strong></p>",
     "moveType": "customs",

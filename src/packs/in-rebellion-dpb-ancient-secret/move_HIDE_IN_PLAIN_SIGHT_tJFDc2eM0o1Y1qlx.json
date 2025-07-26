@@ -3,7 +3,7 @@
   "name": "HIDE IN PLAIN SIGHT",
   "type": "move",
   "_id": "tJFDc2eM0o1Y1qlx",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you will yourself to become secret while no one is currently paying attention to you</strong>, no one can see you, acknowledge you, or notice you. So long as it doesn't harm someone or draw attention, you can do anything you like and remain secret, unnoticeable, forgotten. <strong>If you do anything that gets you acknowledged by anyone else</strong>, the secret is broken, and everyone can see you and react to you normally again.</p>",
     "moveType": "destiny",

@@ -3,7 +3,7 @@
   "name": "ROBOTIC BITS",
   "type": "move",
   "_id": "tqZrOa6tuYqbJYfc",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You have improved yourself. Add Robotic Bits (<em>Armor, Useful, 4 Uses</em>) to your Gear.</p>",
     "moveType": "destiny",

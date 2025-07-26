@@ -3,7 +3,7 @@
   "name": "STRENGTH OF A HUNDRED",
   "type": "move",
   "_id": "KVi6Gjcc2vo9y22I",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You can pick up anything and anyone you can firmly grasp with at least one hand. Objects and enemies you hold have the tags <em>Ranged</em> and <em>Thrown</em>.</p>",
     "moveType": "customs",

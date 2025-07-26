@@ -3,7 +3,7 @@
   "name": "WARRIOR'S PRIDE",
   "type": "move",
   "_id": "bXPMauLlD15q73HD",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you let out a roar of challenge,</strong> tell us who you are challenging and roll +Blood.</p>",
     "moveType": "customs",

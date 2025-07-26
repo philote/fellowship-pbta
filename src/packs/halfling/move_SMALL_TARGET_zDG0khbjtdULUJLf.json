@@ -3,7 +3,7 @@
   "name": "SMALL TARGET",
   "type": "move",
   "_id": "zDG0khbjtdULUJLf",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you @UUID[Compendium.fellowship-pbta.basic-moves.Item.h7JpSHtXSQYIjsWA]{Overcome} an enemy by getting out of their way, </strong></p>",
     "moveType": "customs",

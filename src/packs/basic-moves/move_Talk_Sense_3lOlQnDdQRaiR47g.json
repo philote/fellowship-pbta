@@ -2,7 +2,7 @@
   "name": "Talk Sense",
   "type": "move",
   "_id": "3lOlQnDdQRaiR47g",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you speak with conviction and ask someone for help,</strong> tell us what you want from them and why they should help you. <strong>If they're willing to listen,</strong> roll. <strong>When you...</strong></p><p><strong>...detail your plan and their place in it,</strong> roll +Sense.</p><p><strong>...appeal to their emotions or desires,</strong> roll +Wisdom.</p><p><strong>...impress, dazzle, or trick them,</strong> roll +Grace.</p>",
     "moveType": "basic",

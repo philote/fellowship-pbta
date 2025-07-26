@@ -3,7 +3,7 @@
   "name": "VOICE OF REASON",
   "type": "move",
   "_id": "nGxvYhksjSYpTlPa",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You alone are the voice of reason in this insane world. <strong>When you offer advice to another player and they ignore it,</strong> you are filled with Hope during any attempts to bail them out of whatever mess they got themselves into. Basically, if you could say \"I told you so\" after your action, you have Hope to do it.</p>",
     "moveType": "customs",

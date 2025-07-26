@@ -3,7 +3,7 @@
   "name": "FOE HAMMER",
   "type": "move",
   "_id": "ihizTGNt8ZDj2x7f",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you could </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.Item.cnXubqxIogR16JMj]{Finish Them}</strong></em><strong>,</strong> instead of rolling, you may simply destroy something your target holds - their armor, their weapon, their pride, a few of their bones, or something they carry, your choice.</p>",
     "moveType": "destiny",

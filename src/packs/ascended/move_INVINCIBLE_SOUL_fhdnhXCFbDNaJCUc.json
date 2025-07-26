@@ -1,7 +1,7 @@
 {
   "name": "INVINCIBLE SOUL",
   "type": "move",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you would get @UUID[Compendium.fellowship-pbta.special-moves.Item.OnoZsu0tZybyqesF]{Taken Out},</strong> heal 2 damage instead. This does not stop the Overlord from making you <em>@UUID[Compendium.fellowship-pbta.overlord-moves.Item.BOBrp1ZWbYp6AMDN]{An Offer You Can't Refuse}</em>.</p><p><strong>When the Overlord makes you </strong><em><strong>@UUID[Compendium.fellowship-pbta.overlord-moves.Item.BOBrp1ZWbYp6AMDN]{An Offer You Can't Refuse}</strong></em><strong>,</strong> you will always accept their offer, but your power is great enough that you can negotiate. Add a caveat of your choosing to their terms.</p>",
     "moveType": "destiny",

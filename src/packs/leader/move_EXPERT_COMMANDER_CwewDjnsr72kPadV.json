@@ -3,7 +3,7 @@
   "name": "EXPERT COMMANDER",
   "type": "move",
   "_id": "CwewDjnsr72kPadV",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You do not need to damage a Companion's stat to use <em>@UUID[Compendium.fellowship-pbta.bond-moves.Item.RScvU1oZMVYb5mVY]{Bound In Service}</em>.</p>",
     "moveType": "destiny",

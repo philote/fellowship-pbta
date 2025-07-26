@@ -3,7 +3,7 @@
   "name": "WALL OF FORCE",
   "type": "move",
   "_id": "S5p1fbTrZACfgzWG",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><em><strong>Requires:</strong> @UUID[Compendium.fellowship-pbta.harbinger.Item.L6DCdjRMftDOgdZN]{Wizardry}</em></p><p>Add the following option to the <em>@UUID[Compendium.fellowship-pbta.harbinger.Item.L6DCdjRMftDOgdZN]{Wizardry} </em>list:</p><ul><li>You can create semi-transparent walls and floors anywhere you wish, as large as you'd like them to be. You can only have one such surface in existence at a time, and it is not indestructible - it can be destroyed by a strong enough hit, and it cannot stop a <strong>Threat to the World</strong>.</li></ul>",
     "moveType": "destiny",

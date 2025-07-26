@@ -3,7 +3,7 @@
   "name": "FEAR ME!",
   "type": "npcMove",
   "_id": "0FXIRluRRWFBCMQu",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you menace someone,</strong> they will always do as you say or run in terror, their choice. <strong>When you use this Move on someone in the fellowship,</strong> they may @UUID[Compendium.fellowship-pbta.special-moves.Item.ZrHnVfT943zF7FnE]{pay a price} to prevent this Move from working on them for the rest of the scene.</p>",
     "moveType": "custom",

@@ -3,7 +3,7 @@
   "name": "INVINCIBLE GENERAL",
   "type": "move",
   "_id": "nF6wPyzI627IcKjx",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You never take damage from ordinary physical attacks. A <strong>Threat to the World </strong>can still physically harm you, and high powered explosives or artillery can also harm you, but anything short of that is useless.</p>",
     "moveType": "destiny",

@@ -3,7 +3,7 @@
   "name": "DESTINY CHILD",
   "type": "move",
   "_id": "XfZHWArKNgEBGQbO",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You never need to pay a price when facing a <strong>Threat to the World</strong>. You can also @UUID[Compendium.fellowship-pbta.special-moves.Item.YE99aLoamM4pDgT7]{Command Lore} about the various prophecies and legends about you, letting us know more details as they become important.</p><p>You gain the Doom stat at +2, if you did not have it.</p><p><strong>When you @UUID[Compendium.fellowship-pbta.basic-moves.Item.cnXubqxIogR16JMj]{Finish Them} by relying on fate or luck,</strong> roll +Doom. <strong>On a 10+,</strong> their fate is sealed. The Overlord player decides what happens to them.</p>",
     "moveType": "destiny",

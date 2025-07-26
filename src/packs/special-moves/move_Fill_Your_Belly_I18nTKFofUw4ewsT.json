@@ -1,7 +1,7 @@
 {
   "name": "Fill Your Belly",
   "type": "move",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you are between scenes,</strong> you may Use Food to heal one damage. <strong>When you share a meal with friends,</strong> one person may heal an extra point of damage.</p>",
     "moveType": "special",

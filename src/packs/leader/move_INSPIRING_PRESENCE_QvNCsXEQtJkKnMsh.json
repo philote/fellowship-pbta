@@ -3,7 +3,7 @@
   "name": "INSPIRING PRESENCE",
   "type": "move",
   "_id": "QvNCsXEQtJkKnMsh",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you work alongside someone,</strong> they are filled with Hope. Companions filled with Hope cannot fail at any task.</p>",
     "moveType": "destiny",

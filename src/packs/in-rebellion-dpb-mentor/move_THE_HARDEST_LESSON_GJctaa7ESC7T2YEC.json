@@ -3,7 +3,7 @@
   "name": "THE HARDEST LESSON",
   "type": "move",
   "_id": "GJctaa7ESC7T2YEC",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>When the Apprentice would take damage, if the Mentor is within reach of them, the Mentor may take that damage for them. When the Apprentice would be Taken Out, captured, killed, or suffer some other terrible fate, the Mentor may die instead to save them from this fate. If they do, heal all of the Apprentice's stats, take <em>Become The Master</em>, and give the Apprentice <strong>Vigor</strong> for the rest of the scene.</p>",
     "moveType": "destiny",

@@ -3,7 +3,7 @@
   "name": "CORNERED RAT",
   "type": "move",
   "_id": "HZKh15Ea0wJ9RBeN",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>While you are damaged,</strong> your attacks are <em>Dangerous</em>.</p><p><strong>This Move cannot be Shared.</strong></p>",
     "moveType": "customs",

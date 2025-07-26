@@ -3,7 +3,7 @@
   "name": "THAT WASN'T EVEN MY FINAL FORM",
   "type": "move",
   "_id": "uFAa0WZdBVlV0EWH",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When transformed, take 2 damage to reach Final Form.</strong></p><p><strong>First time:</strong> Take Spotlight, describe transformation.</p><p>Write new Look for Final Form.</p><p><strong>Benefits:</strong> Use spells without marking, gain tags <em>Melee, Ranged, Area, Piercing, and Burning</em>, damaged stat rolls don't cause Despair.</p><p><strong>After using:</strong> Damage all stats, become Taken Out, spend next scene unconscious.</p>",
     "moveType": "destiny",

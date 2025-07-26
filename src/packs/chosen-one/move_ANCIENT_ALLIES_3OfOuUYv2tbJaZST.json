@@ -3,7 +3,7 @@
   "name": "ANCIENT ALLIES",
   "type": "move",
   "_id": "3OfOuUYv2tbJaZST",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you awaken an ancient enemy of the Overlord to aid your cause,</strong> they will always be willing to help you. They are capable of holding off a <strong>Threat to the World</strong> by themselves, for as long as you need them to.</p><p>Choose two consequences for calling upon them for aid:</p><ul><li>You and your people will owe an equal favor in return.</li><li>They are slow to take action, and you will need to buy them time.</li><li>They cannot travel, and you'll need to lure the threat to them.</li><li>Re-awakening them will have disastrous consequences.</li></ul>",
     "moveType": "destiny",

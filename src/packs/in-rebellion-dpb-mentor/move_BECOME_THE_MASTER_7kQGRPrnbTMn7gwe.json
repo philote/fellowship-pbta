@@ -3,7 +3,7 @@
   "name": "BECOME THE MASTER",
   "type": "move",
   "_id": "7kQGRPrnbTMn7gwe",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>Once you take this move, the Mentor can no longer Level Up or heal. Your days are numbered, and your apprentice must rise up to replace you. The Apprentice immediately Levels Up, and is now your main character. From now on, you will use the Apprentice's Level instead of your Mentor's Level when determining if you are eligible to level up.</p>\n<p>When the Master is inevitably Taken Out after taking <em>Become The Master</em>, they are no longer playable. Perhaps they died, or they took a wound so bad it forced them to retire, or some other situation is preventing them from continuing with the fellowship any longer. Whatever the case, once this happens, the Apprentice becomes your only character.</p>",
     "moveType": "destiny",

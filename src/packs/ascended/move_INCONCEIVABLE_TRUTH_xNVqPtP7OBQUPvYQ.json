@@ -1,7 +1,7 @@
 {
   "name": "INCONCEIVABLE TRUTH",
   "type": "move",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>You gain an <strong>Overlord Stat</strong>, write it now. See page 180 of the Fellowship book for more information.</p><p>You can no longer <em>@UUID[Compendium.fellowship-pbta.special-moves.Item.YE99aLoamM4pDgT7]{Command Lore} </em>about your people - you have left them behind, and they are alien to you now.</p><p><strong>When an Overlord stat is damaged,</strong> mark the box. Overlord stats are always true unless they are damaged.</p>",
     "moveType": "destiny",

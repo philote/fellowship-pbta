@@ -1,7 +1,7 @@
 {
   "name": "Recover",
   "type": "move",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When the fellowship rests in a place of safety for over a week,</strong> heal all of your stats and restock all of your Gear. The Overlord then advances their plans and heals one damage.</p><p>Check to see if have zero bonds with any of your <strong>Companions</strong>. If you do, remove them from your sheet. During this <em>Recovery,</em> you may gain a new Companion with the same abilities, OR get a new Companion from the same Gear option <em>(See your Playbook)</em>.</p>",
     "moveType": "special",

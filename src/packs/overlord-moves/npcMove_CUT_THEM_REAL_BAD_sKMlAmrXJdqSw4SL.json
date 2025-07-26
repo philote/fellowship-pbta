@@ -3,7 +3,7 @@
   "name": "CUT THEM REAL BAD",
   "type": "npcMove",
   "_id": "sKMlAmrXJdqSw4SL",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When you are physically present,</strong> your Cuts can be as hard as you like.</p>",
     "moveType": "core",

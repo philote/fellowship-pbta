@@ -3,7 +3,7 @@
   "name": "BOOGEYMAN",
   "type": "move",
   "_id": "3ArWY4sTZbvZbo21",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p><strong>When your enemies stand outside the light,</strong> you may <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.uXriNVHOmu3064KN]{Keep Them Busy}</em> no matter how many there are.</p><p>When an enemy is alone with you in the darkness, you can maim or kill them at will.</p><p>This Move does not work against Threats to the World.</p>",
     "moveType": "customs",

@@ -3,7 +3,7 @@
   "name": "A PROPER KNIGHT",
   "type": "move",
   "_id": "xZq1IOkDMewbnGau",
-  "img": "icons/svg/aura.svg",
+  "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
     "description": "<p>Add the following to your Gear:</p><ul><li>A knight's shield (Armor, 1 Use)</li><li>A proper title (2 Uses). You may spend 1 Use to be instantly recognized as \"king of a big deal.\"</li><li>A warhorse. You have one Bond with it.</li></ul>",
     "moveType": "destiny",
