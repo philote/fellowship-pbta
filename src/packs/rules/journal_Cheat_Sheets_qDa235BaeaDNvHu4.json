@@ -1,0 +1,104 @@
+{
+  "name": "Cheat Sheets",
+  "_id": "qDa235BaeaDNvHu4",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Player Cheat Sheet",
+      "type": "text",
+      "_id": "ph9hIPWn74539jWb",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>🎲 The Basics</h2><p><strong>Roll:</strong> 2d6 + Stat<br /><strong>10+:</strong> Full success<br /><strong>7-9:</strong> Partial success, pay a price<br /><strong>6-:</strong> Failure, Overlord makes a move</p><p><strong>Hope/Despair:</strong> Roll 3d6, keep 2 highest/lowest</p><hr /><h2>📊 Stats</h2><table><thead><tr><th>Stat</th><th>Represents</th><th>Used For</th></tr></thead><tbody><tr><td><strong>Blood</strong></td><td>Might, violence, physicality</td><td>Overcome, Finish Them (kill)</td></tr><tr><td><strong>Courage</strong></td><td>Bravery, determination, heart</td><td>Keep Them Busy, Finish Them (intimidate)</td></tr><tr><td><strong>Grace</strong></td><td>Agility, charm, finesse</td><td>Get Away, Talk Sense (trick), Finish Them (outmaneuver)</td></tr><tr><td><strong>Sense</strong></td><td>Awareness, intelligence, cunning</td><td>Look Closely, Talk Sense (plan), Finish Them (disable)</td></tr><tr><td><strong>Wisdom</strong></td><td>Experience, empathy, insight</td><td>Speak Softly, Talk Sense (appeal), Finish Them (convert)</td></tr></tbody></table><hr /><h2>⚔️ Basic Moves</h2><h3>🎯 Finish Them</h3><p><strong>Trigger:</strong> Attempt to defeat an enemy you hold <strong>Advantage</strong> over<br /><strong>Roll:</strong> Based on your approach:</p><ul><li><strong>Kill them</strong> → +Blood</li><li><strong>Force retreat</strong> → +Courage</li><li><strong>Outsmart/terrify</strong> → +Grace</li><li><strong>Disable/knockout</strong> → +Sense</li><li><strong>Convert them</strong> → +Wisdom</li></ul><p><strong>10+:</strong> You succeed completely<br /><strong>7-9:</strong> Deal damage, lose Advantage<br /><strong>6-:</strong> Lose Advantage, face retaliation</p><p><strong>⚠️ Requires Advantage:</strong> Teamwork, surprise, superior position, enemy hesitation</p><h3>🛡️ Overcome (Blood)</h3><p><strong>Trigger:</strong> Avoid, redirect, or prevent harm<br /><strong>10+:</strong> Stop the threat completely<br /><strong>7-9:</strong> Pay a price for success OR create temporary solution</p><h3>🎪 Keep Them Busy (Courage)</h3><p><strong>Trigger:</strong> Distract or buy time<br /><strong>7+:</strong> Create <strong>Advantage</strong> for allies, attention on you<br /><strong>9-:</strong> They retaliate when time is up</p><h3>🏃 Get Away (Grace)</h3><p><strong>Trigger:</strong> Get somewhere out of reach/sight<br /><strong>10+:</strong> Choose 2, <strong>7-9:</strong> Choose 1:</p><ul><li>Get there quickly (avoid harm)</li><li>Get there quietly (no attention)</li><li>Bring someone with you</li></ul><h3>🔍 Look Closely (Sense)</h3><p><strong>Trigger:</strong> Examine situation/location closely<br /><strong>7+:</strong> Ask 3 questions, <strong>6-:</strong> Ask 1:</p><ul><li>What's going on here?</li><li>What's hidden or suspicious?</li><li>How could _____ hurt/help me?</li><li>What are they doing/will do next?</li><li>What happens if I _____?</li></ul><p><strong>9-:</strong> Learn one answer \"the hard way\"</p><h3>💬 Speak Softly (Wisdom)</h3><p><strong>Trigger:</strong> Quiet chat with someone<br />Ask 3 questions:</p><ul><li>What can they tell me about _____?</li><li>What were/will they be doing?</li><li>What should I be wary of?</li><li>What do they want? How can we help?</li><li>What would they have us do?</li></ul><p><strong>10+:</strong> All answers honest<br /><strong>9-:</strong> One answer unhelpful<br /><strong>6-:</strong> One answer is false</p><h3>🗣️ Talk Sense (Grace/Sense/Wisdom)</h3><p><strong>Trigger:</strong> Ask someone for help with conviction<br /><strong>Choose approach:</strong></p><ul><li><strong>Detail plan</strong> → +Sense</li><li><strong>Appeal to emotions</strong> → +Wisdom</li><li><strong>Impress/trick</strong> → +Grace</li></ul><p><strong>7+:</strong> They do as asked<br /><strong>9-:</strong> You owe them a favor<br /><strong>6-:</strong> Expensive favor OR they can't/won't help</p><hr /><h2>🤝 Bonds System</h2><h3>Creating Bonds</h3><ul><li><strong>Forge a Bond:</strong> Share meaningful experience, write one sentence</li><li><strong>Maximum:</strong> 3 Bonds per person</li><li><strong>Bond Examples:</strong> \"Saved my life in the goblin caves,\" \"Taught me their people's customs\"</li></ul><h3>Using Bonds</h3><ul><li><strong>Work together with Bonds:</strong> Roll with Hope (3d6, keep 2 highest)</li><li><strong>Pay prices:</strong> Bonded ally can pay price for you instead</li><li><strong>No Bonds:</strong> Roll with Despair when working together (3d6, keep 2 lowest)</li></ul><h3>Breaking Bonds</h3><ul><li><strong>Harm ally:</strong> Immediately erase one Bond</li><li><strong>Zero Bonds:</strong> Can't work together effectively</li></ul><hr /><h2>💔 Damage &amp; Health</h2><h3>Taking Damage</h3><ol><li>Choose a stat and mark it damaged</li><li><strong>Damaged stat:</strong> Roll with Despair when using it</li><li><strong>All stats damaged + more damage:</strong> You're <strong>Taken Out</strong></li></ol><h3>Being Taken Out</h3><ul><li>Describe what happens to you</li><li>Can't help for rest of scene</li><li>Can the fellowship save you? How?</li></ul><h3>Healing</h3><ul><li><strong>Fill Your Belly:</strong> Use Food between scenes to heal 1 damage</li><li><strong>Share a meal:</strong> One person heals +1 extra damage</li><li><strong>Recover:</strong> Spend week in safety, heal all damage, reset all Gear</li></ul><hr /><h2>🎒 Common Gear Tags</h2><h3>Weapon Tags</h3><ul><li><strong>Ammo X:</strong> Limited uses, specify when empty</li><li><strong>Melee/Ranged/Thrown:</strong> Attack ranges</li><li><strong>Reload:</strong> Can refill Ammo during Recover</li><li><strong>Slow:</strong> Can't Keep Them Busy or Get Away with this</li><li><strong>Clumsy:</strong> -1 to Keep Them Busy and Finish Them</li></ul><h3>Armor Tags</h3><ul><li><strong>Armor X:</strong> Absorb X damage before taking stat damage</li><li><strong>Tough:</strong> Ignore Slow and Clumsy tags from weapons</li></ul><h3>Item Tags</h3><ul><li><strong>Healing:</strong> Use to heal 1 damage</li><li><strong>Food:</strong> Can Fill Your Belly with this</li><li><strong>Drunk:</strong> Makes you roll with Despair until you Recover</li><li><strong>Use X:</strong> Limited uses, gone when empty</li></ul><hr /><h2>🎭 Quick Move Guide</h2><p><strong>Need info?</strong> → Look Closely / Speak Softly<br /><strong>Avoid danger?</strong> → Overcome (reactive) / Get Away (escape)<br /><strong>Buy time?</strong> → Keep Them Busy<br /><strong>Get help?</strong> → Talk Sense<br /><strong>End fight?</strong> → Finish Them (need Advantage!)</p><hr /><h2>📈 Advancement</h2><p><strong>Level Up when:</strong> Answer 3 End of Session questions</p><ul><li>Did we learn something important about the world?</li><li>Did we overcome a notable enemy or obstacle?</li><li>Did we save a community or place from a dire fate?</li></ul><p><strong>Choose from playbook advancement options</strong></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "JSvWyw8NYcFGMf4t": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pbta",
+        "systemVersion": "1.1.21",
+        "createdTime": 1754255858735,
+        "modifiedTime": 1754255867395,
+        "lastModifiedBy": "JSvWyw8NYcFGMf4t"
+      },
+      "_key": "!journal.pages!qDa235BaeaDNvHu4.ph9hIPWn74539jWb"
+    },
+    {
+      "sort": 200000,
+      "name": "Overlord Cheat Sheet",
+      "type": "text",
+      "_id": "1dBjGX9rNp7NChPg",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<h2>🎭 Your Role as Overlord</h2><p><strong>You are:</strong> The villain, the referee, and the world <strong>Your job:</strong> Keep it interesting, keep it flowing, make sure everyone has fun</p><hr /><h2>🎯 Overlord's Agenda</h2><ul><li><strong>Create Opportunities To Do Good</strong> - Give them people to save and a broken world to fix</li><li><strong>Play To Find Out What Happens</strong> - Don't plan beyond your current schemes, roll with developments</li></ul><hr /><h2>⚖️ Overlord's Principles</h2><ul><li>Create problems, not solutions</li><li>Address characters, not players</li><li>Never speak their names, only their people</li><li>Give everyone a turn in the Spotlight</li><li>Ask lots of questions and build on the answers</li><li>Be a fan of the characters</li><li>Think off-screen too</li><li>Look at your Foibles</li></ul><hr /><h2>📊 Overlord Stats (Different from Players!)</h2><p><strong>Your stats are truths about you while undamaged:</strong></p><p><strong>Examples:</strong></p><ul><li><strong>Invincible:</strong> Cannot be hurt</li><li><strong>Made Of Fire:</strong> Touch burns and scars</li><li><strong>Charming:</strong> No one believes you're evil</li><li><strong>Flight:</strong> Ground cannot hold you</li><li><strong>Terrifying:</strong> Where you go, no Hope</li><li><strong>Phantom:</strong> Pass through walls/attacks</li><li><strong>Rich:</strong> Can buy anyone/anything</li><li><strong>Warrior:</strong> Unbeatable in combat</li></ul><p><strong>Start with 3 stats of your choice</strong><br /><strong>Fellowship knows all your stats</strong> - they must counter each one</p><h3>Overlord Damage</h3><ul><li><strong>To damage you:</strong> They must pay a price for each undamaged stat first</li><li><strong>If destroyed:</strong> Damage a stat instead (no cost to attacker)</li><li><strong>All stats damaged + more damage:</strong> Finally defeated</li><li><strong>Sources of Power seized:</strong> They can erase one stat forever</li></ul><hr /><h2>⚔️ Overlord Basic Moves</h2><h3>💀 An Offer You Can't Refuse</h3><p><strong>Trigger:</strong> Player gets Taken Out in your presence<br />Give them an offer for services/possessions/life<br /><strong>If they accept:</strong> Fulfill deal, leave scene<br /><strong>If they refuse:</strong> They roll +Courage</p><ul><li><strong>10+:</strong> They spite you AND escape</li><li><strong>7-9:</strong> They spite you, then you punish them (may kill)</li><li><strong>6-:</strong> They must accept against their will</li></ul><h3>🎪 Chew The Scenery</h3><p><strong>When physically present:</strong> Keep Spotlight as long as you want<br /><strong>You and Generals:</strong> Never roll with Despair</p><h3>🔗 Forge a Bond (Overlord version)</h3><p><strong>When you cause great personal harm:</strong> Forge Bond with them<br /><strong>Your Bonds:</strong> Only erased by your Moves, unlimited number<br /><strong>When you reveal unexpected vulnerability:</strong> They may Bond with you (can't erase these)</p><h3>💔 Heart of Fire</h3><p><strong>When player has Bond with you:</strong> They can erase it for reprieve:</p><ul><li>You show mercy</li><li>Tell them something valuable</li><li>Ignore them temporarily</li></ul><h3>🛡️ Heart of Iron</h3><p><strong>When someone moves against you:</strong> Erase Bond with them to:</p><ul><li>Make them auto-fail roll</li><li>Steal Spotlight</li><li><p>Twist the Knife against them<br /><strong>Rest of fellowship can act freely while you focus on them</strong></p></li></ul><h3>🗡️ Twist the Knife</h3><p><strong>When speaking to someone you're Bonded with about shared history:</strong><br />Force them to relive pain. They choose:</p><ul><li>Pay a price</li><li>Stand down and get out of way</li><li><p>Attack you right now<br /><strong>No matter what:</strong> Make Hard Cut against them</p></li></ul><h3>🌍 Threat to the World</h3><p><strong>Anyone not also a Threat</strong> must pay price to take direct action against you</p><h3>⚡ Cut Them Real Bad</h3><p><strong>When physically present:</strong> Your Cuts can be as hard as you want</p><hr /><h2>🎬 The Cut System</h2><h3>Soft Cuts (Most Common)</h3><ul><li>Give fellowship chance to react</li><li>Ask \"What do you do?\" after describing threat</li><li>Use when players look to you for what happens next</li><li>Start every scene with Soft Cut</li></ul><h3>Hard Cuts (Consequences)</h3><ul><li>Already happened, no reaction possible</li><li>Use when player fails to stop Soft Cut</li><li>Use on any 6- roll as hard as you want</li><li>Follow through on threatened consequences</li></ul><hr /><h2>📋 Basic Cuts (Always Available)</h2><p><strong>Choose from:</strong></p><ul><li><strong>Deal damage</strong> to someone</li><li><strong>Put someone on the spot</strong> (\"While you're doing that...\")</li><li><strong>Separate them</strong> (collapse rooms, kidnap someone)</li><li><strong>Reveal unwelcome truth</strong> about world/situation</li><li><strong>Show signs of approaching threat</strong></li><li><strong>Take away something important</strong></li><li><strong>Make them pay</strong> for reckless behavior</li><li><strong>Advance your plans</strong> - your Master Plan moves forward</li></ul><hr /><h2>🧠 Master Plan System</h2><p><strong>You have 2-3 Master Plans active</strong><br /><strong>Each plan has steps</strong> leading to completion<br /><strong>When you Advance Plans:</strong> Move one step forward<br /><strong>When plan completes:</strong> Gain major advantage, start new plan</p><hr /><h2>😈 Overlord Foibles (Your Weaknesses)</h2><p><strong>You are arrogant:</strong> Every setback is minor, you cannot lose<br /><strong>You have a Master Plan:</strong> You cannot directly act against fellowship until Plan advances far enough<br /><strong>You have a Weakness:</strong> Something the fellowship can exploit to hurt you</p><hr /><h2>🎲 Managing NPCs &amp; Threats</h2><h3>Generals</h3><ul><li>Your most powerful lieutenants</li><li>Have their own stats and moves</li><li>Can act independently</li><li>You can recruit more by leveling up</li></ul><h3>Regular Threats</h3><ul><li>Use their listed moves when appropriate</li><li>Combine multiple threats for complex scenes</li><li>Remember their specific abilities and limitations</li></ul><hr /><h2>🎯 Spotlight Management</h2><p><strong>Swing spotlight to:</strong></p><ul><li>Whoever has an idea</li><li>Someone in immediate danger</li><li>Player who hasn't acted recently</li><li>Character whose skills are needed now</li></ul><p><strong>Keep spotlight moving</strong> - don't let one player dominate</p><hr /><h2>💡 Quick Scene Flow</h2><ol><li><strong>Set the Scene</strong> - Describe location, situation</li><li><strong>Set the Stakes</strong> - What's the problem/danger?</li><li><strong>Swing Spotlight</strong> - Who acts first?</li><li><strong>React to Moves</strong> - Make Cuts when appropriate</li><li><strong>Keep It Moving</strong> - Always ask \"What do you do?\"</li></ol><hr /><h2>🔄 Session Structure</h2><ul><li><strong>Start:</strong> Set scene, establish stakes</li><li><strong>During:</strong> Swing spotlight, react to moves, advance plans</li><li><p><strong>End:</strong> Check if fellowship answers three questions:</p><ul><li>Learn something important about world?</li><li>Overcome notable enemy/obstacle?</li><li>Save community from dire fate?</li></ul></li></ul><p><strong>If yes to all three:</strong> Fellowship levels up</p><hr /><h2>⚠️ Common Pitfalls to Avoid</h2><ul><li>Don't make plans beyond current scene</li><li>Don't kill fellowship without giving them chances</li><li>Don't ignore your Foibles - use them!</li><li>Don't forget to advance your plans</li><li>Don't let one player hog spotlight</li><li>Remember: You want them to eventually win, but not easily</li></ul>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "JSvWyw8NYcFGMf4t": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.346",
+        "systemId": "pbta",
+        "systemVersion": "1.1.21",
+        "createdTime": 1754255901401,
+        "modifiedTime": 1754255919631,
+        "lastModifiedBy": "JSvWyw8NYcFGMf4t"
+      },
+      "_key": "!journal.pages!qDa235BaeaDNvHu4.1dBjGX9rNp7NChPg"
+    }
+  ],
+  "folder": null,
+  "categories": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "JSvWyw8NYcFGMf4t": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.346",
+    "systemId": "pbta",
+    "systemVersion": "1.1.21",
+    "createdTime": 1754255815309,
+    "modifiedTime": 1754255890735,
+    "lastModifiedBy": "JSvWyw8NYcFGMf4t"
+  },
+  "_key": "!journal!qDa235BaeaDNvHu4"
+}
