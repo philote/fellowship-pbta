@@ -74,46 +74,8 @@
 		</section>
 
 		<section class="sheet-bottom flexrow">
+			{{#if (not limited)}}
 			<section class="sheet-main flexcol cell--f-item">
-				{{!-- <div class="companion">
-					<h2 class="cell__title">
-						<label class="item-group-label">{{localize
-								"FELLOWSHIP.NPCSheets.attr.companion"
-							}}</label>
-						<div class="item-controls">
-							<input
-								type="checkbox"
-								name="system.attributes.isCompanion.value"
-								{{checked system.attributes.isCompanion.value}}
-							/>
-						</div>
-					</h2>
-					{{#if system.attributes.isCompanion.value}}
-					<div class="flexrow">
-						<h3>
-							<label>
-								<input
-									type="checkbox"
-									name="system.attributes.isInDespair.value"
-									{{checked system.attributes.isInDespair.value}}
-								/>
-								{{localize "FELLOWSHIP.NPCSheets.attr.isInDespair"}}
-							</label>
-						</h3>
-						<h3>
-							<label class="flexrow bond">
-								<input
-									type="text"
-									name="system.attributes.bonds.value"
-									value="{{system.attributes.bonds.value}}"
-									data-dtype="Number"
-								/>
-								{{localize "FELLOWSHIP.NPCSheets.attr.bonds"}}
-							</label>
-						</h3>
-					</div>
-					{{/if}}
-				</div> --}}
 				<h2 class="cell__title">
 					<label class="item-group-label">{{localize
 							"FELLOWSHIP.NPCSheets.attr.stats"
@@ -178,6 +140,7 @@
 					</div>
 				{{/each}}
 			</section>
+			{{/if}}
 		</section>
 	</div>
 </form>

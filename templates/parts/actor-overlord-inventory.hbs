@@ -14,6 +14,7 @@
 			</select>
 			<span>{{actor.currentArmyDetail}}</span>
 		</div>
+		{{#if (not limited)}}
 		<div class="column">
 			<label class="cell__title">{{localize "FELLOWSHIP.OverlordSheet.attr.generals.label"}}</label>
 			<span>{{localize "FELLOWSHIP.OverlordSheet.attr.generals.description"}}</span>
@@ -27,6 +28,7 @@
 				collaborate=false
 			}}
 		</div>
+		{{/if}}
 	</div>
 
 	{{#each equipment as |equipmentGroup equipmentKey|}}

@@ -105,7 +105,9 @@
 			<section class="sheet-main flexcol">
 				{{!-- Sheet Tab Navigation --}}
 				<nav class="sheet-tabs tabs" data-group="primary">
-					<a class="item" data-tab="description">{{localize "FELLOWSHIP.OverlordSheet.tabs.info"}}</a>
+					{{#if (not limited)}}
+						<a class="item" data-tab="description">{{localize "FELLOWSHIP.OverlordSheet.tabs.info"}}</a>
+					{{/if}}
 					<a class="item" data-tab="moves">{{localize "PBTA.Moves"}}</a>
 					<a class="item" data-tab="equipment">{{localize "FELLOWSHIP.OverlordSheet.tabs.eq-army"}}</a>
 					<a class='item' data-tab='advancements'>{{localize 'FELLOWSHIP.OverlordSheet.tabs.adv-bonds'}}</a>
@@ -113,8 +115,10 @@
 
 				{{!-- Sheet Body --}}
 				<section class="sheet-body">
-					{{!-- Main Tab --}}
-					{{> "modules/fellowship-pbta/templates/parts/actor-overlord-description.hbs" }}
+					{{#if (not limited)}}
+						{{!-- Main Tab --}}
+						{{> "modules/fellowship-pbta/templates/parts/actor-overlord-description.hbs" }}
+					{{/if}}
 
 					{{!-- Moves Tab --}}
 					{{> "pbta.actor-movelist" }}
