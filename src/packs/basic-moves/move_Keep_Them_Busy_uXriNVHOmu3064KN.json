@@ -4,7 +4,7 @@
   "_id": "uXriNVHOmu3064KN",
   "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
-    "description": "<p><strong>When you act as a distraction or buy some time,</strong> tell us how and roll +Courage.</p><p>If you <em>Keep Them Busy </em>using a weapon with Ammo, use 1 Ammo. If you have no Ammo, you cannot <em>Keep Them Busy </em>with that weapon. If you have the Clumsy tag, you take -1 to <em>Keep Them Busy.</em></p><p></p>",
+    "description": "<p><strong>When you act as a distraction or buy some time,</strong> tell us how and roll +Courage.</p><p><strong>If you <em>Keep Them Busy</em> using a weapon with Ammo,</strong> use 1 Ammo. <strong>If you have no Ammo,</strong> you cannot <em>Keep Them Busy </em>with that weapon. <strong>If you have the Clumsy tag,</strong> you take -1 to <em>Keep Them Busy.</em></p>",
     "moveType": "basic",
     "rollFormula": "",
     "moveResults": {
@@ -21,7 +21,7 @@
       "success": {
         "key": "system.moveResults.success.value",
         "label": "Success!",
-        "value": "<p>You buy some time, and their attention is all on you, for now.</p><p>They will retaliate against you when time is up.</p>"
+        "value": "<p>You buy some time, and their attention is all on you, for now.</p>"
       }
     },
     "uses": 0,

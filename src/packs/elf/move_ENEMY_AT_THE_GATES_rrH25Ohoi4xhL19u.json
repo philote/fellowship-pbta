@@ -22,7 +22,7 @@
       "success": {
         "key": "system.moveResults.success.value",
         "label": "Success!",
-        "value": "<p>You remain hidden.</p><p></p><p><strong>If you </strong><em><strong>Finish Them </strong></em><strong>by...</strong></p><p><strong>...trying to kill them,</strong> They die by your hand.</p><p><strong>...forcing them to retreat,</strong> They back off. They won't be back anytime soon.</p><p><strong>...outsmarting, terrifying, or overwhelming them,</strong> They admit defeat, and will not willingly challenge you again.</p><p><strong>...disabling them or knocking them out,</strong> They are physically incapacitated and unable to continue.</p>"
+        "value": "<p>You remain hidden.</p><p><strong>If you </strong><em><strong>Finish Them </strong></em><strong>by...</strong></p><p><strong>...trying to kill them,</strong> They die by your hand.</p><p><strong>...forcing them to retreat,</strong> They back off. They won't be back anytime soon.</p><p><strong>...outsmarting, terrifying, or overwhelming them,</strong> They admit defeat, and will not willingly challenge you again.</p><p><strong>...disabling them or knocking them out,</strong> They are physically incapacitated and unable to continue.</p>"
       }
     },
     "uses": 0,
