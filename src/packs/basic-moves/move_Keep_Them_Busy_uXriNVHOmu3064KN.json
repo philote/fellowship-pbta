@@ -4,7 +4,7 @@
   "_id": "uXriNVHOmu3064KN",
   "img": "modules/fellowship-pbta/assets/icons/aura.svg",
   "system": {
-    "description": "<p><strong>When you act as a distraction or buy some time,</strong> tell us how and roll +Courage.</p><p><strong>If you <em>Keep Them Busy</em> using a weapon with Ammo,</strong> use 1 Ammo. <strong>If you have no Ammo,</strong> you cannot <em>Keep Them Busy </em>with that weapon. <strong>If you have the Clumsy tag,</strong> you take -1 to <em>Keep Them Busy.</em></p>",
+    "description": "<p><strong>When you act as a distraction or buy some time,</strong> tell us how and roll +Courage.</p><p><strong>If you </strong><em><strong>@UUID[Compendium.fellowship-pbta.basic-moves.Item.uXriNVHOmu3064KN]{Keep Them Busy}</strong></em><strong> using a weapon with Ammo,</strong> use 1 Ammo. <strong>If you have no Ammo,</strong> you cannot <em>Keep Them Busy </em>with that weapon. <strong>If you have the Clumsy tag,</strong> you take -1 to <em>@UUID[Compendium.fellowship-pbta.basic-moves.Item.uXriNVHOmu3064KN]{Keep Them Busy}.</em></p>",
     "moveType": "basic",
     "rollFormula": "",
     "moveResults": {
@@ -45,7 +45,7 @@
     "systemId": "pbta",
     "systemVersion": "1.1.21",
     "createdTime": 1736308323411,
-    "modifiedTime": 1753129499400,
+    "modifiedTime": 1755634126377,
     "lastModifiedBy": "JSvWyw8NYcFGMf4t",
     "exportSource": null
   },
