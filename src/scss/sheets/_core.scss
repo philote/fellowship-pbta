@@ -231,7 +231,7 @@
                     gap: 10px;
 
                     input[type="text"] {
-                        max-width: 30px;   
+                        max-width: 30px;
                     }
                 }
 
@@ -269,7 +269,7 @@
                         gap: 4px;
                         align-items: center;
                         justify-content: space-between;
-                
+
                         h2 {
                             flex: 0 1 auto;
                         }
@@ -277,9 +277,25 @@
                         .item-name {
                             margin: 0;
                         }
-                
+
                         label {
                             align-self: self-start;
+                        }
+                    }
+
+                    .companion-stats {
+                        flex-wrap: wrap;
+                        gap: 10px;
+
+                        label.checkbox {
+                            flex: 1 1 auto;
+                            max-width: 48%;
+                            min-width: 0;
+                            white-space: normal;
+                            word-wrap: break-word;
+                            overflow-wrap: break-word;
+                            height: auto;
+                            line-height: normal;
                         }
                     }
                 }

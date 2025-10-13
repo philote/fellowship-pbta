@@ -248,6 +248,20 @@
 .pbta.sheet.npc .cell--f-item .items-list .item .flexrow label, .pbta.sheet.character .cell--f-item .items-list .item .flexrow label {
   align-self: self-start;
 }
+.pbta.sheet.npc .cell--f-item .items-list .item .companion-stats, .pbta.sheet.character .cell--f-item .items-list .item .companion-stats {
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.pbta.sheet.npc .cell--f-item .items-list .item .companion-stats label.checkbox, .pbta.sheet.character .cell--f-item .items-list .item .companion-stats label.checkbox {
+  flex: 1 1 auto;
+  max-width: 48%;
+  min-width: 0;
+  white-space: normal;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  height: auto;
+  line-height: normal;
+}
 .pbta.sheet.npc .sheet-bottom .cell--attributes-left .cell--attr-lookOne input,
 .pbta.sheet.npc .sheet-bottom .cell--attributes-left .cell--attr-lookTwo input,
 .pbta.sheet.npc .sheet-bottom .cell--attributes-left .cell--attr-lookThree input,
