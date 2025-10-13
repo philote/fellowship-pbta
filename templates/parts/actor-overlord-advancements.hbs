@@ -9,7 +9,10 @@
 			{{{localize "FELLOWSHIP.OverlordSheet.attr.level.advancement"}}}
 		</div>
 		<div class="column">
-			<span class="cell__title">{{localize "FELLOWSHIP.OverlordSheet.attr.bonds.label"}}</span>
+			{{!-- Bonds --}}
+			{{> "modules/fellowship-pbta/templates/parts/actor-bonds.hbs" }}
+
+			<span>{{localize "FELLOWSHIP.OverlordSheet.attr.bonds.label"}}</span>
 			<p>{{localize "FELLOWSHIP.OverlordSheet.attr.bonds.description"}}</p>
 			{{editor
 				system.attrTop.bonds.enriched

@@ -5,11 +5,6 @@
  * @returns {OverlordSheet} the OverlordSheet class that need extending
  */
 export function OverlordSheetMixin(Base) {
-	/**
-	 * Extend the basic PbtaActorSheet with some very simple modifications
-	 *
-	 * @param {game.pbta.applications.actor.PbtaActorNpcSheet} Base
-	 */
 	return class OverlordSheet extends Base {
 		/** @override */
 		static get defaultOptions() {
@@ -39,8 +34,13 @@ export function OverlordSheetMixin(Base) {
 			context.actor.stats = context.actor.items.filter(
 				(i) => i.type === "fellowship-pbta.stat"
 			);
+			// Prepare Plan Items
 			context.actor.plans = context.actor.items.filter(
 				(i) => i.type === "fellowship-pbta.plan"
+			);
+			// Prepare Bond Items
+			context.actor.bonds = context.actor.items.filter(
+				(i) => i.type === "fellowship-pbta.bond"
 			);
 			// Enrich Stat text fields.
 			for (let item of context.actor.stats) {
@@ -169,8 +169,7 @@ export function OverlordSheetMixin(Base) {
 			context.actor.currentArmyDetail = "";
 			if (context.actor.system.attributes.army.value) {
 				const currentArmy = context.actor.armyOptions.find(
-					(army) =>
-						army.key === context.actor.system.attributes.army.value
+					(army) => army.key === context.actor.system.attributes.army.value
 				);
 
 				context.actor.currentArmyDetail = currentArmy.description ?? "";
@@ -186,6 +185,23 @@ export function OverlordSheetMixin(Base) {
 			html.find(".open-journal").on("click", this._openJournal.bind(this));
 			html.find(".add-secret").on("click", this._onAddSecret.bind(this));
 			html.find(".plan-update").on("click", this._onPlanUpdate.bind(this));
+			// Bonds
+			html.find(".bond-update").on("click", this._onBondUpdate.bind(this));
+		}
+
+		async _onBondUpdate(event) {
+			event.preventDefault();
+			const itemId = $(event.currentTarget).parents(".item").attr("data-item-id");
+			const bondKey = event.target.dataset.key;
+			const action = event.target.dataset.action;
+			const item = this.actor.items.get(itemId);
+
+			switch (action) {
+				case "used": {
+					// await item.update({ 'system.inDespair': !item.system.inDespair });
+					break;
+				}
+			}
 		}
 
 		async _onAddSecret(event) {
